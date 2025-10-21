@@ -1,0 +1,57 @@
+---
+weight: 28
+---
+
+# Chapter 28
+
+<sup>1</sup> Now in those days the Philistines got their forces together to make war on Israel. And Achish said to David, Certainly you and your men are to go out with me to the fight. 
+
+<sup>2</sup> And David said to Achish, You will see now what your servant will do. And Achish said to David, Then I will make you keeper of my head for ever. 
+
+<sup>3</sup> Now Samuel was dead, and all Israel, after weeping for him, had put his body in its last resting-place in Ramah, his town. And Saul had put away from the land all those who had control of spirits and who made use of secret arts. 
+
+<sup>4</sup> And the Philistines came together and put their forces in position in Shunem; and Saul got all Israel together and they took up their positions in Gilboa. 
+
+<sup>5</sup> And when Saul saw the Philistine army he was troubled, and his heart was moved with fear. 
+
+<sup>6</sup> And when Saul went for directions to the Lord, the Lord gave him no answer, by a dream or by the Urim or by the prophets. 
+
+<sup>7</sup> Then Saul said to his servants, Get me a woman who has control of a spirit so that I may go to her and get directions. And his servants said to him, There is such a woman at En-dor. 
+
+<sup>8</sup> So Saul, putting on other clothing, so that he might not be seen to be the king, took two men with him and went to the woman by night; and he said, Now, with the help of the spirit which you have, make the person whose name I will give you come up. 
+
+<sup>9</sup> And the woman said to him, But you have knowledge of what Saul has done, how he has put away out of the land those who have control of spirits and the users of secret arts: why would you, by a trick, put me in danger of death? 
+
+<sup>10</sup> And Saul made an oath to her by the Lord, saying, By the living Lord, no punishment will come to you for this. 
+
+<sup>11</sup> Then the woman said, Who am I to let you see? And he said, Make Samuel come up for me. 
+
+<sup>12</sup> And the woman saw that it was Saul, and she gave a loud cry, and said to Saul, Why have you made use of deceit? for you are Saul. 
+
+<sup>13</sup> And the king said to her, Have no fear: what do you see? And the woman said to Saul, I see a god coming up out of the earth. 
+
+<sup>14</sup> And he said to her, What is his form? And she said, It is an old man coming up covered with a robe. And Saul saw that it was Samuel, and with his face bent down to the earth he gave him honour. 
+
+<sup>15</sup> And Samuel said to Saul, Why have you made me come up, troubling my rest? And Saul in answer said, I am in great danger; for the Philistines are making war on me, and God has gone away from me and will no longer give me any answer, by the prophets or by dreams: so I have sent for you to make clear to me what I am to do. 
+
+<sup>16</sup> And Samuel said, Why do you put your questions to me, seeing that God has gone away from you and is on the side of him who is against you? 
+
+<sup>17</sup> And the Lord himself has done what I said: the Lord has taken the kingdom out of your hand and given it to your neighbour David; 
+
+<sup>18</sup> Because you did not do what the Lord said, and did not give effect to his burning wrath against Amalek. So the Lord has done this thing to you today. 
+
+<sup>19</sup> And more than this, the Lord will give Israel up with you into the hands of the Philistines: and tomorrow you and your sons will be with me: and the Lord will give up the army of Israel into the hands of the Philistines. 
+
+<sup>20</sup> Then Saul went down flat on the earth, and was full of fear because of Samuel's words: and there was no strength in him, for he had taken no food all that day or all that night. 
+
+<sup>21</sup> And the woman came to Saul and saw that he was in great trouble, and said to him, See now, your servant has given ear to your words, and I have put my life in danger by doing what you said. 
+
+<sup>22</sup> So now, give ear to the voice of your servant, and let me give you a little bread; and take some food to give you strength when you go on your way. 
+
+<sup>23</sup> But he would not, saying, I have no desire for food. But his servants, together with the woman, made him take food, and he gave way to them. So he got up from the earth, and took his seat on the bed. 
+
+<sup>24</sup> And the woman had in the house a young cow, made fat for food; and she put it to death straight away; and she took meal and got it mixed and made unleavened bread; 
+
+<sup>25</sup> And she put it before Saul and his servants, and they had a meal. Then they got up and went away the same night. 
+
+

@@ -1,0 +1,47 @@
+---
+weight: 42
+---
+
+# Chapter 42
+
+<sup>1</sup> And he took me out into the inner square in the direction of the north: and he took me into the rooms which were opposite the separate place and opposite the building to the north. 
+
+<sup>2</sup> On the north side it was a hundred cubits long and fifty cubits wide, 
+
+<sup>3</sup> Opposite the space of twenty cubits which was part of the inner square, and opposite the stone floor of the outer square. There were covered ways facing one another on the third floor. 
+
+<sup>4</sup> And in front of the rooms was a walk, ten cubits wide and a hundred cubits long; and their doors were facing north. 
+
+<sup>5</sup> And the higher rooms were shorter: for the covered ways took up more space from these than from the lower and middle rooms. 
+
+<sup>6</sup> For they were on three floors, and they had no pillars like the pillars of the outer square; so the highest was narrower than the lowest and middle floors from the earth level. 
+
+<sup>7</sup> And the wall which went outside by the side of the rooms, in the direction of the outer square in front of the rooms, was fifty cubits long. 
+
+<sup>8</sup> For the rooms in the outer square were fifty cubits long: and in front of the Temple was a space of a hundred cubits. 
+
+<sup>9</sup> And under these rooms was the way in from the east side, as one goes into them from the outer square at the head of the outer wall. 
+
+<sup>10</sup> (And he took me) to the south, and in front of the separate place and in front of the building there were rooms. 
+
+<sup>11</sup> And there was a walk in front of them like that by the rooms on the north; they were equally long and wide; and the ways out of them were the same in design and had the same sort of doors. 
+
+<sup>12</sup> And under the rooms on the south was a door at the head of the outer wall in the direction of the east as one goes in. 
+
+<sup>13</sup> And he said to me, The north rooms and the south rooms in front of the separate place are the holy rooms, where the priests who come near the Lord take the most holy things for their food: there the most holy things are placed, with the meal offering and the sin-offering and the offering for error; for the place is holy. 
+
+<sup>14</sup> When the priests go in, they may not go out of the holy place into the outer square, and there they are to put the robes in which they do the work of the Lord's house, for they are holy: and they have to put on other clothing before they come near that which has to do with the people. 
+
+<sup>15</sup> And when he had come to the end of measuring the inner house, he took me out to the doorway looking to the east, and took its measure all round. 
+
+<sup>16</sup> He went round and took the measure of it on the east side with the measuring rod, five hundred, measured with the rod all round. 
+
+<sup>17</sup> And he went round and took the measure of it on the north side with the measuring rod, five hundred, measured with the rod all round. 
+
+<sup>18</sup> And he went round and took the measure of it on the south side with the measuring rod, five hundred, measured with the rod all round. 
+
+<sup>19</sup> And he went round and took the measure of it on the west side with the measuring rod, five hundred, measured with the rod all round. 
+
+<sup>20</sup> He took its measure on the four sides: and it had a wall all round, five hundred long and five hundred wide, separating what was holy from what was common. 
+
+

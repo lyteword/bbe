@@ -36,8 +36,6 @@ weight: 23
 
 <sup>16</sup> And so I will give him punishment and let him go.
 
-<sup>17</sup> []
-
 <sup>18</sup> But with loud voices they said all together, Put this man to death, and make Barabbas free.
 
 <sup>19</sup> Now this man was in prison because of an attack against the government in the town, in which there had been loss of life.

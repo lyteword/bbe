@@ -58,8 +58,6 @@ weight: 15
 
 <sup>27</sup> And they put two thieves on crosses with him, one on his right side, and one on his left.
 
-<sup>28</sup> []
-
 <sup>29</sup> And those who went by made sport of him, shaking their heads, and saying, Ha! you who give the Temple to destruction, and put it up again in three days,
 
 <sup>30</sup> Keep yourself from death, and come down from the cross.

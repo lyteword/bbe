@@ -54,8 +54,6 @@ weight: 11
 
 <sup>25</sup> And whenever you make a prayer, let there be forgiveness in your hearts, if you have anything against anyone; so that you may have forgiveness for your sins from your Father who is in heaven.
 
-<sup>26</sup> []
-
 <sup>27</sup> And they came again to Jerusalem: and while he was walking in the Temple, there came to him the chief priests and the scribes and those in authority:
 
 <sup>28</sup> And they said to him, By what authority do you do these things? or who gave you authority to do these things?

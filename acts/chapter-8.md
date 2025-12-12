@@ -76,8 +76,6 @@ weight: 8
 
 <sup>36</sup> And while they were going on their way, they came to some water, and the Ethiopian said, See, here is water; why may I not have baptism?
 
-<sup>37</sup> []
-
 <sup>38</sup> And he gave orders for the carriage to be stopped, and the two of them went down into the water, and Philip gave him baptism.
 
 <sup>39</sup> And when they came up out of the water, the Spirit of the Lord took Philip away; and the Ethiopian saw him no more, for he went on his way full of joy.

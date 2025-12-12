@@ -50,8 +50,6 @@ weight: 16
 
 <sup>23</sup> Gaius, with whom I am living, whose house is open to all the church, sends his love, so does Erastus, the manager of the accounts of the town, and Quartus, the brother.
 
-<sup>24</sup> []
-
 <sup>25</sup> Now to him who is able to make you strong in agreement with the good news which I gave you and the preaching of Jesus Christ, in the light of the revelation of that secret which has been kept through times eternal,
 
 <sup>26</sup> But is now made clear; and by the writings of the prophets, by the order of the eternal God, the knowledge of it has been given to all the nations, so that they may come under the rule of the faith;

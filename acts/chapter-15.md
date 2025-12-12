@@ -70,8 +70,6 @@ weight: 15
 
 <sup>33</sup> And when they had been there for some time, they were sent back in peace by the brothers to those who had sent them.
 
-<sup>34</sup> []
-
 <sup>35</sup> But Paul and Barnabas kept on in Antioch, teaching and preaching the word of God, with a number of others.
 
 <sup>36</sup> And after some days, Paul said to Barnabas, Let us go back and see the brothers in every town where we have given the word of God, and see how they are.

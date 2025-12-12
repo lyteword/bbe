@@ -74,6 +74,4 @@ weight: 17
 
 <sup>35</sup> Two women will be crushing grain together; one will be taken away and the other let go.
 
-<sup>36</sup> []
-
 <sup>37</sup> And they, answering him, said, Where, Lord? And he said to them, Where the body is, there will the eagles come together.

@@ -16,8 +16,6 @@ weight: 24
 
 <sup>6</sup> Who, in addition, was attempting to make the Temple unclean: whom we took,
 
-<sup>7</sup> []
-
 <sup>8</sup> And from whom you will be able, by questioning him yourself, to get knowledge of all the things which we say against him.
 
 <sup>9</sup> And the Jews were in agreement with his statement, saying that these things were so.

@@ -24,8 +24,6 @@ weight: 18
 
 <sup>10</sup> Let it not seem to you that one of these little ones is of no value; for I say to you that in heaven their angels see at all times the face of my Father in heaven.
 
-<sup>11</sup> []
-
 <sup>12</sup> What would you say now? if a man has a hundred sheep, and one of them has gone wandering away, will he not let the ninety-nine be, and go to the mountains in search of the wandering one?
 
 <sup>13</sup> And if he comes across it, truly I say to you, he has more joy over it than over the ninety-nine which have not gone out of the way.

@@ -10,8 +10,6 @@ weight: 5
 
 <sup>3</sup> In these doorways there were a great number of people with different diseases: some unable to see, some without the power of walking, some with wasted bodies.
 
-<sup>4</sup> []
-
 <sup>5</sup> One man was there who had been ill for thirty-eight years.
 
 <sup>6</sup> When Jesus saw him there on the floor it was clear to him that he had been now a long time in that condition, and so he said to the man, Is it your desire to get well?

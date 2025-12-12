@@ -60,8 +60,6 @@ weight: 28
 
 <sup>28</sup> Be certain, then, that the salvation of God is sent to the Gentiles, and they will give hearing.
 
-<sup>29</sup> []
-
 <sup>30</sup> And for the space of two years, Paul was living in the house of which he had the use, and had talk with all those who went in to see him,
 
 <sup>31</sup> Preaching the kingdom of God and teaching about the Lord Jesus Christ without fear, and no orders were given that he was not to do so.

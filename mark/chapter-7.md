@@ -34,8 +34,6 @@ weight: 7
 
 <sup>15</sup> There is nothing outside the man which, going into him, is able to make him unclean: but the things which come out of the man are those which make the man unclean.
 
-<sup>16</sup> []
-
 <sup>17</sup> And when he had gone into the house away from all the people, his disciples put questions to him about the saying.
 
 <sup>18</sup> And he said to them, Have even you so little wisdom? Do you not see that whatever goes into a man from outside is not able to make him unclean,

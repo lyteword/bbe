@@ -90,11 +90,7 @@ weight: 9
 
 <sup>43</sup> And if your hand is a cause of trouble to you, let it be cut off; it is better for you to go into life with one hand than to have two hands and go into hell, into the eternal fire.
 
-<sup>44</sup> []
-
 <sup>45</sup> And if your foot is a cause of trouble to you, let it be cut off: it is better for you to go into life with one foot than to have two feet and go into hell.
-
-<sup>46</sup> []
 
 <sup>47</sup> And if your eye is a cause of trouble to you, take it out: it is better for you to go into the kingdom of God with one eye than, having two eyes, to go into hell,
 

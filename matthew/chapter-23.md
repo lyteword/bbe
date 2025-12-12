@@ -30,8 +30,6 @@ weight: 23
 
 <sup>13</sup> But a curse is on you, scribes and Pharisees, false ones! because you are shutting the kingdom of heaven against men: for you do not go in yourselves, and those who are going in, you keep back.
 
-<sup>14</sup> []
-
 <sup>15</sup> A curse is on you, scribes and Pharisees, false ones! for you go about land and sea to get one disciple and, having him, you make him twice as much a son of hell as yourselves.
 
 <sup>16</sup> A curse is on you, blind guides, who say, Whoever takes an oath by the Temple, it is nothing; but whoever takes an oath by the gold of the Temple, he is responsible.

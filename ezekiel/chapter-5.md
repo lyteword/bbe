@@ -4,38 +4,36 @@ weight: 5
 
 # Chapter 5
 
-<sup>1</sup> And you, son of man, take a sharp sword, using it like a haircutter's blade, and making it go over your head and the hair of your chin: and take scales for separating the hair by weight. 
+<sup>1</sup> And you, son of man, take a sharp sword, using it like a haircutter's blade, and making it go over your head and the hair of your chin: and take scales for separating the hair by weight.
 
-<sup>2</sup> You are to have a third part burned with fire inside the town, when the days of the attack are ended; and a third part you are to take and give blows with the sword round about it; and give a third part for the wind to take away, and let loose a sword after them. 
+<sup>2</sup> You are to have a third part burned with fire inside the town, when the days of the attack are ended; and a third part you are to take and give blows with the sword round about it; and give a third part for the wind to take away, and let loose a sword after them.
 
-<sup>3</sup> And take from them a small number of hairs, folding them in your skirts. 
+<sup>3</sup> And take from them a small number of hairs, folding them in your skirts.
 
-<sup>4</sup> And again take some of these and put them in the fire, burning them up in the fire; and say to all the children of Israel, 
+<sup>4</sup> And again take some of these and put them in the fire, burning them up in the fire; and say to all the children of Israel,
 
-<sup>5</sup> This is what the Lord has said: This is Jerusalem: I have put her among the nations, and countries are round her on every side; 
+<sup>5</sup> This is what the Lord has said: This is Jerusalem: I have put her among the nations, and countries are round her on every side;
 
-<sup>6</sup> And she has gone against my orders by doing evil more than the nations, and against my rules more than the countries round her: for they have given up my orders, and as for my rules, they have not gone in the way of them. 
+<sup>6</sup> And she has gone against my orders by doing evil more than the nations, and against my rules more than the countries round her: for they have given up my orders, and as for my rules, they have not gone in the way of them.
 
-<sup>7</sup> For this cause the Lord has said: Because you have been more uncontrolled than the nations round about you, and have not been guided by my rules or kept my orders, but have kept the orders of the nations round about you; 
+<sup>7</sup> For this cause the Lord has said: Because you have been more uncontrolled than the nations round about you, and have not been guided by my rules or kept my orders, but have kept the orders of the nations round about you;
 
-<sup>8</sup> For this cause the Lord has said: See, I, even I, am against you; and I will be judging among you before the eyes of the nations. 
+<sup>8</sup> For this cause the Lord has said: See, I, even I, am against you; and I will be judging among you before the eyes of the nations.
 
-<sup>9</sup> And I will do in you what I have not done and will not do again, because of all your disgusting ways. 
+<sup>9</sup> And I will do in you what I have not done and will not do again, because of all your disgusting ways.
 
-<sup>10</sup> For this cause fathers will take their sons for food among you, and sons will make a meal of their fathers; and I will be judge among you, and all the rest of you I will send away to every wind. 
+<sup>10</sup> For this cause fathers will take their sons for food among you, and sons will make a meal of their fathers; and I will be judge among you, and all the rest of you I will send away to every wind.
 
-<sup>11</sup> For this cause, by my life, says the Lord, because you have made my holy place unclean with all your hated things and all your disgusting ways, you will become disgusting to me; my eye will have no mercy and I will have no pity. 
+<sup>11</sup> For this cause, by my life, says the Lord, because you have made my holy place unclean with all your hated things and all your disgusting ways, you will become disgusting to me; my eye will have no mercy and I will have no pity.
 
-<sup>12</sup> A third of you will come to death from disease, wasting away among you through need of food; a third will be put to the sword round about you; and a third I will send away to every wind, letting loose a sword after them. 
+<sup>12</sup> A third of you will come to death from disease, wasting away among you through need of food; a third will be put to the sword round about you; and a third I will send away to every wind, letting loose a sword after them.
 
-<sup>13</sup> So my wrath will be complete and my passion will come to rest on them; and they will be certain that I the Lord have given the word of decision, when my wrath against them is complete. 
+<sup>13</sup> So my wrath will be complete and my passion will come to rest on them; and they will be certain that I the Lord have given the word of decision, when my wrath against them is complete.
 
-<sup>14</sup> And I will make you a waste and a name of shame among the nations round about you, in the eyes of everyone who goes by. 
+<sup>14</sup> And I will make you a waste and a name of shame among the nations round about you, in the eyes of everyone who goes by.
 
-<sup>15</sup> And you will be a name of shame and a cause of bitter words, an example and a wonder to the nations round about you, when I give effect to my judging among you in wrath and in passion and in burning protests: I the Lord have said it: 
+<sup>15</sup> And you will be a name of shame and a cause of bitter words, an example and a wonder to the nations round about you, when I give effect to my judging among you in wrath and in passion and in burning protests: I the Lord have said it:
 
-<sup>16</sup> When I send on you the evil arrows of disease, causing destruction, which I will send to put an end to you; and, further, I will take away your necessary food. 
+<sup>16</sup> When I send on you the evil arrows of disease, causing destruction, which I will send to put an end to you; and, further, I will take away your necessary food.
 
-<sup>17</sup> And I will send on you need of food and evil beasts, and they will be a cause of loss to you; and disease and violent death will go through you; and I will send the sword on you: I the Lord have said it. 
-
-
+<sup>17</sup> And I will send on you need of food and evil beasts, and they will be a cause of loss to you; and disease and violent death will go through you; and I will send the sword on you: I the Lord have said it.

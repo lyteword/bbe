@@ -4,34 +4,32 @@ weight: 1
 
 # Chapter 1
 
-<sup>1</sup> The word about Nineveh. The book of the vision of Nahum the Elkoshite. 
+<sup>1</sup> The word about Nineveh. The book of the vision of Nahum the Elkoshite.
 
-<sup>2</sup> The Lord is a God who takes care of his honour and gives punishment for wrong; the Lord gives punishment and is angry; the Lord sends punishment on those who are against him, being angry with his haters. 
+<sup>2</sup> The Lord is a God who takes care of his honour and gives punishment for wrong; the Lord gives punishment and is angry; the Lord sends punishment on those who are against him, being angry with his haters.
 
-<sup>3</sup> The Lord is slow to get angry and great in power, and will not let the sinner go without punishment: the way of the Lord is in the wind and the storm, and the clouds are the dust of his feet. 
+<sup>3</sup> The Lord is slow to get angry and great in power, and will not let the sinner go without punishment: the way of the Lord is in the wind and the storm, and the clouds are the dust of his feet.
 
-<sup>4</sup> He says sharp words to the sea and makes it dry, drying up all the rivers: Bashan is feeble, and Carmel, and the flower of Lebanon is without strength. 
+<sup>4</sup> He says sharp words to the sea and makes it dry, drying up all the rivers: Bashan is feeble, and Carmel, and the flower of Lebanon is without strength.
 
-<sup>5</sup> The mountains are shaking because of him, and the hills flowing away; the earth is falling to bits before him, the world and all who are in it. 
+<sup>5</sup> The mountains are shaking because of him, and the hills flowing away; the earth is falling to bits before him, the world and all who are in it.
 
-<sup>6</sup> Who may keep his place before his wrath? and who may undergo the heat of his passion? his wrath is let loose like fire and the rocks are broken open by him. 
+<sup>6</sup> Who may keep his place before his wrath? and who may undergo the heat of his passion? his wrath is let loose like fire and the rocks are broken open by him.
 
-<sup>7</sup> The Lord is good, a strong place in the day of trouble; and he has knowledge of those who take him for their safe cover. 
+<sup>7</sup> The Lord is good, a strong place in the day of trouble; and he has knowledge of those who take him for their safe cover.
 
-<sup>8</sup> But like water overflowing he will take them away; he will put an end to those who come up against him, driving his haters into the dark. 
+<sup>8</sup> But like water overflowing he will take them away; he will put an end to those who come up against him, driving his haters into the dark.
 
-<sup>9</sup> What are you designing against the Lord? he will put an end to it: his haters will not come up again a second time. 
+<sup>9</sup> What are you designing against the Lord? he will put an end to it: his haters will not come up again a second time.
 
-<sup>10</sup> For though they are like twisted thorns, and are overcome as with drink, they will come to destruction like stems of grass fully dry. 
+<sup>10</sup> For though they are like twisted thorns, and are overcome as with drink, they will come to destruction like stems of grass fully dry.
 
-<sup>11</sup> One has gone out from you who is designing evil against the Lord, whose purposes are of no value. 
+<sup>11</sup> One has gone out from you who is designing evil against the Lord, whose purposes are of no value.
 
-<sup>12</sup> This is what the Lord has said: The days of my cause against you are ended; they are cut off and past. Though I have sent trouble on you, you will no longer be troubled. 
+<sup>12</sup> This is what the Lord has said: The days of my cause against you are ended; they are cut off and past. Though I have sent trouble on you, you will no longer be troubled.
 
-<sup>13</sup> And now I will let his yoke be broken off you, and your chains be parted. 
+<sup>13</sup> And now I will let his yoke be broken off you, and your chains be parted.
 
-<sup>14</sup> The Lord has given an order about you, that no more of your name are to be planted: from the house of your gods I will have the pictured and metal images cut off; I will make your last resting-place a place of shame; for you are completely evil. 
+<sup>14</sup> The Lord has given an order about you, that no more of your name are to be planted: from the house of your gods I will have the pictured and metal images cut off; I will make your last resting-place a place of shame; for you are completely evil.
 
-<sup>15</sup> See on the mountains the feet of him who comes with good news, giving word of peace! Keep your feasts, O Judah, give effect to your oaths: for the good-for-nothing man will never again go through you; he is completely cut off. 
-
-
+<sup>15</sup> See on the mountains the feet of him who comes with good news, giving word of peace! Keep your feasts, O Judah, give effect to your oaths: for the good-for-nothing man will never again go through you; he is completely cut off.

@@ -4,36 +4,34 @@ weight: 7
 
 # Chapter 7
 
-<sup>1</sup> When my desire was for the fate of my people to be changed and to make Israel well, then the sin of Ephraim was made clear, and the evil-doing of Samaria; for their ways are false, and the thief comes into the house, while the band of outlaws takes property by force in the streets. 
+<sup>1</sup> When my desire was for the fate of my people to be changed and to make Israel well, then the sin of Ephraim was made clear, and the evil-doing of Samaria; for their ways are false, and the thief comes into the house, while the band of outlaws takes property by force in the streets.
 
-<sup>2</sup> And they do not say to themselves that I keep in mind all their sin; now their evil acts come round them on every side; they are before my face. 
+<sup>2</sup> And they do not say to themselves that I keep in mind all their sin; now their evil acts come round them on every side; they are before my face.
 
-<sup>3</sup> In their sin they make a king for themselves, and rulers in their deceit. 
+<sup>3</sup> In their sin they make a king for themselves, and rulers in their deceit.
 
-<sup>4</sup> They are all untrue; they are like a burning oven; the bread-maker does not make up the fire from the time when the paste is mixed till it is leavened. 
+<sup>4</sup> They are all untrue; they are like a burning oven; the bread-maker does not make up the fire from the time when the paste is mixed till it is leavened.
 
-<sup>5</sup> On the day of our king, the rulers made him ill with the heat of wine; his hand was stretched out with the men of pride. 
+<sup>5</sup> On the day of our king, the rulers made him ill with the heat of wine; his hand was stretched out with the men of pride.
 
-<sup>6</sup> For they have made their hearts ready like an oven, while they are waiting secretly; their wrath is sleeping all night; in the morning it is burning like a flaming fire. 
+<sup>6</sup> For they have made their hearts ready like an oven, while they are waiting secretly; their wrath is sleeping all night; in the morning it is burning like a flaming fire.
 
-<sup>7</sup> They are all heated like an oven, and they put an end to their judges; all their kings have been made low; not one among them makes prayer to me. 
+<sup>7</sup> They are all heated like an oven, and they put an end to their judges; all their kings have been made low; not one among them makes prayer to me.
 
-<sup>8</sup> Ephraim is mixed with the peoples; Ephraim is a cake not turned. 
+<sup>8</sup> Ephraim is mixed with the peoples; Ephraim is a cake not turned.
 
-<sup>9</sup> Men from other lands have made waste his strength, and he is not conscious of it; grey hairs have come on him here and there, and he has no knowledge of it. 
+<sup>9</sup> Men from other lands have made waste his strength, and he is not conscious of it; grey hairs have come on him here and there, and he has no knowledge of it.
 
-<sup>10</sup> And the pride of Israel gives an answer to his face; but for all this, they have not gone back to the Lord their God, or made search for him. 
+<sup>10</sup> And the pride of Israel gives an answer to his face; but for all this, they have not gone back to the Lord their God, or made search for him.
 
-<sup>11</sup> And Ephraim is like a foolish dove, without wisdom; they send out their cry to Egypt, they go to Assyria. 
+<sup>11</sup> And Ephraim is like a foolish dove, without wisdom; they send out their cry to Egypt, they go to Assyria.
 
-<sup>12</sup> When they go, my net will be stretched out over them; I will take them like the birds of heaven, I will give them punishment, I will take them away in the net for their sin. 
+<sup>12</sup> When they go, my net will be stretched out over them; I will take them like the birds of heaven, I will give them punishment, I will take them away in the net for their sin.
 
-<sup>13</sup> May trouble be theirs! for they have gone far away from me; and destruction, for they have been sinning against me; I was ready to be their saviour, but they said false words against me. 
+<sup>13</sup> May trouble be theirs! for they have gone far away from me; and destruction, for they have been sinning against me; I was ready to be their saviour, but they said false words against me.
 
-<sup>14</sup> And they have not made prayer to me in their hearts, but they make loud cries on their beds; they are cutting themselves for food and wine, they are turned against me. 
+<sup>14</sup> And they have not made prayer to me in their hearts, but they make loud cries on their beds; they are cutting themselves for food and wine, they are turned against me.
 
-<sup>15</sup> Though I have given training and strength to their arms, they have evil designs against me. 
+<sup>15</sup> Though I have given training and strength to their arms, they have evil designs against me.
 
-<sup>16</sup> They have gone to what is of no value; they are like a false bow; their captains will come to destruction by the sword, and their ruler by my wrath; for this, the land of Egypt will make sport of them. 
-
-
+<sup>16</sup> They have gone to what is of no value; they are like a false bow; their captains will come to destruction by the sword, and their ruler by my wrath; for this, the land of Egypt will make sport of them.

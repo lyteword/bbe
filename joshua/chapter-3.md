@@ -4,38 +4,36 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> Then Joshua got up early in the morning, and, moving on from Shittim, he and all the children of Israel came to Jordan and were there for the night before going over. 
+<sup>1</sup> Then Joshua got up early in the morning, and, moving on from Shittim, he and all the children of Israel came to Jordan and were there for the night before going over.
 
-<sup>2</sup> And at the end of three days, the men in authority over the people went through the tents, 
+<sup>2</sup> And at the end of three days, the men in authority over the people went through the tents,
 
-<sup>3</sup> Giving the people their orders, and saying, When you see the ark of the agreement of the Lord your God lifted up by the priests, the Levites, then get up from your places and go after it; 
+<sup>3</sup> Giving the people their orders, and saying, When you see the ark of the agreement of the Lord your God lifted up by the priests, the Levites, then get up from your places and go after it;
 
-<sup>4</sup> But let there be a space between you and it of about two thousand cubits: come no nearer to it, so that you may see the way you have to go, for you have not been over this way before. 
+<sup>4</sup> But let there be a space between you and it of about two thousand cubits: come no nearer to it, so that you may see the way you have to go, for you have not been over this way before.
 
-<sup>5</sup> And Joshua said to the people, Make yourselves holy, for tomorrow the Lord will do works of wonder among you. 
+<sup>5</sup> And Joshua said to the people, Make yourselves holy, for tomorrow the Lord will do works of wonder among you.
 
-<sup>6</sup> Then Joshua said to the priests, Take up the ark of the agreement and go over in front of the people. So they took up the ark of the agreement and went in front of the people. 
+<sup>6</sup> Then Joshua said to the priests, Take up the ark of the agreement and go over in front of the people. So they took up the ark of the agreement and went in front of the people.
 
-<sup>7</sup> And the Lord said to Joshua, From now on I will give you glory in the eyes of all Israel, so that they may see that, as I was with Moses, so I will be with you. 
+<sup>7</sup> And the Lord said to Joshua, From now on I will give you glory in the eyes of all Israel, so that they may see that, as I was with Moses, so I will be with you.
 
-<sup>8</sup> And you are to give orders to the priests who take up the ark of the agreement, and say, When you come to the edge of the waters of Jordan, go no further. 
+<sup>8</sup> And you are to give orders to the priests who take up the ark of the agreement, and say, When you come to the edge of the waters of Jordan, go no further.
 
-<sup>9</sup> And Joshua said to the children of Israel, Come to me here: and give ear to the words of the Lord your God. 
+<sup>9</sup> And Joshua said to the children of Israel, Come to me here: and give ear to the words of the Lord your God.
 
-<sup>10</sup> And Joshua said, By this you will see that the living God is among you, and that he will certainly send out from before you the Canaanite and the Hittite and the Hivite and the Perizzite and the Girgashite and the Amorite and the Jebusite. 
+<sup>10</sup> And Joshua said, By this you will see that the living God is among you, and that he will certainly send out from before you the Canaanite and the Hittite and the Hivite and the Perizzite and the Girgashite and the Amorite and the Jebusite.
 
-<sup>11</sup> See, the ark of the agreement of the Lord of all the earth is going over before you into Jordan. 
+<sup>11</sup> See, the ark of the agreement of the Lord of all the earth is going over before you into Jordan.
 
-<sup>12</sup> So take twelve men out of the tribes of Israel, a man from every tribe. 
+<sup>12</sup> So take twelve men out of the tribes of Israel, a man from every tribe.
 
-<sup>13</sup> And when the feet of the priests who take up the ark of the Lord, the Lord of all the earth, come to rest in the waters of Jordan, the waters of Jordan will be cut off, all the waters flowing down from higher up, and will come together in a mass. 
+<sup>13</sup> And when the feet of the priests who take up the ark of the Lord, the Lord of all the earth, come to rest in the waters of Jordan, the waters of Jordan will be cut off, all the waters flowing down from higher up, and will come together in a mass.
 
-<sup>14</sup> So when the people went out from their tents to go over Jordan, the priests who took up the ark of the agreement were in front of the people; 
+<sup>14</sup> So when the people went out from their tents to go over Jordan, the priests who took up the ark of the agreement were in front of the people;
 
-<sup>15</sup> And when those who took up the ark came to Jordan, and the feet of the priests who took up the ark were touching the edge of the water (for the waters of Jordan are overflowing all through the time of the grain-cutting), 
+<sup>15</sup> And when those who took up the ark came to Jordan, and the feet of the priests who took up the ark were touching the edge of the water (for the waters of Jordan are overflowing all through the time of the grain-cutting),
 
-<sup>16</sup> Then the waters flowing down from higher up were stopped and came together in a mass a long way back at Adam, a town near Zarethan; and the waters flowing down to the sea of the Arabah, the Salt Sea, were cut off: and the people went across opposite Jericho. 
+<sup>16</sup> Then the waters flowing down from higher up were stopped and came together in a mass a long way back at Adam, a town near Zarethan; and the waters flowing down to the sea of the Arabah, the Salt Sea, were cut off: and the people went across opposite Jericho.
 
-<sup>17</sup> And the priests who took up the ark of the agreement of the Lord kept their places, with their feet on dry land in the middle of Jordan, while all Israel went over on dry land, till all the nation had gone over Jordan. 
-
-
+<sup>17</sup> And the priests who took up the ark of the agreement of the Lord kept their places, with their feet on dry land in the middle of Jordan, while all Israel went over on dry land, till all the nation had gone over Jordan.

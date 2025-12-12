@@ -4,28 +4,26 @@ weight: 5
 
 # Chapter 5
 
-<sup>1</sup> Now the Philistines, having taken the ark of God, took it with them from Eben-ezer to Ashdod. 
+<sup>1</sup> Now the Philistines, having taken the ark of God, took it with them from Eben-ezer to Ashdod.
 
-<sup>2</sup> They took the ark of God into the house of Dagon and put it by the side of Dagon. 
+<sup>2</sup> They took the ark of God into the house of Dagon and put it by the side of Dagon.
 
-<sup>3</sup> And when the people of Ashdod got up early on the morning after, they saw that Dagon had come down to the earth on his face before the ark of the Lord. And they took Dagon up and put him in his place again. 
+<sup>3</sup> And when the people of Ashdod got up early on the morning after, they saw that Dagon had come down to the earth on his face before the ark of the Lord. And they took Dagon up and put him in his place again.
 
-<sup>4</sup> And when they got up early on the morning after, Dagon had come down to the earth on his face before the ark of the Lord; and his head and his hands were broken off on the doorstep; only the base was in its place. 
+<sup>4</sup> And when they got up early on the morning after, Dagon had come down to the earth on his face before the ark of the Lord; and his head and his hands were broken off on the doorstep; only the base was in its place.
 
-<sup>5</sup> So to this day no priest of Dagon, or any who come into Dagon's house, will put his foot on the doorstep of the house of Dagon in Ashdod. 
+<sup>5</sup> So to this day no priest of Dagon, or any who come into Dagon's house, will put his foot on the doorstep of the house of Dagon in Ashdod.
 
-<sup>6</sup> But the hand of the Lord was hard on the people of Ashdod and he sent disease on them through all the country of Ashdod. 
+<sup>6</sup> But the hand of the Lord was hard on the people of Ashdod and he sent disease on them through all the country of Ashdod.
 
-<sup>7</sup> And when the men of Ashdod saw how it was, they said, Let not the ark of the God of Israel be with us, for his hand is hard on us and on Dagon our god. 
+<sup>7</sup> And when the men of Ashdod saw how it was, they said, Let not the ark of the God of Israel be with us, for his hand is hard on us and on Dagon our god.
 
-<sup>8</sup> So they sent for all the lords of the Philistines to come together there, and said, What are we to do with the ark of the God of Israel? And their answer was, Let the ark of the God of Israel be taken away to Gath. So they took the ark of the God of Israel away. 
+<sup>8</sup> So they sent for all the lords of the Philistines to come together there, and said, What are we to do with the ark of the God of Israel? And their answer was, Let the ark of the God of Israel be taken away to Gath. So they took the ark of the God of Israel away.
 
-<sup>9</sup> But after they had taken it away, the hand of the Lord was stretched out against the town for its destruction: and the signs of disease came out on all the men of the town, small and great. 
+<sup>9</sup> But after they had taken it away, the hand of the Lord was stretched out against the town for its destruction: and the signs of disease came out on all the men of the town, small and great.
 
-<sup>10</sup> So they sent the ark of God to Ekron. And when the ark of God came to Ekron, the people of the town made an outcry, saying, They have sent the ark of the God of Israel to us for the destruction of us and of our people. 
+<sup>10</sup> So they sent the ark of God to Ekron. And when the ark of God came to Ekron, the people of the town made an outcry, saying, They have sent the ark of the God of Israel to us for the destruction of us and of our people.
 
-<sup>11</sup> So they sent and got together all the lords of the Philistines, and they said, Send away the ark of the God of Israel, and let it go back to its place, so that it may not be the cause of death to us and to our people: for there was a great fear of death through all the town; the hand of God was very hard on them there. 
+<sup>11</sup> So they sent and got together all the lords of the Philistines, and they said, Send away the ark of the God of Israel, and let it go back to its place, so that it may not be the cause of death to us and to our people: for there was a great fear of death through all the town; the hand of God was very hard on them there.
 
-<sup>12</sup> And those men who were not overtaken by death were cruelly diseased: and the cry of the town went up to heaven. 
-
-
+<sup>12</sup> And those men who were not overtaken by death were cruelly diseased: and the cry of the town went up to heaven.

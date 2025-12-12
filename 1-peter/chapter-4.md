@@ -4,42 +4,40 @@ weight: 4
 
 # Chapter 4
 
-<sup>1</sup> So that as Jesus was put to death in the flesh, do you yourselves be of the same mind; for the death of the flesh puts an end to sin; 
+<sup>1</sup> So that as Jesus was put to death in the flesh, do you yourselves be of the same mind; for the death of the flesh puts an end to sin;
 
-<sup>2</sup> So that you may give the rest of your lives in the flesh, not to the desires of men, but to the purpose of God. 
+<sup>2</sup> So that you may give the rest of your lives in the flesh, not to the desires of men, but to the purpose of God.
 
-<sup>3</sup> Because for long enough, in times past, we have been living after the way of the Gentiles, given up to the desires of the flesh, to drinking and feasting and loose behaviour and unclean worship of images; 
+<sup>3</sup> Because for long enough, in times past, we have been living after the way of the Gentiles, given up to the desires of the flesh, to drinking and feasting and loose behaviour and unclean worship of images;
 
-<sup>4</sup> And they are wondering that you no longer go with them in this violent wasting of life, and are saying evil things of you: 
+<sup>4</sup> And they are wondering that you no longer go with them in this violent wasting of life, and are saying evil things of you:
 
-<sup>5</sup> But they will have to give an account of themselves to him who is ready to be the judge of the living and the dead. 
+<sup>5</sup> But they will have to give an account of themselves to him who is ready to be the judge of the living and the dead.
 
-<sup>6</sup> For this was the reason why the good news of Jesus was given even to the dead, so that they might be judged as men in the flesh, but might be living before God in the spirit. 
+<sup>6</sup> For this was the reason why the good news of Jesus was given even to the dead, so that they might be judged as men in the flesh, but might be living before God in the spirit.
 
-<sup>7</sup> But the end of all things is near: so be serious in your behaviour and keep on the watch with prayer; 
+<sup>7</sup> But the end of all things is near: so be serious in your behaviour and keep on the watch with prayer;
 
-<sup>8</sup> And most of all be warm in your love for one another; because in love there is forgiveness for sins without number: 
+<sup>8</sup> And most of all be warm in your love for one another; because in love there is forgiveness for sins without number:
 
-<sup>9</sup> Keep open house for all with a glad heart; 
+<sup>9</sup> Keep open house for all with a glad heart;
 
-<sup>10</sup> Making distribution among one another of whatever has been given to you, like true servants of the unmeasured grace of God; 
+<sup>10</sup> Making distribution among one another of whatever has been given to you, like true servants of the unmeasured grace of God;
 
-<sup>11</sup> If anyone has anything to say, let it be as the words of God; if anyone has the desire to be the servant of others, let him do it in the strength which is given by God; so that in all things God may have the glory through Jesus Christ, whose are the glory and the power for ever. 
+<sup>11</sup> If anyone has anything to say, let it be as the words of God; if anyone has the desire to be the servant of others, let him do it in the strength which is given by God; so that in all things God may have the glory through Jesus Christ, whose are the glory and the power for ever.
 
-<sup>12</sup> Dear brothers, do not be surprised, as if it was something strange, if your faith is tested as by fire: 
+<sup>12</sup> Dear brothers, do not be surprised, as if it was something strange, if your faith is tested as by fire:
 
-<sup>13</sup> But be glad that you are given a part in the pains of Christ; so that at the revelation of his glory you may have great joy. 
+<sup>13</sup> But be glad that you are given a part in the pains of Christ; so that at the revelation of his glory you may have great joy.
 
-<sup>14</sup> If men say evil things of you because of the name of Christ, happy are you; for the Spirit of glory and of God is resting on you. 
+<sup>14</sup> If men say evil things of you because of the name of Christ, happy are you; for the Spirit of glory and of God is resting on you.
 
-<sup>15</sup> Let no one among you undergo punishment as a taker of life, or as a thief, or as an evil-doer, or as one who is over-interested in other men's business; 
+<sup>15</sup> Let no one among you undergo punishment as a taker of life, or as a thief, or as an evil-doer, or as one who is over-interested in other men's business;
 
-<sup>16</sup> But if he undergoes punishment as a Christian, that is no shame to him; let him give glory to God in this name. 
+<sup>16</sup> But if he undergoes punishment as a Christian, that is no shame to him; let him give glory to God in this name.
 
-<sup>17</sup> For the time has come for the judging, starting with the church of God; but if it makes a start with us, what will be the end of those who are not under the rule of God? 
+<sup>17</sup> For the time has come for the judging, starting with the church of God; but if it makes a start with us, what will be the end of those who are not under the rule of God?
 
-<sup>18</sup> And if it is hard for even the good man to get salvation, what chance has the man without religion or the sinner? 
+<sup>18</sup> And if it is hard for even the good man to get salvation, what chance has the man without religion or the sinner?
 
-<sup>19</sup> For this reason let those who by the purpose of God undergo punishment, keep on in well-doing and put their souls into the safe hands of their Maker. 
-
-
+<sup>19</sup> For this reason let those who by the purpose of God undergo punishment, keep on in well-doing and put their souls into the safe hands of their Maker.

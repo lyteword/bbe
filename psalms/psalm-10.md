@@ -4,40 +4,38 @@ weight: 10
 
 # Psalm 10
 
-<sup>1</sup> Why do you keep far away, O Lord? why are you not to be seen in times of trouble? 
+<sup>1</sup> Why do you keep far away, O Lord? why are you not to be seen in times of trouble?
 
-<sup>2</sup> The evil-doer in his pride is cruel to the poor; let him be taken by the tricks of his invention. 
+<sup>2</sup> The evil-doer in his pride is cruel to the poor; let him be taken by the tricks of his invention.
 
-<sup>3</sup> For the evil-doer is lifted up because of the purpose of his heart, and he whose mind is fixed on wealth is turned away from the Lord, saying evil against him. 
+<sup>3</sup> For the evil-doer is lifted up because of the purpose of his heart, and he whose mind is fixed on wealth is turned away from the Lord, saying evil against him.
 
-<sup>4</sup> The evil-doer in his pride says, God will not make a search. All his thoughts are, There is no God. 
+<sup>4</sup> The evil-doer in his pride says, God will not make a search. All his thoughts are, There is no God.
 
-<sup>5</sup> His ways are ever fixed; your decisions are higher than he may see: as for his haters, they are as nothing to him. 
+<sup>5</sup> His ways are ever fixed; your decisions are higher than he may see: as for his haters, they are as nothing to him.
 
-<sup>6</sup> He has said in his heart, I will not be moved: through all generations I will never be in trouble. 
+<sup>6</sup> He has said in his heart, I will not be moved: through all generations I will never be in trouble.
 
-<sup>7</sup> His mouth is full of cursing and deceit and false words: under his tongue are evil purposes and dark thoughts. 
+<sup>7</sup> His mouth is full of cursing and deceit and false words: under his tongue are evil purposes and dark thoughts.
 
-<sup>8</sup> He is waiting in the dark places of the towns: in the secret places he puts to death those who have done no wrong: his eyes are secretly turned against the poor. 
+<sup>8</sup> He is waiting in the dark places of the towns: in the secret places he puts to death those who have done no wrong: his eyes are secretly turned against the poor.
 
-<sup>9</sup> He keeps himself in a secret place like a lion in his hole, waiting to put his hands on the poor man, and pulling him into his net. 
+<sup>9</sup> He keeps himself in a secret place like a lion in his hole, waiting to put his hands on the poor man, and pulling him into his net.
 
-<sup>10</sup> The upright are crushed and made low, and the feeble are overcome by his strong ones. 
+<sup>10</sup> The upright are crushed and made low, and the feeble are overcome by his strong ones.
 
-<sup>11</sup> He says in his heart, God has no memory of me: his face is turned away; he will never see it. 
+<sup>11</sup> He says in his heart, God has no memory of me: his face is turned away; he will never see it.
 
-<sup>12</sup> Up! O Lord; let your hand be lifted: give thought to the poor. 
+<sup>12</sup> Up! O Lord; let your hand be lifted: give thought to the poor.
 
-<sup>13</sup> Why has the evil-doer a low opinion of God, saying in his heart, You will not make search for it? 
+<sup>13</sup> Why has the evil-doer a low opinion of God, saying in his heart, You will not make search for it?
 
-<sup>14</sup> You have seen it; for your eyes are on sorrow and grief, to take it into your hand: the poor man puts his faith in you; you have been the helper of the child who has no father. 
+<sup>14</sup> You have seen it; for your eyes are on sorrow and grief, to take it into your hand: the poor man puts his faith in you; you have been the helper of the child who has no father.
 
-<sup>15</sup> Let the arm of the sinner and the evil-doer be broken; go on searching for his sin till there is no more. 
+<sup>15</sup> Let the arm of the sinner and the evil-doer be broken; go on searching for his sin till there is no more.
 
-<sup>16</sup> The Lord is King for ever and ever; the nations are gone from his land. 
+<sup>16</sup> The Lord is King for ever and ever; the nations are gone from his land.
 
-<sup>17</sup> Lord, you have given ear to the prayer of the poor: you will make strong their hearts, you will give them a hearing: 
+<sup>17</sup> Lord, you have given ear to the prayer of the poor: you will make strong their hearts, you will give them a hearing:
 
-<sup>18</sup> To give decision for the child without a father and for the broken-hearted, so that the man of the earth may no longer be feared. 
-
-
+<sup>18</sup> To give decision for the child without a father and for the broken-hearted, so that the man of the earth may no longer be feared.

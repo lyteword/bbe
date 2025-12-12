@@ -4,60 +4,58 @@ weight: 7
 
 # Chapter 7
 
-<sup>1</sup> For this Melchizedek, the king of Salem, a priest of the Most High God, who gave Abraham his blessing, meeting him when he came back after putting the kings to death, 
+<sup>1</sup> For this Melchizedek, the king of Salem, a priest of the Most High God, who gave Abraham his blessing, meeting him when he came back after putting the kings to death,
 
-<sup>2</sup> And to whom Abraham gave a tenth part of everything which he had, being first named King of righteousness, and then in addition, King of Salem, that is to say, King of peace; 
+<sup>2</sup> And to whom Abraham gave a tenth part of everything which he had, being first named King of righteousness, and then in addition, King of Salem, that is to say, King of peace;
 
-<sup>3</sup> Being without father or mother, or family, having no birth or end to his life, being made like the Son of God, is a priest for ever. 
+<sup>3</sup> Being without father or mother, or family, having no birth or end to his life, being made like the Son of God, is a priest for ever.
 
-<sup>4</sup> Now see how great this man was, to whom our father Abraham gave a tenth part of what he had got in the fight. 
+<sup>4</sup> Now see how great this man was, to whom our father Abraham gave a tenth part of what he had got in the fight.
 
-<sup>5</sup> And it is true that by the law, those of the sons of Levi who have the position of priests may take a tenth part of the people's goods; that is to say, they take it from their brothers though these are the sons of Abraham. 
+<sup>5</sup> And it is true that by the law, those of the sons of Levi who have the position of priests may take a tenth part of the people's goods; that is to say, they take it from their brothers though these are the sons of Abraham.
 
-<sup>6</sup> But this man, who was not of their family, took the tenth from Abraham, and gave a blessing to him to whom God had given his undertaking. 
+<sup>6</sup> But this man, who was not of their family, took the tenth from Abraham, and gave a blessing to him to whom God had given his undertaking.
 
-<sup>7</sup> But there is no doubt that the less gets his blessing from the greater. 
+<sup>7</sup> But there is no doubt that the less gets his blessing from the greater.
 
-<sup>8</sup> Now at the present time, men over whom death has power take the tenth; but then it was taken by one of whom it is witnessed that he is living. 
+<sup>8</sup> Now at the present time, men over whom death has power take the tenth; but then it was taken by one of whom it is witnessed that he is living.
 
-<sup>9</sup> And we may say that in Abraham, even Levi, who has a right to take the tenth part, gave it; 
+<sup>9</sup> And we may say that in Abraham, even Levi, who has a right to take the tenth part, gave it;
 
-<sup>10</sup> Because he was still in his father's body when Melchizedek came to him. 
+<sup>10</sup> Because he was still in his father's body when Melchizedek came to him.
 
-<sup>11</sup> Now if it was possible for things to be made complete through the priests of the house of Levi (for the law was given to the people in connection with them), what need was there for another priest who was of the order of Melchizedek and not of the order of Aaron? 
+<sup>11</sup> Now if it was possible for things to be made complete through the priests of the house of Levi (for the law was given to the people in connection with them), what need was there for another priest who was of the order of Melchizedek and not of the order of Aaron?
 
-<sup>12</sup> Because if the priests are changed, it is necessary to make a change in the law. 
+<sup>12</sup> Because if the priests are changed, it is necessary to make a change in the law.
 
-<sup>13</sup> For he of whom these things are said comes of another tribe, of which no man has ever made offerings at the altar. 
+<sup>13</sup> For he of whom these things are said comes of another tribe, of which no man has ever made offerings at the altar.
 
-<sup>14</sup> Because it is clear that our Lord comes out of Judah, and Moses said nothing about priests from that tribe. 
+<sup>14</sup> Because it is clear that our Lord comes out of Judah, and Moses said nothing about priests from that tribe.
 
-<sup>15</sup> And this is even more clear if a second priest has come up who is like Melchizedek, 
+<sup>15</sup> And this is even more clear if a second priest has come up who is like Melchizedek,
 
-<sup>16</sup> That is to say, not made by a law based on the flesh, but by the power of a life without end: 
+<sup>16</sup> That is to say, not made by a law based on the flesh, but by the power of a life without end:
 
-<sup>17</sup> For it has been witnessed of him, You are a priest for ever after the order of Melchizedek. 
+<sup>17</sup> For it has been witnessed of him, You are a priest for ever after the order of Melchizedek.
 
-<sup>18</sup> So the law which went before is put on one side, because it was feeble and without profit. 
+<sup>18</sup> So the law which went before is put on one side, because it was feeble and without profit.
 
-<sup>19</sup> (Because the law made nothing complete), and in its place there is a better hope, through which we come near to God. 
+<sup>19</sup> (Because the law made nothing complete), and in its place there is a better hope, through which we come near to God.
 
-<sup>20</sup> And as this is not without the taking of an oath 
+<sup>20</sup> And as this is not without the taking of an oath
 
-<sup>21</sup> (For those were made priests without an oath, but this one was made a priest with an oath by him who says of him, The Lord gave his oath, which he will not take back, that you are a priest for ever); 
+<sup>21</sup> (For those were made priests without an oath, but this one was made a priest with an oath by him who says of him, The Lord gave his oath, which he will not take back, that you are a priest for ever);
 
-<sup>22</sup> By so much is it a better agreement which we have through Jesus. 
+<sup>22</sup> By so much is it a better agreement which we have through Jesus.
 
-<sup>23</sup> And it is true that there have been a great number of those priests, because death does not let them go on for ever; 
+<sup>23</sup> And it is true that there have been a great number of those priests, because death does not let them go on for ever;
 
-<sup>24</sup> But this priest, because his life goes on for ever, is unchanging. 
+<sup>24</sup> But this priest, because his life goes on for ever, is unchanging.
 
-<sup>25</sup> So that he is fully able to be the saviour of all who come to God through him, because he is ever living to make prayer to God for them. 
+<sup>25</sup> So that he is fully able to be the saviour of all who come to God through him, because he is ever living to make prayer to God for them.
 
-<sup>26</sup> It was right for us to have such a high priest, one who is holy and without evil, doing no wrong, having no part with sinners, and made higher than the heavens: 
+<sup>26</sup> It was right for us to have such a high priest, one who is holy and without evil, doing no wrong, having no part with sinners, and made higher than the heavens:
 
-<sup>27</sup> Who has no need to make offerings for sins every day, like those high priests, first for himself, and then for the people; because he did this once and for ever when he made an offering of himself. 
+<sup>27</sup> Who has no need to make offerings for sins every day, like those high priests, first for himself, and then for the people; because he did this once and for ever when he made an offering of himself.
 
-<sup>28</sup> The law makes high priests of men who are feeble; but the word of the oath, which was made after the law, gives that position to a Son, in whom all good is for ever complete. 
-
-
+<sup>28</sup> The law makes high priests of men who are feeble; but the word of the oath, which was made after the law, gives that position to a Son, in whom all good is for ever complete.

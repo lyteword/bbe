@@ -4,48 +4,46 @@ weight: 24
 
 # Chapter 24
 
-<sup>1</sup> If a man takes a wife, and after they are married she is unpleasing to him because of some bad quality in her, let him give her a statement in writing and send her away from his house. 
+<sup>1</sup> If a man takes a wife, and after they are married she is unpleasing to him because of some bad quality in her, let him give her a statement in writing and send her away from his house.
 
-<sup>2</sup> And when she has gone away from him, she may become another man's wife. 
+<sup>2</sup> And when she has gone away from him, she may become another man's wife.
 
-<sup>3</sup> And if the second husband has no love for her and, giving her a statement in writing, sends her away; or if death comes to the second husband to whom she was married; 
+<sup>3</sup> And if the second husband has no love for her and, giving her a statement in writing, sends her away; or if death comes to the second husband to whom she was married;
 
-<sup>4</sup> Her first husband, who had sent her away, may not take her back after she has been wife to another; for that is disgusting to the Lord: and you are not to be a cause of sin in the land which the Lord your God is giving you for your heritage. 
+<sup>4</sup> Her first husband, who had sent her away, may not take her back after she has been wife to another; for that is disgusting to the Lord: and you are not to be a cause of sin in the land which the Lord your God is giving you for your heritage.
 
-<sup>5</sup> A newly married man will not have to go out with the army or undertake any business, but may be free for one year, living in his house for the comfort of his wife. 
+<sup>5</sup> A newly married man will not have to go out with the army or undertake any business, but may be free for one year, living in his house for the comfort of his wife.
 
-<sup>6</sup> No one is to take, on account of a debt, the stones with which grain is crushed: for in doing so he takes a man's living. 
+<sup>6</sup> No one is to take, on account of a debt, the stones with which grain is crushed: for in doing so he takes a man's living.
 
-<sup>7</sup> If a man takes by force one of his countrymen, the children of Israel, using him as his property or getting a price for him, that thief is to be put to death: so you are to put away evil from among you. 
+<sup>7</sup> If a man takes by force one of his countrymen, the children of Israel, using him as his property or getting a price for him, that thief is to be put to death: so you are to put away evil from among you.
 
-<sup>8</sup> In connection with the leper's disease, take care to keep and do every detail of the teaching of the priests, the Levites: as I gave them orders, so you are to do. 
+<sup>8</sup> In connection with the leper's disease, take care to keep and do every detail of the teaching of the priests, the Levites: as I gave them orders, so you are to do.
 
-<sup>9</sup> Keep in mind what the Lord your God did to Miriam on the way, when you came out of Egypt. 
+<sup>9</sup> Keep in mind what the Lord your God did to Miriam on the way, when you came out of Egypt.
 
-<sup>10</sup> If you let your brother have the use of anything which is yours, do not go into his house and take anything of his as a sign of his debt; 
+<sup>10</sup> If you let your brother have the use of anything which is yours, do not go into his house and take anything of his as a sign of his debt;
 
-<sup>11</sup> But keep outside till he comes out and gives it to you. 
+<sup>11</sup> But keep outside till he comes out and gives it to you.
 
-<sup>12</sup> If he is a poor man, do not keep his property all night; 
+<sup>12</sup> If he is a poor man, do not keep his property all night;
 
-<sup>13</sup> But be certain to give it back to him when the sun goes down, so that he may have his clothing for sleeping in, and will give you his blessing: and this will be put to your account as righteousness before the Lord your God. 
+<sup>13</sup> But be certain to give it back to him when the sun goes down, so that he may have his clothing for sleeping in, and will give you his blessing: and this will be put to your account as righteousness before the Lord your God.
 
-<sup>14</sup> Do not be hard on a servant who is poor and in need, if he is one of your countrymen or a man from another nation living with you in your land. 
+<sup>14</sup> Do not be hard on a servant who is poor and in need, if he is one of your countrymen or a man from another nation living with you in your land.
 
-<sup>15</sup> Give him his payment day by day, not keeping it back over night; for he is poor and his living is dependent on it; and if his cry against you comes to the ears of the Lord, it will be judged as sin in you. 
+<sup>15</sup> Give him his payment day by day, not keeping it back over night; for he is poor and his living is dependent on it; and if his cry against you comes to the ears of the Lord, it will be judged as sin in you.
 
-<sup>16</sup> Fathers are not to be put to death for their children or children for their fathers: every man is to be put to death for the sin which he himself has done. 
+<sup>16</sup> Fathers are not to be put to death for their children or children for their fathers: every man is to be put to death for the sin which he himself has done.
 
-<sup>17</sup> Be upright in judging the cause of the man from a strange country and of him who has no father; do not take a widow's clothing on account of a debt: 
+<sup>17</sup> Be upright in judging the cause of the man from a strange country and of him who has no father; do not take a widow's clothing on account of a debt:
 
-<sup>18</sup> But keep in mind that you were a servant in the land of Egypt, and the Lord your God made you free: for this is why I give you orders to do this. 
+<sup>18</sup> But keep in mind that you were a servant in the land of Egypt, and the Lord your God made you free: for this is why I give you orders to do this.
 
-<sup>19</sup> When you get in the grain from your field, if some of the grain has been dropped by chance in the field, do not go back and get it, but let it be for the man from a strange land, the child without a father, and the widow: so that the blessing of the Lord your God may be on all the work of your hands. 
+<sup>19</sup> When you get in the grain from your field, if some of the grain has been dropped by chance in the field, do not go back and get it, but let it be for the man from a strange land, the child without a father, and the widow: so that the blessing of the Lord your God may be on all the work of your hands.
 
-<sup>20</sup> When you are shaking the fruit from your olive-trees, do not go over the branches a second time: let some be for the man from a strange land, the child without a father, and the widow. 
+<sup>20</sup> When you are shaking the fruit from your olive-trees, do not go over the branches a second time: let some be for the man from a strange land, the child without a father, and the widow.
 
-<sup>21</sup> When you are pulling the grapes from your vines, do not take up those which have been dropped; let them be for the man from a strange land, the child without a father, and the widow. 
+<sup>21</sup> When you are pulling the grapes from your vines, do not take up those which have been dropped; let them be for the man from a strange land, the child without a father, and the widow.
 
-<sup>22</sup> Keep in mind that you were a servant in the land of Egypt: for this is why I give you orders to do this. 
-
-
+<sup>22</sup> Keep in mind that you were a servant in the land of Egypt: for this is why I give you orders to do this.

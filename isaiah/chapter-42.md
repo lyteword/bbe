@@ -4,54 +4,52 @@ weight: 42
 
 # Chapter 42
 
-<sup>1</sup> See my servant, whom I am supporting, my loved one, in whom I take delight: I have put my spirit on him; he will give the knowledge of the true God to the nations. 
+<sup>1</sup> See my servant, whom I am supporting, my loved one, in whom I take delight: I have put my spirit on him; he will give the knowledge of the true God to the nations.
 
-<sup>2</sup> He will make no cry, his voice will not be loud: his words will not come to men's ears in the streets. 
+<sup>2</sup> He will make no cry, his voice will not be loud: his words will not come to men's ears in the streets.
 
-<sup>3</sup> He will not let a crushed stem be quite broken, and he will not let a feebly burning light be put out: he will go on sending out the true word to the peoples. 
+<sup>3</sup> He will not let a crushed stem be quite broken, and he will not let a feebly burning light be put out: he will go on sending out the true word to the peoples.
 
-<sup>4</sup> His light will not be put out, and he will not be crushed, till he has given the knowledge of the true God to the earth, and the sea-lands will be waiting for his teaching. 
+<sup>4</sup> His light will not be put out, and he will not be crushed, till he has given the knowledge of the true God to the earth, and the sea-lands will be waiting for his teaching.
 
-<sup>5</sup> God the Lord, even he who made the heavens, measuring them out on high; stretching out the earth, and giving its produce; he who gives breath to the people on it, and life to those who go about on it, says: 
+<sup>5</sup> God the Lord, even he who made the heavens, measuring them out on high; stretching out the earth, and giving its produce; he who gives breath to the people on it, and life to those who go about on it, says:
 
-<sup>6</sup> I the Lord have made you the vessel of my purpose, I have taken you by the hand, and kept you safe, and I have given you to be an agreement to the people, and a light to the nations: 
+<sup>6</sup> I the Lord have made you the vessel of my purpose, I have taken you by the hand, and kept you safe, and I have given you to be an agreement to the people, and a light to the nations:
 
-<sup>7</sup> To give eyes to the blind, to make free the prisoners from the prison, to let out those who are shut up in the dark. 
+<sup>7</sup> To give eyes to the blind, to make free the prisoners from the prison, to let out those who are shut up in the dark.
 
-<sup>8</sup> I am the Lord; that is my name: I will not give my glory to another, or my praise to pictured images. 
+<sup>8</sup> I am the Lord; that is my name: I will not give my glory to another, or my praise to pictured images.
 
-<sup>9</sup> See, the things said before have come about, and now I give word of new things: before they come I give you news of them. 
+<sup>9</sup> See, the things said before have come about, and now I give word of new things: before they come I give you news of them.
 
-<sup>10</sup> Make a new song to the Lord, and let his praise be sounded from the end of the earth; you who go down to the sea, and everything in it, the sea-lands and their people. 
+<sup>10</sup> Make a new song to the Lord, and let his praise be sounded from the end of the earth; you who go down to the sea, and everything in it, the sea-lands and their people.
 
-<sup>11</sup> Let the waste land and its flocks be glad, the tent-circles of Kedar; let the people of the rock give a glad cry, from the top of the mountains let them make a sound of joy. 
+<sup>11</sup> Let the waste land and its flocks be glad, the tent-circles of Kedar; let the people of the rock give a glad cry, from the top of the mountains let them make a sound of joy.
 
-<sup>12</sup> Let them give glory to the Lord, sounding his praise in the sea-lands. 
+<sup>12</sup> Let them give glory to the Lord, sounding his praise in the sea-lands.
 
-<sup>13</sup> The Lord will go out as a man of war, he will be moved to wrath like a fighting-man: his voice will be strong, he will give a loud cry; he will go against his attackers like a man of war. 
+<sup>13</sup> The Lord will go out as a man of war, he will be moved to wrath like a fighting-man: his voice will be strong, he will give a loud cry; he will go against his attackers like a man of war.
 
-<sup>14</sup> I have long been quiet, I have kept myself in and done nothing: now I will make sounds of pain like a woman in childbirth, breathing hard and quickly. 
+<sup>14</sup> I have long been quiet, I have kept myself in and done nothing: now I will make sounds of pain like a woman in childbirth, breathing hard and quickly.
 
-<sup>15</sup> I will make waste mountains and hills, drying up all their plants; and I will make rivers dry, and pools dry land. 
+<sup>15</sup> I will make waste mountains and hills, drying up all their plants; and I will make rivers dry, and pools dry land.
 
-<sup>16</sup> And I will take the blind by a way of which they had no knowledge, guiding them by roads strange to them: I will make the dark places light before them, and the rough places level. These things will I do and will not give them up. 
+<sup>16</sup> And I will take the blind by a way of which they had no knowledge, guiding them by roads strange to them: I will make the dark places light before them, and the rough places level. These things will I do and will not give them up.
 
-<sup>17</sup> They will be turned back and be greatly shamed who put their hope in pictured images, who say to metal images, You are our gods. 
+<sup>17</sup> They will be turned back and be greatly shamed who put their hope in pictured images, who say to metal images, You are our gods.
 
-<sup>18</sup> Give ear, you whose ears are shut; and let your eyes be open, you blind, so that you may see. 
+<sup>18</sup> Give ear, you whose ears are shut; and let your eyes be open, you blind, so that you may see.
 
-<sup>19</sup> Who is blind, but my servant? who has his ears stopped, but he whom I send? who is blind as my true one, or who has his ears shut like the Lord's servant? 
+<sup>19</sup> Who is blind, but my servant? who has his ears stopped, but he whom I send? who is blind as my true one, or who has his ears shut like the Lord's servant?
 
-<sup>20</sup> Seeing much, but keeping nothing in mind; his ears are open, but there is no hearing. 
+<sup>20</sup> Seeing much, but keeping nothing in mind; his ears are open, but there is no hearing.
 
-<sup>21</sup> It was the Lord's pleasure, because of his righteousness, to make the teaching great and give it honour. 
+<sup>21</sup> It was the Lord's pleasure, because of his righteousness, to make the teaching great and give it honour.
 
-<sup>22</sup> But this is a people whose property has been taken away from them by force; they are all taken in holes, and shut up in prisons: they are made prisoners, and no one makes them free; they are taken by force and no one says, Give them back. 
+<sup>22</sup> But this is a people whose property has been taken away from them by force; they are all taken in holes, and shut up in prisons: they are made prisoners, and no one makes them free; they are taken by force and no one says, Give them back.
 
-<sup>23</sup> Who is there among you who will give ear to this? who will give attention to it for the time to come? 
+<sup>23</sup> Who is there among you who will give ear to this? who will give attention to it for the time to come?
 
-<sup>24</sup> Who gave up Jacob to those who took away his goods, and Israel to his attackers? Did not the Lord? he against whom they did wrong, and in whose ways they would not go, turning away from his teaching. 
+<sup>24</sup> Who gave up Jacob to those who took away his goods, and Israel to his attackers? Did not the Lord? he against whom they did wrong, and in whose ways they would not go, turning away from his teaching.
 
-<sup>25</sup> For this reason he let loose on him the heat of his wrath, and his strength was like a flame; and it put fire round about him, but he did not see it; he was burned, but did not take it to heart. 
-
-
+<sup>25</sup> For this reason he let loose on him the heat of his wrath, and his strength was like a flame; and it put fire round about him, but he did not see it; he was burned, but did not take it to heart.

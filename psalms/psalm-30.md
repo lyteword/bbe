@@ -4,28 +4,28 @@ weight: 30
 
 # Psalm 30
 
-<sup>1</sup> A Psalm. A Song at the blessing of the House. Of David. I will give you praise and honour, O Lord, because through you I have been lifted up; you have not given my haters cause to be glad over me. 
+A Psalm. A Song at the blessing of the House. Of David.
 
-<sup>2</sup> O Lord my God, I sent up my cry to you, and you have made me well. 
+<sup>1</sup> I will give you praise and honour, O Lord, because through you I have been lifted up; you have not given my haters cause to be glad over me.
 
-<sup>3</sup> O Lord, you have made my soul come again from the underworld: you have given me life and kept me from going down among the dead. 
+<sup>2</sup> O Lord my God, I sent up my cry to you, and you have made me well.
 
-<sup>4</sup> Make songs to the Lord, O you saints of his, and give praise to his holy name. 
+<sup>3</sup> O Lord, you have made my soul come again from the underworld: you have given me life and kept me from going down among the dead.
 
-<sup>5</sup> For his wrath is only for a minute; in his grace there is life; weeping may be for a night, but joy comes in the morning. 
+<sup>4</sup> Make songs to the Lord, O you saints of his, and give praise to his holy name.
 
-<sup>6</sup> When things went well for me I said, I will never be moved. 
+<sup>5</sup> For his wrath is only for a minute; in his grace there is life; weeping may be for a night, but joy comes in the morning.
 
-<sup>7</sup> Lord, by your grace you have kept my mountain strong: when your face was turned from me I was troubled. 
+<sup>6</sup> When things went well for me I said, I will never be moved.
 
-<sup>8</sup> My voice went up to you, O Lord; I made my prayer to the Lord. 
+<sup>7</sup> Lord, by your grace you have kept my mountain strong: when your face was turned from me I was troubled.
 
-<sup>9</sup> What profit is there in my blood if I go down into the underworld? will the dust give you praise, or be a witness to your help? 
+<sup>8</sup> My voice went up to you, O Lord; I made my prayer to the Lord.
 
-<sup>10</sup> Give ear to me, O Lord, and have mercy on me: Lord, be my helper. 
+<sup>9</sup> What profit is there in my blood if I go down into the underworld? will the dust give you praise, or be a witness to your help?
 
-<sup>11</sup> By you my sorrow is turned into dancing; you have taken away my clothing of grief, and given me robes of joy; 
+<sup>10</sup> Give ear to me, O Lord, and have mercy on me: Lord, be my helper.
 
-<sup>12</sup> So that my glory may make songs of praise to you and not be quiet. O Lord my God, I will give you praise for ever. 
+<sup>11</sup> By you my sorrow is turned into dancing; you have taken away my clothing of grief, and given me robes of joy;
 
-
+<sup>12</sup> So that my glory may make songs of praise to you and not be quiet. O Lord my God, I will give you praise for ever.

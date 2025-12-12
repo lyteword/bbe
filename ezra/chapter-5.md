@@ -4,38 +4,36 @@ weight: 5
 
 # Chapter 5
 
-<sup>1</sup> Now the prophets Haggai and Zechariah, the son of Iddo, were preaching to the Jews in Judah and Jerusalem in the name of the God of Israel. 
+<sup>1</sup> Now the prophets Haggai and Zechariah, the son of Iddo, were preaching to the Jews in Judah and Jerusalem in the name of the God of Israel.
 
-<sup>2</sup> Then Zerubbabel, the son of Shealtiel, and Jeshua, the son of Jozadak, got up and made a start at building the house of God at Jerusalem: and the prophets of God were with them, helping them. 
+<sup>2</sup> Then Zerubbabel, the son of Shealtiel, and Jeshua, the son of Jozadak, got up and made a start at building the house of God at Jerusalem: and the prophets of God were with them, helping them.
 
-<sup>3</sup> At the same time, Tattenai, ruler of the land across the river, and Shethar-bozenai, and their men, came to them and said, Who gave you orders to go on building this house and this wall? 
+<sup>3</sup> At the same time, Tattenai, ruler of the land across the river, and Shethar-bozenai, and their men, came to them and said, Who gave you orders to go on building this house and this wall?
 
-<sup>4</sup> Then they said these words to them: What are the names of the men who are at work on this building? 
+<sup>4</sup> Then they said these words to them: What are the names of the men who are at work on this building?
 
-<sup>5</sup> But the eye of their God was on the chiefs of the Jews, and they did not make them give up working till the question had been put before Darius and an answer had come by letter about it. 
+<sup>5</sup> But the eye of their God was on the chiefs of the Jews, and they did not make them give up working till the question had been put before Darius and an answer had come by letter about it.
 
-<sup>6</sup> This is a copy of the letter which Tattenai, the ruler of the land across the river, and Shethar-bozenai and his friends the Apharsachites, living across the river, sent to Darius the king: 
+<sup>6</sup> This is a copy of the letter which Tattenai, the ruler of the land across the river, and Shethar-bozenai and his friends the Apharsachites, living across the river, sent to Darius the king:
 
-<sup>7</sup> They sent him a letter saying, To Darius the king, all peace: 
+<sup>7</sup> They sent him a letter saying, To Darius the king, all peace:
 
-<sup>8</sup> This is to give the king word that we went into the land of Judah, to the house of the great God, which is made of great stones, and has its walls supported with wood, and the work is going on with industry, and they are doing it well. 
+<sup>8</sup> This is to give the king word that we went into the land of Judah, to the house of the great God, which is made of great stones, and has its walls supported with wood, and the work is going on with industry, and they are doing it well.
 
-<sup>9</sup> Then we said to the men responsible, who gave you authority for the building of this house and these walls? 
+<sup>9</sup> Then we said to the men responsible, who gave you authority for the building of this house and these walls?
 
-<sup>10</sup> And we made request for their names, so that we might send you word, and give you the names of the men at the head of them. 
+<sup>10</sup> And we made request for their names, so that we might send you word, and give you the names of the men at the head of them.
 
-<sup>11</sup> And they made answer to us, saying, We are the servants of the God of heaven and earth, and we are building the house which was put up in times long past and was designed and made complete by a great king of Israel. 
+<sup>11</sup> And they made answer to us, saying, We are the servants of the God of heaven and earth, and we are building the house which was put up in times long past and was designed and made complete by a great king of Israel.
 
-<sup>12</sup> But when the God of heaven was moved to wrath by our fathers, he gave them up into the hands of Nebuchadnezzar, king of Babylon, the Chaldaean, who sent destruction on this house and took the people away into Babylon. 
+<sup>12</sup> But when the God of heaven was moved to wrath by our fathers, he gave them up into the hands of Nebuchadnezzar, king of Babylon, the Chaldaean, who sent destruction on this house and took the people away into Babylon.
 
-<sup>13</sup> But in the first year of Cyrus, king of Babylon, Cyrus the king gave an order for the building of this house of God; 
+<sup>13</sup> But in the first year of Cyrus, king of Babylon, Cyrus the king gave an order for the building of this house of God;
 
-<sup>14</sup> And the gold and silver vessels of the house of God, which Nebuchadnezzar took from the Temple which was in Jerusalem, and put into the house of his god in Babylon, these Cyrus the king took from the house of his god in Babylon, and gave to one named Sheshbazzar, whom he had made ruler; 
+<sup>14</sup> And the gold and silver vessels of the house of God, which Nebuchadnezzar took from the Temple which was in Jerusalem, and put into the house of his god in Babylon, these Cyrus the king took from the house of his god in Babylon, and gave to one named Sheshbazzar, whom he had made ruler;
 
-<sup>15</sup> And he said to him, Go, take these vessels, and put them in the Temple in Jerusalem, and let the house of God be put up again in its place. 
+<sup>15</sup> And he said to him, Go, take these vessels, and put them in the Temple in Jerusalem, and let the house of God be put up again in its place.
 
-<sup>16</sup> Then this same Sheshbazzar came and put the house of God in Jerusalem on its bases: and from that time till now the building has been going on, but it is still not complete. 
+<sup>16</sup> Then this same Sheshbazzar came and put the house of God in Jerusalem on its bases: and from that time till now the building has been going on, but it is still not complete.
 
-<sup>17</sup> So now, if it seems good to the king, let search be made in the king's store-house at Babylon, to see if it is true that an order was given by Cyrus the king for the building of this house of God at Jerusalem, and let the king send us word of his pleasure in connection with this business. 
-
-
+<sup>17</sup> So now, if it seems good to the king, let search be made in the king's store-house at Babylon, to see if it is true that an order was given by Cyrus the king for the building of this house of God at Jerusalem, and let the king send us word of his pleasure in connection with this business.

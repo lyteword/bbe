@@ -4,80 +4,78 @@ weight: 15
 
 # Chapter 15
 
-<sup>1</sup> In the twenty-seventh year of the rule of Jeroboam, king of Israel, Azariah, son of Amaziah, became king of Judah. 
+<sup>1</sup> In the twenty-seventh year of the rule of Jeroboam, king of Israel, Azariah, son of Amaziah, became king of Judah.
 
-<sup>2</sup> He was sixteen years old when he became king, and he was ruling in Jerusalem for fifty-two years; his mother's name was Jecoliah of Jerusalem. 
+<sup>2</sup> He was sixteen years old when he became king, and he was ruling in Jerusalem for fifty-two years; his mother's name was Jecoliah of Jerusalem.
 
-<sup>3</sup> And he did what was right in the eyes of the Lord, as his father Amaziah had done. 
+<sup>3</sup> And he did what was right in the eyes of the Lord, as his father Amaziah had done.
 
-<sup>4</sup> But he did not take away the high places, and the people still went on making offerings and burning them in the high places. 
+<sup>4</sup> But he did not take away the high places, and the people still went on making offerings and burning them in the high places.
 
-<sup>5</sup> And the Lord sent disease on the king and he became a leper, and to the day of his death he was living separately in his private house. And Jotham his son was over his house, judging the people of the land. 
+<sup>5</sup> And the Lord sent disease on the king and he became a leper, and to the day of his death he was living separately in his private house. And Jotham his son was over his house, judging the people of the land.
 
-<sup>6</sup> Now the rest of the acts of Azariah, and all he did, are they not recorded in the book of the history of the kings of Judah? 
+<sup>6</sup> Now the rest of the acts of Azariah, and all he did, are they not recorded in the book of the history of the kings of Judah?
 
-<sup>7</sup> And Azariah went to rest with his fathers and was put into the earth with his fathers in the town of David; and Jotham his son became king in his place. 
+<sup>7</sup> And Azariah went to rest with his fathers and was put into the earth with his fathers in the town of David; and Jotham his son became king in his place.
 
-<sup>8</sup> In the thirty-eighth year of Azaliah, king of Judah, Zechariah, son of Jeroboam, was king over Israel for six months. 
+<sup>8</sup> In the thirty-eighth year of Azaliah, king of Judah, Zechariah, son of Jeroboam, was king over Israel for six months.
 
-<sup>9</sup> And he did evil in the eyes of the Lord, as his father had done, not turning away from the sin which Jeroboam, the son of Nebat, did and made Israel do. 
+<sup>9</sup> And he did evil in the eyes of the Lord, as his father had done, not turning away from the sin which Jeroboam, the son of Nebat, did and made Israel do.
 
-<sup>10</sup> And Shallum, the son of Jabesh, made a secret design against him, and, attacking him in Ibleam, put him to death and became king in his place. 
+<sup>10</sup> And Shallum, the son of Jabesh, made a secret design against him, and, attacking him in Ibleam, put him to death and became king in his place.
 
-<sup>11</sup> Now the rest of the acts of Zechariah are recorded in the book of the history of the kings of Israel. 
+<sup>11</sup> Now the rest of the acts of Zechariah are recorded in the book of the history of the kings of Israel.
 
-<sup>12</sup> This was what the Lord had said to Jehu, Your sons to the fourth generation will be kings of Israel. And so it came about. 
+<sup>12</sup> This was what the Lord had said to Jehu, Your sons to the fourth generation will be kings of Israel. And so it came about.
 
-<sup>13</sup> Shallum, the son of Jabesh, became king in the thirty-ninth year of Uzziah, king of Judah; and he was ruling in Samaria for the space of one month. 
+<sup>13</sup> Shallum, the son of Jabesh, became king in the thirty-ninth year of Uzziah, king of Judah; and he was ruling in Samaria for the space of one month.
 
-<sup>14</sup> Then Menahem, the son of Gadi, went up from Tirzah and came to Samaria, and attacking Shallum, son of Jabesh, in Samaria, put him to death and made himself king in his place. 
+<sup>14</sup> Then Menahem, the son of Gadi, went up from Tirzah and came to Samaria, and attacking Shallum, son of Jabesh, in Samaria, put him to death and made himself king in his place.
 
-<sup>15</sup> Now the rest of the acts of Shallum, and the secret design which he made, are recorded in the book of the history of the kings of Israel. 
+<sup>15</sup> Now the rest of the acts of Shallum, and the secret design which he made, are recorded in the book of the history of the kings of Israel.
 
-<sup>16</sup> Then Menahem sent destruction on Tappuah and all the people in it, and its limits, from Tirzah, because they would not let him come in; and he had all the women who were with child cut open. 
+<sup>16</sup> Then Menahem sent destruction on Tappuah and all the people in it, and its limits, from Tirzah, because they would not let him come in; and he had all the women who were with child cut open.
 
-<sup>17</sup> In the thirty-ninth year of Azariah, king of Judah, Menahem, the son of Gadi, became king over Israel, and was ruling in Samaria for ten years. 
+<sup>17</sup> In the thirty-ninth year of Azariah, king of Judah, Menahem, the son of Gadi, became king over Israel, and was ruling in Samaria for ten years.
 
-<sup>18</sup> He did evil in the eyes of the Lord; he did not keep himself from the sin which Jeroboam, the son of Nebat, did and made Israel do. 
+<sup>18</sup> He did evil in the eyes of the Lord; he did not keep himself from the sin which Jeroboam, the son of Nebat, did and made Israel do.
 
-<sup>19</sup> In his day, Pul, the king of Assyria, came up against the land; and Menahem gave Pul a thousand talents of silver so that he might let him keep the kingdom. 
+<sup>19</sup> In his day, Pul, the king of Assyria, came up against the land; and Menahem gave Pul a thousand talents of silver so that he might let him keep the kingdom.
 
-<sup>20</sup> And Menahem got the money from Israel, from all the men of wealth, fifty silver shekels from every man, to give to the king of Assyria. So the king of Assyria went back without stopping in the land. 
+<sup>20</sup> And Menahem got the money from Israel, from all the men of wealth, fifty silver shekels from every man, to give to the king of Assyria. So the king of Assyria went back without stopping in the land.
 
-<sup>21</sup> Now the rest of the acts of Menahem, and all he did, are they not recorded in the book of the history of the kings of Israel? 
+<sup>21</sup> Now the rest of the acts of Menahem, and all he did, are they not recorded in the book of the history of the kings of Israel?
 
-<sup>22</sup> And Menahem went to rest with his fathers; and Pekahiah his son became king in his place. 
+<sup>22</sup> And Menahem went to rest with his fathers; and Pekahiah his son became king in his place.
 
-<sup>23</sup> In the fiftieth year of Azariah king of Judah, Pekahiah, the son of Menahem, became king over Israel in Samaria, ruling for two years. 
+<sup>23</sup> In the fiftieth year of Azariah king of Judah, Pekahiah, the son of Menahem, became king over Israel in Samaria, ruling for two years.
 
-<sup>24</sup> He did evil in the eyes of the Lord, not turning from the sin which Jeroboam, the son of Nebat, did and made Israel do. 
+<sup>24</sup> He did evil in the eyes of the Lord, not turning from the sin which Jeroboam, the son of Nebat, did and made Israel do.
 
-<sup>25</sup> And Pekah, the son of Remaliah, his captain, made a secret design against him, attacking him in the king's great house in Samaria; and with him were fifty men of Gilead; and he put him to death and became king in his place. 
+<sup>25</sup> And Pekah, the son of Remaliah, his captain, made a secret design against him, attacking him in the king's great house in Samaria; and with him were fifty men of Gilead; and he put him to death and became king in his place.
 
-<sup>26</sup> Now the rest of the acts of Pekahiah, and all he did, are recorded in the book of the history of the kings of Israel. 
+<sup>26</sup> Now the rest of the acts of Pekahiah, and all he did, are recorded in the book of the history of the kings of Israel.
 
-<sup>27</sup> In the fifty-second year of Azariah, king of Judah, Pekah, the son of Remaliah, became king over Israel in Samaria, ruling for twenty years. 
+<sup>27</sup> In the fifty-second year of Azariah, king of Judah, Pekah, the son of Remaliah, became king over Israel in Samaria, ruling for twenty years.
 
-<sup>28</sup> He did evil in the eyes of the Lord, not turning from the sin which Jeroboam, the son of Nebat, did and made Israel do. 
+<sup>28</sup> He did evil in the eyes of the Lord, not turning from the sin which Jeroboam, the son of Nebat, did and made Israel do.
 
-<sup>29</sup> In the days of Pekah, king of Israel, Tiglath-pileser, king of Assyria, came and took Ijon and Abel-beth-maacah and Janoah and Kedesh and Hazor and Gilead and Galilee and all the land of Naphtali; and he took the people away to Assyria. 
+<sup>29</sup> In the days of Pekah, king of Israel, Tiglath-pileser, king of Assyria, came and took Ijon and Abel-beth-maacah and Janoah and Kedesh and Hazor and Gilead and Galilee and all the land of Naphtali; and he took the people away to Assyria.
 
-<sup>30</sup> And Hoshea, the son of Elah, made a secret design against Pekah, the son of Remaliah, and, attacking him, put him to death and became king in his place, in the twentieth year of Jotham, the son of Uzziah. 
+<sup>30</sup> And Hoshea, the son of Elah, made a secret design against Pekah, the son of Remaliah, and, attacking him, put him to death and became king in his place, in the twentieth year of Jotham, the son of Uzziah.
 
-<sup>31</sup> Now the rest of the acts of Pekah, and all he did, are recorded in the book of the history of the kings of Israel. 
+<sup>31</sup> Now the rest of the acts of Pekah, and all he did, are recorded in the book of the history of the kings of Israel.
 
-<sup>32</sup> In the second year of Pekah, the son of Remaliah, king of Israel, Jotham, the son of Uzziah, became king of Judah. 
+<sup>32</sup> In the second year of Pekah, the son of Remaliah, king of Israel, Jotham, the son of Uzziah, became king of Judah.
 
-<sup>33</sup> He was twenty-five years old when he became king, and he was ruling for sixteen years in Jerusalem; and his mother's name was Jerusha, the daughter of Zadok. 
+<sup>33</sup> He was twenty-five years old when he became king, and he was ruling for sixteen years in Jerusalem; and his mother's name was Jerusha, the daughter of Zadok.
 
-<sup>34</sup> And he did what was right in the eyes of the Lord, as his father Uzziah had done. 
+<sup>34</sup> And he did what was right in the eyes of the Lord, as his father Uzziah had done.
 
-<sup>35</sup> But he did not take away the high places, and the people still went on making offerings and burning them in the high places. He was the builder of the higher doorway of the house of the Lord. 
+<sup>35</sup> But he did not take away the high places, and the people still went on making offerings and burning them in the high places. He was the builder of the higher doorway of the house of the Lord.
 
-<sup>36</sup> Now the rest of the acts of Jotham, and all he did, are they not recorded in the book of the history of the kings of Judah? 
+<sup>36</sup> Now the rest of the acts of Jotham, and all he did, are they not recorded in the book of the history of the kings of Judah?
 
-<sup>37</sup> In those days the Lord first sent against Judah, Rezin, the king of Aram, and Pekah, the son of Remaliah. 
+<sup>37</sup> In those days the Lord first sent against Judah, Rezin, the king of Aram, and Pekah, the son of Remaliah.
 
-<sup>38</sup> And Jotham went to rest with his fathers, and was put into the earth in the town of David his father; and Ahaz his son became king in his place. 
-
-
+<sup>38</sup> And Jotham went to rest with his fathers, and was put into the earth in the town of David his father; and Ahaz his son became king in his place.

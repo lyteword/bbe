@@ -4,96 +4,94 @@ weight: 22
 
 # Chapter 22
 
-<sup>1</sup> And Jesus, talking to them again in stories, said: 
+<sup>1</sup> And Jesus, talking to them again in stories, said:
 
-<sup>2</sup> The kingdom of heaven is like a certain king, who made a feast when his son was married, 
+<sup>2</sup> The kingdom of heaven is like a certain king, who made a feast when his son was married,
 
-<sup>3</sup> And sent out his servants to get in the guests to the feast: and they would not come. 
+<sup>3</sup> And sent out his servants to get in the guests to the feast: and they would not come.
 
-<sup>4</sup> Again he sent out other servants, with orders to say to the guests, See, I have made ready my feast: my oxen and my fat beasts have been put to death, and all things are ready: come to the feast. 
+<sup>4</sup> Again he sent out other servants, with orders to say to the guests, See, I have made ready my feast: my oxen and my fat beasts have been put to death, and all things are ready: come to the feast.
 
-<sup>5</sup> But they gave no attention, and went about their business, one to his farm, another to his trade: 
+<sup>5</sup> But they gave no attention, and went about their business, one to his farm, another to his trade:
 
-<sup>6</sup> And the rest put violent hands on his servants, and did evil to them, and put them to death. 
+<sup>6</sup> And the rest put violent hands on his servants, and did evil to them, and put them to death.
 
-<sup>7</sup> But the king was angry; and he sent his armies, and those who had put his servants to death he gave to destruction, burning down their town with fire. 
+<sup>7</sup> But the king was angry; and he sent his armies, and those who had put his servants to death he gave to destruction, burning down their town with fire.
 
-<sup>8</sup> Then he said to his servants, The feast is ready but the guests were not good enough. 
+<sup>8</sup> Then he said to his servants, The feast is ready but the guests were not good enough.
 
-<sup>9</sup> Go then to the cross-roads, and get all those whom you see to come to the bride-feast. 
+<sup>9</sup> Go then to the cross-roads, and get all those whom you see to come to the bride-feast.
 
-<sup>10</sup> And those servants went out into the streets, and got together all those whom they came across, bad and good: and the feast was full of guests. 
+<sup>10</sup> And those servants went out into the streets, and got together all those whom they came across, bad and good: and the feast was full of guests.
 
-<sup>11</sup> But when the king came in to see the guests, he saw there a man who had not on a guest's robe; 
+<sup>11</sup> But when the king came in to see the guests, he saw there a man who had not on a guest's robe;
 
-<sup>12</sup> And he says to him, Friend, how came you in here not having a guest's robe? And he had nothing to say. 
+<sup>12</sup> And he says to him, Friend, how came you in here not having a guest's robe? And he had nothing to say.
 
-<sup>13</sup> Then the king said to the servants, Put cords round his hands and feet and put him out into the dark; there will be weeping and cries of sorrow. 
+<sup>13</sup> Then the king said to the servants, Put cords round his hands and feet and put him out into the dark; there will be weeping and cries of sorrow.
 
-<sup>14</sup> For out of all to whom the good news has come, only a small number will get salvation. 
+<sup>14</sup> For out of all to whom the good news has come, only a small number will get salvation.
 
-<sup>15</sup> Then the Pharisees went and had a meeting to see how they might make use of his words to take him. 
+<sup>15</sup> Then the Pharisees went and had a meeting to see how they might make use of his words to take him.
 
-<sup>16</sup> And they sent to him their disciples, with the Herodians, saying, Master, we see that you are true, and that you are teaching the true way of God, and have no fear of anyone, because you have no respect for a man's position. 
+<sup>16</sup> And they sent to him their disciples, with the Herodians, saying, Master, we see that you are true, and that you are teaching the true way of God, and have no fear of anyone, because you have no respect for a man's position.
 
-<sup>17</sup> Give us, then, your opinion of this: Is it right to give tax to Caesar, or not? 
+<sup>17</sup> Give us, then, your opinion of this: Is it right to give tax to Caesar, or not?
 
-<sup>18</sup> But Jesus saw their trick and said, Oh false ones, why are you attempting to put me in the wrong? 
+<sup>18</sup> But Jesus saw their trick and said, Oh false ones, why are you attempting to put me in the wrong?
 
-<sup>19</sup> Let me see the tax money. And they gave him a penny. 
+<sup>19</sup> Let me see the tax money. And they gave him a penny.
 
-<sup>20</sup> And he said to them, Whose is this image and name on it? 
+<sup>20</sup> And he said to them, Whose is this image and name on it?
 
-<sup>21</sup> They say to him, Caesar's. Then he said to them, Give to Caesar the things which are Caesar's, and to God the things which are God's. 
+<sup>21</sup> They say to him, Caesar's. Then he said to them, Give to Caesar the things which are Caesar's, and to God the things which are God's.
 
-<sup>22</sup> And hearing it, they were full of wonder, and went away from him. 
+<sup>22</sup> And hearing it, they were full of wonder, and went away from him.
 
-<sup>23</sup> On the same day there came to him the Sadducees, who say that there is no coming back from the dead: and they put a question to him, saying, 
+<sup>23</sup> On the same day there came to him the Sadducees, who say that there is no coming back from the dead: and they put a question to him, saying,
 
-<sup>24</sup> Master, Moses said, If a man, at the time of his death, has no children, let his brother take his wife, and get a family for his brother; 
+<sup>24</sup> Master, Moses said, If a man, at the time of his death, has no children, let his brother take his wife, and get a family for his brother;
 
-<sup>25</sup> Now there were among us seven brothers; and the first was married and at his death, having no seed, gave his wife to his brother; 
+<sup>25</sup> Now there were among us seven brothers; and the first was married and at his death, having no seed, gave his wife to his brother;
 
-<sup>26</sup> In the same way the second and the third, up to the seventh. 
+<sup>26</sup> In the same way the second and the third, up to the seventh.
 
-<sup>27</sup> And last of all the woman came to her end. 
+<sup>27</sup> And last of all the woman came to her end.
 
-<sup>28</sup> When they come back from the dead, then, whose wife will she be of the seven? because they all had her. 
+<sup>28</sup> When they come back from the dead, then, whose wife will she be of the seven? because they all had her.
 
-<sup>29</sup> But Jesus said to them in answer, You are in error, not having knowledge of the Writings, or of the power of God. 
+<sup>29</sup> But Jesus said to them in answer, You are in error, not having knowledge of the Writings, or of the power of God.
 
-<sup>30</sup> For when they come back from the dead there are no husbands and wives, but they are as the angels in heaven. 
+<sup>30</sup> For when they come back from the dead there are no husbands and wives, but they are as the angels in heaven.
 
-<sup>31</sup> But about the dead coming back to life, have you no knowledge of what was said to you by God in the Writings: 
+<sup>31</sup> But about the dead coming back to life, have you no knowledge of what was said to you by God in the Writings:
 
-<sup>32</sup> I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead but of the living. 
+<sup>32</sup> I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead but of the living.
 
-<sup>33</sup> And the people hearing it were surprised at his teaching. 
+<sup>33</sup> And the people hearing it were surprised at his teaching.
 
-<sup>34</sup> But the Pharisees, hearing how the mouths of the Sadducees had been stopped, came together; 
+<sup>34</sup> But the Pharisees, hearing how the mouths of the Sadducees had been stopped, came together;
 
-<sup>35</sup> And one of them, a teacher of the law, put a question to him, testing him, and saying, 
+<sup>35</sup> And one of them, a teacher of the law, put a question to him, testing him, and saying,
 
-<sup>36</sup> Master, which is the chief rule in the law? 
+<sup>36</sup> Master, which is the chief rule in the law?
 
-<sup>37</sup> And he said to him, Have love for the Lord your God with all your heart, and with all your soul, and with all your mind. 
+<sup>37</sup> And he said to him, Have love for the Lord your God with all your heart, and with all your soul, and with all your mind.
 
-<sup>38</sup> This is the first and greatest rule. 
+<sup>38</sup> This is the first and greatest rule.
 
-<sup>39</sup> And a second like it is this, Have love for your neighbour as for yourself. 
+<sup>39</sup> And a second like it is this, Have love for your neighbour as for yourself.
 
-<sup>40</sup> On these two rules all the law and the prophets are based. 
+<sup>40</sup> On these two rules all the law and the prophets are based.
 
-<sup>41</sup> Now while the Pharisees were together, Jesus put a question to them, saying, 
+<sup>41</sup> Now while the Pharisees were together, Jesus put a question to them, saying,
 
-<sup>42</sup> What is your opinion of the Christ? whose son is he? They say to him, The Son of David. 
+<sup>42</sup> What is your opinion of the Christ? whose son is he? They say to him, The Son of David.
 
-<sup>43</sup> He says to them, How then does David in the Spirit give him the name of Lord, saying, 
+<sup>43</sup> He says to them, How then does David in the Spirit give him the name of Lord, saying,
 
-<sup>44</sup> The Lord said to my Lord, Be seated at my right hand, till I put under your feet all those who are against you? 
+<sup>44</sup> The Lord said to my Lord, Be seated at my right hand, till I put under your feet all those who are against you?
 
-<sup>45</sup> If David then gives him the name of Lord, how is he his son? 
+<sup>45</sup> If David then gives him the name of Lord, how is he his son?
 
-<sup>46</sup> And no one was able to give him an answer, and so great was their fear of him, that from that day no one put any more questions to him. 
-
-
+<sup>46</sup> And no one was able to give him an answer, and so great was their fear of him, that from that day no one put any more questions to him.

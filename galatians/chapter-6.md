@@ -4,39 +4,38 @@ weight: 6
 
 # Chapter 6
 
-<sup>1</sup> Brothers, if a man is taken in any wrongdoing, you who are of the Spirit will put such a one right in a spirit of love; keeping watch on yourself, for fear that you yourself may be tested. 
+<sup>1</sup> Brothers, if a man is taken in any wrongdoing, you who are of the Spirit will put such a one right in a spirit of love; keeping watch on yourself, for fear that you yourself may be tested.
 
-<sup>2</sup> Take on yourselves one another's troubles, and so keep the law of Christ. 
+<sup>2</sup> Take on yourselves one another's troubles, and so keep the law of Christ.
 
-<sup>3</sup> For if a man has an idea that he is something when he is nothing, he is tricked by himself. 
+<sup>3</sup> For if a man has an idea that he is something when he is nothing, he is tricked by himself.
 
-<sup>4</sup> But let every man make test of his work, and then will his cause for glory be in himself only, and not in his neighbour. 
+<sup>4</sup> But let every man make test of his work, and then will his cause for glory be in himself only, and not in his neighbour.
 
-<sup>5</sup> Because every man is responsible for his part of the work. 
+<sup>5</sup> Because every man is responsible for his part of the work.
 
-<sup>6</sup> But let him who gets teaching in the word give a part in all good things to his teacher. 
+<sup>6</sup> But let him who gets teaching in the word give a part in all good things to his teacher.
 
-<sup>7</sup> Be not tricked; God is not made sport of: for whatever seed a man puts in, that will he get back as grain. 
+<sup>7</sup> Be not tricked; God is not made sport of: for whatever seed a man puts in, that will he get back as grain.
 
-<sup>8</sup> Because he who puts in the seed of the flesh will of the flesh get the reward of death; but he who puts in the seed of the Spirit will of the Spirit get the reward of eternal life. 
+<sup>8</sup> Because he who puts in the seed of the flesh will of the flesh get the reward of death; but he who puts in the seed of the Spirit will of the Spirit get the reward of eternal life.
 
-<sup>9</sup> And let us not get tired of well-doing; for at the right time we will get in the grain, if we do not give way to weariness. 
+<sup>9</sup> And let us not get tired of well-doing; for at the right time we will get in the grain, if we do not give way to weariness.
 
-<sup>10</sup> So then, as we have the chance, let us do good to all men, and specially to those who are of the family of the faith. 
+<sup>10</sup> So then, as we have the chance, let us do good to all men, and specially to those who are of the family of the faith.
 
-<sup>11</sup> See the size of the handwriting which I myself have made use of in writing to you. 
+<sup>11</sup> See the size of the handwriting which I myself have made use of in writing to you.
 
-<sup>12</sup> Those who have the desire to seem important in the flesh, put force on you to undergo circumcision; only that they may not be attacked because of the cross of Christ. 
+<sup>12</sup> Those who have the desire to seem important in the flesh, put force on you to undergo circumcision; only that they may not be attacked because of the cross of Christ.
 
-<sup>13</sup> Because even those who undergo circumcision do not themselves keep the law; but they would have you undergo circumcision, so that they may have glory in your flesh. 
+<sup>13</sup> Because even those who undergo circumcision do not themselves keep the law; but they would have you undergo circumcision, so that they may have glory in your flesh.
 
-<sup>14</sup> But far be it from me to have glory in anything, but only in the cross of our Lord Jesus Christ, through which this world has come to an end on the cross for me, and I for it. 
+<sup>14</sup> But far be it from me to have glory in anything, but only in the cross of our Lord Jesus Christ, through which this world has come to an end on the cross for me, and I for it.
 
-<sup>15</sup> For having circumcision is nothing, and not having circumcision is nothing, but only a new order of existence. 
+<sup>15</sup> For having circumcision is nothing, and not having circumcision is nothing, but only a new order of existence.
 
-<sup>16</sup> And on all who are guided by this rule be peace and mercy, and on the Israel of God. 
+<sup>16</sup> And on all who are guided by this rule be peace and mercy, and on the Israel of God.
 
-<sup>17</sup> From this time on let no man be a trouble to me; because my body is marked with the marks of Jesus. 
+<sup>17</sup> From this time on let no man be a trouble to me; because my body is marked with the marks of Jesus.
 
-<sup>18</sup> The grace of our Lord Jesus Christ be with your spirit, brothers. So be it. 
-
+<sup>18</sup> The grace of our Lord Jesus Christ be with your spirit, brothers. So be it.

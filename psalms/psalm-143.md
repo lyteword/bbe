@@ -4,28 +4,28 @@ weight: 143
 
 # Psalm 143
 
-<sup>1</sup> A Psalm. Of David. Let my prayer come to you, O Lord; give ear to my requests for your grace; keep faith with me, and give me an answer in your righteousness; 
+A Psalm. Of David.
 
-<sup>2</sup> Let not your servant come before you to be judged; for no man living is upright in your eyes. 
+<sup>1</sup> Let my prayer come to you, O Lord; give ear to my requests for your grace; keep faith with me, and give me an answer in your righteousness;
 
-<sup>3</sup> The evil man has gone after my soul; my life is crushed down to the earth: he has put me in the dark, like those who have long been dead. 
+<sup>2</sup> Let not your servant come before you to be judged; for no man living is upright in your eyes.
 
-<sup>4</sup> Because of this my spirit is overcome; and my heart is full of fear. 
+<sup>3</sup> The evil man has gone after my soul; my life is crushed down to the earth: he has put me in the dark, like those who have long been dead.
 
-<sup>5</sup> I keep in mind the early days of the past, giving thought to all your acts, even to the work of your hands. 
+<sup>4</sup> Because of this my spirit is overcome; and my heart is full of fear.
 
-<sup>6</sup> My hands are stretched out to you: my soul is turned to you, like a land in need of water. (Selah.) 
+<sup>5</sup> I keep in mind the early days of the past, giving thought to all your acts, even to the work of your hands.
 
-<sup>7</sup> Be quick in answering me, O Lord, for the strength of my spirit is gone: let me see your face, so that I may not be like those who go down into the underworld. 
+<sup>6</sup> My hands are stretched out to you: my soul is turned to you, like a land in need of water. (Selah.)
 
-<sup>8</sup> Let the story of your mercy come to me in the morning, for my hope is in you: give me knowledge of the way in which I am to go; for my soul is lifted up to you. 
+<sup>7</sup> Be quick in answering me, O Lord, for the strength of my spirit is gone: let me see your face, so that I may not be like those who go down into the underworld.
 
-<sup>9</sup> O Lord, take me out of the hands of my haters; my soul is waiting for you. 
+<sup>8</sup> Let the story of your mercy come to me in the morning, for my hope is in you: give me knowledge of the way in which I am to go; for my soul is lifted up to you.
 
-<sup>10</sup> Give me teaching so that I may do your pleasure; for you are my God: let your good Spirit be my guide into the land of righteousness. 
+<sup>9</sup> O Lord, take me out of the hands of my haters; my soul is waiting for you.
 
-<sup>11</sup> Give me life, O Lord, because of your name; in your righteousness take my soul out of trouble. 
+<sup>10</sup> Give me teaching so that I may do your pleasure; for you are my God: let your good Spirit be my guide into the land of righteousness.
 
-<sup>12</sup> And in your mercy put an end to my haters, and send destruction on all those who are against my soul; for I am your servant. 
+<sup>11</sup> Give me life, O Lord, because of your name; in your righteousness take my soul out of trouble.
 
-
+<sup>12</sup> And in your mercy put an end to my haters, and send destruction on all those who are against my soul; for I am your servant.

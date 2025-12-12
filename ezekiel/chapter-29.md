@@ -4,46 +4,44 @@ weight: 29
 
 # Chapter 29
 
-<sup>1</sup> In the tenth year, in the tenth month, on the twelfth day of the month, the word of the Lord came to me, saying, 
+<sup>1</sup> In the tenth year, in the tenth month, on the twelfth day of the month, the word of the Lord came to me, saying,
 
-<sup>2</sup> Son of man, let your face be turned against Pharaoh, king of Egypt, and be a prophet against him and against all Egypt: 
+<sup>2</sup> Son of man, let your face be turned against Pharaoh, king of Egypt, and be a prophet against him and against all Egypt:
 
-<sup>3</sup> Say to them, These are the words of the Lord: See, I am against you, Pharaoh, king of Egypt, the great river-beast stretched out among his Nile streams, who has said, The Nile is mine, and I have made it for myself. 
+<sup>3</sup> Say to them, These are the words of the Lord: See, I am against you, Pharaoh, king of Egypt, the great river-beast stretched out among his Nile streams, who has said, The Nile is mine, and I have made it for myself.
 
-<sup>4</sup> And I will put hooks in your mouth, and the fish of your streams will be hanging from your skin; and I will make you come up out of your streams, with all the fish of your streams hanging from your skin. 
+<sup>4</sup> And I will put hooks in your mouth, and the fish of your streams will be hanging from your skin; and I will make you come up out of your streams, with all the fish of your streams hanging from your skin.
 
-<sup>5</sup> And I will let you be in the waste land, you and all the fish of your streams: you will go down on the face of the land; you will not be taken up or put to rest in the earth; I have given you for food to the beasts of the field and the birds of the heaven. 
+<sup>5</sup> And I will let you be in the waste land, you and all the fish of your streams: you will go down on the face of the land; you will not be taken up or put to rest in the earth; I have given you for food to the beasts of the field and the birds of the heaven.
 
-<sup>6</sup> And it will be clear to all the people of Egypt that I am the Lord, because you have been a false support to the children of Israel. 
+<sup>6</sup> And it will be clear to all the people of Egypt that I am the Lord, because you have been a false support to the children of Israel.
 
-<sup>7</sup> When they took a grip of you in their hands, you were crushed so that their arms were broken: and when they put their weight on you for support, you were broken and all their muscles gave way. 
+<sup>7</sup> When they took a grip of you in their hands, you were crushed so that their arms were broken: and when they put their weight on you for support, you were broken and all their muscles gave way.
 
-<sup>8</sup> For this cause the Lord has said: See, I am sending a sword on you, cutting off from you man and beast. 
+<sup>8</sup> For this cause the Lord has said: See, I am sending a sword on you, cutting off from you man and beast.
 
-<sup>9</sup> And the land of Egypt will be an unpeopled waste; and they will be certain that I am the Lord: because he has said, The Nile is mine, and I made it. 
+<sup>9</sup> And the land of Egypt will be an unpeopled waste; and they will be certain that I am the Lord: because he has said, The Nile is mine, and I made it.
 
-<sup>10</sup> See, then, I am against you and against your streams, and I will make the land of Egypt an unpeopled waste, from Migdol to Syene, even as far as the edge of Ethiopia. 
+<sup>10</sup> See, then, I am against you and against your streams, and I will make the land of Egypt an unpeopled waste, from Migdol to Syene, even as far as the edge of Ethiopia.
 
-<sup>11</sup> No foot of man will go through it and no foot of beast, and it will be unpeopled for forty years. 
+<sup>11</sup> No foot of man will go through it and no foot of beast, and it will be unpeopled for forty years.
 
-<sup>12</sup> I will make the land of Egypt a waste among the countries which are made waste, and her towns will be unpeopled among the towns which have been made waste, for forty years: and I will send the Egyptians in flight among the nations and wandering through the countries. 
+<sup>12</sup> I will make the land of Egypt a waste among the countries which are made waste, and her towns will be unpeopled among the towns which have been made waste, for forty years: and I will send the Egyptians in flight among the nations and wandering through the countries.
 
-<sup>13</sup> For this is what the Lord has said: At the end of forty years I will get the Egyptians together from the peoples where they have gone in flight: 
+<sup>13</sup> For this is what the Lord has said: At the end of forty years I will get the Egyptians together from the peoples where they have gone in flight:
 
-<sup>14</sup> I will let the fate of Egypt be changed, and will make them come back into the land of Pathros, into the land from which they came; and there they will be an unimportant kingdom. 
+<sup>14</sup> I will let the fate of Egypt be changed, and will make them come back into the land of Pathros, into the land from which they came; and there they will be an unimportant kingdom.
 
-<sup>15</sup> It will be the lowest of the kingdoms, and never again will it be lifted up over the nations: I will make them small, so that they may not have rule over the nations. 
+<sup>15</sup> It will be the lowest of the kingdoms, and never again will it be lifted up over the nations: I will make them small, so that they may not have rule over the nations.
 
-<sup>16</sup> And Egypt will no longer be the hope of the children of Israel, causing sin to come to mind when their eyes are turned to them: and they will be certain that I am the Lord. 
+<sup>16</sup> And Egypt will no longer be the hope of the children of Israel, causing sin to come to mind when their eyes are turned to them: and they will be certain that I am the Lord.
 
-<sup>17</sup> Now in the twenty-seventh year, in the first month, on the first day of the month, the word of the Lord came to me, saying, 
+<sup>17</sup> Now in the twenty-seventh year, in the first month, on the first day of the month, the word of the Lord came to me, saying,
 
-<sup>18</sup> Son of man, Nebuchadrezzar, king of Babylon, made his army do hard work against Tyre, and the hair came off every head and every arm was rubbed smooth: but he and his army got no payment out of Tyre for the hard work which he had done against it. 
+<sup>18</sup> Son of man, Nebuchadrezzar, king of Babylon, made his army do hard work against Tyre, and the hair came off every head and every arm was rubbed smooth: but he and his army got no payment out of Tyre for the hard work which he had done against it.
 
-<sup>19</sup> For this cause the Lord has said: See, I am giving the land of Egypt to Nebuchadrezzar, king of Babylon: he will take away her wealth, and take her goods by force and everything which is there; and this will be the payment for his army. 
+<sup>19</sup> For this cause the Lord has said: See, I am giving the land of Egypt to Nebuchadrezzar, king of Babylon: he will take away her wealth, and take her goods by force and everything which is there; and this will be the payment for his army.
 
-<sup>20</sup> I have given him the land of Egypt as the reward for his hard work, because they were working for me, says the Lord. 
+<sup>20</sup> I have given him the land of Egypt as the reward for his hard work, because they were working for me, says the Lord.
 
-<sup>21</sup> In that day I will make a horn put out buds for the children of Israel, and I will let your words come freely among them, and they will be certain that I am the Lord. 
-
-
+<sup>21</sup> In that day I will make a horn put out buds for the children of Israel, and I will let your words come freely among them, and they will be certain that I am the Lord.

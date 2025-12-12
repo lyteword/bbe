@@ -4,24 +4,22 @@ weight: 1
 
 # Chapter 1
 
-<sup>1</sup> That which was from the first, which has come to our ears, and which we have seen with our eyes, looking on it and touching it with our hands, about the Word of life 
+<sup>1</sup> That which was from the first, which has come to our ears, and which we have seen with our eyes, looking on it and touching it with our hands, about the Word of life
 
-<sup>2</sup> (And the life was made clear to us, and we have seen it and are witnessing to it and giving you word of that eternal life which was with the Father and was seen by us); 
+<sup>2</sup> (And the life was made clear to us, and we have seen it and are witnessing to it and giving you word of that eternal life which was with the Father and was seen by us);
 
-<sup>3</sup> We give you word of all we have seen and everything which has come to our ears, so that you may be united with us; and we are united with the Father and with his Son Jesus Christ: 
+<sup>3</sup> We give you word of all we have seen and everything which has come to our ears, so that you may be united with us; and we are united with the Father and with his Son Jesus Christ:
 
-<sup>4</sup> And we are writing these things to you so that our joy may be made complete. 
+<sup>4</sup> And we are writing these things to you so that our joy may be made complete.
 
-<sup>5</sup> This is the word which came to us from him and which we give to you, that God is light and in him there is nothing dark. 
+<sup>5</sup> This is the word which came to us from him and which we give to you, that God is light and in him there is nothing dark.
 
-<sup>6</sup> If we say we are joined to him, and are walking still in the dark, our words are false and our acts are untrue: 
+<sup>6</sup> If we say we are joined to him, and are walking still in the dark, our words are false and our acts are untrue:
 
-<sup>7</sup> But if we are walking in the light, as he is in the light, we are all united with one another, and the blood of Jesus his Son makes us clean from all sin. 
+<sup>7</sup> But if we are walking in the light, as he is in the light, we are all united with one another, and the blood of Jesus his Son makes us clean from all sin.
 
-<sup>8</sup> If we say that we have no sin, we are false to ourselves and there is nothing true in us. 
+<sup>8</sup> If we say that we have no sin, we are false to ourselves and there is nothing true in us.
 
-<sup>9</sup> If we say openly that we have done wrong, he is upright and true to his word, giving us forgiveness of sins and making us clean from all evil. 
+<sup>9</sup> If we say openly that we have done wrong, he is upright and true to his word, giving us forgiveness of sins and making us clean from all evil.
 
-<sup>10</sup> If we say that we have no sin, we make him false and his word is not in us. 
-
-
+<sup>10</sup> If we say that we have no sin, we make him false and his word is not in us.

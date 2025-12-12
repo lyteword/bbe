@@ -4,50 +4,48 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> And the teaching I gave you, my brothers, was such as I was able to give, not to those who have the Spirit, but to those who are still in the flesh, even to children in Christ. 
+<sup>1</sup> And the teaching I gave you, my brothers, was such as I was able to give, not to those who have the Spirit, but to those who are still in the flesh, even to children in Christ.
 
-<sup>2</sup> I gave you milk and not meat, because you were, then, unable to take it, and even now you are not able; 
+<sup>2</sup> I gave you milk and not meat, because you were, then, unable to take it, and even now you are not able;
 
-<sup>3</sup> Because you are still in the flesh: for when there is envy and division among you, are you not still walking after the way of the flesh, even as natural men? 
+<sup>3</sup> Because you are still in the flesh: for when there is envy and division among you, are you not still walking after the way of the flesh, even as natural men?
 
-<sup>4</sup> For when one says, I am of Paul; and another says, I am of Apollos; are you not talking like natural men? 
+<sup>4</sup> For when one says, I am of Paul; and another says, I am of Apollos; are you not talking like natural men?
 
-<sup>5</sup> What then is Apollos? and what is Paul? They are but servants who gave you the good news as God gave it to them. 
+<sup>5</sup> What then is Apollos? and what is Paul? They are but servants who gave you the good news as God gave it to them.
 
-<sup>6</sup> I did the planting, Apollos did the watering, but God gave the increase. 
+<sup>6</sup> I did the planting, Apollos did the watering, but God gave the increase.
 
-<sup>7</sup> So then the planter is nothing, and the waterer is nothing; but God who gives the increase. 
+<sup>7</sup> So then the planter is nothing, and the waterer is nothing; but God who gives the increase.
 
-<sup>8</sup> Now the planter and the waterer are working for the same end: but they will have their separate rewards in the measure of their work. 
+<sup>8</sup> Now the planter and the waterer are working for the same end: but they will have their separate rewards in the measure of their work.
 
-<sup>9</sup> For we are workers with God: you are God's planting, God's building. 
+<sup>9</sup> For we are workers with God: you are God's planting, God's building.
 
-<sup>10</sup> In the measure of the grace given to me, I, as a wise master-builder, have put the base in position, and another goes on building on it. But let every man take care what he puts on it. 
+<sup>10</sup> In the measure of the grace given to me, I, as a wise master-builder, have put the base in position, and another goes on building on it. But let every man take care what he puts on it.
 
-<sup>11</sup> For there is no other base for the building but that which has been put down, which is Jesus Christ. 
+<sup>11</sup> For there is no other base for the building but that which has been put down, which is Jesus Christ.
 
-<sup>12</sup> But on the base a man may put gold, silver, stones of great price, wood, dry grass, cut stems; 
+<sup>12</sup> But on the base a man may put gold, silver, stones of great price, wood, dry grass, cut stems;
 
-<sup>13</sup> Every man's work will be made clear in that day, because it will be tested by fire; and the fire itself will make clear the quality of every man's work. 
+<sup>13</sup> Every man's work will be made clear in that day, because it will be tested by fire; and the fire itself will make clear the quality of every man's work.
 
-<sup>14</sup> If any man's work comes through the test, he will have a reward. 
+<sup>14</sup> If any man's work comes through the test, he will have a reward.
 
-<sup>15</sup> If the fire puts an end to any man's work, it will be his loss: but he will get salvation himself, though as by fire. 
+<sup>15</sup> If the fire puts an end to any man's work, it will be his loss: but he will get salvation himself, though as by fire.
 
-<sup>16</sup> Do you not see that you are God's holy house, and that the Spirit of God has his place in you? 
+<sup>16</sup> Do you not see that you are God's holy house, and that the Spirit of God has his place in you?
 
-<sup>17</sup> If anyone makes the house of God unclean, God will put an end to him; for the house of God is holy, and you are his house. 
+<sup>17</sup> If anyone makes the house of God unclean, God will put an end to him; for the house of God is holy, and you are his house.
 
-<sup>18</sup> Let no man have a false idea. If any man seems to himself to be wise among you, let him become foolish, so that he may be wise. 
+<sup>18</sup> Let no man have a false idea. If any man seems to himself to be wise among you, let him become foolish, so that he may be wise.
 
-<sup>19</sup> For the wisdom of this world is foolish before God. As it is said in the holy Writings, He who takes the wise in their secret designs: 
+<sup>19</sup> For the wisdom of this world is foolish before God. As it is said in the holy Writings, He who takes the wise in their secret designs:
 
-<sup>20</sup> And again, The Lord has knowledge of the reasonings of the wise, that they are nothing. 
+<sup>20</sup> And again, The Lord has knowledge of the reasonings of the wise, that they are nothing.
 
-<sup>21</sup> So let no one take pride in men. For all things are yours; 
+<sup>21</sup> So let no one take pride in men. For all things are yours;
 
-<sup>22</sup> Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are yours; 
+<sup>22</sup> Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are yours;
 
-<sup>23</sup> And you are Christ's; and Christ is God's. 
-
-
+<sup>23</sup> And you are Christ's; and Christ is God's.

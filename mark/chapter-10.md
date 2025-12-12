@@ -4,108 +4,106 @@ weight: 10
 
 # Chapter 10
 
-<sup>1</sup> And he got up, and went into the country of Judaea on the other side of Jordan: and great numbers of people came together to him again; and, as was his way, he gave them teaching. 
+<sup>1</sup> And he got up, and went into the country of Judaea on the other side of Jordan: and great numbers of people came together to him again; and, as was his way, he gave them teaching.
 
-<sup>2</sup> And Pharisees came to him, testing him with the question, Is it right for a man to put away his wife? 
+<sup>2</sup> And Pharisees came to him, testing him with the question, Is it right for a man to put away his wife?
 
-<sup>3</sup> And he said to them in answer, What did Moses say you were to do? 
+<sup>3</sup> And he said to them in answer, What did Moses say you were to do?
 
-<sup>4</sup> And they said to him, Moses let us give her a statement in writing, and be free from her. 
+<sup>4</sup> And they said to him, Moses let us give her a statement in writing, and be free from her.
 
-<sup>5</sup> But Jesus said to them, Because of your hard hearts he gave you this law. 
+<sup>5</sup> But Jesus said to them, Because of your hard hearts he gave you this law.
 
-<sup>6</sup> But from the first, male and female made he them. 
+<sup>6</sup> But from the first, male and female made he them.
 
-<sup>7</sup> For this cause will a man go away from his father and mother, and be joined to his wife; 
+<sup>7</sup> For this cause will a man go away from his father and mother, and be joined to his wife;
 
-<sup>8</sup> And the two will become one flesh; so that they are no longer two, but one flesh. 
+<sup>8</sup> And the two will become one flesh; so that they are no longer two, but one flesh.
 
-<sup>9</sup> Let not that which has been joined together by God be parted by man. 
+<sup>9</sup> Let not that which has been joined together by God be parted by man.
 
-<sup>10</sup> And in the house the disciples put questions to him again about this thing. 
+<sup>10</sup> And in the house the disciples put questions to him again about this thing.
 
-<sup>11</sup> And he said to them, Whoever puts away his wife and takes another, is false to his wife; 
+<sup>11</sup> And he said to them, Whoever puts away his wife and takes another, is false to his wife;
 
-<sup>12</sup> And if she herself puts away her husband and takes another, she is false to her husband. 
+<sup>12</sup> And if she herself puts away her husband and takes another, she is false to her husband.
 
-<sup>13</sup> And they took to him little children, so that he might put his hands on them: and the disciples said sharp words to them. 
+<sup>13</sup> And they took to him little children, so that he might put his hands on them: and the disciples said sharp words to them.
 
-<sup>14</sup> And when Jesus saw it, he was angry, and said to them, Let the little children come to me, and do not keep them away; for of such is the kingdom of God. 
+<sup>14</sup> And when Jesus saw it, he was angry, and said to them, Let the little children come to me, and do not keep them away; for of such is the kingdom of God.
 
-<sup>15</sup> Truly I say to you, Whoever does not put himself under the kingdom of God like a little child, will not come into it at all. 
+<sup>15</sup> Truly I say to you, Whoever does not put himself under the kingdom of God like a little child, will not come into it at all.
 
-<sup>16</sup> And he took them in his arms, and gave them a blessing, putting his hands on them. 
+<sup>16</sup> And he took them in his arms, and gave them a blessing, putting his hands on them.
 
-<sup>17</sup> And while he was going out into the way, a man came running to him, and went down on his knees, saying, Good Master, what have I to do so that I may have eternal life? 
+<sup>17</sup> And while he was going out into the way, a man came running to him, and went down on his knees, saying, Good Master, what have I to do so that I may have eternal life?
 
-<sup>18</sup> And Jesus said to him, Why do you say I am good? no one is good but one, and that is God. 
+<sup>18</sup> And Jesus said to him, Why do you say I am good? no one is good but one, and that is God.
 
-<sup>19</sup> You have knowledge of what is said in the law, Do not put any one to death, Do not be untrue in married life, Do not take what is not yours, Do not give false witness, Do not get money by deceit, Give honour to your father and mother. 
+<sup>19</sup> You have knowledge of what is said in the law, Do not put any one to death, Do not be untrue in married life, Do not take what is not yours, Do not give false witness, Do not get money by deceit, Give honour to your father and mother.
 
-<sup>20</sup> And he said to him, Master, all these laws I have kept from the time when I was young. 
+<sup>20</sup> And he said to him, Master, all these laws I have kept from the time when I was young.
 
-<sup>21</sup> And Jesus, looking on him and loving him, said, There is one thing needed: go, get money for your goods, and give it to the poor, and you will have wealth in heaven: and come with me. 
+<sup>21</sup> And Jesus, looking on him and loving him, said, There is one thing needed: go, get money for your goods, and give it to the poor, and you will have wealth in heaven: and come with me.
 
-<sup>22</sup> But his face became sad at the saying, and he went away sorrowing: for he was one who had much property. 
+<sup>22</sup> But his face became sad at the saying, and he went away sorrowing: for he was one who had much property.
 
-<sup>23</sup> And Jesus, looking round about, said to his disciples, How hard it is for those who have wealth to come into the kingdom of God! 
+<sup>23</sup> And Jesus, looking round about, said to his disciples, How hard it is for those who have wealth to come into the kingdom of God!
 
-<sup>24</sup> And the disciples were full of wonder at his words. But Jesus said to them again, Children, how hard it is for those who put faith in wealth to come into the kingdom of God! 
+<sup>24</sup> And the disciples were full of wonder at his words. But Jesus said to them again, Children, how hard it is for those who put faith in wealth to come into the kingdom of God!
 
-<sup>25</sup> It is simpler for a camel to go through a needle's eye, than for a man of wealth to come into the kingdom of God. 
+<sup>25</sup> It is simpler for a camel to go through a needle's eye, than for a man of wealth to come into the kingdom of God.
 
-<sup>26</sup> And they were greatly surprised, saying to him, Who then may have salvation? 
+<sup>26</sup> And they were greatly surprised, saying to him, Who then may have salvation?
 
-<sup>27</sup> Jesus, looking on them, said, With men it is impossible, but not with God: for all things are possible with God. 
+<sup>27</sup> Jesus, looking on them, said, With men it is impossible, but not with God: for all things are possible with God.
 
-<sup>28</sup> Peter said to him, See, we have given up everything, and come after you. 
+<sup>28</sup> Peter said to him, See, we have given up everything, and come after you.
 
-<sup>29</sup> Jesus said, Truly I say to you, There is no man who has given up house, or brothers, or sisters, or mother, or father, or children, or land, because of me and the good news, 
+<sup>29</sup> Jesus said, Truly I say to you, There is no man who has given up house, or brothers, or sisters, or mother, or father, or children, or land, because of me and the good news,
 
-<sup>30</sup> Who will not get a hundred times as much now in this time, houses, and brothers, and sisters, and mothers, and children, and land — though with great troubles; and, in the world to come, eternal life. 
+<sup>30</sup> Who will not get a hundred times as much now in this time, houses, and brothers, and sisters, and mothers, and children, and land — though with great troubles; and, in the world to come, eternal life.
 
-<sup>31</sup> But a great number who are first will be last: and those who are last will be first. 
+<sup>31</sup> But a great number who are first will be last: and those who are last will be first.
 
-<sup>32</sup> And they were on the way, going up to Jerusalem; and Jesus was going before them: and they were full of wonder; but those who came after him were in fear. And again he took the twelve, and gave them word of the things which were to come on him, 
+<sup>32</sup> And they were on the way, going up to Jerusalem; and Jesus was going before them: and they were full of wonder; but those who came after him were in fear. And again he took the twelve, and gave them word of the things which were to come on him,
 
-<sup>33</sup> Saying, See, we go up to Jerusalem; and the Son of man will be given up to the chief priests and the scribes; and they will give an order for his death, and will give him up to the Gentiles: 
+<sup>33</sup> Saying, See, we go up to Jerusalem; and the Son of man will be given up to the chief priests and the scribes; and they will give an order for his death, and will give him up to the Gentiles:
 
-<sup>34</sup> And they will make sport of him, and put shame on him, and give him cruel blows, and will put him to death; and after three days he will come back from the dead. 
+<sup>34</sup> And they will make sport of him, and put shame on him, and give him cruel blows, and will put him to death; and after three days he will come back from the dead.
 
-<sup>35</sup> And there came to him James and John, the sons of Zebedee, saying to him, Master, will you give us whatever may be our request? 
+<sup>35</sup> And there came to him James and John, the sons of Zebedee, saying to him, Master, will you give us whatever may be our request?
 
-<sup>36</sup> And he said to them, What would you have me do for you? 
+<sup>36</sup> And he said to them, What would you have me do for you?
 
-<sup>37</sup> And they said to him, Let us be seated, one at your right hand and one at your left, in your glory. 
+<sup>37</sup> And they said to him, Let us be seated, one at your right hand and one at your left, in your glory.
 
-<sup>38</sup> But Jesus said to them, You have no knowledge of what you are saying. Are you able to take of my cup? or to undergo the baptism which I am to undergo? 
+<sup>38</sup> But Jesus said to them, You have no knowledge of what you are saying. Are you able to take of my cup? or to undergo the baptism which I am to undergo?
 
-<sup>39</sup> And they said to him, We are able. And Jesus said to them, You will take of the cup from which I take; and the baptism which I am about to undergo you will undergo: 
+<sup>39</sup> And they said to him, We are able. And Jesus said to them, You will take of the cup from which I take; and the baptism which I am about to undergo you will undergo:
 
-<sup>40</sup> But to be seated at my right hand or at my left is not for me to give: but it is for those for whom it has been made ready. 
+<sup>40</sup> But to be seated at my right hand or at my left is not for me to give: but it is for those for whom it has been made ready.
 
-<sup>41</sup> And hearing this, the ten became very angry with James and John. 
+<sup>41</sup> And hearing this, the ten became very angry with James and John.
 
-<sup>42</sup> And Jesus made them come to him, and said to them, You see that those who are made rulers over the Gentiles are lords over them, and their great ones have authority over them. 
+<sup>42</sup> And Jesus made them come to him, and said to them, You see that those who are made rulers over the Gentiles are lords over them, and their great ones have authority over them.
 
-<sup>43</sup> But it is not so among you: but whoever has a desire to become great among you, let him be your servant: 
+<sup>43</sup> But it is not so among you: but whoever has a desire to become great among you, let him be your servant:
 
-<sup>44</sup> And whoever has a desire to be first among you, let him be servant of all. 
+<sup>44</sup> And whoever has a desire to be first among you, let him be servant of all.
 
-<sup>45</sup> For truly the Son of man did not come to have servants, but to be a servant, and to give his life for the salvation of men. 
+<sup>45</sup> For truly the Son of man did not come to have servants, but to be a servant, and to give his life for the salvation of men.
 
-<sup>46</sup> And they came to Jericho: and when he was going out of Jericho, with his disciples and a great number of people, the son of Timaeus, Bartimaeus, a blind man, was seated by the wayside, with his hand out for money. 
+<sup>46</sup> And they came to Jericho: and when he was going out of Jericho, with his disciples and a great number of people, the son of Timaeus, Bartimaeus, a blind man, was seated by the wayside, with his hand out for money.
 
-<sup>47</sup> And when it came to his ears that it was Jesus of Nazareth, he gave a cry, and said, Jesus, Son of David, have mercy on me. 
+<sup>47</sup> And when it came to his ears that it was Jesus of Nazareth, he gave a cry, and said, Jesus, Son of David, have mercy on me.
 
-<sup>48</sup> And some of them, turning in protest, gave him an order to be quiet: but he went on crying out all the more, Son of David, have mercy on me. 
+<sup>48</sup> And some of them, turning in protest, gave him an order to be quiet: but he went on crying out all the more, Son of David, have mercy on me.
 
-<sup>49</sup> And Jesus came to a stop and said, Let him come. And crying out to the blind man, they said to him, Be comforted: come, he has sent for you. 
+<sup>49</sup> And Jesus came to a stop and said, Let him come. And crying out to the blind man, they said to him, Be comforted: come, he has sent for you.
 
-<sup>50</sup> And he, putting off his coat, got up quickly, and came to Jesus. 
+<sup>50</sup> And he, putting off his coat, got up quickly, and came to Jesus.
 
-<sup>51</sup> And Jesus said to him, What would you have me do to you? And the blind man said, Master, make me able to see. 
+<sup>51</sup> And Jesus said to him, What would you have me do to you? And the blind man said, Master, make me able to see.
 
-<sup>52</sup> And Jesus said to him, Go on your way; your faith has made you well. And straight away he was able to see, and went after him in the way. 
-
-
+<sup>52</sup> And Jesus said to him, Go on your way; your faith has made you well. And straight away he was able to see, and went after him in the way.

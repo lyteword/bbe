@@ -4,16 +4,14 @@ weight: 4
 
 # Chapter 4
 
-<sup>1</sup> And in that day seven women will put their hands on one man, saying, There will be no need for you to give us food or clothing, only let us go under your name, so that our shame may be taken away. 
+<sup>1</sup> And in that day seven women will put their hands on one man, saying, There will be no need for you to give us food or clothing, only let us go under your name, so that our shame may be taken away.
 
-<sup>2</sup> In that day will the young growth of the Lord be beautiful in glory, and the fruit of the earth will be the pride of those who are still living in Israel. 
+<sup>2</sup> In that day will the young growth of the Lord be beautiful in glory, and the fruit of the earth will be the pride of those who are still living in Israel.
 
-<sup>3</sup> And it will come about that the rest of the living in Zion, and of those who have been kept from destruction in Jerusalem, will be named holy, even everyone who has been recorded for life in Jerusalem: 
+<sup>3</sup> And it will come about that the rest of the living in Zion, and of those who have been kept from destruction in Jerusalem, will be named holy, even everyone who has been recorded for life in Jerusalem:
 
-<sup>4</sup> When Zion has been washed from her sin by the Lord, and Jerusalem made clean from her blood by a judging and a burning wind. 
+<sup>4</sup> When Zion has been washed from her sin by the Lord, and Jerusalem made clean from her blood by a judging and a burning wind.
 
-<sup>5</sup> And over every living-place on Mount Zion, all over all her meetings, the Lord will make a cloud and smoke by day, and the shining of a flaming fire by night, for over all, the glory of the Lord will be a cover and a tent; 
+<sup>5</sup> And over every living-place on Mount Zion, all over all her meetings, the Lord will make a cloud and smoke by day, and the shining of a flaming fire by night, for over all, the glory of the Lord will be a cover and a tent;
 
-<sup>6</sup> And a shade in the daytime from the heat, and a safe cover from storm and from rain. 
-
-
+<sup>6</sup> And a shade in the daytime from the heat, and a safe cover from storm and from rain.

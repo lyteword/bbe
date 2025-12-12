@@ -4,72 +4,70 @@ weight: 13
 
 # Chapter 13
 
-<sup>1</sup> Then a man of God came from Judah by the order of the Lord to Beth-el, where Jeroboam was by the altar, burning offerings. 
+<sup>1</sup> Then a man of God came from Judah by the order of the Lord to Beth-el, where Jeroboam was by the altar, burning offerings.
 
-<sup>2</sup> And by the order of the Lord he made an outcry against the altar, saying, O altar, altar, the Lord has said, From the seed of David will come a child, named Josiah, and on you he will put to death the priests of the high places, who are burning offerings on you, and men's bones will be burned on you. 
+<sup>2</sup> And by the order of the Lord he made an outcry against the altar, saying, O altar, altar, the Lord has said, From the seed of David will come a child, named Josiah, and on you he will put to death the priests of the high places, who are burning offerings on you, and men's bones will be burned on you.
 
-<sup>3</sup> The same day he gave them a sign, saying, This is the sign which the Lord has given: See, the altar will be broken and the burned waste on it overturned. 
+<sup>3</sup> The same day he gave them a sign, saying, This is the sign which the Lord has given: See, the altar will be broken and the burned waste on it overturned.
 
-<sup>4</sup> Then the king, hearing the man of God crying out against the altar at Beth-el, put out his hand from the altar, saying, Take him prisoner. And his hand, stretched out against him, became dead, and he had no power of pulling it back. 
+<sup>4</sup> Then the king, hearing the man of God crying out against the altar at Beth-el, put out his hand from the altar, saying, Take him prisoner. And his hand, stretched out against him, became dead, and he had no power of pulling it back.
 
-<sup>5</sup> And the altar was broken and the burned waste on it overturned; this was the sign which the man of God had given by the word of the Lord. 
+<sup>5</sup> And the altar was broken and the burned waste on it overturned; this was the sign which the man of God had given by the word of the Lord.
 
-<sup>6</sup> Then the king made answer and said to the man of God, Make a prayer now for the grace of the Lord your God, and for me, that my hand may be made well. And in answer to the prayer of the man of God, the king's hand was made well again, as it was before. 
+<sup>6</sup> Then the king made answer and said to the man of God, Make a prayer now for the grace of the Lord your God, and for me, that my hand may be made well. And in answer to the prayer of the man of God, the king's hand was made well again, as it was before.
 
-<sup>7</sup> And the king said to the man of God, Come with me to my house for food and rest, and I will give you a reward. 
+<sup>7</sup> And the king said to the man of God, Come with me to my house for food and rest, and I will give you a reward.
 
-<sup>8</sup> But the man of God said to the king, Even if you gave me half of all you have, I would not go in with you, and I would not take food or a drink of water in this place; 
+<sup>8</sup> But the man of God said to the king, Even if you gave me half of all you have, I would not go in with you, and I would not take food or a drink of water in this place;
 
-<sup>9</sup> For so I was ordered by the word of the Lord, who said, You are not to take food or a drink of water, and you are not to go back the way you came. 
+<sup>9</sup> For so I was ordered by the word of the Lord, who said, You are not to take food or a drink of water, and you are not to go back the way you came.
 
-<sup>10</sup> So he went another way, and not by the way he came to Beth-el. 
+<sup>10</sup> So he went another way, and not by the way he came to Beth-el.
 
-<sup>11</sup> Now there was an old prophet living in Beth-el; and one of his sons came and gave him word of all the man of God had done that day in Beth-el, and they gave their father an account of the words he had said to the king. 
+<sup>11</sup> Now there was an old prophet living in Beth-el; and one of his sons came and gave him word of all the man of God had done that day in Beth-el, and they gave their father an account of the words he had said to the king.
 
-<sup>12</sup> Then their father said to them, Which way did he go? Now his sons had seen which way the man of God who came from Judah had gone. 
+<sup>12</sup> Then their father said to them, Which way did he go? Now his sons had seen which way the man of God who came from Judah had gone.
 
-<sup>13</sup> So the prophet said to his sons, Make ready an ass for me. So they made an ass ready, and he got on it, 
+<sup>13</sup> So the prophet said to his sons, Make ready an ass for me. So they made an ass ready, and he got on it,
 
-<sup>14</sup> And went after the man of God, and came up with him while he was seated under an oak-tree. And he said to him, Are you the man of God who came from Judah? And he said, I am. 
+<sup>14</sup> And went after the man of God, and came up with him while he was seated under an oak-tree. And he said to him, Are you the man of God who came from Judah? And he said, I am.
 
-<sup>15</sup> Then he said to him, Come back to the house with me and have a meal. 
+<sup>15</sup> Then he said to him, Come back to the house with me and have a meal.
 
-<sup>16</sup> But he said, I may not go back with you or go into your house; and I will not take food or a drink of water with you in this place; 
+<sup>16</sup> But he said, I may not go back with you or go into your house; and I will not take food or a drink of water with you in this place;
 
-<sup>17</sup> For the Lord said to me, You are not to take food or water there, or go back again by the way you came. 
+<sup>17</sup> For the Lord said to me, You are not to take food or water there, or go back again by the way you came.
 
-<sup>18</sup> Then he said to him, I am a prophet like you; and an angel said to me by the word of the Lord, Take him back with you and give him food and water. But he said false words to him. 
+<sup>18</sup> Then he said to him, I am a prophet like you; and an angel said to me by the word of the Lord, Take him back with you and give him food and water. But he said false words to him.
 
-<sup>19</sup> So he went back with him, and had a meal in his house and a drink of water. 
+<sup>19</sup> So he went back with him, and had a meal in his house and a drink of water.
 
-<sup>20</sup> But while they were seated at the table, the word of the Lord came to the prophet who had taken him back; 
+<sup>20</sup> But while they were seated at the table, the word of the Lord came to the prophet who had taken him back;
 
-<sup>21</sup> And crying out to the man of God who came from Judah, he said, The Lord says, Because you have gone against the voice of the Lord, and have not done as you were ordered by the Lord, 
+<sup>21</sup> And crying out to the man of God who came from Judah, he said, The Lord says, Because you have gone against the voice of the Lord, and have not done as you were ordered by the Lord,
 
-<sup>22</sup> But have come back, and have taken food and water in this place where he said you were to take no food or water; your dead body will not be put to rest with your fathers. 
+<sup>22</sup> But have come back, and have taken food and water in this place where he said you were to take no food or water; your dead body will not be put to rest with your fathers.
 
-<sup>23</sup> Now after the meal he made ready the ass for him, for the prophet whom he had taken back. 
+<sup>23</sup> Now after the meal he made ready the ass for him, for the prophet whom he had taken back.
 
-<sup>24</sup> And he went on his way; but on the road a lion came rushing at him and put him to death; and his dead body was stretched in the road with the ass by its side, and the lion was there by the body. 
+<sup>24</sup> And he went on his way; but on the road a lion came rushing at him and put him to death; and his dead body was stretched in the road with the ass by its side, and the lion was there by the body.
 
-<sup>25</sup> And some men, going by, saw the body stretched out in the road with the lion by its side; and they came and gave news of it in the town where the old prophet was living. 
+<sup>25</sup> And some men, going by, saw the body stretched out in the road with the lion by its side; and they came and gave news of it in the town where the old prophet was living.
 
-<sup>26</sup> Then the prophet who had made him come back, hearing it, said, It is the man of God, who went against the word of the Lord; that is why the Lord has given him to the lion to be wounded to death, as the Lord said. 
+<sup>26</sup> Then the prophet who had made him come back, hearing it, said, It is the man of God, who went against the word of the Lord; that is why the Lord has given him to the lion to be wounded to death, as the Lord said.
 
-<sup>27</sup> And he said to his sons, Make ready the ass for me. And they did so. 
+<sup>27</sup> And he said to his sons, Make ready the ass for me. And they did so.
 
-<sup>28</sup> And he went and saw the dead body stretched out in the road with the ass and the lion by its side: the lion had not taken the body for its food or done any damage to the ass. 
+<sup>28</sup> And he went and saw the dead body stretched out in the road with the ass and the lion by its side: the lion had not taken the body for its food or done any damage to the ass.
 
-<sup>29</sup> Then the prophet took up the body of the man of God and put it on the ass and took it back; and he came to the town to put the body to rest with weeping. 
+<sup>29</sup> Then the prophet took up the body of the man of God and put it on the ass and took it back; and he came to the town to put the body to rest with weeping.
 
-<sup>30</sup> And he put the body in the resting-place made ready for himself, weeping and sorrowing over it, saying, O my brother! 
+<sup>30</sup> And he put the body in the resting-place made ready for himself, weeping and sorrowing over it, saying, O my brother!
 
-<sup>31</sup> And when he had put it to rest, he said to his sons, When I am dead, then you are to put my body into the earth with the body of this man of God, and put me by his bones so that my bones may be kept safe with his bones. 
+<sup>31</sup> And when he had put it to rest, he said to his sons, When I am dead, then you are to put my body into the earth with the body of this man of God, and put me by his bones so that my bones may be kept safe with his bones.
 
-<sup>32</sup> For the outcry he made by the word of the Lord against the altar in Beth-el and against all the houses of the high places in the towns of Samaria, will certainly come about. 
+<sup>32</sup> For the outcry he made by the word of the Lord against the altar in Beth-el and against all the houses of the high places in the towns of Samaria, will certainly come about.
 
-<sup>33</sup> After this Jeroboam, not turning back from his evil ways, still made priests for his altars from among all the people; he made a priest of anyone desiring it, so that there might be priests of the high places. 
+<sup>33</sup> After this Jeroboam, not turning back from his evil ways, still made priests for his altars from among all the people; he made a priest of anyone desiring it, so that there might be priests of the high places.
 
-<sup>34</sup> And this became a sin in the family of Jeroboam, causing it to be cut off and sent to destruction from the face of the earth. 
-
-
+<sup>34</sup> And this became a sin in the family of Jeroboam, causing it to be cut off and sent to destruction from the face of the earth.

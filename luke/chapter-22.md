@@ -4,146 +4,144 @@ weight: 22
 
 # Chapter 22
 
-<sup>1</sup> Now the feast of unleavened bread was near, which is called the Passover. 
+<sup>1</sup> Now the feast of unleavened bread was near, which is called the Passover.
 
-<sup>2</sup> And the chief priests and the scribes were looking for a chance to put him to death, but they went in fear of the people. 
+<sup>2</sup> And the chief priests and the scribes were looking for a chance to put him to death, but they went in fear of the people.
 
-<sup>3</sup> And Satan came into Judas Iscariot, who was one of the twelve. 
+<sup>3</sup> And Satan came into Judas Iscariot, who was one of the twelve.
 
-<sup>4</sup> And he went away and had a discussion with the chief priests and the rulers, about how he might give him up to them. 
+<sup>4</sup> And he went away and had a discussion with the chief priests and the rulers, about how he might give him up to them.
 
-<sup>5</sup> And they were glad, and undertook to give him money. 
+<sup>5</sup> And they were glad, and undertook to give him money.
 
-<sup>6</sup> And he made an agreement with them to give him up to them, if he got a chance, when the people were not present. 
+<sup>6</sup> And he made an agreement with them to give him up to them, if he got a chance, when the people were not present.
 
-<sup>7</sup> And the day of unleavened bread came, when the Passover lamb is put to death. 
+<sup>7</sup> And the day of unleavened bread came, when the Passover lamb is put to death.
 
-<sup>8</sup> And Jesus sent Peter and John, saying, Go and make the Passover ready for us, so that we may take it. 
+<sup>8</sup> And Jesus sent Peter and John, saying, Go and make the Passover ready for us, so that we may take it.
 
-<sup>9</sup> And they said to him, Where are we to get it ready? 
+<sup>9</sup> And they said to him, Where are we to get it ready?
 
-<sup>10</sup> And he said to them, When you go into the town you will see a man coming to you with a vessel of water; go after him into the house into which he goes. 
+<sup>10</sup> And he said to them, When you go into the town you will see a man coming to you with a vessel of water; go after him into the house into which he goes.
 
-<sup>11</sup> And say to the master of the house, The Master says, Where is the guest-room, where I may take the Passover with my disciples? 
+<sup>11</sup> And say to the master of the house, The Master says, Where is the guest-room, where I may take the Passover with my disciples?
 
-<sup>12</sup> And he will take you up to a great room with a table and seats: there make ready. 
+<sup>12</sup> And he will take you up to a great room with a table and seats: there make ready.
 
-<sup>13</sup> And they went, and it was as he had said: and they made the Passover ready. 
+<sup>13</sup> And they went, and it was as he had said: and they made the Passover ready.
 
-<sup>14</sup> And when the time had come, he took his seat, and the Apostles with him. 
+<sup>14</sup> And when the time had come, he took his seat, and the Apostles with him.
 
-<sup>15</sup> And he said, I have had a great desire to keep this Passover with you before I come to my death; 
+<sup>15</sup> And he said, I have had a great desire to keep this Passover with you before I come to my death;
 
-<sup>16</sup> For I say to you, I will not take it till it is made complete in the kingdom of God. 
+<sup>16</sup> For I say to you, I will not take it till it is made complete in the kingdom of God.
 
-<sup>17</sup> And he took a cup and, having given praise, he said, Make division of this among yourselves; 
+<sup>17</sup> And he took a cup and, having given praise, he said, Make division of this among yourselves;
 
-<sup>18</sup> For I say to you, I will not take of the fruit of the vine till the kingdom of God has come. 
+<sup>18</sup> For I say to you, I will not take of the fruit of the vine till the kingdom of God has come.
 
-<sup>19</sup> And he took bread and, having given praise, he gave it to them when it had been broken, saying, This is my body, which is given for you: do this in memory of me. 
+<sup>19</sup> And he took bread and, having given praise, he gave it to them when it had been broken, saying, This is my body, which is given for you: do this in memory of me.
 
-<sup>20</sup> And in the same way, after the meal, he took the cup, saying, This cup is the new testament, made with my blood which is given for you. 
+<sup>20</sup> And in the same way, after the meal, he took the cup, saying, This cup is the new testament, made with my blood which is given for you.
 
-<sup>21</sup> But the hand of him who is false to me is with me at the table. 
+<sup>21</sup> But the hand of him who is false to me is with me at the table.
 
-<sup>22</sup> For it will be done to the Son of man after the purpose of God, but unhappy is that man by whom he is given up. 
+<sup>22</sup> For it will be done to the Son of man after the purpose of God, but unhappy is that man by whom he is given up.
 
-<sup>23</sup> And they were wondering among themselves which of them it was who would do this thing. 
+<sup>23</sup> And they were wondering among themselves which of them it was who would do this thing.
 
-<sup>24</sup> And there was an argument among them about which of them was the greatest. 
+<sup>24</sup> And there was an argument among them about which of them was the greatest.
 
-<sup>25</sup> And he said, The kings of the Gentiles are lords over them, and those who have authority are given names of honour. 
+<sup>25</sup> And he said, The kings of the Gentiles are lords over them, and those who have authority are given names of honour.
 
-<sup>26</sup> But let it not be so with you; but he who is greater, let him become like the younger; and he who is chief, like a servant. 
+<sup>26</sup> But let it not be so with you; but he who is greater, let him become like the younger; and he who is chief, like a servant.
 
-<sup>27</sup> For which is greater, the guest who is seated at a meal or the servant who is waiting on him? is it not the guest? but I am among you as a servant. 
+<sup>27</sup> For which is greater, the guest who is seated at a meal or the servant who is waiting on him? is it not the guest? but I am among you as a servant.
 
-<sup>28</sup> But you are those who have kept with me through my troubles; 
+<sup>28</sup> But you are those who have kept with me through my troubles;
 
-<sup>29</sup> And I will give you a kingdom as my Father has given one to me, 
+<sup>29</sup> And I will give you a kingdom as my Father has given one to me,
 
-<sup>30</sup> So that you may take food and drink at my table in my kingdom, and be seated like kings, judging the twelve tribes of Israel. 
+<sup>30</sup> So that you may take food and drink at my table in my kingdom, and be seated like kings, judging the twelve tribes of Israel.
 
-<sup>31</sup> Simon, Simon, Satan has made a request to have you, so that he may put you to the test as grain is tested: 
+<sup>31</sup> Simon, Simon, Satan has made a request to have you, so that he may put you to the test as grain is tested:
 
-<sup>32</sup> But I have made prayer for you, that your faith may not go from you: and when you are turned again, make your brothers strong. 
+<sup>32</sup> But I have made prayer for you, that your faith may not go from you: and when you are turned again, make your brothers strong.
 
-<sup>33</sup> And he said to him, Lord, I am ready to go with you to prison and to death. 
+<sup>33</sup> And he said to him, Lord, I am ready to go with you to prison and to death.
 
-<sup>34</sup> And he said, I say to you, Peter, before the cock's second cry today, you will say three times that you have no knowledge of me. 
+<sup>34</sup> And he said, I say to you, Peter, before the cock's second cry today, you will say three times that you have no knowledge of me.
 
-<sup>35</sup> And he said to them, When I sent you out without money or bag or shoes, were you in need of anything? And they said, Nothing. 
+<sup>35</sup> And he said to them, When I sent you out without money or bag or shoes, were you in need of anything? And they said, Nothing.
 
-<sup>36</sup> And he said to them, But now, he who has a money-bag, or a bag for food, let him take it: and he who has not, let him give his coat for money and get a sword. 
+<sup>36</sup> And he said to them, But now, he who has a money-bag, or a bag for food, let him take it: and he who has not, let him give his coat for money and get a sword.
 
-<sup>37</sup> For I say to you that these words will be put into effect in me, And he was numbered among the evil-doers: for what has been said in the Writings about me has an end. 
+<sup>37</sup> For I say to you that these words will be put into effect in me, And he was numbered among the evil-doers: for what has been said in the Writings about me has an end.
 
-<sup>38</sup> And they said, Lord, here are two swords. And he said, It is enough. 
+<sup>38</sup> And they said, Lord, here are two swords. And he said, It is enough.
 
-<sup>39</sup> And he came out, and went, as his way was, to the Mountain of Olives, and the disciples went with him. 
+<sup>39</sup> And he came out, and went, as his way was, to the Mountain of Olives, and the disciples went with him.
 
-<sup>40</sup> And when he came to the place, he said to them, Make a prayer that you may not be put to the test. 
+<sup>40</sup> And when he came to the place, he said to them, Make a prayer that you may not be put to the test.
 
-<sup>41</sup> And he went a little distance away from them and, falling on his knees in prayer, he said, 
+<sup>41</sup> And he went a little distance away from them and, falling on his knees in prayer, he said,
 
-<sup>42</sup> Father, if it is your pleasure, take this cup from me: but still, let your pleasure, not mine, be done. 
+<sup>42</sup> Father, if it is your pleasure, take this cup from me: but still, let your pleasure, not mine, be done.
 
-<sup>43</sup> And an angel from heaven came to him, to give him strength. 
+<sup>43</sup> And an angel from heaven came to him, to give him strength.
 
-<sup>44</sup> And being in great trouble of soul, the force of his prayer became stronger, and great drops, like blood, came from him, falling to the earth. 
+<sup>44</sup> And being in great trouble of soul, the force of his prayer became stronger, and great drops, like blood, came from him, falling to the earth.
 
-<sup>45</sup> And, getting up from prayer, he came to the disciples, and saw that they were sleeping for sorrow. 
+<sup>45</sup> And, getting up from prayer, he came to the disciples, and saw that they were sleeping for sorrow.
 
-<sup>46</sup> And he said, Why are you sleeping? Get up, and give yourselves to prayer, so that you may not be put to the test. 
+<sup>46</sup> And he said, Why are you sleeping? Get up, and give yourselves to prayer, so that you may not be put to the test.
 
-<sup>47</sup> And while he was saying these words, there came a band of people, and Judas, one of the twelve, was in front of them, and he came near to Jesus to give him a kiss. 
+<sup>47</sup> And while he was saying these words, there came a band of people, and Judas, one of the twelve, was in front of them, and he came near to Jesus to give him a kiss.
 
-<sup>48</sup> But Jesus said to him, Judas, will you be false to the Son of man with a kiss? 
+<sup>48</sup> But Jesus said to him, Judas, will you be false to the Son of man with a kiss?
 
-<sup>49</sup> And when those who were with him saw what was coming, they said, Lord, may we not make use of our swords? 
+<sup>49</sup> And when those who were with him saw what was coming, they said, Lord, may we not make use of our swords?
 
-<sup>50</sup> And one of them gave a blow to the servant of the high priest, cutting off his right ear. 
+<sup>50</sup> And one of them gave a blow to the servant of the high priest, cutting off his right ear.
 
-<sup>51</sup> But Jesus, answering, said, Put up with this, at least. And touching his ear, he made it well. 
+<sup>51</sup> But Jesus, answering, said, Put up with this, at least. And touching his ear, he made it well.
 
-<sup>52</sup> And Jesus said to the chief priests and the captains of the Temple and the rulers, who had come against him, Have you come out as against a thief, with swords and sticks? 
+<sup>52</sup> And Jesus said to the chief priests and the captains of the Temple and the rulers, who had come against him, Have you come out as against a thief, with swords and sticks?
 
-<sup>53</sup> When I was in the Temple with you every day, your hands were not stretched out against me: but this is your hour, and the authority of the dark power. 
+<sup>53</sup> When I was in the Temple with you every day, your hands were not stretched out against me: but this is your hour, and the authority of the dark power.
 
-<sup>54</sup> And they made him a prisoner and took him away to the house of the high priest. But Peter went after them at a distance. 
+<sup>54</sup> And they made him a prisoner and took him away to the house of the high priest. But Peter went after them at a distance.
 
-<sup>55</sup> And a fire was lighted in the middle of the open square, and they were seated together, and Peter was among them. 
+<sup>55</sup> And a fire was lighted in the middle of the open square, and they were seated together, and Peter was among them.
 
-<sup>56</sup> And a certain woman-servant, seeing him in the light of the fire, and looking at him with attention, said, This man was with him. 
+<sup>56</sup> And a certain woman-servant, seeing him in the light of the fire, and looking at him with attention, said, This man was with him.
 
-<sup>57</sup> But he said, Woman, it is not true; I have no knowledge of him. 
+<sup>57</sup> But he said, Woman, it is not true; I have no knowledge of him.
 
-<sup>58</sup> And after a little time, another saw him and said, You are one of them; and he said, Man, I am not. 
+<sup>58</sup> And after a little time, another saw him and said, You are one of them; and he said, Man, I am not.
 
-<sup>59</sup> And after about an hour, another man said, with decision, Certainly this man was with him, for he is a Galilaean. 
+<sup>59</sup> And after about an hour, another man said, with decision, Certainly this man was with him, for he is a Galilaean.
 
-<sup>60</sup> And Peter said, Man, I have no knowledge of these things of which you are talking. And straight away, while he was saying these words, there came the cry of a cock. 
+<sup>60</sup> And Peter said, Man, I have no knowledge of these things of which you are talking. And straight away, while he was saying these words, there came the cry of a cock.
 
-<sup>61</sup> And the Lord, turning, gave Peter a look. And the words of the Lord came to Peter's mind, how he had said, This night, before the hour of the cock's cry, you will be false to me three times. 
+<sup>61</sup> And the Lord, turning, gave Peter a look. And the words of the Lord came to Peter's mind, how he had said, This night, before the hour of the cock's cry, you will be false to me three times.
 
-<sup>62</sup> And he went out, weeping bitterly. 
+<sup>62</sup> And he went out, weeping bitterly.
 
-<sup>63</sup> And the men in whose hands Jesus was, made sport of him and gave him blows. 
+<sup>63</sup> And the men in whose hands Jesus was, made sport of him and gave him blows.
 
-<sup>64</sup> And, covering his eyes, they said to him, Are you prophet enough to say who gave you that blow? 
+<sup>64</sup> And, covering his eyes, they said to him, Are you prophet enough to say who gave you that blow?
 
-<sup>65</sup> And they said a number of other evil things against him. 
+<sup>65</sup> And they said a number of other evil things against him.
 
-<sup>66</sup> And when it was day, the rulers of the people came together, with the chief priests and the scribes, and they took him before their Sanhedrin, saying, 
+<sup>66</sup> And when it was day, the rulers of the people came together, with the chief priests and the scribes, and they took him before their Sanhedrin, saying,
 
-<sup>67</sup> If you are the Christ, say so. But he said, If I say so you will not have belief; 
+<sup>67</sup> If you are the Christ, say so. But he said, If I say so you will not have belief;
 
-<sup>68</sup> And if I put a question to you, you will not give an answer. 
+<sup>68</sup> And if I put a question to you, you will not give an answer.
 
-<sup>69</sup> But in the future the Son of man will be seated at the right hand of the power of God. 
+<sup>69</sup> But in the future the Son of man will be seated at the right hand of the power of God.
 
-<sup>70</sup> And they all said, Are you then the Son of God? and he said, You say that I am. 
+<sup>70</sup> And they all said, Are you then the Son of God? and he said, You say that I am.
 
-<sup>71</sup> And they said, What more need have we of witness? we have the very words of his mouth. 
-
-
+<sup>71</sup> And they said, What more need have we of witness? we have the very words of his mouth.

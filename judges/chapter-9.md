@@ -4,118 +4,116 @@ weight: 9
 
 # Chapter 9
 
-<sup>1</sup> Now Abimelech, the son of Jerubbaal, went to Shechem to his mother's family, and said to them and to all the family of his mother's father, 
+<sup>1</sup> Now Abimelech, the son of Jerubbaal, went to Shechem to his mother's family, and said to them and to all the family of his mother's father,
 
-<sup>2</sup> Say now in the ears of all the townsmen of Shechem, Is it better for you to be ruled by all the seventy sons of Jerubbaal or by one man only? And keep in mind that I am your bone and your flesh. 
+<sup>2</sup> Say now in the ears of all the townsmen of Shechem, Is it better for you to be ruled by all the seventy sons of Jerubbaal or by one man only? And keep in mind that I am your bone and your flesh.
 
-<sup>3</sup> So his mother's family said all this about him in the ears of all the townsmen of Shechem: and their hearts were turned to Abimelech, for they said, He is our brother. 
+<sup>3</sup> So his mother's family said all this about him in the ears of all the townsmen of Shechem: and their hearts were turned to Abimelech, for they said, He is our brother.
 
-<sup>4</sup> And they gave him seventy shekels of silver from the house of Baal-berith, with which Abimelech got the support of a number of uncontrolled and good-for-nothing persons. 
+<sup>4</sup> And they gave him seventy shekels of silver from the house of Baal-berith, with which Abimelech got the support of a number of uncontrolled and good-for-nothing persons.
 
-<sup>5</sup> Then he went to his father's house at Ophrah, and put his brothers, the seventy sons of Jerubbaal, to death on the same stone; however, Jotham, the youngest, kept himself safe by going away to a secret place. 
+<sup>5</sup> Then he went to his father's house at Ophrah, and put his brothers, the seventy sons of Jerubbaal, to death on the same stone; however, Jotham, the youngest, kept himself safe by going away to a secret place.
 
-<sup>6</sup> And all the townsmen of Shechem and all Beth-millo came together and went and made Abimelech their king, by the oak of the pillar in Shechem. 
+<sup>6</sup> And all the townsmen of Shechem and all Beth-millo came together and went and made Abimelech their king, by the oak of the pillar in Shechem.
 
-<sup>7</sup> Now Jotham, on hearing of it, went to the top of Mount Gerizim, and crying out with a loud voice said to them, Give ear to me, you townsmen of Shechem, so that God may give ear to you. 
+<sup>7</sup> Now Jotham, on hearing of it, went to the top of Mount Gerizim, and crying out with a loud voice said to them, Give ear to me, you townsmen of Shechem, so that God may give ear to you.
 
-<sup>8</sup> One day the trees went out to make a king for themselves; and they said to the olive-tree, Be king over us. 
+<sup>8</sup> One day the trees went out to make a king for themselves; and they said to the olive-tree, Be king over us.
 
-<sup>9</sup> But the olive-tree said to them, Am I to give up my wealth of oil, by which men give honour to God, and go waving over the trees? 
+<sup>9</sup> But the olive-tree said to them, Am I to give up my wealth of oil, by which men give honour to God, and go waving over the trees?
 
-<sup>10</sup> Then the trees said to the fig-tree, You come and be king over us. 
+<sup>10</sup> Then the trees said to the fig-tree, You come and be king over us.
 
-<sup>11</sup> But the fig-tree said to them, Am I to give up my sweet taste and my good fruit and go waving over the trees? 
+<sup>11</sup> But the fig-tree said to them, Am I to give up my sweet taste and my good fruit and go waving over the trees?
 
-<sup>12</sup> Then the trees said to the vine, You come and be king over us. 
+<sup>12</sup> Then the trees said to the vine, You come and be king over us.
 
-<sup>13</sup> But the vine said to them, Am I to give up my wine, which makes glad God and men, to go waving over the trees? 
+<sup>13</sup> But the vine said to them, Am I to give up my wine, which makes glad God and men, to go waving over the trees?
 
-<sup>14</sup> Then all the trees said to the thorn, You come and be king over us. 
+<sup>14</sup> Then all the trees said to the thorn, You come and be king over us.
 
-<sup>15</sup> And the thorn said to the trees, If it is truly your desire to make me your king, then come and put your faith in my shade; and if not, may fire come out of the thorn, burning up the cedars of Lebanon. 
+<sup>15</sup> And the thorn said to the trees, If it is truly your desire to make me your king, then come and put your faith in my shade; and if not, may fire come out of the thorn, burning up the cedars of Lebanon.
 
-<sup>16</sup> So now, if you have done truly and uprightly in making Abimelech king, and if you have done well to Jerubbaal and his house in reward for the work of his hands; 
+<sup>16</sup> So now, if you have done truly and uprightly in making Abimelech king, and if you have done well to Jerubbaal and his house in reward for the work of his hands;
 
-<sup>17</sup> (For my father made war for you, and put his life in danger, and made you free from the hands of Midian; 
+<sup>17</sup> (For my father made war for you, and put his life in danger, and made you free from the hands of Midian;
 
-<sup>18</sup> And you have gone against my father's family this day, and have put to death his sons, even seventy men on one stone, and have made Abimelech, the son of his servant-wife, king over the townsmen of Shechem because he is your brother;) 
+<sup>18</sup> And you have gone against my father's family this day, and have put to death his sons, even seventy men on one stone, and have made Abimelech, the son of his servant-wife, king over the townsmen of Shechem because he is your brother;)
 
-<sup>19</sup> If then you have done what is true and upright to Jerubbaal and his family this day, may you have joy in Abimelech, and may he have joy in you; 
+<sup>19</sup> If then you have done what is true and upright to Jerubbaal and his family this day, may you have joy in Abimelech, and may he have joy in you;
 
-<sup>20</sup> But if not, may fire come out from Abimelech, burning up the townsmen of Shechem and Beth-millo; and may fire come out from the townsmen of Shechem and Beth-millo, for the destruction of Abimelech. 
+<sup>20</sup> But if not, may fire come out from Abimelech, burning up the townsmen of Shechem and Beth-millo; and may fire come out from the townsmen of Shechem and Beth-millo, for the destruction of Abimelech.
 
-<sup>21</sup> Then Jotham straight away went in flight to Beer, and was living there for fear of his brother Abimelech. 
+<sup>21</sup> Then Jotham straight away went in flight to Beer, and was living there for fear of his brother Abimelech.
 
-<sup>22</sup> So Abimelech was chief over Israel for three years. 
+<sup>22</sup> So Abimelech was chief over Israel for three years.
 
-<sup>23</sup> And God sent an evil spirit between Abimelech and the townsmen of Shechem; and the townsmen of Shechem were false to Abimelech; 
+<sup>23</sup> And God sent an evil spirit between Abimelech and the townsmen of Shechem; and the townsmen of Shechem were false to Abimelech;
 
-<sup>24</sup> So that punishment for the violent attack made on the seventy sons of Jerubbaal, and for their blood, might come on Abimelech, their brother, who put them to death, and on the townsmen of Shechem who gave him their help in putting his brothers to death. 
+<sup>24</sup> So that punishment for the violent attack made on the seventy sons of Jerubbaal, and for their blood, might come on Abimelech, their brother, who put them to death, and on the townsmen of Shechem who gave him their help in putting his brothers to death.
 
-<sup>25</sup> And the townsmen of Shechem put secret watchers on the tops of the mountains, and they made attacks on all who went by on the road and took their goods; and word of this came to Abimelech. 
+<sup>25</sup> And the townsmen of Shechem put secret watchers on the tops of the mountains, and they made attacks on all who went by on the road and took their goods; and word of this came to Abimelech.
 
-<sup>26</sup> Then Gaal, the son of Ebed, came with his brothers, and went over to Shechem; and the men of Shechem put their faith in him. 
+<sup>26</sup> Then Gaal, the son of Ebed, came with his brothers, and went over to Shechem; and the men of Shechem put their faith in him.
 
-<sup>27</sup> And they went out into their fields and got in the fruit of their vines, and when the grapes had been crushed, they made a holy feast and went into the house of their god, and over their food and drink they were cursing Abimelech. 
+<sup>27</sup> And they went out into their fields and got in the fruit of their vines, and when the grapes had been crushed, they made a holy feast and went into the house of their god, and over their food and drink they were cursing Abimelech.
 
-<sup>28</sup> And Gaal, the son of Ebed, said, Who is Abimelech and who is Shechem, that we are to be his servants? Is it not right for the son of Jerubbaal and Zebul his captain to be servants to the men of Hamor, the father of Shechem? But why are we to be his servants? 
+<sup>28</sup> And Gaal, the son of Ebed, said, Who is Abimelech and who is Shechem, that we are to be his servants? Is it not right for the son of Jerubbaal and Zebul his captain to be servants to the men of Hamor, the father of Shechem? But why are we to be his servants?
 
-<sup>29</sup> If only I had authority over this people! I would put Abimelech out of the way, and I would say to Abimelech, Make your army strong, and come out. 
+<sup>29</sup> If only I had authority over this people! I would put Abimelech out of the way, and I would say to Abimelech, Make your army strong, and come out.
 
-<sup>30</sup> Now Zebul, the ruler of the town, hearing what Gaal, the son of Ebed, had said, was moved to wrath. 
+<sup>30</sup> Now Zebul, the ruler of the town, hearing what Gaal, the son of Ebed, had said, was moved to wrath.
 
-<sup>31</sup> And he sent to Abimelech at Arumah, saying, See, Gaal, the son of Ebed, and his brothers have come to Shechem, and they are working up the town against you. 
+<sup>31</sup> And he sent to Abimelech at Arumah, saying, See, Gaal, the son of Ebed, and his brothers have come to Shechem, and they are working up the town against you.
 
-<sup>32</sup> So now, get up by night, you and your people, and keep watch in the field secretly; 
+<sup>32</sup> So now, get up by night, you and your people, and keep watch in the field secretly;
 
-<sup>33</sup> And in the morning, when the sun is up, get up early and make a rush on the town; and when he and his people come out against you, do to them whatever you have a chance to do. 
+<sup>33</sup> And in the morning, when the sun is up, get up early and make a rush on the town; and when he and his people come out against you, do to them whatever you have a chance to do.
 
-<sup>34</sup> So Abimelech and the people with him got up by night, in four bands, to make a surprise attack on Shechem. 
+<sup>34</sup> So Abimelech and the people with him got up by night, in four bands, to make a surprise attack on Shechem.
 
-<sup>35</sup> And Gaal, the son of Ebed, went out, and took his place at the doorway into the town; then Abimelech and his people got up from the place where they had been waiting. 
+<sup>35</sup> And Gaal, the son of Ebed, went out, and took his place at the doorway into the town; then Abimelech and his people got up from the place where they had been waiting.
 
-<sup>36</sup> And when Gaal saw the people, he said to Zebul, See! people are coming down from the tops of the mountains. And Zebul said to him, You see the shade of the mountains like men. 
+<sup>36</sup> And when Gaal saw the people, he said to Zebul, See! people are coming down from the tops of the mountains. And Zebul said to him, You see the shade of the mountains like men.
 
-<sup>37</sup> And Gaal said again, See! people are coming down from the middle of the land, and one band is coming by way of the oak-tree of the Seers. 
+<sup>37</sup> And Gaal said again, See! people are coming down from the middle of the land, and one band is coming by way of the oak-tree of the Seers.
 
-<sup>38</sup> Then Zebul said to him, Now where is your loud talk when you said, Who is Abimelech that we are to be his servants? Is this not the people whom you were rating so low? Go out now, and make war on them. 
+<sup>38</sup> Then Zebul said to him, Now where is your loud talk when you said, Who is Abimelech that we are to be his servants? Is this not the people whom you were rating so low? Go out now, and make war on them.
 
-<sup>39</sup> So Gaal went out at the head of the townsmen of Shechem and made war on Abimelech. 
+<sup>39</sup> So Gaal went out at the head of the townsmen of Shechem and made war on Abimelech.
 
-<sup>40</sup> And Abimelech went after him and he went in flight before him; and a great number were falling by the sword all the way up to the town. 
+<sup>40</sup> And Abimelech went after him and he went in flight before him; and a great number were falling by the sword all the way up to the town.
 
-<sup>41</sup> Then Abimelech went back to Arumah; and Zebul sent Gaal and his brothers away and would not let them go on living in Shechem. 
+<sup>41</sup> Then Abimelech went back to Arumah; and Zebul sent Gaal and his brothers away and would not let them go on living in Shechem.
 
-<sup>42</sup> Now the day after, the people went out into the fields; and news of it came to Abimelech. 
+<sup>42</sup> Now the day after, the people went out into the fields; and news of it came to Abimelech.
 
-<sup>43</sup> And he took his people, separating them into three bands, and was waiting secretly in the field; and when he saw the people coming out of the town, he went up and made an attack on them. 
+<sup>43</sup> And he took his people, separating them into three bands, and was waiting secretly in the field; and when he saw the people coming out of the town, he went up and made an attack on them.
 
-<sup>44</sup> And Abimelech with his band made a rush, and took up their position at the doorway into the town; and the other two bands made a rush on all those who were in the fields, and overcame them. 
+<sup>44</sup> And Abimelech with his band made a rush, and took up their position at the doorway into the town; and the other two bands made a rush on all those who were in the fields, and overcame them.
 
-<sup>45</sup> And all that day Abimelech was fighting against the town; and he took it, and put to death the people who were in it, and had the town pulled down and covered with salt. 
+<sup>45</sup> And all that day Abimelech was fighting against the town; and he took it, and put to death the people who were in it, and had the town pulled down and covered with salt.
 
-<sup>46</sup> Then all the townsmen of the tower of Shechem, hearing of it, went into the inner room of the house of El-berith. 
+<sup>46</sup> Then all the townsmen of the tower of Shechem, hearing of it, went into the inner room of the house of El-berith.
 
-<sup>47</sup> And word was given to Abimelech that all the men of the tower of Shechem were there together. 
+<sup>47</sup> And word was given to Abimelech that all the men of the tower of Shechem were there together.
 
-<sup>48</sup> Then Abimelech went up to Mount Zalmon, with all his people; and Abimelech took an axe in his hand and, cutting down branches of trees, took them and put them on his back. And he said to the people who were with him, Be quick and do as you have seen me do. 
+<sup>48</sup> Then Abimelech went up to Mount Zalmon, with all his people; and Abimelech took an axe in his hand and, cutting down branches of trees, took them and put them on his back. And he said to the people who were with him, Be quick and do as you have seen me do.
 
-<sup>49</sup> So all the people got branches, every man cutting down a branch, and they went with Abimelech at their head and, massing the branches against the inner room, put fire to the room over them; so all those who were in the tower of Shechem, about a thousand men and women, were burned to death with it. 
+<sup>49</sup> So all the people got branches, every man cutting down a branch, and they went with Abimelech at their head and, massing the branches against the inner room, put fire to the room over them; so all those who were in the tower of Shechem, about a thousand men and women, were burned to death with it.
 
-<sup>50</sup> Then Abimelech went to Thebez, and put his army in position against Thebez and took it. 
+<sup>50</sup> Then Abimelech went to Thebez, and put his army in position against Thebez and took it.
 
-<sup>51</sup> But in the middle of the town there was a strong tower, to which all the men and women of the town went in flight and, shutting themselves in, went up to the roof of the tower. 
+<sup>51</sup> But in the middle of the town there was a strong tower, to which all the men and women of the town went in flight and, shutting themselves in, went up to the roof of the tower.
 
-<sup>52</sup> And Abimelech came to the tower and made an attack on it, and got near to the door of the tower for the purpose of firing it. 
+<sup>52</sup> And Abimelech came to the tower and made an attack on it, and got near to the door of the tower for the purpose of firing it.
 
-<sup>53</sup> But a certain woman sent a great stone, such as is used for crushing grain, on to the head of Abimelech, cracking the bone. 
+<sup>53</sup> But a certain woman sent a great stone, such as is used for crushing grain, on to the head of Abimelech, cracking the bone.
 
-<sup>54</sup> Then quickly crying out to his body-servant, he said to him, Take out your sword and put an end to me straight away, so that men may not say of me, His death was the work of a woman. So the young man put his sword through him, causing his death. 
+<sup>54</sup> Then quickly crying out to his body-servant, he said to him, Take out your sword and put an end to me straight away, so that men may not say of me, His death was the work of a woman. So the young man put his sword through him, causing his death.
 
-<sup>55</sup> And when the men of Israel saw that Abimelech was dead, they went away, every man to his place. 
+<sup>55</sup> And when the men of Israel saw that Abimelech was dead, they went away, every man to his place.
 
-<sup>56</sup> In this way Abimelech was rewarded by God for the evil he had done to his father in putting his seventy brothers to death; 
+<sup>56</sup> In this way Abimelech was rewarded by God for the evil he had done to his father in putting his seventy brothers to death;
 
-<sup>57</sup> And God sent back on to the heads of the men of Shechem all the evil they had done, and the curse of Jotham, the son of Jerubbaal, came on them. 
-
-
+<sup>57</sup> And God sent back on to the heads of the men of Shechem all the evil they had done, and the curse of Jotham, the son of Jerubbaal, came on them.

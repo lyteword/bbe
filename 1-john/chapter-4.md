@@ -4,46 +4,44 @@ weight: 4
 
 # Chapter 4
 
-<sup>1</sup> My loved ones, do not put your faith in every spirit, but put them to the test, to see if they are from God: because a great number of false prophets have gone out into the world. 
+<sup>1</sup> My loved ones, do not put your faith in every spirit, but put them to the test, to see if they are from God: because a great number of false prophets have gone out into the world.
 
-<sup>2</sup> By this you may have knowledge of the Spirit of God: every spirit which says that Jesus Christ has come in the flesh is of God: 
+<sup>2</sup> By this you may have knowledge of the Spirit of God: every spirit which says that Jesus Christ has come in the flesh is of God:
 
-<sup>3</sup> And every spirit which does not say this is not from God: this is the spirit of Antichrist, of which you have had word; and it is in the world even now. 
+<sup>3</sup> And every spirit which does not say this is not from God: this is the spirit of Antichrist, of which you have had word; and it is in the world even now.
 
-<sup>4</sup> You are of God, my little children, and you have overcome them because he who is in you is greater than he who is in the world. 
+<sup>4</sup> You are of God, my little children, and you have overcome them because he who is in you is greater than he who is in the world.
 
-<sup>5</sup> They are of the world, so their talk is the world's talk, and the world gives ear to them. 
+<sup>5</sup> They are of the world, so their talk is the world's talk, and the world gives ear to them.
 
-<sup>6</sup> We are of God: he who has the knowledge of God gives ear to us; he who is not of God does not give ear to us. By this we may see which is the true spirit, and which is the spirit of error. 
+<sup>6</sup> We are of God: he who has the knowledge of God gives ear to us; he who is not of God does not give ear to us. By this we may see which is the true spirit, and which is the spirit of error.
 
-<sup>7</sup> My loved ones, let us have love for one another: because love is of God, and everyone who has love is a child of God and has knowledge of God. 
+<sup>7</sup> My loved ones, let us have love for one another: because love is of God, and everyone who has love is a child of God and has knowledge of God.
 
-<sup>8</sup> He who has no love has no knowledge of God, because God is love. 
+<sup>8</sup> He who has no love has no knowledge of God, because God is love.
 
-<sup>9</sup> And the love of God was made clear to us when he sent his only Son into the world so that we might have life through him. 
+<sup>9</sup> And the love of God was made clear to us when he sent his only Son into the world so that we might have life through him.
 
-<sup>10</sup> And this is love, not that we had love for God, but that he had love for us, and sent his Son to be an offering for our sins. 
+<sup>10</sup> And this is love, not that we had love for God, but that he had love for us, and sent his Son to be an offering for our sins.
 
-<sup>11</sup> My loved ones, if God had such love for us, it is right for us to have love for one another. 
+<sup>11</sup> My loved ones, if God had such love for us, it is right for us to have love for one another.
 
-<sup>12</sup> No man has ever seen God: if we have love for one another, God is in us and his love is made complete in us: 
+<sup>12</sup> No man has ever seen God: if we have love for one another, God is in us and his love is made complete in us:
 
-<sup>13</sup> And his Spirit which he has given us is the witness that we are in him and he is in us. 
+<sup>13</sup> And his Spirit which he has given us is the witness that we are in him and he is in us.
 
-<sup>14</sup> And we have seen and give witness that the Father sent the Son to be the Saviour of the world. 
+<sup>14</sup> And we have seen and give witness that the Father sent the Son to be the Saviour of the world.
 
-<sup>15</sup> Everyone who says openly that Jesus is the Son of God, has God in him and is in God. 
+<sup>15</sup> Everyone who says openly that Jesus is the Son of God, has God in him and is in God.
 
-<sup>16</sup> And we have seen and had faith in the love which God has for us. God is love, and everyone who has love is in God, and God is in him. 
+<sup>16</sup> And we have seen and had faith in the love which God has for us. God is love, and everyone who has love is in God, and God is in him.
 
-<sup>17</sup> In this way love is made complete in us, so that we may be without fear on the day of judging, because as he is, so are we in this world. 
+<sup>17</sup> In this way love is made complete in us, so that we may be without fear on the day of judging, because as he is, so are we in this world.
 
-<sup>18</sup> There is no fear in love: true love has no room for fear, because where fear is, there is pain; and he who is not free from fear is not complete in love. 
+<sup>18</sup> There is no fear in love: true love has no room for fear, because where fear is, there is pain; and he who is not free from fear is not complete in love.
 
-<sup>19</sup> We have the power of loving, because he first had love for us. 
+<sup>19</sup> We have the power of loving, because he first had love for us.
 
-<sup>20</sup> If a man says, I have love for God, and has hate for his brother, his words are false: for how is the man who has no love for his brother whom he has seen, able to have love for God whom he has not seen? 
+<sup>20</sup> If a man says, I have love for God, and has hate for his brother, his words are false: for how is the man who has no love for his brother whom he has seen, able to have love for God whom he has not seen?
 
-<sup>21</sup> And this is the word which we have from him, that he who has love for God is to have the same love for his brother. 
-
-
+<sup>21</sup> And this is the word which we have from him, that he who has love for God is to have the same love for his brother.

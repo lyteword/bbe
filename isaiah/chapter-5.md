@@ -4,64 +4,62 @@ weight: 5
 
 # Chapter 5
 
-<sup>1</sup> Let me make a song about my loved one, a song of love for his vine-garden. My loved one had a vine-garden on a fertile hill: 
+<sup>1</sup> Let me make a song about my loved one, a song of love for his vine-garden. My loved one had a vine-garden on a fertile hill:
 
-<sup>2</sup> And after working the earth of it with a spade, he took away its stones, and put in it a very special vine; and he put up a watchtower in the middle of it, hollowing out in the rock a place for the grape-crushing; and he was hoping that it would give the best grapes, but it gave common grapes. 
+<sup>2</sup> And after working the earth of it with a spade, he took away its stones, and put in it a very special vine; and he put up a watchtower in the middle of it, hollowing out in the rock a place for the grape-crushing; and he was hoping that it would give the best grapes, but it gave common grapes.
 
-<sup>3</sup> And now, you people of Jerusalem and you men of Judah, be the judges between me and my vine-garden. 
+<sup>3</sup> And now, you people of Jerusalem and you men of Judah, be the judges between me and my vine-garden.
 
-<sup>4</sup> Is there anything which might have been done for my vine-garden which I have not done? why then, when I was hoping for the best grapes did it give me common grapes? 
+<sup>4</sup> Is there anything which might have been done for my vine-garden which I have not done? why then, when I was hoping for the best grapes did it give me common grapes?
 
-<sup>5</sup> And now, this is what I will do to my vine-garden: I will take away the circle of thorns round it, and it will be burned up; its wall will be broken down and the beasts of the field will go through it; 
+<sup>5</sup> And now, this is what I will do to my vine-garden: I will take away the circle of thorns round it, and it will be burned up; its wall will be broken down and the beasts of the field will go through it;
 
-<sup>6</sup> And I will make it waste; its branches will not be touched with the knife, or the earth worked with the spade; but blackberries and thorns will come up in it: and I will give orders to the clouds not to send rain on it. 
+<sup>6</sup> And I will make it waste; its branches will not be touched with the knife, or the earth worked with the spade; but blackberries and thorns will come up in it: and I will give orders to the clouds not to send rain on it.
 
-<sup>7</sup> For the vine-garden of the Lord of armies is the people of Israel, and the men of Judah are the plant of his delight: and he was looking for upright judging, and there was blood; for righteousness, and there was a cry for help. 
+<sup>7</sup> For the vine-garden of the Lord of armies is the people of Israel, and the men of Judah are the plant of his delight: and he was looking for upright judging, and there was blood; for righteousness, and there was a cry for help.
 
-<sup>8</sup> Cursed are those who are joining house to house, and putting field to field, till there is no more living-space for any but themselves in all the land! 
+<sup>8</sup> Cursed are those who are joining house to house, and putting field to field, till there is no more living-space for any but themselves in all the land!
 
-<sup>9</sup> The Lord of armies has said to me secretly, Truly, numbers of great and fair houses will be waste, with no one living in them. 
+<sup>9</sup> The Lord of armies has said to me secretly, Truly, numbers of great and fair houses will be waste, with no one living in them.
 
-<sup>10</sup> For ten fields of vines will only give one measure of wine, and a great amount of seed will only give a small measure of grain. 
+<sup>10</sup> For ten fields of vines will only give one measure of wine, and a great amount of seed will only give a small measure of grain.
 
-<sup>11</sup> Cursed are those who get up early in the morning to give themselves up to strong drink; who keep on drinking far into the night till they are heated with wine! 
+<sup>11</sup> Cursed are those who get up early in the morning to give themselves up to strong drink; who keep on drinking far into the night till they are heated with wine!
 
-<sup>12</sup> And corded instruments and wind-instruments and wine are in their feasts: but they give no thought to the work of the Lord, and they are not interested in what his hands are doing. 
+<sup>12</sup> And corded instruments and wind-instruments and wine are in their feasts: but they give no thought to the work of the Lord, and they are not interested in what his hands are doing.
 
-<sup>13</sup> For this cause my people are taken away as prisoners into strange countries for need of knowledge: and their rulers are wasted for need of food, and their loud-voiced feasters are dry for need of water. 
+<sup>13</sup> For this cause my people are taken away as prisoners into strange countries for need of knowledge: and their rulers are wasted for need of food, and their loud-voiced feasters are dry for need of water.
 
-<sup>14</sup> For this cause the underworld has made wide its throat, opening its mouth without limit: and her glory, and the noise of her masses, and her loud-voiced feasters, will go down into it. 
+<sup>14</sup> For this cause the underworld has made wide its throat, opening its mouth without limit: and her glory, and the noise of her masses, and her loud-voiced feasters, will go down into it.
 
-<sup>15</sup> And the poor man's head is bent, and the great man goes down on his face, and the eyes of pride are put to shame: 
+<sup>15</sup> And the poor man's head is bent, and the great man goes down on his face, and the eyes of pride are put to shame:
 
-<sup>16</sup> But the Lord of armies is lifted up as judge, and the Holy God is seen to be holy in righteousness. 
+<sup>16</sup> But the Lord of armies is lifted up as judge, and the Holy God is seen to be holy in righteousness.
 
-<sup>17</sup> Then the lambs will get food as in their grass-lands, and the fat cattle will be feasting in the waste places. 
+<sup>17</sup> Then the lambs will get food as in their grass-lands, and the fat cattle will be feasting in the waste places.
 
-<sup>18</sup> Cursed are those who make use of ox-cords for pulling the evil thing, and the bands of a young ox for their sin! 
+<sup>18</sup> Cursed are those who make use of ox-cords for pulling the evil thing, and the bands of a young ox for their sin!
 
-<sup>19</sup> Who say, Let him do his work quickly, let him make it sudden, so that we may see it: let the design of the Holy One of Israel come near, so that it may be clear to us. 
+<sup>19</sup> Who say, Let him do his work quickly, let him make it sudden, so that we may see it: let the design of the Holy One of Israel come near, so that it may be clear to us.
 
-<sup>20</sup> Cursed are those who give the name of good to evil, and of evil to what is good: who make light dark, and dark light: who make bitter sweet, and sweet bitter! 
+<sup>20</sup> Cursed are those who give the name of good to evil, and of evil to what is good: who make light dark, and dark light: who make bitter sweet, and sweet bitter!
 
-<sup>21</sup> Cursed are those who seem wise to themselves, and who take pride in their knowledge! 
+<sup>21</sup> Cursed are those who seem wise to themselves, and who take pride in their knowledge!
 
-<sup>22</sup> Cursed are those who are strong to take wine, and great in making mixed drinks! 
+<sup>22</sup> Cursed are those who are strong to take wine, and great in making mixed drinks!
 
-<sup>23</sup> Who for a reward give support to the cause of the sinner, and who take away the righteousness of the upright from him. 
+<sup>23</sup> Who for a reward give support to the cause of the sinner, and who take away the righteousness of the upright from him.
 
-<sup>24</sup> For this cause, as the waste of the grain is burned up by tongues of fire, and as the dry grass goes down before the flame, so their root will be like the dry stems of grain, and their flower will go up in dust: because they have gone against the law of the Lord of armies, and have given no honour to the word of the Holy One of Israel. 
+<sup>24</sup> For this cause, as the waste of the grain is burned up by tongues of fire, and as the dry grass goes down before the flame, so their root will be like the dry stems of grain, and their flower will go up in dust: because they have gone against the law of the Lord of armies, and have given no honour to the word of the Holy One of Israel.
 
-<sup>25</sup> For this reason the wrath of the Lord has been burning against his people, and his hand has been stretched out against them in punishment, and the hills were shaking, and their dead bodies were like waste in the open places of the town. 
+<sup>25</sup> For this reason the wrath of the Lord has been burning against his people, and his hand has been stretched out against them in punishment, and the hills were shaking, and their dead bodies were like waste in the open places of the town.
 
-<sup>26</sup> And he will let a flag be lifted up as a sign to a far-off nation, whistling to them from the ends of the earth: and they will come quickly and suddenly. 
+<sup>26</sup> And he will let a flag be lifted up as a sign to a far-off nation, whistling to them from the ends of the earth: and they will come quickly and suddenly.
 
-<sup>27</sup> There is no weariness among them, and no man is feeble-footed: they come without resting or sleeping, and the cord of their shoes is not broken. 
+<sup>27</sup> There is no weariness among them, and no man is feeble-footed: they come without resting or sleeping, and the cord of their shoes is not broken.
 
-<sup>28</sup> Their arrows are sharp, and every bow is bent: the feet of their horses are like rock, and their wheels are like a rushing storm. 
+<sup>28</sup> Their arrows are sharp, and every bow is bent: the feet of their horses are like rock, and their wheels are like a rushing storm.
 
-<sup>29</sup> The sound of their armies will be like the voice of a lion, and their war-cry like the noise of young lions: with loud cries they will come down on their food and will take it away safely, and there will be no one to take it out of their hands. 
+<sup>29</sup> The sound of their armies will be like the voice of a lion, and their war-cry like the noise of young lions: with loud cries they will come down on their food and will take it away safely, and there will be no one to take it out of their hands.
 
-<sup>30</sup> And his voice will be loud over him in that day like the sounding of the sea: and if a man's eyes are turned to the earth, it is all dark and full of trouble; and the light is made dark by thick clouds. 
-
-
+<sup>30</sup> And his voice will be loud over him in that day like the sounding of the sea: and if a man's eyes are turned to the earth, it is all dark and full of trouble; and the light is made dark by thick clouds.

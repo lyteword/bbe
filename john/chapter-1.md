@@ -4,106 +4,104 @@ weight: 1
 
 # Chapter 1
 
-<sup>1</sup> From the first he was the Word, and the Word was in relation with God and was God. 
+<sup>1</sup> From the first he was the Word, and the Word was in relation with God and was God.
 
-<sup>2</sup> This Word was from the first in relation with God. 
+<sup>2</sup> This Word was from the first in relation with God.
 
-<sup>3</sup> All things came into existence through him, and without him nothing was. 
+<sup>3</sup> All things came into existence through him, and without him nothing was.
 
-<sup>4</sup> What came into existence in him was life, and the life was the light of men. 
+<sup>4</sup> What came into existence in him was life, and the life was the light of men.
 
-<sup>5</sup> And the light goes on shining in the dark; it is not overcome by the dark. 
+<sup>5</sup> And the light goes on shining in the dark; it is not overcome by the dark.
 
-<sup>6</sup> There was a man sent from God, whose name was John. 
+<sup>6</sup> There was a man sent from God, whose name was John.
 
-<sup>7</sup> He came for witness, to give witness about the light, so that all men might have faith through him. 
+<sup>7</sup> He came for witness, to give witness about the light, so that all men might have faith through him.
 
-<sup>8</sup> He himself was not the light: he was sent to give witness about the light. 
+<sup>8</sup> He himself was not the light: he was sent to give witness about the light.
 
-<sup>9</sup> The true light, which gives light to every man, was then coming into the world. 
+<sup>9</sup> The true light, which gives light to every man, was then coming into the world.
 
-<sup>10</sup> He was in the world, the world which came into being through him, but the world had no knowledge of him. 
+<sup>10</sup> He was in the world, the world which came into being through him, but the world had no knowledge of him.
 
-<sup>11</sup> He came to the things which were his and his people did not take him to their hearts. 
+<sup>11</sup> He came to the things which were his and his people did not take him to their hearts.
 
-<sup>12</sup> To all those who did so take him, however, he gave the right of becoming children of God — that is, to those who had faith in his name: 
+<sup>12</sup> To all those who did so take him, however, he gave the right of becoming children of God — that is, to those who had faith in his name:
 
-<sup>13</sup> Whose birth was from God and not from blood, or from an impulse of the flesh and man's desire. 
+<sup>13</sup> Whose birth was from God and not from blood, or from an impulse of the flesh and man's desire.
 
-<sup>14</sup> And so the Word became flesh and took a place among us for a time; and we saw his glory — such glory as is given to an only son by his father — saw it to be true and full of grace. 
+<sup>14</sup> And so the Word became flesh and took a place among us for a time; and we saw his glory — such glory as is given to an only son by his father — saw it to be true and full of grace.
 
-<sup>15</sup> John gave witness about him, crying, This is he of whom I said, He who is coming after me is put over me because he was in existence before me. 
+<sup>15</sup> John gave witness about him, crying, This is he of whom I said, He who is coming after me is put over me because he was in existence before me.
 
-<sup>16</sup> From his full measure we have all been given grace on grace. 
+<sup>16</sup> From his full measure we have all been given grace on grace.
 
-<sup>17</sup> For the law was given through Moses; grace and the true way of life are ours through Jesus Christ. 
+<sup>17</sup> For the law was given through Moses; grace and the true way of life are ours through Jesus Christ.
 
-<sup>18</sup> No man has seen God at any time; the only Son, who is on the breast of the Father, he has made clear what God is. 
+<sup>18</sup> No man has seen God at any time; the only Son, who is on the breast of the Father, he has made clear what God is.
 
-<sup>19</sup> And this is the witness of John when the Jews sent priests and Levites from Jerusalem to him with the question, Who are you? 
+<sup>19</sup> And this is the witness of John when the Jews sent priests and Levites from Jerusalem to him with the question, Who are you?
 
-<sup>20</sup> He said quite openly and straightforwardly, I am not the Christ. 
+<sup>20</sup> He said quite openly and straightforwardly, I am not the Christ.
 
-<sup>21</sup> And they said to him, What then? Are you Elijah? And he said, I am not. Are you the prophet? And his answer was, I am not. 
+<sup>21</sup> And they said to him, What then? Are you Elijah? And he said, I am not. Are you the prophet? And his answer was, I am not.
 
-<sup>22</sup> So they said to him, Who are you then? We have to give some answer to those who sent us. What have you to say about yourself? 
+<sup>22</sup> So they said to him, Who are you then? We have to give some answer to those who sent us. What have you to say about yourself?
 
-<sup>23</sup> He said, I am the voice of one crying in the waste land, Make straight the way of the Lord, as said Isaiah the prophet. 
+<sup>23</sup> He said, I am the voice of one crying in the waste land, Make straight the way of the Lord, as said Isaiah the prophet.
 
-<sup>24</sup> Those who had been sent came from the Pharisees. 
+<sup>24</sup> Those who had been sent came from the Pharisees.
 
-<sup>25</sup> And they put this question to him, saying, Why then are you giving baptism if you are not the Christ, or Elijah, or the prophet? 
+<sup>25</sup> And they put this question to him, saying, Why then are you giving baptism if you are not the Christ, or Elijah, or the prophet?
 
-<sup>26</sup> John's answer was: I give baptism with water; but there is one among you of whom you have no knowledge; 
+<sup>26</sup> John's answer was: I give baptism with water; but there is one among you of whom you have no knowledge;
 
-<sup>27</sup> It is he who is coming after me; I am not good enough to undo his shoes. 
+<sup>27</sup> It is he who is coming after me; I am not good enough to undo his shoes.
 
-<sup>28</sup> These things took place at Bethany on the other side of the Jordan, where John was giving baptism. 
+<sup>28</sup> These things took place at Bethany on the other side of the Jordan, where John was giving baptism.
 
-<sup>29</sup> The day after, John sees Jesus coming to him and says, See, here is the Lamb of God who takes away the sin of the world! 
+<sup>29</sup> The day after, John sees Jesus coming to him and says, See, here is the Lamb of God who takes away the sin of the world!
 
-<sup>30</sup> This is he of whom I said, One is coming after me who is put over me because he was in existence before me. 
+<sup>30</sup> This is he of whom I said, One is coming after me who is put over me because he was in existence before me.
 
-<sup>31</sup> I myself had no knowledge of him, but I came giving baptism with water so that he might be seen openly by Israel. 
+<sup>31</sup> I myself had no knowledge of him, but I came giving baptism with water so that he might be seen openly by Israel.
 
-<sup>32</sup> And John gave this witness, saying, I saw the Spirit coming down from heaven like a dove and resting on him. 
+<sup>32</sup> And John gave this witness, saying, I saw the Spirit coming down from heaven like a dove and resting on him.
 
-<sup>33</sup> I had no knowledge who he was, but he who sent me to give baptism with water said to me, The one on whom you see the Spirit coming down and resting, it is he who gives baptism with the Holy Spirit. 
+<sup>33</sup> I had no knowledge who he was, but he who sent me to give baptism with water said to me, The one on whom you see the Spirit coming down and resting, it is he who gives baptism with the Holy Spirit.
 
-<sup>34</sup> This I saw myself and my witness is that he is the Son of God. 
+<sup>34</sup> This I saw myself and my witness is that he is the Son of God.
 
-<sup>35</sup> The day after, John was there again with two of his disciples; 
+<sup>35</sup> The day after, John was there again with two of his disciples;
 
-<sup>36</sup> And looking at Jesus while he was walking he said, See, there is the Lamb of God! 
+<sup>36</sup> And looking at Jesus while he was walking he said, See, there is the Lamb of God!
 
-<sup>37</sup> Hearing what he said, the two disciples went after Jesus. 
+<sup>37</sup> Hearing what he said, the two disciples went after Jesus.
 
-<sup>38</sup> And Jesus, turning round, saw them coming after him and said to them, What are you looking for? They said to him, Rabbi (which is to say, Master), where are you living? 
+<sup>38</sup> And Jesus, turning round, saw them coming after him and said to them, What are you looking for? They said to him, Rabbi (which is to say, Master), where are you living?
 
-<sup>39</sup> He said to them, Come and see. They went with him then and saw where he was living; and they were with him all that day: it was then about the tenth hour of the day. 
+<sup>39</sup> He said to them, Come and see. They went with him then and saw where he was living; and they were with him all that day: it was then about the tenth hour of the day.
 
-<sup>40</sup> Andrew, Simon Peter's brother, was one of the two men who, hearing what John said, went after Jesus. 
+<sup>40</sup> Andrew, Simon Peter's brother, was one of the two men who, hearing what John said, went after Jesus.
 
-<sup>41</sup> Early in the morning he came across his brother and said to him, We have made discovery! It is the Messiah! (which is to say, the Christ). 
+<sup>41</sup> Early in the morning he came across his brother and said to him, We have made discovery! It is the Messiah! (which is to say, the Christ).
 
-<sup>42</sup> And he took him to Jesus. Looking at him fixedly Jesus said, You are Simon, the son of John; your name will be Cephas (which is to say, Peter). 
+<sup>42</sup> And he took him to Jesus. Looking at him fixedly Jesus said, You are Simon, the son of John; your name will be Cephas (which is to say, Peter).
 
-<sup>43</sup> The day after this, Jesus had a desire to go into Galilee. He came across Philip and said to him, Come and be my disciple. 
+<sup>43</sup> The day after this, Jesus had a desire to go into Galilee. He came across Philip and said to him, Come and be my disciple.
 
-<sup>44</sup> Now Philip's town was Beth-saida, where Andrew and Peter came from. 
+<sup>44</sup> Now Philip's town was Beth-saida, where Andrew and Peter came from.
 
-<sup>45</sup> Philip came across Nathanael and said to him, We have made a discovery! It is he of whom Moses, in the law, and the prophets were writing, Jesus of Nazareth, the son of Joseph. 
+<sup>45</sup> Philip came across Nathanael and said to him, We have made a discovery! It is he of whom Moses, in the law, and the prophets were writing, Jesus of Nazareth, the son of Joseph.
 
-<sup>46</sup> Nazareth! said Nathanael, Is it possible for any good to come out of Nazareth? Philip said to him, Come and see. 
+<sup>46</sup> Nazareth! said Nathanael, Is it possible for any good to come out of Nazareth? Philip said to him, Come and see.
 
-<sup>47</sup> Jesus saw Nathanael coming to him and said of him, See, here is a true son of Israel in whom there is nothing false. 
+<sup>47</sup> Jesus saw Nathanael coming to him and said of him, See, here is a true son of Israel in whom there is nothing false.
 
-<sup>48</sup> Nathanael said to him, Where did you get knowledge of me? In answer Jesus said, Before Philip was talking with you, while you were still under the fig-tree, I saw you. 
+<sup>48</sup> Nathanael said to him, Where did you get knowledge of me? In answer Jesus said, Before Philip was talking with you, while you were still under the fig-tree, I saw you.
 
-<sup>49</sup> Nathanael said to him, Rabbi, you are the Son of God, you are King of Israel! 
+<sup>49</sup> Nathanael said to him, Rabbi, you are the Son of God, you are King of Israel!
 
-<sup>50</sup> In answer Jesus said to him, You have faith because I said to you, I saw you under the fig-tree. You will see greater things than these. 
+<sup>50</sup> In answer Jesus said to him, You have faith because I said to you, I saw you under the fig-tree. You will see greater things than these.
 
-<sup>51</sup> And he said to him, Truly I say to you all, You will see heaven opening and God's angels going up and coming down on the Son of man. 
-
-
+<sup>51</sup> And he said to him, Truly I say to you all, You will see heaven opening and God's angels going up and coming down on the Son of man.

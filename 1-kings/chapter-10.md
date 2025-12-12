@@ -4,62 +4,60 @@ weight: 10
 
 # Chapter 10
 
-<sup>1</sup> Now the queen of Sheba, hearing great things of Solomon, came to put his wisdom to the test with hard questions. 
+<sup>1</sup> Now the queen of Sheba, hearing great things of Solomon, came to put his wisdom to the test with hard questions.
 
-<sup>2</sup> And she came to Jerusalem with a very great train, with camels weighted down with spices, and stores of gold and jewels: and when she came to Solomon she had talk with him of everything in her mind. 
+<sup>2</sup> And she came to Jerusalem with a very great train, with camels weighted down with spices, and stores of gold and jewels: and when she came to Solomon she had talk with him of everything in her mind.
 
-<sup>3</sup> And Solomon gave her answers to all her questions; there was no secret which the king did not make clear to her. 
+<sup>3</sup> And Solomon gave her answers to all her questions; there was no secret which the king did not make clear to her.
 
-<sup>4</sup> And when the queen of Sheba had seen all the wisdom of Solomon, and the house which he had made, 
+<sup>4</sup> And when the queen of Sheba had seen all the wisdom of Solomon, and the house which he had made,
 
-<sup>5</sup> And the food at his table, and all his servants seated there, and those who were waiting on him in their places, and their robes, and his wine-servants, and the burned offerings which he made in the house of the Lord, there was no more spirit in her. 
+<sup>5</sup> And the food at his table, and all his servants seated there, and those who were waiting on him in their places, and their robes, and his wine-servants, and the burned offerings which he made in the house of the Lord, there was no more spirit in her.
 
-<sup>6</sup> And she said to the king, The account which was given to me in my country of your acts and your wisdom was true. 
+<sup>6</sup> And she said to the king, The account which was given to me in my country of your acts and your wisdom was true.
 
-<sup>7</sup> But I had no faith in what was said about you, till I came and saw for myself; and now I see that it was not half the story; your wisdom and your wealth are much greater than they said. 
+<sup>7</sup> But I had no faith in what was said about you, till I came and saw for myself; and now I see that it was not half the story; your wisdom and your wealth are much greater than they said.
 
-<sup>8</sup> Happy are your wives, happy are these your servants whose place is ever before you, hearing your words of wisdom. 
+<sup>8</sup> Happy are your wives, happy are these your servants whose place is ever before you, hearing your words of wisdom.
 
-<sup>9</sup> May the Lord your God be praised, whose pleasure it was to put you on the seat of the kingdom of Israel; because the Lord's love for Israel is eternal, he has made you king, to be their judge in righteousness. 
+<sup>9</sup> May the Lord your God be praised, whose pleasure it was to put you on the seat of the kingdom of Israel; because the Lord's love for Israel is eternal, he has made you king, to be their judge in righteousness.
 
-<sup>10</sup> And she gave the king a hundred and twenty talents of gold, and a great store of spices and jewels: never again was such a wealth of spices seen as that which the queen of Sheba gave King Solomon. 
+<sup>10</sup> And she gave the king a hundred and twenty talents of gold, and a great store of spices and jewels: never again was such a wealth of spices seen as that which the queen of Sheba gave King Solomon.
 
-<sup>11</sup> And the sea-force of Hiram, in addition to gold from Ophir, came back with much sandal-wood and jewels. 
+<sup>11</sup> And the sea-force of Hiram, in addition to gold from Ophir, came back with much sandal-wood and jewels.
 
-<sup>12</sup> And from the sandal-wood the king made pillars for the house of the Lord, and for the king's house, and instruments of music for the makers of melody: never has such sandal-wood been seen to this day. 
+<sup>12</sup> And from the sandal-wood the king made pillars for the house of the Lord, and for the king's house, and instruments of music for the makers of melody: never has such sandal-wood been seen to this day.
 
-<sup>13</sup> And King Solomon gave the queen of Sheba all her desire, whatever she made request for, in addition to what he gave her freely from the impulse of his heart. So she went back to her country, she and her servants. 
+<sup>13</sup> And King Solomon gave the queen of Sheba all her desire, whatever she made request for, in addition to what he gave her freely from the impulse of his heart. So she went back to her country, she and her servants.
 
-<sup>14</sup> Now the weight of gold which came to Solomon in one year was six hundred and sixty-six talents; 
+<sup>14</sup> Now the weight of gold which came to Solomon in one year was six hundred and sixty-six talents;
 
-<sup>15</sup> In addition to what came to him from the business of the traders, and from all the kings of the Arabians, and from the rulers of the country. 
+<sup>15</sup> In addition to what came to him from the business of the traders, and from all the kings of the Arabians, and from the rulers of the country.
 
-<sup>16</sup> And Solomon made two hundred body-covers of hammered gold, every one having six hundred shekels of gold in it. 
+<sup>16</sup> And Solomon made two hundred body-covers of hammered gold, every one having six hundred shekels of gold in it.
 
-<sup>17</sup> And he made three hundred smaller body-covers of hammered gold, with three pounds of gold in every cover: and the king put them in the house of the Woods of Lebanon. 
+<sup>17</sup> And he made three hundred smaller body-covers of hammered gold, with three pounds of gold in every cover: and the king put them in the house of the Woods of Lebanon.
 
-<sup>18</sup> Then the king made a great ivory seat, plated with the best gold. 
+<sup>18</sup> Then the king made a great ivory seat, plated with the best gold.
 
-<sup>19</sup> There were six steps going up to it, and the top of it was round at the back, there were arms on the two sides of the seat, and two lions by the side of the arms; 
+<sup>19</sup> There were six steps going up to it, and the top of it was round at the back, there were arms on the two sides of the seat, and two lions by the side of the arms;
 
-<sup>20</sup> And twelve lions were placed on the one side and on the other side on the six steps: there was nothing like it in any kingdom. 
+<sup>20</sup> And twelve lions were placed on the one side and on the other side on the six steps: there was nothing like it in any kingdom.
 
-<sup>21</sup> And all King Solomon's drinking-vessels were of gold, and all the vessels of the house of the Woods of Lebanon were of the best gold; not one was of silver, for no one gave a thought to silver in the days of King Solomon. 
+<sup>21</sup> And all King Solomon's drinking-vessels were of gold, and all the vessels of the house of the Woods of Lebanon were of the best gold; not one was of silver, for no one gave a thought to silver in the days of King Solomon.
 
-<sup>22</sup> For the king had Tarshish-ships at sea with the ships of Hiram; once every three years the Tarshish-ships came with gold and silver and ivory and monkeys and peacocks. 
+<sup>22</sup> For the king had Tarshish-ships at sea with the ships of Hiram; once every three years the Tarshish-ships came with gold and silver and ivory and monkeys and peacocks.
 
-<sup>23</sup> And King Solomon was greater than all the kings of the earth in wealth and in wisdom. 
+<sup>23</sup> And King Solomon was greater than all the kings of the earth in wealth and in wisdom.
 
-<sup>24</sup> And from all over the earth they came to see Solomon and to give ear to his wisdom, which God had put in his heart. 
+<sup>24</sup> And from all over the earth they came to see Solomon and to give ear to his wisdom, which God had put in his heart.
 
-<sup>25</sup> And everyone took with him an offering, vessels of silver and vessels of gold, and robes, and coats of metal, and spices, and horses, and beasts of transport, regularly year by year. 
+<sup>25</sup> And everyone took with him an offering, vessels of silver and vessels of gold, and robes, and coats of metal, and spices, and horses, and beasts of transport, regularly year by year.
 
-<sup>26</sup> And Solomon got together war-carriages and horsemen; he had one thousand, four hundred carriages and twelve thousand horsemen, whom he kept, some in the carriage-towns and some with the king at Jerusalem. 
+<sup>26</sup> And Solomon got together war-carriages and horsemen; he had one thousand, four hundred carriages and twelve thousand horsemen, whom he kept, some in the carriage-towns and some with the king at Jerusalem.
 
-<sup>27</sup> And the king made silver as common as stones in Jerusalem and cedars like the sycamore-trees of the lowlands in number. 
+<sup>27</sup> And the king made silver as common as stones in Jerusalem and cedars like the sycamore-trees of the lowlands in number.
 
-<sup>28</sup> And Solomon's horses came from Egypt and from Kue; the king's traders got them at a price from Kue. 
+<sup>28</sup> And Solomon's horses came from Egypt and from Kue; the king's traders got them at a price from Kue.
 
-<sup>29</sup> A war-carriage might be got from Egypt for six hundred shekels of silver, and a horse for a hundred and fifty; they got them at the same rate for all the kings of the Hittites and the kings of Aram. 
-
-
+<sup>29</sup> A war-carriage might be got from Egypt for six hundred shekels of silver, and a horse for a hundred and fifty; they got them at the same rate for all the kings of the Hittites and the kings of Aram.

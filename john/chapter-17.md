@@ -4,56 +4,54 @@ weight: 17
 
 # Chapter 17
 
-<sup>1</sup> Jesus said these things; then, lifting his eyes to heaven, he said, Father, the time has now come; give glory to your Son, so that the Son may give glory to you: 
+<sup>1</sup> Jesus said these things; then, lifting his eyes to heaven, he said, Father, the time has now come; give glory to your Son, so that the Son may give glory to you:
 
-<sup>2</sup> Even as you gave him authority over all flesh, to give eternal life to all those whom you have given to him. 
+<sup>2</sup> Even as you gave him authority over all flesh, to give eternal life to all those whom you have given to him.
 
-<sup>3</sup> And this is eternal life: to have knowledge of you, the only true God, and of him whom you have sent, even Jesus Christ. 
+<sup>3</sup> And this is eternal life: to have knowledge of you, the only true God, and of him whom you have sent, even Jesus Christ.
 
-<sup>4</sup> I have given you glory on the earth, having done all the work which you gave me to do. 
+<sup>4</sup> I have given you glory on the earth, having done all the work which you gave me to do.
 
-<sup>5</sup> And now, Father, let me have glory with you, even that glory which I had with you before the world was. 
+<sup>5</sup> And now, Father, let me have glory with you, even that glory which I had with you before the world was.
 
-<sup>6</sup> I have given knowledge of your name to the men whom you gave me out of the world: yours they were, and you gave them to me, and they have kept your words. 
+<sup>6</sup> I have given knowledge of your name to the men whom you gave me out of the world: yours they were, and you gave them to me, and they have kept your words.
 
-<sup>7</sup> Now it is clear to them that whatever you have given to me comes from you: 
+<sup>7</sup> Now it is clear to them that whatever you have given to me comes from you:
 
-<sup>8</sup> Because I have given them the words which you gave to me; and they have taken them to heart, and have certain knowledge that I came from you, and they have faith that you sent me. 
+<sup>8</sup> Because I have given them the words which you gave to me; and they have taken them to heart, and have certain knowledge that I came from you, and they have faith that you sent me.
 
-<sup>9</sup> My prayer is for them: my prayer is not for the world, but for those whom you have given to me, because they are yours 
+<sup>9</sup> My prayer is for them: my prayer is not for the world, but for those whom you have given to me, because they are yours
 
-<sup>10</sup> (All mine are yours, and yours are mine) and I have glory in them. 
+<sup>10</sup> (All mine are yours, and yours are mine) and I have glory in them.
 
-<sup>11</sup> And now I will be no longer in the world, but they are in the world and I come to you. Holy Father, keep them in your name which you have given to me, so that they may be one even as we are one. 
+<sup>11</sup> And now I will be no longer in the world, but they are in the world and I come to you. Holy Father, keep them in your name which you have given to me, so that they may be one even as we are one.
 
-<sup>12</sup> While I was with them I kept them safe in your name which you have given to me: I took care of them and not one of them has come to destruction, but only the son of destruction, so that the Writings might come true. 
+<sup>12</sup> While I was with them I kept them safe in your name which you have given to me: I took care of them and not one of them has come to destruction, but only the son of destruction, so that the Writings might come true.
 
-<sup>13</sup> And now I come to you; and these things I say in the world so that they may have my joy complete in them. 
+<sup>13</sup> And now I come to you; and these things I say in the world so that they may have my joy complete in them.
 
-<sup>14</sup> I have given your word to them; and they are hated by the world, because they are not of the world, even as I am not of the world. 
+<sup>14</sup> I have given your word to them; and they are hated by the world, because they are not of the world, even as I am not of the world.
 
-<sup>15</sup> My prayer is not that you will take them out of the world, but that you will keep them from the Evil One. 
+<sup>15</sup> My prayer is not that you will take them out of the world, but that you will keep them from the Evil One.
 
-<sup>16</sup> They are not of the world any more than I am of the world. 
+<sup>16</sup> They are not of the world any more than I am of the world.
 
-<sup>17</sup> Make them holy by the true word: your word is the true word. 
+<sup>17</sup> Make them holy by the true word: your word is the true word.
 
-<sup>18</sup> Even as you have sent me into the world, so I have sent them into the world. 
+<sup>18</sup> Even as you have sent me into the world, so I have sent them into the world.
 
-<sup>19</sup> And for them I make myself holy, so that they may be made truly holy. 
+<sup>19</sup> And for them I make myself holy, so that they may be made truly holy.
 
-<sup>20</sup> My prayer is not for them only, but for all who will have faith in me through their word; 
+<sup>20</sup> My prayer is not for them only, but for all who will have faith in me through their word;
 
-<sup>21</sup> May they all be one! Even as you, Father, are in me and I am in you, so let them be in us, so that all men may come to have faith that you sent me. 
+<sup>21</sup> May they all be one! Even as you, Father, are in me and I am in you, so let them be in us, so that all men may come to have faith that you sent me.
 
-<sup>22</sup> And the glory which you have given to me I have given to them, so that they may be one even as we are one; 
+<sup>22</sup> And the glory which you have given to me I have given to them, so that they may be one even as we are one;
 
-<sup>23</sup> I in them, and you in me, so that they may be made completely one, and so that it may become clear to all men that you have sent me and that they are loved by you as I am loved by you. 
+<sup>23</sup> I in them, and you in me, so that they may be made completely one, and so that it may become clear to all men that you have sent me and that they are loved by you as I am loved by you.
 
-<sup>24</sup> Father, it is my desire that these whom you have given to me may be by my side where I am, so that they may see my glory which you have given to me, because you had love for me before the world came into being. 
+<sup>24</sup> Father, it is my desire that these whom you have given to me may be by my side where I am, so that they may see my glory which you have given to me, because you had love for me before the world came into being.
 
-<sup>25</sup> Father of righteousness, I have knowledge of you, though the world has not; and to these it is clear that you sent me; 
+<sup>25</sup> Father of righteousness, I have knowledge of you, though the world has not; and to these it is clear that you sent me;
 
-<sup>26</sup> And I have given to them knowledge of your name, and will give it, so that the love which you have for me may be in them and I in them. 
-
-
+<sup>26</sup> And I have given to them knowledge of your name, and will give it, so that the love which you have for me may be in them and I in them.

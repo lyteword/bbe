@@ -4,48 +4,46 @@ weight: 27
 
 # Chapter 27
 
-<sup>1</sup> When Zedekiah, the son of Josiah, king of Judah, first became king this word came to Jeremiah from the Lord, saying, 
+<sup>1</sup> When Zedekiah, the son of Josiah, king of Judah, first became king this word came to Jeremiah from the Lord, saying,
 
-<sup>2</sup> This is what the Lord has said to me: Make for yourself bands and yokes and put them on your neck; 
+<sup>2</sup> This is what the Lord has said to me: Make for yourself bands and yokes and put them on your neck;
 
-<sup>3</sup> And send them to the king of Edom, and to the king of Moab, and to the king of the children of Ammon, and to the king of Tyre, and to the king of Zidon, by their servants who come to Jerusalem, to Zedekiah, king of Judah; 
+<sup>3</sup> And send them to the king of Edom, and to the king of Moab, and to the king of the children of Ammon, and to the king of Tyre, and to the king of Zidon, by their servants who come to Jerusalem, to Zedekiah, king of Judah;
 
-<sup>4</sup> And give them orders to say to their masters, This is what the Lord of armies, the God of Israel, has said: Say to your masters, 
+<sup>4</sup> And give them orders to say to their masters, This is what the Lord of armies, the God of Israel, has said: Say to your masters,
 
-<sup>5</sup> I have made the earth, and man and beast on the face of the earth, by my great power and by my outstretched arm; and I will give it to anyone at my pleasure. 
+<sup>5</sup> I have made the earth, and man and beast on the face of the earth, by my great power and by my outstretched arm; and I will give it to anyone at my pleasure.
 
-<sup>6</sup> And now I have given all these lands into the hands of Nebuchadnezzar, the king of Babylon, my servant; and I have given the beasts of the field to him for his use. 
+<sup>6</sup> And now I have given all these lands into the hands of Nebuchadnezzar, the king of Babylon, my servant; and I have given the beasts of the field to him for his use.
 
-<sup>7</sup> And all the nations will be servants to him and to his son and to his son's son, till the time comes for his land to be overcome: and then a number of nations and great kings will take it for their use. 
+<sup>7</sup> And all the nations will be servants to him and to his son and to his son's son, till the time comes for his land to be overcome: and then a number of nations and great kings will take it for their use.
 
-<sup>8</sup> And it will come about, that if any nation does not become a servant to this same Nebuchadnezzar, king of Babylon, and does not put its neck under the yoke of the king of Babylon, then I will send punishment on that nation, says the Lord, by the sword and need of food and by disease, till I have given them into his hands. 
+<sup>8</sup> And it will come about, that if any nation does not become a servant to this same Nebuchadnezzar, king of Babylon, and does not put its neck under the yoke of the king of Babylon, then I will send punishment on that nation, says the Lord, by the sword and need of food and by disease, till I have given them into his hands.
 
-<sup>9</sup> And you are not to give attention to your prophets or your readers of signs or your dreamers or those who see into the future or those who make use of secret arts, who say to you, You will not become servants of the king of Babylon: 
+<sup>9</sup> And you are not to give attention to your prophets or your readers of signs or your dreamers or those who see into the future or those who make use of secret arts, who say to you, You will not become servants of the king of Babylon:
 
-<sup>10</sup> For they say false words to you, so that you may be sent away far from your land, and so that you may be forced out by me and come to destruction. 
+<sup>10</sup> For they say false words to you, so that you may be sent away far from your land, and so that you may be forced out by me and come to destruction.
 
-<sup>11</sup> But as for that nation which puts its neck under the yoke of the king of Babylon and becomes his servant, I will let that nation keep on in its land, farming it and living in it, says the Lord. 
+<sup>11</sup> But as for that nation which puts its neck under the yoke of the king of Babylon and becomes his servant, I will let that nation keep on in its land, farming it and living in it, says the Lord.
 
-<sup>12</sup> And I said all this to Zedekiah, king of Judah, saying, Put your necks under the yoke of the king of Babylon and become his servants and his people, so that you may keep your lives. 
+<sup>12</sup> And I said all this to Zedekiah, king of Judah, saying, Put your necks under the yoke of the king of Babylon and become his servants and his people, so that you may keep your lives.
 
-<sup>13</sup> Why are you desiring death, you and your people, by the sword, and because food is gone, and by disease, as the Lord has said of the nation which does not become the servant of the king of Babylon? 
+<sup>13</sup> Why are you desiring death, you and your people, by the sword, and because food is gone, and by disease, as the Lord has said of the nation which does not become the servant of the king of Babylon?
 
-<sup>14</sup> And you are not to give ear to the prophets who say to you, You will not become servants of the king of Babylon: for what they say is not true. 
+<sup>14</sup> And you are not to give ear to the prophets who say to you, You will not become servants of the king of Babylon: for what they say is not true.
 
-<sup>15</sup> For I have not sent them, says the Lord, but they are saying what is false in my name, so that I might send you out by force, causing destruction to come on you and on your prophets. 
+<sup>15</sup> For I have not sent them, says the Lord, but they are saying what is false in my name, so that I might send you out by force, causing destruction to come on you and on your prophets.
 
-<sup>16</sup> And I said to the priests and to all the people, This is what the Lord has said: Give no attention to the words of your prophets who say to you, See, in a very little time now the vessels of the Lord's house will come back again from Babylon: for what they say to you is false. 
+<sup>16</sup> And I said to the priests and to all the people, This is what the Lord has said: Give no attention to the words of your prophets who say to you, See, in a very little time now the vessels of the Lord's house will come back again from Babylon: for what they say to you is false.
 
-<sup>17</sup> Give no attention to them; become servants of the king of Babylon and keep yourselves from death: why let this town become a waste? 
+<sup>17</sup> Give no attention to them; become servants of the king of Babylon and keep yourselves from death: why let this town become a waste?
 
-<sup>18</sup> But if they are prophets, and if the word of the Lord is with them, let them now make request to the Lord of armies that the vessels which are still in the house of the Lord and in the house of the king of Judah and at Jerusalem, may not go to Babylon. 
+<sup>18</sup> But if they are prophets, and if the word of the Lord is with them, let them now make request to the Lord of armies that the vessels which are still in the house of the Lord and in the house of the king of Judah and at Jerusalem, may not go to Babylon.
 
-<sup>19</sup> For this is what the Lord has said about the rest of the vessels which are still in this town, 
+<sup>19</sup> For this is what the Lord has said about the rest of the vessels which are still in this town,
 
-<sup>20</sup> Which Nebuchadnezzar, king of Babylon, did not take away, when he took Jeconiah, the son of Jehoiakim, king of Judah, a prisoner from Jerusalem to Babylon, with all the great men of Judah and Jerusalem; 
+<sup>20</sup> Which Nebuchadnezzar, king of Babylon, did not take away, when he took Jeconiah, the son of Jehoiakim, king of Judah, a prisoner from Jerusalem to Babylon, with all the great men of Judah and Jerusalem;
 
-<sup>21</sup> For this is what the Lord of armies, the God of Israel, has said about the rest of the vessels in the house of the Lord and in the house of the king of Judah and at Jerusalem: 
+<sup>21</sup> For this is what the Lord of armies, the God of Israel, has said about the rest of the vessels in the house of the Lord and in the house of the king of Judah and at Jerusalem:
 
-<sup>22</sup> They will be taken away to Babylon, and there they will be till the day when I send their punishment on them, says the Lord. Then I will take them up and put them back in their place. 
-
-
+<sup>22</sup> They will be taken away to Babylon, and there they will be till the day when I send their punishment on them, says the Lord. Then I will take them up and put them back in their place.

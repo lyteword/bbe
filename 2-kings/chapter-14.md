@@ -4,62 +4,60 @@ weight: 14
 
 # Chapter 14
 
-<sup>1</sup> In the second year of Joash, son of Joahaz, king of Israel, Amaziah, the son of Joash, became king of Judah. 
+<sup>1</sup> In the second year of Joash, son of Joahaz, king of Israel, Amaziah, the son of Joash, became king of Judah.
 
-<sup>2</sup> He was twenty-five years old when he became king; and he was ruling in Jerusalem for twenty-nine years; his mother's name was Jehoaddin of Jerusalem. 
+<sup>2</sup> He was twenty-five years old when he became king; and he was ruling in Jerusalem for twenty-nine years; his mother's name was Jehoaddin of Jerusalem.
 
-<sup>3</sup> He did what was right in the eyes of the Lord, though not like David his father; he did as Joash his father had done. 
+<sup>3</sup> He did what was right in the eyes of the Lord, though not like David his father; he did as Joash his father had done.
 
-<sup>4</sup> But still the high places were not taken away; the people went on making offerings and burning them in the high places. 
+<sup>4</sup> But still the high places were not taken away; the people went on making offerings and burning them in the high places.
 
-<sup>5</sup> Now when he became strong in the kingdom, straight away he put to death those servants who had taken the life of the king his father; 
+<sup>5</sup> Now when he became strong in the kingdom, straight away he put to death those servants who had taken the life of the king his father;
 
-<sup>6</sup> But he did not put their children to death; for the orders of the Lord recorded in the book of the law of Moses say, The fathers are not to be put to death for the children, or the children for their fathers; but a man is to be put to death for the sin which he himself has done. 
+<sup>6</sup> But he did not put their children to death; for the orders of the Lord recorded in the book of the law of Moses say, The fathers are not to be put to death for the children, or the children for their fathers; but a man is to be put to death for the sin which he himself has done.
 
-<sup>7</sup> He put to the sword twelve thousand men of Edom in the Valley of Salt, and took Sela in war, naming it Joktheel, as it is to this day. 
+<sup>7</sup> He put to the sword twelve thousand men of Edom in the Valley of Salt, and took Sela in war, naming it Joktheel, as it is to this day.
 
-<sup>8</sup> Then Amaziah sent representatives to Jehoash, the son of Jehoahaz, son of Jehu, king of Israel, saying, Come, let us have a meeting face to face. 
+<sup>8</sup> Then Amaziah sent representatives to Jehoash, the son of Jehoahaz, son of Jehu, king of Israel, saying, Come, let us have a meeting face to face.
 
-<sup>9</sup> And Jehoash, king of Israel, sent to Amaziah, king of Judah, saying, The thorn-tree in Lebanon sent to the cedar in Lebanon, saying, Give your daughter to my son for a wife: and a beast from the woodland in Lebanon went by, crushing the thorn under his feet. 
+<sup>9</sup> And Jehoash, king of Israel, sent to Amaziah, king of Judah, saying, The thorn-tree in Lebanon sent to the cedar in Lebanon, saying, Give your daughter to my son for a wife: and a beast from the woodland in Lebanon went by, crushing the thorn under his feet.
 
-<sup>10</sup> It is true that you have overcome Edom and your heart is uplifted; let that glory be enough for you, and keep in your country; why do you make causes of trouble, putting yourself, and Judah with you, in danger of downfall? 
+<sup>10</sup> It is true that you have overcome Edom and your heart is uplifted; let that glory be enough for you, and keep in your country; why do you make causes of trouble, putting yourself, and Judah with you, in danger of downfall?
 
-<sup>11</sup> But Amaziah gave no attention. So Jehoash, king of Israel, went up, and he and Amaziah, king of Judah, came face to face at Beth-shemesh, which is in Judah. 
+<sup>11</sup> But Amaziah gave no attention. So Jehoash, king of Israel, went up, and he and Amaziah, king of Judah, came face to face at Beth-shemesh, which is in Judah.
 
-<sup>12</sup> And Judah was overcome before Israel, so that they went in flight, every man to his tent. 
+<sup>12</sup> And Judah was overcome before Israel, so that they went in flight, every man to his tent.
 
-<sup>13</sup> And Jehoash, king of Israel, made Amaziah, king of Judah, the son of Jehoash, son of Ahaziah, prisoner at Beth-shemesh, and came to Jerusalem, and had the wall of Jerusalem pulled down from the doorway of Ephraim to the door in the angle, four hundred cubits. 
+<sup>13</sup> And Jehoash, king of Israel, made Amaziah, king of Judah, the son of Jehoash, son of Ahaziah, prisoner at Beth-shemesh, and came to Jerusalem, and had the wall of Jerusalem pulled down from the doorway of Ephraim to the door in the angle, four hundred cubits.
 
-<sup>14</sup> And he took all the gold and silver and all the vessels which were in the house of the Lord and in the store-house of the king, together with those whose lives would be the price of broken faith, and went back to Samaria. 
+<sup>14</sup> And he took all the gold and silver and all the vessels which were in the house of the Lord and in the store-house of the king, together with those whose lives would be the price of broken faith, and went back to Samaria.
 
-<sup>15</sup> Now the rest of the acts of Jehoash, and his power, and how he went to war with Amaziah, king of Judah, are they not recorded in the book of the history of the kings of Israel? 
+<sup>15</sup> Now the rest of the acts of Jehoash, and his power, and how he went to war with Amaziah, king of Judah, are they not recorded in the book of the history of the kings of Israel?
 
-<sup>16</sup> And Jehoash went to rest with his fathers, and was put into the earth in Samaria with the kings of Israel; and Jeroboam his son became king in his place. 
+<sup>16</sup> And Jehoash went to rest with his fathers, and was put into the earth in Samaria with the kings of Israel; and Jeroboam his son became king in his place.
 
-<sup>17</sup> Amaziah, the son of Joash, king of Judah, went on living for fifteen years after the death of Jehoash, son of Jehoahaz, king of Israel. 
+<sup>17</sup> Amaziah, the son of Joash, king of Judah, went on living for fifteen years after the death of Jehoash, son of Jehoahaz, king of Israel.
 
-<sup>18</sup> And the rest of the acts of Amaziah, are they not recorded in the book of the history of the kings of Judah? 
+<sup>18</sup> And the rest of the acts of Amaziah, are they not recorded in the book of the history of the kings of Judah?
 
-<sup>19</sup> Now they made a secret design against him in Jerusalem; and he went in flight to Lachish, but they sent after him to Lachish and put him to death there. 
+<sup>19</sup> Now they made a secret design against him in Jerusalem; and he went in flight to Lachish, but they sent after him to Lachish and put him to death there.
 
-<sup>20</sup> And they took his body on horseback and put it into the earth with his fathers in Jerusalem, the town of David. 
+<sup>20</sup> And they took his body on horseback and put it into the earth with his fathers in Jerusalem, the town of David.
 
-<sup>21</sup> Then all the people of Judah took Azariah, who was sixteen years old, and made him king in place of his father Amaziah. 
+<sup>21</sup> Then all the people of Judah took Azariah, who was sixteen years old, and made him king in place of his father Amaziah.
 
-<sup>22</sup> He was the builder of Elath, which he got back for Judah after the death of the king. 
+<sup>22</sup> He was the builder of Elath, which he got back for Judah after the death of the king.
 
-<sup>23</sup> In the fifteenth year of the rule of Amaziah, son of Joash, king of Judah, Jeroboam, the son of Joash, king of Israel, became king in Samaria, ruling for forty-one years. 
+<sup>23</sup> In the fifteenth year of the rule of Amaziah, son of Joash, king of Judah, Jeroboam, the son of Joash, king of Israel, became king in Samaria, ruling for forty-one years.
 
-<sup>24</sup> He did evil in the eyes of the Lord, not turning away from the sin which Jeroboam, the son of Nebat, did and made Israel do. 
+<sup>24</sup> He did evil in the eyes of the Lord, not turning away from the sin which Jeroboam, the son of Nebat, did and made Israel do.
 
-<sup>25</sup> He got back the old limits of Israel from the way into Hamath to the sea of the Arabah, as the Lord had said by his servant Jonah, the son of Amittai, the prophet of Gath-hepher. 
+<sup>25</sup> He got back the old limits of Israel from the way into Hamath to the sea of the Arabah, as the Lord had said by his servant Jonah, the son of Amittai, the prophet of Gath-hepher.
 
-<sup>26</sup> For the Lord saw how bitter was the trouble of Israel, and that everyone was cut off, he who was shut up and he who went free, and that Israel had no helper. 
+<sup>26</sup> For the Lord saw how bitter was the trouble of Israel, and that everyone was cut off, he who was shut up and he who went free, and that Israel had no helper.
 
-<sup>27</sup> And the Lord had not said that the name of Israel was to be taken away from the earth; but he gave them a saviour in Jeroboam, the son of Joash. 
+<sup>27</sup> And the Lord had not said that the name of Israel was to be taken away from the earth; but he gave them a saviour in Jeroboam, the son of Joash.
 
-<sup>28</sup> Now the rest of the acts of Jeroboam, and all he did, and his power, and how he went to war with Damascus, causing the wrath of the Lord to be turned away from Israel, are they not recorded in the book of the history of the kings of Israel? 
+<sup>28</sup> Now the rest of the acts of Jeroboam, and all he did, and his power, and how he went to war with Damascus, causing the wrath of the Lord to be turned away from Israel, are they not recorded in the book of the history of the kings of Israel?
 
-<sup>29</sup> And Jeroboam went to rest with his fathers, and was put into the earth with the kings of Israel; and Zechariah his son became king in his place. 
-
-
+<sup>29</sup> And Jeroboam went to rest with his fathers, and was put into the earth with the kings of Israel; and Zechariah his son became king in his place.

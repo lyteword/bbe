@@ -4,47 +4,46 @@ weight: 4
 
 # Chapter 4
 
-<sup>1</sup> And Boaz went up to the public place of the town, and took his seat there: and the near relation of whom he had been talking came by; and Boaz, crying out to him by name, said, Come and be seated here. And he came and was seated. 
+<sup>1</sup> And Boaz went up to the public place of the town, and took his seat there: and the near relation of whom he had been talking came by; and Boaz, crying out to him by name, said, Come and be seated here. And he came and was seated.
 
-<sup>2</sup> Then he got ten of the responsible men of the town, and said, Be seated here. And they took their seats. 
+<sup>2</sup> Then he got ten of the responsible men of the town, and said, Be seated here. And they took their seats.
 
-<sup>3</sup> Then he said to the near relation, Naomi, who has come back from the country of Moab, is offering for a price that bit of land which was our brother Elimelech's: 
+<sup>3</sup> Then he said to the near relation, Naomi, who has come back from the country of Moab, is offering for a price that bit of land which was our brother Elimelech's:
 
-<sup>4</sup> And it was in my mind to give you the chance of taking it, with the approval of those seated here and of the responsible men of my people. If you are ready to do what it is right for a relation to do, then do it: but if you will not do it, say so to me now; for there is no one who has the right to do it but you, and after you myself. And he said, I will do it. 
+<sup>4</sup> And it was in my mind to give you the chance of taking it, with the approval of those seated here and of the responsible men of my people. If you are ready to do what it is right for a relation to do, then do it: but if you will not do it, say so to me now; for there is no one who has the right to do it but you, and after you myself. And he said, I will do it.
 
-<sup>5</sup> Then Boaz said, On the day when you take this field, you will have to take with it Ruth, the Moabitess, the wife of the dead, so that you may keep the name of the dead living in his heritage. 
+<sup>5</sup> Then Boaz said, On the day when you take this field, you will have to take with it Ruth, the Moabitess, the wife of the dead, so that you may keep the name of the dead living in his heritage.
 
-<sup>6</sup> And the near relation said, I am not able to do the relation's part, for fear of damaging the heritage I have: you may do it in my place, for I am not able to do it myself. 
+<sup>6</sup> And the near relation said, I am not able to do the relation's part, for fear of damaging the heritage I have: you may do it in my place, for I am not able to do it myself.
 
-<sup>7</sup> Now, in earlier times this was the way in Israel when property was taken over by a near relation, or when there was a change of owner. To make the exchange certain one man took off his shoe and gave it to the other; and this was a witness in Israel. 
+<sup>7</sup> Now, in earlier times this was the way in Israel when property was taken over by a near relation, or when there was a change of owner. To make the exchange certain one man took off his shoe and gave it to the other; and this was a witness in Israel.
 
-<sup>8</sup> So the near relation said to Boaz, Take it for yourself. And he took off his shoe. 
+<sup>8</sup> So the near relation said to Boaz, Take it for yourself. And he took off his shoe.
 
-<sup>9</sup> Then Boaz said to the responsible men and to all the people, You are witnesses today that I have taken at a price from Naomi all the property which was Elimelech's, and everything which was Chilion's and Mahlon's. 
+<sup>9</sup> Then Boaz said to the responsible men and to all the people, You are witnesses today that I have taken at a price from Naomi all the property which was Elimelech's, and everything which was Chilion's and Mahlon's.
 
-<sup>10</sup> And, further, I have taken Ruth, the Moabitess, who was the wife of Mahlon, to be my wife, to keep the name of the dead man living in his heritage, so that his name may not be cut off from among his countrymen, and from the memory of his town: you are witnesses this day. 
+<sup>10</sup> And, further, I have taken Ruth, the Moabitess, who was the wife of Mahlon, to be my wife, to keep the name of the dead man living in his heritage, so that his name may not be cut off from among his countrymen, and from the memory of his town: you are witnesses this day.
 
-<sup>11</sup> And all the people who were in the public place, and the responsible men, said, We are witnesses. May the Lord make this woman, who is about to come into your house, like Rachel and Leah, which two were the builders of the house of Israel: and may you have wealth in Ephrathah, and be great in Beth-lehem; 
+<sup>11</sup> And all the people who were in the public place, and the responsible men, said, We are witnesses. May the Lord make this woman, who is about to come into your house, like Rachel and Leah, which two were the builders of the house of Israel: and may you have wealth in Ephrathah, and be great in Beth-lehem;
 
-<sup>12</sup> May your family be like the family of Perez, the son whom Tamar gave to Judah, from the offspring which the Lord may give you by this young woman. 
+<sup>12</sup> May your family be like the family of Perez, the son whom Tamar gave to Judah, from the offspring which the Lord may give you by this young woman.
 
-<sup>13</sup> So Boaz took Ruth and she became his wife; and he went in to her, and the Lord made her with child and she gave birth to a son. 
+<sup>13</sup> So Boaz took Ruth and she became his wife; and he went in to her, and the Lord made her with child and she gave birth to a son.
 
-<sup>14</sup> And the women said to Naomi, A blessing on the Lord, who has not let you be this day without a near relation, and may his name be great in Israel. 
+<sup>14</sup> And the women said to Naomi, A blessing on the Lord, who has not let you be this day without a near relation, and may his name be great in Israel.
 
-<sup>15</sup> He will be a giver of new life to you, and your comforter when you are old, for your daughter-in-law, who, in her love for you, is better than seven sons, has given birth to him. 
+<sup>15</sup> He will be a giver of new life to you, and your comforter when you are old, for your daughter-in-law, who, in her love for you, is better than seven sons, has given birth to him.
 
-<sup>16</sup> And Naomi took the child and put her arms round it, and she took care of it. 
+<sup>16</sup> And Naomi took the child and put her arms round it, and she took care of it.
 
-<sup>17</sup> And the women who were her neighbours gave it a name, saying, Naomi has a child; and they gave him the name of Obed: he is the father of Jesse, the father of David. 
+<sup>17</sup> And the women who were her neighbours gave it a name, saying, Naomi has a child; and they gave him the name of Obed: he is the father of Jesse, the father of David.
 
-<sup>18</sup> Now these are the generations of Perez: Perez became the father of Hezron; 
+<sup>18</sup> Now these are the generations of Perez: Perez became the father of Hezron;
 
-<sup>19</sup> And Hezron became the father of Ram, and Ram became the father of Amminadab; 
+<sup>19</sup> And Hezron became the father of Ram, and Ram became the father of Amminadab;
 
-<sup>20</sup> And Amminadab became the father of Nahshon, and Nahshon became the father of Salmon; 
+<sup>20</sup> And Amminadab became the father of Nahshon, and Nahshon became the father of Salmon;
 
-<sup>21</sup> And Salmon became the father of Boaz, and Boaz became the father of Obed; 
+<sup>21</sup> And Salmon became the father of Boaz, and Boaz became the father of Obed;
 
-<sup>22</sup> And Obed became the father of Jesse, and Jesse became the father of David. 
-
+<sup>22</sup> And Obed became the father of Jesse, and Jesse became the father of David.

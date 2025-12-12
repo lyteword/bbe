@@ -4,30 +4,28 @@ weight: 43
 
 # Chapter 43
 
-<sup>1</sup> And it came about that when Jeremiah had come to the end of giving all the people the words of the Lord their God, which the Lord their God had sent him to say to them, even all these words, 
+<sup>1</sup> And it came about that when Jeremiah had come to the end of giving all the people the words of the Lord their God, which the Lord their God had sent him to say to them, even all these words,
 
-<sup>2</sup> Then Azariah, the son of Hoshaiah, and Johanan, the son of Kareah, and all the men of pride, said to Jeremiah, You have said what is false: the Lord our God has not sent you to say, You are not to go into the land of Egypt and make your living-place there: 
+<sup>2</sup> Then Azariah, the son of Hoshaiah, and Johanan, the son of Kareah, and all the men of pride, said to Jeremiah, You have said what is false: the Lord our God has not sent you to say, You are not to go into the land of Egypt and make your living-place there:
 
-<sup>3</sup> But Baruch, the son of Neriah, is moving you against us, to give us up into the hands of the Chaldaeans so that they may put us to death, and take us away prisoners into Babylon. 
+<sup>3</sup> But Baruch, the son of Neriah, is moving you against us, to give us up into the hands of the Chaldaeans so that they may put us to death, and take us away prisoners into Babylon.
 
-<sup>4</sup> So Johanan, the son of Kareah, and all the captains of the forces, and all the people, did not give ear to the order of the Lord that they were to go on living in the land of Judah. 
+<sup>4</sup> So Johanan, the son of Kareah, and all the captains of the forces, and all the people, did not give ear to the order of the Lord that they were to go on living in the land of Judah.
 
-<sup>5</sup> But Johanan, the son of Kareah, and all the captains of the forces took all the rest of Judah who had come back into the land of Judah from all the nations where they had been forced to go; 
+<sup>5</sup> But Johanan, the son of Kareah, and all the captains of the forces took all the rest of Judah who had come back into the land of Judah from all the nations where they had been forced to go;
 
-<sup>6</sup> The men and the women and the children and the king's daughters, and every person whom Nebuzaradan, the captain of the armed men, had put under the care of Gedaliah, the son of Ahikam, the son of Shaphan, and Jeremiah the prophet and Baruch, the son of Neriah; 
+<sup>6</sup> The men and the women and the children and the king's daughters, and every person whom Nebuzaradan, the captain of the armed men, had put under the care of Gedaliah, the son of Ahikam, the son of Shaphan, and Jeremiah the prophet and Baruch, the son of Neriah;
 
-<sup>7</sup> And they came into the land of Egypt; for they did not give ear to the voice of the Lord: and they came to Tahpanhes. 
+<sup>7</sup> And they came into the land of Egypt; for they did not give ear to the voice of the Lord: and they came to Tahpanhes.
 
-<sup>8</sup> Then the word of the Lord came to Jeremiah in Tahpanhes, saying, 
+<sup>8</sup> Then the word of the Lord came to Jeremiah in Tahpanhes, saying,
 
-<sup>9</sup> Take in your hand some great stones, and put them in a safe place in the paste in the brickwork which is at the way into Pharaoh's house in Tahpanhes, before the eyes of the men of Judah; 
+<sup>9</sup> Take in your hand some great stones, and put them in a safe place in the paste in the brickwork which is at the way into Pharaoh's house in Tahpanhes, before the eyes of the men of Judah;
 
-<sup>10</sup> And say to them, This is what the Lord of armies, the God of Israel, has said: See, I will send and take Nebuchadrezzar, the king of Babylon, my servant, and he will put the seat of his kingdom on these stones which have been put in a safe place here by you; and his tent will be stretched over them. 
+<sup>10</sup> And say to them, This is what the Lord of armies, the God of Israel, has said: See, I will send and take Nebuchadrezzar, the king of Babylon, my servant, and he will put the seat of his kingdom on these stones which have been put in a safe place here by you; and his tent will be stretched over them.
 
-<sup>11</sup> And he will come and overcome the land of Egypt; those who are for death will be put to death, those who are to be prisoners will be made prisoners, and those who are for the sword will be given to the sword. 
+<sup>11</sup> And he will come and overcome the land of Egypt; those who are for death will be put to death, those who are to be prisoners will be made prisoners, and those who are for the sword will be given to the sword.
 
-<sup>12</sup> And he will put a fire in the houses of the gods of Egypt; and they will be burned by him: and he will make Egypt clean as a keeper of sheep makes clean his clothing; and he will go out from there in peace. 
+<sup>12</sup> And he will put a fire in the houses of the gods of Egypt; and they will be burned by him: and he will make Egypt clean as a keeper of sheep makes clean his clothing; and he will go out from there in peace.
 
-<sup>13</sup> And the stone pillars of Beth-shemesh in the land of Egypt will be broken by him, and the houses of the gods of Egypt burned with fire. 
-
-
+<sup>13</sup> And the stone pillars of Beth-shemesh in the land of Egypt will be broken by him, and the houses of the gods of Egypt burned with fire.

@@ -4,106 +4,104 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> Now these are the generations of Aaron and Moses, in the day when the word of the Lord came to Moses on Mount Sinai. 
+<sup>1</sup> Now these are the generations of Aaron and Moses, in the day when the word of the Lord came to Moses on Mount Sinai.
 
-<sup>2</sup> These are the names of the sons of Aaron: Nadab the oldest, and Abihu, Eleazar, and Ithamar. 
+<sup>2</sup> These are the names of the sons of Aaron: Nadab the oldest, and Abihu, Eleazar, and Ithamar.
 
-<sup>3</sup> These are the names of the sons of Aaron, the priests, on whom the holy oil was put, who were marked out as priests. 
+<sup>3</sup> These are the names of the sons of Aaron, the priests, on whom the holy oil was put, who were marked out as priests.
 
-<sup>4</sup> And Nadab and Abihu were put to death before the Lord when they made an offering of strange fire before the Lord, in the waste land of Sinai, and they had no children: and Eleazar and Ithamar did the work of priests before Aaron their father. 
+<sup>4</sup> And Nadab and Abihu were put to death before the Lord when they made an offering of strange fire before the Lord, in the waste land of Sinai, and they had no children: and Eleazar and Ithamar did the work of priests before Aaron their father.
 
-<sup>5</sup> And the Lord said to Moses, 
+<sup>5</sup> And the Lord said to Moses,
 
-<sup>6</sup> Make the tribe of Levi come near, and put them before Aaron the priest, to be his helpers, 
+<sup>6</sup> Make the tribe of Levi come near, and put them before Aaron the priest, to be his helpers,
 
-<sup>7</sup> In order that they may be responsible to him and to all Israel for the care of the Tent of meeting, and to do the work of the House; 
+<sup>7</sup> In order that they may be responsible to him and to all Israel for the care of the Tent of meeting, and to do the work of the House;
 
-<sup>8</sup> And they will have the care of all the vessels of the Tent of meeting, and will do for the children of Israel all the necessary work of the House. 
+<sup>8</sup> And they will have the care of all the vessels of the Tent of meeting, and will do for the children of Israel all the necessary work of the House.
 
-<sup>9</sup> Give the Levites to Aaron and his sons; so that they may be his without question from among the children of Israel. 
+<sup>9</sup> Give the Levites to Aaron and his sons; so that they may be his without question from among the children of Israel.
 
-<sup>10</sup> And give orders that Aaron and his sons are to keep their place as priests; any strange person who comes near is to be put to death. 
+<sup>10</sup> And give orders that Aaron and his sons are to keep their place as priests; any strange person who comes near is to be put to death.
 
-<sup>11</sup> And the Lord said to Moses, 
+<sup>11</sup> And the Lord said to Moses,
 
-<sup>12</sup> See, I have taken the Levites out of the children of Israel to be mine in place of the first sons of the children of Israel; 
+<sup>12</sup> See, I have taken the Levites out of the children of Israel to be mine in place of the first sons of the children of Israel;
 
-<sup>13</sup> For all the first sons are mine; on the day when I put to death all the first sons in the land of Egypt, I took for myself every first male birth of man and beast. They are mine; I am the Lord. 
+<sup>13</sup> For all the first sons are mine; on the day when I put to death all the first sons in the land of Egypt, I took for myself every first male birth of man and beast. They are mine; I am the Lord.
 
-<sup>14</sup> And the Lord said to Moses in the waste land of Sinai, 
+<sup>14</sup> And the Lord said to Moses in the waste land of Sinai,
 
-<sup>15</sup> Let all the children of Levi be numbered by their families and their fathers' houses; let every male of a month old and over be numbered. 
+<sup>15</sup> Let all the children of Levi be numbered by their families and their fathers' houses; let every male of a month old and over be numbered.
 
-<sup>16</sup> So Moses did as the Lord said, numbering them as he had been ordered. 
+<sup>16</sup> So Moses did as the Lord said, numbering them as he had been ordered.
 
-<sup>17</sup> These were the sons of Levi by name: Gershon and Kohath and Merari. 
+<sup>17</sup> These were the sons of Levi by name: Gershon and Kohath and Merari.
 
-<sup>18</sup> And these are the names of the sons of Gershon, by their families: Libni and Shimei. 
+<sup>18</sup> And these are the names of the sons of Gershon, by their families: Libni and Shimei.
 
-<sup>19</sup> And the sons of Kohath, by their families: Amram and Izhar and Hebron and Uzziel. 
+<sup>19</sup> And the sons of Kohath, by their families: Amram and Izhar and Hebron and Uzziel.
 
-<sup>20</sup> And the sons of Merari by their families: Mahli and Mushi. These are the families of the Levites in the order of their fathers' houses. 
+<sup>20</sup> And the sons of Merari by their families: Mahli and Mushi. These are the families of the Levites in the order of their fathers' houses.
 
-<sup>21</sup> From Gershon come the Libnites and the Shimeites; these are the families of the Gershonites. 
+<sup>21</sup> From Gershon come the Libnites and the Shimeites; these are the families of the Gershonites.
 
-<sup>22</sup> Those who were numbered of them, the males from one month old and over, were seven thousand, five hundred. 
+<sup>22</sup> Those who were numbered of them, the males from one month old and over, were seven thousand, five hundred.
 
-<sup>23</sup> The tents of the Gershonites are to be placed at the back of the House, to the west. 
+<sup>23</sup> The tents of the Gershonites are to be placed at the back of the House, to the west.
 
-<sup>24</sup> The chief of the Gershonites is Eliasaph, the son of Lael. 
+<sup>24</sup> The chief of the Gershonites is Eliasaph, the son of Lael.
 
-<sup>25</sup> In the Tent of meeting, the Gershonites are to have the care of the House, and the Tent with its cover, and the veil for the door of the Tent of meeting, 
+<sup>25</sup> In the Tent of meeting, the Gershonites are to have the care of the House, and the Tent with its cover, and the veil for the door of the Tent of meeting,
 
-<sup>26</sup> And the hangings for the open space round the House and the altar, and the curtain for its doorway, and all the cords needed for its use. 
+<sup>26</sup> And the hangings for the open space round the House and the altar, and the curtain for its doorway, and all the cords needed for its use.
 
-<sup>27</sup> From Kohath come the Amramites and the Izharites and the Hebronites and the Uzzielites; these are the families of the Kohathites. 
+<sup>27</sup> From Kohath come the Amramites and the Izharites and the Hebronites and the Uzzielites; these are the families of the Kohathites.
 
-<sup>28</sup> Those who were numbered of them, the males from one month old and over, were eight thousand, six hundred, who were responsible for the care of the holy place. 
+<sup>28</sup> Those who were numbered of them, the males from one month old and over, were eight thousand, six hundred, who were responsible for the care of the holy place.
 
-<sup>29</sup> The tents of the Kohathites are to be placed on the south side of the House. 
+<sup>29</sup> The tents of the Kohathites are to be placed on the south side of the House.
 
-<sup>30</sup> Their chief is Elizaphan, the son of Uzziel. 
+<sup>30</sup> Their chief is Elizaphan, the son of Uzziel.
 
-<sup>31</sup> In their care are the ark, and the table, and the lights, and the altars, and all the vessels used in the holy place, and the veil, and all they are used for. 
+<sup>31</sup> In their care are the ark, and the table, and the lights, and the altars, and all the vessels used in the holy place, and the veil, and all they are used for.
 
-<sup>32</sup> Eleazar, the son of Aaron the priest, will be head over all the Levites and overseer of those responsible for the care of the holy place. 
+<sup>32</sup> Eleazar, the son of Aaron the priest, will be head over all the Levites and overseer of those responsible for the care of the holy place.
 
-<sup>33</sup> From Merari come the Mahlites and the Mushites; these are the families of Merari. 
+<sup>33</sup> From Merari come the Mahlites and the Mushites; these are the families of Merari.
 
-<sup>34</sup> Those who were numbered of them, the males of a month old and over, were six thousand, two hundred. 
+<sup>34</sup> Those who were numbered of them, the males of a month old and over, were six thousand, two hundred.
 
-<sup>35</sup> The chief of the families of Merari was Zuriel, the son of Abihail: their tents are to be placed on the north side of the House. 
+<sup>35</sup> The chief of the families of Merari was Zuriel, the son of Abihail: their tents are to be placed on the north side of the House.
 
-<sup>36</sup> And in their care are to be all the boards of the Tent, with their rods and pillars and bases, and all the instruments, and all they are used for, 
+<sup>36</sup> And in their care are to be all the boards of the Tent, with their rods and pillars and bases, and all the instruments, and all they are used for,
 
-<sup>37</sup> And the pillars of the open space round it, with their bases and nails and cords. 
+<sup>37</sup> And the pillars of the open space round it, with their bases and nails and cords.
 
-<sup>38</sup> And those whose tents are to be placed on the east side of the House in front of the Tent of meeting, looking to the dawn, are Moses and Aaron and his sons, who will do the work of the holy place for the children of Israel; and any strange person who comes near will be put to death. 
+<sup>38</sup> And those whose tents are to be placed on the east side of the House in front of the Tent of meeting, looking to the dawn, are Moses and Aaron and his sons, who will do the work of the holy place for the children of Israel; and any strange person who comes near will be put to death.
 
-<sup>39</sup> All the Levites numbered by Moses and Aaron at the order of the Lord, all the males of one month old and over numbered in the order of their families, were twenty-two thousand. 
+<sup>39</sup> All the Levites numbered by Moses and Aaron at the order of the Lord, all the males of one month old and over numbered in the order of their families, were twenty-two thousand.
 
-<sup>40</sup> And the Lord said to Moses, Let all the first male children be numbered, and take the number of their names. 
+<sup>40</sup> And the Lord said to Moses, Let all the first male children be numbered, and take the number of their names.
 
-<sup>41</sup> And give to me the Levites (I am the Lord) in place of the first sons of the children of Israel; and the cattle of the Levites in place of the first births among the cattle of the children of Israel. 
+<sup>41</sup> And give to me the Levites (I am the Lord) in place of the first sons of the children of Israel; and the cattle of the Levites in place of the first births among the cattle of the children of Israel.
 
-<sup>42</sup> So Moses had all the first sons among the children of Israel numbered, as the Lord said to him. 
+<sup>42</sup> So Moses had all the first sons among the children of Israel numbered, as the Lord said to him.
 
-<sup>43</sup> Every first son from a month old and over was numbered by name, and the number came to twenty-two thousand, two hundred and seventy-three. 
+<sup>43</sup> Every first son from a month old and over was numbered by name, and the number came to twenty-two thousand, two hundred and seventy-three.
 
-<sup>44</sup> And the Lord said to Moses, 
+<sup>44</sup> And the Lord said to Moses,
 
-<sup>45</sup> Take the Levites in place of all the first sons of the children of Israel, and the cattle of the Levites in place of their cattle; the Levites are to be mine; I am the Lord. 
+<sup>45</sup> Take the Levites in place of all the first sons of the children of Israel, and the cattle of the Levites in place of their cattle; the Levites are to be mine; I am the Lord.
 
-<sup>46</sup> And the price you have to give for the two hundred and seventy-three first sons of the children of Israel which are in addition to the number of the Levites, 
+<sup>46</sup> And the price you have to give for the two hundred and seventy-three first sons of the children of Israel which are in addition to the number of the Levites,
 
-<sup>47</sup> Will be five shekels for every one, by the scale of the holy place (the shekel is twenty gerahs); 
+<sup>47</sup> Will be five shekels for every one, by the scale of the holy place (the shekel is twenty gerahs);
 
-<sup>48</sup> And this money, the price of those over the number of the Levites, is to be given to Aaron and his sons. 
+<sup>48</sup> And this money, the price of those over the number of the Levites, is to be given to Aaron and his sons.
 
-<sup>49</sup> So Moses took the money, the price of those whose place had not been taken by the Levites; 
+<sup>49</sup> So Moses took the money, the price of those whose place had not been taken by the Levites;
 
-<sup>50</sup> From the first sons of Israel he took it, a thousand, three hundred and sixty-five shekels, by the scale of the holy place; 
+<sup>50</sup> From the first sons of Israel he took it, a thousand, three hundred and sixty-five shekels, by the scale of the holy place;
 
-<sup>51</sup> And he gave the money to Aaron and his sons, as the Lord had said. 
-
-
+<sup>51</sup> And he gave the money to Aaron and his sons, as the Lord had said.

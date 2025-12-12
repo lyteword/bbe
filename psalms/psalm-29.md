@@ -4,26 +4,26 @@ weight: 29
 
 # Psalm 29
 
-<sup>1</sup> A Psalm. Of David. Give to the Lord, you sons of the gods, give to the Lord glory and strength. 
+A Psalm. Of David.
 
-<sup>2</sup> Give to the Lord the full glory of his name; give him worship in holy robes. 
+<sup>1</sup> Give to the Lord, you sons of the gods, give to the Lord glory and strength.
 
-<sup>3</sup> The voice of the Lord is on the waters: the God of glory is thundering, the Lord is on the great waters. 
+<sup>2</sup> Give to the Lord the full glory of his name; give him worship in holy robes.
 
-<sup>4</sup> The voice of the Lord is full of power; the voice of the Lord has a noble sound. 
+<sup>3</sup> The voice of the Lord is on the waters: the God of glory is thundering, the Lord is on the great waters.
 
-<sup>5</sup> By the voice of the Lord are the cedar-trees broken, even the cedars of Lebanon are broken by the Lord. 
+<sup>4</sup> The voice of the Lord is full of power; the voice of the Lord has a noble sound.
 
-<sup>6</sup> He makes them go jumping about like a young ox; Lebanon and Sirion like a young mountain ox. 
+<sup>5</sup> By the voice of the Lord are the cedar-trees broken, even the cedars of Lebanon are broken by the Lord.
 
-<sup>7</sup> At the voice of the Lord flames of fire are seen. 
+<sup>6</sup> He makes them go jumping about like a young ox; Lebanon and Sirion like a young mountain ox.
 
-<sup>8</sup> At the voice of the Lord there is a shaking in the waste land, even a shaking in the waste land of Kadesh. 
+<sup>7</sup> At the voice of the Lord flames of fire are seen.
 
-<sup>9</sup> At the voice of the Lord the roes give birth, the leaves are taken from the trees: in his Temple everything says, Glory. 
+<sup>8</sup> At the voice of the Lord there is a shaking in the waste land, even a shaking in the waste land of Kadesh.
 
-<sup>10</sup> The Lord had his seat as king when the waters came on the earth; the Lord is seated as king for ever. 
+<sup>9</sup> At the voice of the Lord the roes give birth, the leaves are taken from the trees: in his Temple everything says, Glory.
 
-<sup>11</sup> The Lord will give strength to his people; the Lord will give his people the blessing of peace. 
+<sup>10</sup> The Lord had his seat as king when the waters came on the earth; the Lord is seated as king for ever.
 
-
+<sup>11</sup> The Lord will give strength to his people; the Lord will give his people the blessing of peace.

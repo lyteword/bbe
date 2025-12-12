@@ -4,44 +4,42 @@ weight: 16
 
 # Chapter 16
 
-<sup>1</sup> In the seventeenth year of Pekah, the son of Remaliah, Ahaz, the son of Jotham, became king of Judah. 
+<sup>1</sup> In the seventeenth year of Pekah, the son of Remaliah, Ahaz, the son of Jotham, became king of Judah.
 
-<sup>2</sup> Ahaz was twenty years old when he became king; he was ruling for sixteen years in Jerusalem. He did not do what was right in the eyes of the Lord his God, as David his father did. 
+<sup>2</sup> Ahaz was twenty years old when he became king; he was ruling for sixteen years in Jerusalem. He did not do what was right in the eyes of the Lord his God, as David his father did.
 
-<sup>3</sup> But he went in the ways of the kings of Israel, and even made his son go through the fire, copying the disgusting ways of the nations whom the Lord had sent out of the land before the children of Israel. 
+<sup>3</sup> But he went in the ways of the kings of Israel, and even made his son go through the fire, copying the disgusting ways of the nations whom the Lord had sent out of the land before the children of Israel.
 
-<sup>4</sup> And he made offerings, burning them in the high places and on the hills and under every green tree. 
+<sup>4</sup> And he made offerings, burning them in the high places and on the hills and under every green tree.
 
-<sup>5</sup> Then Rezin, king of Aram, and Pekah, son of Remaliah, king of Israel, came up to Jerusalem to make war; and they made an attack on Ahaz, shutting him in, but were not able to overcome him. 
+<sup>5</sup> Then Rezin, king of Aram, and Pekah, son of Remaliah, king of Israel, came up to Jerusalem to make war; and they made an attack on Ahaz, shutting him in, but were not able to overcome him.
 
-<sup>6</sup> At that time the king of Edom got Elath back for Edom, and sent the Jews out of Elath; and the Edomites came back to Elath where they are living to this day. 
+<sup>6</sup> At that time the king of Edom got Elath back for Edom, and sent the Jews out of Elath; and the Edomites came back to Elath where they are living to this day.
 
-<sup>7</sup> So Ahaz sent representatives to Tiglath-pileser, king of Assyria, saying, I am your servant and your son; come to my help against the kings of Aram and Israel who have taken up arms against me. 
+<sup>7</sup> So Ahaz sent representatives to Tiglath-pileser, king of Assyria, saying, I am your servant and your son; come to my help against the kings of Aram and Israel who have taken up arms against me.
 
-<sup>8</sup> And Ahaz took the silver and gold which were in the house of the Lord and in the king's store-house, and sent them as an offering to the king of Assyria. 
+<sup>8</sup> And Ahaz took the silver and gold which were in the house of the Lord and in the king's store-house, and sent them as an offering to the king of Assyria.
 
-<sup>9</sup> And the king of Assyria, in answer to his request, went up against Damascus and took it, and took its people away as prisoners to Kir, and put Rezin to death. 
+<sup>9</sup> And the king of Assyria, in answer to his request, went up against Damascus and took it, and took its people away as prisoners to Kir, and put Rezin to death.
 
-<sup>10</sup> Then King Ahaz went to Damascus for a meeting with Tiglath-pileser, king of Assyria; and there he saw the altar which was at Damascus; and King Ahaz sent to Urijah the priest a copy of the altar, giving the design of it and all the details of its structure. 
+<sup>10</sup> Then King Ahaz went to Damascus for a meeting with Tiglath-pileser, king of Assyria; and there he saw the altar which was at Damascus; and King Ahaz sent to Urijah the priest a copy of the altar, giving the design of it and all the details of its structure.
 
-<sup>11</sup> And from the copy King Ahaz sent from Damascus, Urijah made an altar and had it ready by the time King Ahaz came back from Damascus. 
+<sup>11</sup> And from the copy King Ahaz sent from Damascus, Urijah made an altar and had it ready by the time King Ahaz came back from Damascus.
 
-<sup>12</sup> And when the king came from Damascus, he saw the altar; and he went up on it and made an offering on it. 
+<sup>12</sup> And when the king came from Damascus, he saw the altar; and he went up on it and made an offering on it.
 
-<sup>13</sup> He made his burned offering and his meal offering and his drink offering there, draining out the blood of his peace-offerings on the altar. 
+<sup>13</sup> He made his burned offering and his meal offering and his drink offering there, draining out the blood of his peace-offerings on the altar.
 
-<sup>14</sup> And the brass altar, which was before the Lord, he took from the front of the house, from between his altar and the house of the Lord, and put it on the north side of his altar. 
+<sup>14</sup> And the brass altar, which was before the Lord, he took from the front of the house, from between his altar and the house of the Lord, and put it on the north side of his altar.
 
-<sup>15</sup> And King Ahaz gave orders to Urijah the priest, saying, Make the morning burned offering and the evening meal offering and the king's burned offering and meal offering, with the burned offerings of all the people and their meal offerings and drink offerings, on the great altar, and put on it all the blood of the burned offerings and of the beasts which are offered; but the brass altar will be for my use to get directions from the Lord. 
+<sup>15</sup> And King Ahaz gave orders to Urijah the priest, saying, Make the morning burned offering and the evening meal offering and the king's burned offering and meal offering, with the burned offerings of all the people and their meal offerings and drink offerings, on the great altar, and put on it all the blood of the burned offerings and of the beasts which are offered; but the brass altar will be for my use to get directions from the Lord.
 
-<sup>16</sup> So Urijah the priest did everything as the king said 
+<sup>16</sup> So Urijah the priest did everything as the king said
 
-<sup>17</sup> And King Ahaz took off the sides of the wheeled bases, and took down the great water-vessel from off the brass oxen which were under it and put it on a floor of stone. 
+<sup>17</sup> And King Ahaz took off the sides of the wheeled bases, and took down the great water-vessel from off the brass oxen which were under it and put it on a floor of stone.
 
-<sup>18</sup> ***the house of the Lord, because of the king of Assyria. 
+<sup>18</sup> ***the house of the Lord, because of the king of Assyria.
 
-<sup>19</sup> Now the rest of the things which Ahaz did, are they not recorded in the book of the history of the kings of Judah? 
+<sup>19</sup> Now the rest of the things which Ahaz did, are they not recorded in the book of the history of the kings of Judah?
 
-<sup>20</sup> And Ahaz went to rest with his fathers, and was put into the earth with his fathers in the town of David; and Hezekiah his son became king in his place. 
-
-
+<sup>20</sup> And Ahaz went to rest with his fathers, and was put into the earth with his fathers in the town of David; and Hezekiah his son became king in his place.

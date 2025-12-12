@@ -4,110 +4,108 @@ weight: 7
 
 # Chapter 7
 
-<sup>1</sup> After this, Jesus went from place to place in Galilee. He did not go about in Judaea, because the Jews were looking for a chance to put him to death. 
+<sup>1</sup> After this, Jesus went from place to place in Galilee. He did not go about in Judaea, because the Jews were looking for a chance to put him to death.
 
-<sup>2</sup> But the feast of the Jews, the feast of tents, was near. 
+<sup>2</sup> But the feast of the Jews, the feast of tents, was near.
 
-<sup>3</sup> So his brothers said to him, Go away from here into Judaea so that your disciples may see the works which you do. 
+<sup>3</sup> So his brothers said to him, Go away from here into Judaea so that your disciples may see the works which you do.
 
-<sup>4</sup> Because no man does things secretly if he has a desire that men may have knowledge of him. If you do these things, let yourself be seen by all men. 
+<sup>4</sup> Because no man does things secretly if he has a desire that men may have knowledge of him. If you do these things, let yourself be seen by all men.
 
-<sup>5</sup> For even his brothers had no belief in him. 
+<sup>5</sup> For even his brothers had no belief in him.
 
-<sup>6</sup> Jesus said to them, My time is still to come, but any time is good for you. 
+<sup>6</sup> Jesus said to them, My time is still to come, but any time is good for you.
 
-<sup>7</sup> It is not possible for you to be hated by the world; but I am hated by it, because I give witness that what it does is evil. 
+<sup>7</sup> It is not possible for you to be hated by the world; but I am hated by it, because I give witness that what it does is evil.
 
-<sup>8</sup> Go you up to the feast: I am not going up now to the feast because my time has not fully come. 
+<sup>8</sup> Go you up to the feast: I am not going up now to the feast because my time has not fully come.
 
-<sup>9</sup> Having said these things to them, he still kept in Galilee. 
+<sup>9</sup> Having said these things to them, he still kept in Galilee.
 
-<sup>10</sup> But after his brothers had gone up to the feast, then he went up, not publicly, but in secret. 
+<sup>10</sup> But after his brothers had gone up to the feast, then he went up, not publicly, but in secret.
 
-<sup>11</sup> At the feast the Jews were looking for him and saying, Where is he? 
+<sup>11</sup> At the feast the Jews were looking for him and saying, Where is he?
 
-<sup>12</sup> And there was much discussion about him among the mass of the people. Some said, He is a good man; but others said, No, he is giving people false ideas. 
+<sup>12</sup> And there was much discussion about him among the mass of the people. Some said, He is a good man; but others said, No, he is giving people false ideas.
 
-<sup>13</sup> But no man said anything about him openly for fear of the Jews. 
+<sup>13</sup> But no man said anything about him openly for fear of the Jews.
 
-<sup>14</sup> Now in the middle of the feast Jesus went up to the Temple and was teaching. 
+<sup>14</sup> Now in the middle of the feast Jesus went up to the Temple and was teaching.
 
-<sup>15</sup> Then the Jews were surprised and said, How has this man got knowledge of books? He has never been to school. 
+<sup>15</sup> Then the Jews were surprised and said, How has this man got knowledge of books? He has never been to school.
 
-<sup>16</sup> Jesus gave them this answer: It is not my teaching, but his who sent me. 
+<sup>16</sup> Jesus gave them this answer: It is not my teaching, but his who sent me.
 
-<sup>17</sup> If any man is ready to do God's pleasure he will have knowledge of the teaching and of where it comes from — from God or from myself. 
+<sup>17</sup> If any man is ready to do God's pleasure he will have knowledge of the teaching and of where it comes from — from God or from myself.
 
-<sup>18</sup> The man whose words come from himself is looking for glory for himself, but he who is looking for the glory of him who sent him — that man is true and there is no evil in him. 
+<sup>18</sup> The man whose words come from himself is looking for glory for himself, but he who is looking for the glory of him who sent him — that man is true and there is no evil in him.
 
-<sup>19</sup> Did not Moses give you the law? Even so, not one of you keeps the law. Why have you a desire to put me to death? 
+<sup>19</sup> Did not Moses give you the law? Even so, not one of you keeps the law. Why have you a desire to put me to death?
 
-<sup>20</sup> The people said in answer, You have an evil spirit: who has any desire to put you to death? 
+<sup>20</sup> The people said in answer, You have an evil spirit: who has any desire to put you to death?
 
-<sup>21</sup> This was the answer of Jesus: I have done one work and you are all surprised at it. 
+<sup>21</sup> This was the answer of Jesus: I have done one work and you are all surprised at it.
 
-<sup>22</sup> Moses gave you circumcision — not that it comes from Moses, but from the fathers — and even on the Sabbath you give a child circumcision. 
+<sup>22</sup> Moses gave you circumcision — not that it comes from Moses, but from the fathers — and even on the Sabbath you give a child circumcision.
 
-<sup>23</sup> If a child is given circumcision on the Sabbath so that the law of Moses may not be broken, why are you angry with me because I made a man completely well on the Sabbath? 
+<sup>23</sup> If a child is given circumcision on the Sabbath so that the law of Moses may not be broken, why are you angry with me because I made a man completely well on the Sabbath?
 
-<sup>24</sup> Let not your decisions be based on what you see, but on righteousness. 
+<sup>24</sup> Let not your decisions be based on what you see, but on righteousness.
 
-<sup>25</sup> Then some of the people of Jerusalem said, Is not this the man whose death is desired? 
+<sup>25</sup> Then some of the people of Jerusalem said, Is not this the man whose death is desired?
 
-<sup>26</sup> And here he is talking openly and they say nothing to him! Is it possible that the rulers have knowledge that this is truly the Christ? 
+<sup>26</sup> And here he is talking openly and they say nothing to him! Is it possible that the rulers have knowledge that this is truly the Christ?
 
-<sup>27</sup> However, it is clear to us where this man comes from: but when the Christ comes no one will have knowledge where he comes from. 
+<sup>27</sup> However, it is clear to us where this man comes from: but when the Christ comes no one will have knowledge where he comes from.
 
-<sup>28</sup> Then, when he was teaching in the Temple, Jesus said with a loud voice, You have knowledge of me and you have knowledge of where I come from; and I have not come of myself; but there is One who has sent me; he is true, but you have no knowledge of him. 
+<sup>28</sup> Then, when he was teaching in the Temple, Jesus said with a loud voice, You have knowledge of me and you have knowledge of where I come from; and I have not come of myself; but there is One who has sent me; he is true, but you have no knowledge of him.
 
-<sup>29</sup> I have knowledge of him because I came from him and he sent me. 
+<sup>29</sup> I have knowledge of him because I came from him and he sent me.
 
-<sup>30</sup> Then they had a desire to take him: but no man put hands on him because his hour was still to come. 
+<sup>30</sup> Then they had a desire to take him: but no man put hands on him because his hour was still to come.
 
-<sup>31</sup> And numbers of the people had belief in him, and they said, When the Christ comes will he do more signs than this man has done? 
+<sup>31</sup> And numbers of the people had belief in him, and they said, When the Christ comes will he do more signs than this man has done?
 
-<sup>32</sup> This discussion of the people came to the ears of the Pharisees; and the chief priests and the Pharisees sent servants to take him. 
+<sup>32</sup> This discussion of the people came to the ears of the Pharisees; and the chief priests and the Pharisees sent servants to take him.
 
-<sup>33</sup> Then Jesus said, I will be with you a little longer and then I go to him who sent me. 
+<sup>33</sup> Then Jesus said, I will be with you a little longer and then I go to him who sent me.
 
-<sup>34</sup> You will be looking for me, and you will not see me: and where I am you may not come. 
+<sup>34</sup> You will be looking for me, and you will not see me: and where I am you may not come.
 
-<sup>35</sup> So the Jews said among themselves, To what place is he going where we will not see him? will he go to the Jews living among the Greeks and become the teacher of the Greeks? 
+<sup>35</sup> So the Jews said among themselves, To what place is he going where we will not see him? will he go to the Jews living among the Greeks and become the teacher of the Greeks?
 
-<sup>36</sup> What is this saying of his, You will be looking for me and will not see me, and where I am you may not come? 
+<sup>36</sup> What is this saying of his, You will be looking for me and will not see me, and where I am you may not come?
 
-<sup>37</sup> On the last day, the great day of the feast, Jesus got up and said in a loud voice, If any man is in need of drink let him come to me and I will give it to him. 
+<sup>37</sup> On the last day, the great day of the feast, Jesus got up and said in a loud voice, If any man is in need of drink let him come to me and I will give it to him.
 
-<sup>38</sup> He who has faith in me, out of his body, as the Writings have said, will come rivers of living water. 
+<sup>38</sup> He who has faith in me, out of his body, as the Writings have said, will come rivers of living water.
 
-<sup>39</sup> This he said of the Spirit which would be given to those who had faith in him: the Spirit had not been given then, because the glory of Jesus was still to come. 
+<sup>39</sup> This he said of the Spirit which would be given to those who had faith in him: the Spirit had not been given then, because the glory of Jesus was still to come.
 
-<sup>40</sup> When these words came to their ears, some of the people said, This is certainly the prophet. 
+<sup>40</sup> When these words came to their ears, some of the people said, This is certainly the prophet.
 
-<sup>41</sup> Others said, This is the Christ. But others said, Not so; will the Christ come from Galilee? 
+<sup>41</sup> Others said, This is the Christ. But others said, Not so; will the Christ come from Galilee?
 
-<sup>42</sup> Do not the Writings say that the Christ comes of the seed of David and from Beth-lehem, the little town where David was? 
+<sup>42</sup> Do not the Writings say that the Christ comes of the seed of David and from Beth-lehem, the little town where David was?
 
-<sup>43</sup> So there was a division among the people because of him. 
+<sup>43</sup> So there was a division among the people because of him.
 
-<sup>44</sup> And some of them had a desire to take him; but no man put hands on him. 
+<sup>44</sup> And some of them had a desire to take him; but no man put hands on him.
 
-<sup>45</sup> Then the servants went back to the chief priests and Pharisees, who said to them, Why have you not got him with you? 
+<sup>45</sup> Then the servants went back to the chief priests and Pharisees, who said to them, Why have you not got him with you?
 
-<sup>46</sup> The servants made answer, No man ever said things like this man. 
+<sup>46</sup> The servants made answer, No man ever said things like this man.
 
-<sup>47</sup> Then the Pharisees said to them, Have you, like the others, been given false ideas? 
+<sup>47</sup> Then the Pharisees said to them, Have you, like the others, been given false ideas?
 
-<sup>48</sup> Have any of the rulers belief in him, or any one of the Pharisees? 
+<sup>48</sup> Have any of the rulers belief in him, or any one of the Pharisees?
 
-<sup>49</sup> But these people who have no knowledge of the law are cursed. 
+<sup>49</sup> But these people who have no knowledge of the law are cursed.
 
-<sup>50</sup> Nicodemus — he who had come to Jesus before, being himself one of them — said to them, 
+<sup>50</sup> Nicodemus — he who had come to Jesus before, being himself one of them — said to them,
 
-<sup>51</sup> Is a man judged by our law before it has given him a hearing and has knowledge of what he has done? 
+<sup>51</sup> Is a man judged by our law before it has given him a hearing and has knowledge of what he has done?
 
-<sup>52</sup> This was their answer: And do you come from Galilee? Make search and you will see that no prophet comes out of Galilee. 
+<sup>52</sup> This was their answer: And do you come from Galilee? Make search and you will see that no prophet comes out of Galilee.
 
-<sup>53</sup> And every man went to his house; 
-
-
+<sup>53</sup> [And every man went to his house;

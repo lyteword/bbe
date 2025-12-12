@@ -4,48 +4,46 @@ weight: 1
 
 # Chapter 1
 
-<sup>1</sup> There was a man in the land of Uz whose name was Job. He was without sin and upright, fearing God and keeping himself far from evil. 
+<sup>1</sup> There was a man in the land of Uz whose name was Job. He was without sin and upright, fearing God and keeping himself far from evil.
 
-<sup>2</sup> And he had seven sons and three daughters. 
+<sup>2</sup> And he had seven sons and three daughters.
 
-<sup>3</sup> And of cattle he had seven thousand sheep and goats, and three thousand camels, and a thousand oxen, and five hundred she-asses, and a very great number of servants. And the man was greater than any of the sons of the east. 
+<sup>3</sup> And of cattle he had seven thousand sheep and goats, and three thousand camels, and a thousand oxen, and five hundred she-asses, and a very great number of servants. And the man was greater than any of the sons of the east.
 
-<sup>4</sup> His sons regularly went to one another's houses, and every one on his day gave a feast: and at these times they sent for their three sisters to take part in their feasts with them. 
+<sup>4</sup> His sons regularly went to one another's houses, and every one on his day gave a feast: and at these times they sent for their three sisters to take part in their feasts with them.
 
-<sup>5</sup> And at the end of their days of feasting, Job sent and made them clean, getting up early in the morning and offering burned offerings for them all. For, Job said, It may be that my sons have done wrong and said evil of God in their hearts. And Job did this whenever the feasts came round. 
+<sup>5</sup> And at the end of their days of feasting, Job sent and made them clean, getting up early in the morning and offering burned offerings for them all. For, Job said, It may be that my sons have done wrong and said evil of God in their hearts. And Job did this whenever the feasts came round.
 
-<sup>6</sup> And there was a day when the sons of the gods came together before the Lord, and the Satan came with them. 
+<sup>6</sup> And there was a day when the sons of the gods came together before the Lord, and the Satan came with them.
 
-<sup>7</sup> And the Lord said to the Satan, Where do you come from? And the Satan said in answer, From wandering this way and that on the earth, and walking about on it. 
+<sup>7</sup> And the Lord said to the Satan, Where do you come from? And the Satan said in answer, From wandering this way and that on the earth, and walking about on it.
 
-<sup>8</sup> And the Lord said to the Satan, Have you taken note of my servant Job, for there is no one like him on the earth, a man without sin and upright, fearing God and keeping himself far from evil? 
+<sup>8</sup> And the Lord said to the Satan, Have you taken note of my servant Job, for there is no one like him on the earth, a man without sin and upright, fearing God and keeping himself far from evil?
 
-<sup>9</sup> And the Satan said in answer to the Lord, Is it for nothing that Job is a god-fearing man? 
+<sup>9</sup> And the Satan said in answer to the Lord, Is it for nothing that Job is a god-fearing man?
 
-<sup>10</sup> Have you yourself not put a wall round him and his house and all he has on every side, blessing the work of his hands, and increasing his cattle in the land? 
+<sup>10</sup> Have you yourself not put a wall round him and his house and all he has on every side, blessing the work of his hands, and increasing his cattle in the land?
 
-<sup>11</sup> But now, put out your hand against all he has, and he will be cursing you to your face. 
+<sup>11</sup> But now, put out your hand against all he has, and he will be cursing you to your face.
 
-<sup>12</sup> And the Lord said to the Satan, See, I give all he has into your hands, only do not put a finger on the man himself. And the Satan went out from before the Lord. 
+<sup>12</sup> And the Lord said to the Satan, See, I give all he has into your hands, only do not put a finger on the man himself. And the Satan went out from before the Lord.
 
-<sup>13</sup> And there was a day when his sons and daughters were feasting in the house of their oldest brother, 
+<sup>13</sup> And there was a day when his sons and daughters were feasting in the house of their oldest brother,
 
-<sup>14</sup> And a man came to Job, and said, The oxen were ploughing, and the asses were taking their food by their side: 
+<sup>14</sup> And a man came to Job, and said, The oxen were ploughing, and the asses were taking their food by their side:
 
-<sup>15</sup> And the men of Sheba came against them and took them away, putting the young men to the sword, and I was the only one who got away safe to give you the news. 
+<sup>15</sup> And the men of Sheba came against them and took them away, putting the young men to the sword, and I was the only one who got away safe to give you the news.
 
-<sup>16</sup> And this one was still talking when another came, and said, The fire of God came down from heaven, burning up the sheep and the goats and the young men completely, and I was the only one who got away safe to give you the news. 
+<sup>16</sup> And this one was still talking when another came, and said, The fire of God came down from heaven, burning up the sheep and the goats and the young men completely, and I was the only one who got away safe to give you the news.
 
-<sup>17</sup> And this one was still talking when another came, and said, The Chaldaeans made themselves into three bands, and came down on the camels and took them away, putting the young men to the sword, and I was the only one who got away safe to give you the news. 
+<sup>17</sup> And this one was still talking when another came, and said, The Chaldaeans made themselves into three bands, and came down on the camels and took them away, putting the young men to the sword, and I was the only one who got away safe to give you the news.
 
-<sup>18</sup> And this one was still talking when another came, and said, Your sons and your daughters were feasting together in their oldest brother's house, 
+<sup>18</sup> And this one was still talking when another came, and said, Your sons and your daughters were feasting together in their oldest brother's house,
 
-<sup>19</sup> When a great wind came rushing from the waste land against the four sides of the house, and it came down on the young men, and they are dead; and I was the only one who got away safe to give you the news. 
+<sup>19</sup> When a great wind came rushing from the waste land against the four sides of the house, and it came down on the young men, and they are dead; and I was the only one who got away safe to give you the news.
 
-<sup>20</sup> Then Job got up, and after parting his clothing and cutting off his hair, he went down on his face to the earth, and gave worship, and said, 
+<sup>20</sup> Then Job got up, and after parting his clothing and cutting off his hair, he went down on his face to the earth, and gave worship, and said,
 
-<sup>21</sup> With nothing I came out of my mother's body, and with nothing I will go back there; the Lord gave and the Lord has taken away; let the Lord's name be praised. 
+<sup>21</sup> With nothing I came out of my mother's body, and with nothing I will go back there; the Lord gave and the Lord has taken away; let the Lord's name be praised.
 
-<sup>22</sup> In all this Job did no sin, and did not say that God's acts were foolish. 
-
-
+<sup>22</sup> In all this Job did no sin, and did not say that God's acts were foolish.

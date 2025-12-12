@@ -4,50 +4,48 @@ weight: 2
 
 # Chapter 2
 
-<sup>1</sup> For it is my desire to give you news of the great fight I am making for you and for those at Laodicea, and for all who have not seen my face in the flesh; 
+<sup>1</sup> For it is my desire to give you news of the great fight I am making for you and for those at Laodicea, and for all who have not seen my face in the flesh;
 
-<sup>2</sup> So that their hearts may be comforted, and that being joined together in love, they may come to the full wealth of the certain knowledge of the secret of God, even Christ, 
+<sup>2</sup> So that their hearts may be comforted, and that being joined together in love, they may come to the full wealth of the certain knowledge of the secret of God, even Christ,
 
-<sup>3</sup> In whom are all the secret stores of wisdom and knowledge. 
+<sup>3</sup> In whom are all the secret stores of wisdom and knowledge.
 
-<sup>4</sup> I say this so that you may not be turned away by any deceit of words. 
+<sup>4</sup> I say this so that you may not be turned away by any deceit of words.
 
-<sup>5</sup> For though I am not present in the flesh, still I am with you in the spirit, seeing with joy your order, and your unchanging faith in Christ. 
+<sup>5</sup> For though I am not present in the flesh, still I am with you in the spirit, seeing with joy your order, and your unchanging faith in Christ.
 
-<sup>6</sup> As, then, you took Christ Jesus the Lord, so go on in him, 
+<sup>6</sup> As, then, you took Christ Jesus the Lord, so go on in him,
 
-<sup>7</sup> Rooted and based together in him, strong in the faith which the teaching gave you, giving praise to God at all times. 
+<sup>7</sup> Rooted and based together in him, strong in the faith which the teaching gave you, giving praise to God at all times.
 
-<sup>8</sup> Take care that no one takes you away by force, through man's wisdom and deceit, going after the beliefs of men and the theories of the world, and not after Christ: 
+<sup>8</sup> Take care that no one takes you away by force, through man's wisdom and deceit, going after the beliefs of men and the theories of the world, and not after Christ:
 
-<sup>9</sup> For in him all the wealth of God's being has a living form, 
+<sup>9</sup> For in him all the wealth of God's being has a living form,
 
-<sup>10</sup> And you are complete in him, who is the head of all rule and authority: 
+<sup>10</sup> And you are complete in him, who is the head of all rule and authority:
 
-<sup>11</sup> In whom you had a circumcision not made with hands, in the putting off of the body of the flesh, in the circumcision of Christ; 
+<sup>11</sup> In whom you had a circumcision not made with hands, in the putting off of the body of the flesh, in the circumcision of Christ;
 
-<sup>12</sup> Having been put to death with him in baptism, by which you came to life again with him, through faith in the working of God, who made him come back from the dead. 
+<sup>12</sup> Having been put to death with him in baptism, by which you came to life again with him, through faith in the working of God, who made him come back from the dead.
 
-<sup>13</sup> And you, being dead through your sins and the evil condition of your flesh, to you, I say, he gave life together with him, and forgiveness of all our sins; 
+<sup>13</sup> And you, being dead through your sins and the evil condition of your flesh, to you, I say, he gave life together with him, and forgiveness of all our sins;
 
-<sup>14</sup> Having put an end to the handwriting of the law which was against us, taking it out of the way by nailing it to his cross; 
+<sup>14</sup> Having put an end to the handwriting of the law which was against us, taking it out of the way by nailing it to his cross;
 
-<sup>15</sup> Having made himself free from the rule of authorities and powers, he put them openly to shame, glorying over them in it. 
+<sup>15</sup> Having made himself free from the rule of authorities and powers, he put them openly to shame, glorying over them in it.
 
-<sup>16</sup> For this reason let no man be your judge in any question of food or drink or feast days or new moons or Sabbaths: 
+<sup>16</sup> For this reason let no man be your judge in any question of food or drink or feast days or new moons or Sabbaths:
 
-<sup>17</sup> For these are an image of the things which are to come; but the body is Christ's. 
+<sup>17</sup> For these are an image of the things which are to come; but the body is Christ's.
 
-<sup>18</sup> Let no man take your reward from you by consciously making little of himself and giving worship to angels; having his thoughts fixed on the things which he has seen, being foolishly lifted up in his natural mind, 
+<sup>18</sup> Let no man take your reward from you by consciously making little of himself and giving worship to angels; having his thoughts fixed on the things which he has seen, being foolishly lifted up in his natural mind,
 
-<sup>19</sup> And not joined to the Head, from whom all the body, being given strength and kept together through its joins and bands, has its growth with the increase of God. 
+<sup>19</sup> And not joined to the Head, from whom all the body, being given strength and kept together through its joins and bands, has its growth with the increase of God.
 
-<sup>20</sup> If you were made free, by your death with Christ, from the rules of the world, why do you put yourselves under the authority of orders 
+<sup>20</sup> If you were made free, by your death with Christ, from the rules of the world, why do you put yourselves under the authority of orders
 
-<sup>21</sup> Which say there may be no touching, tasting, or taking in your hands, 
+<sup>21</sup> Which say there may be no touching, tasting, or taking in your hands,
 
-<sup>22</sup> (Rules which are all to come to an end with their use) after the orders and teaching of men? 
+<sup>22</sup> (Rules which are all to come to an end with their use) after the orders and teaching of men?
 
-<sup>23</sup> These things seem to have a sort of wisdom in self-ordered worship and making little of oneself, and being cruel to the body, not honouring it by giving it its natural use. 
-
-
+<sup>23</sup> These things seem to have a sort of wisdom in self-ordered worship and making little of oneself, and being cruel to the body, not honouring it by giving it its natural use.

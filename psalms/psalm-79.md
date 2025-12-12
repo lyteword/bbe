@@ -4,30 +4,30 @@ weight: 79
 
 # Psalm 79
 
-<sup>1</sup> A Psalm. Of Asaph. O God, the nations have come into your heritage; they have made your holy Temple unclean; they have made Jerusalem a mass of broken walls. 
+A Psalm. Of Asaph.
 
-<sup>2</sup> They have given the bodies of your servants as food to the birds of the air, and the flesh of your saints to the beasts of the earth. 
+<sup>1</sup> O God, the nations have come into your heritage; they have made your holy Temple unclean; they have made Jerusalem a mass of broken walls.
 
-<sup>3</sup> Their blood has been flowing like water round about Jerusalem; there was no one to put them in their last resting-place. 
+<sup>2</sup> They have given the bodies of your servants as food to the birds of the air, and the flesh of your saints to the beasts of the earth.
 
-<sup>4</sup> We are looked down on by our neighbours, we are laughed at and made sport of by those who are round us. 
+<sup>3</sup> Their blood has been flowing like water round about Jerusalem; there was no one to put them in their last resting-place.
 
-<sup>5</sup> How long, O Lord? will you be angry for ever? will your wrath go on burning like fire? 
+<sup>4</sup> We are looked down on by our neighbours, we are laughed at and made sport of by those who are round us.
 
-<sup>6</sup> Let your wrath be on the nations who have no knowledge of you, and on the kingdoms who have not made prayer to your name. 
+<sup>5</sup> How long, O Lord? will you be angry for ever? will your wrath go on burning like fire?
 
-<sup>7</sup> For they have taken Jacob for their meat, and made waste his house. 
+<sup>6</sup> Let your wrath be on the nations who have no knowledge of you, and on the kingdoms who have not made prayer to your name.
 
-<sup>8</sup> Do not keep in mind against us the sins of our fathers; let your mercy come to us quickly, for we have been made very low. 
+<sup>7</sup> For they have taken Jacob for their meat, and made waste his house.
 
-<sup>9</sup> Give us help, O God of our salvation, for the glory of your name; take us out of danger and give us forgiveness for our sins, because of your name. 
+<sup>8</sup> Do not keep in mind against us the sins of our fathers; let your mercy come to us quickly, for we have been made very low.
 
-<sup>10</sup> Why may the nations say, Where is their God? Let payment for the blood of your servants be made openly among the nations before our eyes. 
+<sup>9</sup> Give us help, O God of our salvation, for the glory of your name; take us out of danger and give us forgiveness for our sins, because of your name.
 
-<sup>11</sup> Let the cry of the prisoner come before you; with your strong arm make free the children of death; 
+<sup>10</sup> Why may the nations say, Where is their God? Let payment for the blood of your servants be made openly among the nations before our eyes.
 
-<sup>12</sup> And give punishment seven times over into the breast of our neighbours for the bitter words which they have said against you, O Lord. 
+<sup>11</sup> Let the cry of the prisoner come before you; with your strong arm make free the children of death;
 
-<sup>13</sup> So we your people, and the sheep of your flock, will give you glory for ever: we will go on praising you through all generations. 
+<sup>12</sup> And give punishment seven times over into the breast of our neighbours for the bitter words which they have said against you, O Lord.
 
-
+<sup>13</sup> So we your people, and the sheep of your flock, will give you glory for ever: we will go on praising you through all generations.

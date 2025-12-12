@@ -4,62 +4,60 @@ weight: 33
 
 # Chapter 33
 
-<sup>1</sup> Now this is the blessing which Moses, the man of God, gave to the children of Israel before his death. 
+<sup>1</sup> Now this is the blessing which Moses, the man of God, gave to the children of Israel before his death.
 
-<sup>2</sup> He said, The Lord came from Sinai, dawning on them from Seir; shining out from Mount Paran, coming from Meribath Kadesh: from his right hand went flames of fire: his wrath made waste the peoples. 
+<sup>2</sup> He said, The Lord came from Sinai, dawning on them from Seir; shining out from Mount Paran, coming from Meribath Kadesh: from his right hand went flames of fire: his wrath made waste the peoples.
 
-<sup>3</sup> All his holy ones are at his hand; they go at his feet; they are lifted up on his wings. 
+<sup>3</sup> All his holy ones are at his hand; they go at his feet; they are lifted up on his wings.
 
-<sup>4</sup> Moses gave us a law, a heritage for the people of Jacob. 
+<sup>4</sup> Moses gave us a law, a heritage for the people of Jacob.
 
-<sup>5</sup> And there was a king in Jeshurun, when the heads of the people and the tribes of Israel came together. 
+<sup>5</sup> And there was a king in Jeshurun, when the heads of the people and the tribes of Israel came together.
 
-<sup>6</sup> Let life not death be Reuben's, let not the number of his men be small. 
+<sup>6</sup> Let life not death be Reuben's, let not the number of his men be small.
 
-<sup>7</sup> And this is the blessing of Judah: he said, Give ear, O Lord, to the voice of Judah and make him one with his people: let your hands take up his cause, and be his help against his attackers. 
+<sup>7</sup> And this is the blessing of Judah: he said, Give ear, O Lord, to the voice of Judah and make him one with his people: let your hands take up his cause, and be his help against his attackers.
 
-<sup>8</sup> And of Levi he said, Give your Thummim to Levi and let the Urim be with your loved one, whom you put to the test at Massah, with whom you were angry at the waters of Meribah; 
+<sup>8</sup> And of Levi he said, Give your Thummim to Levi and let the Urim be with your loved one, whom you put to the test at Massah, with whom you were angry at the waters of Meribah;
 
-<sup>9</sup> Who said of his father, Who is he? and of his mother, I have not seen her; he kept himself separate from his brothers and had no knowledge of his children: for they have given ear to your word and kept your agreement. 
+<sup>9</sup> Who said of his father, Who is he? and of his mother, I have not seen her; he kept himself separate from his brothers and had no knowledge of his children: for they have given ear to your word and kept your agreement.
 
-<sup>10</sup> They will be the teachers of your decisions to Jacob and of your law to Israel: the burning of perfumes before you will be their right, and the ordering of burned offerings on your altar. 
+<sup>10</sup> They will be the teachers of your decisions to Jacob and of your law to Israel: the burning of perfumes before you will be their right, and the ordering of burned offerings on your altar.
 
-<sup>11</sup> Let your blessing, O Lord, be on his substance, may the work of his hands be pleasing to you: may those who take up arms against him and all who have hate for him, be wounded through the heart, never to be lifted up again. 
+<sup>11</sup> Let your blessing, O Lord, be on his substance, may the work of his hands be pleasing to you: may those who take up arms against him and all who have hate for him, be wounded through the heart, never to be lifted up again.
 
-<sup>12</sup> And of Benjamin he said, Benjamin is the loved one of the Lord, he will be kept safe at all times; he will be covered by the Most High, resting between his arms. 
+<sup>12</sup> And of Benjamin he said, Benjamin is the loved one of the Lord, he will be kept safe at all times; he will be covered by the Most High, resting between his arms.
 
-<sup>13</sup> And of Joseph he said, Let the blessing of the Lord be on his land; for the good things of heaven on high, and the deep waters flowing under the earth, 
+<sup>13</sup> And of Joseph he said, Let the blessing of the Lord be on his land; for the good things of heaven on high, and the deep waters flowing under the earth,
 
-<sup>14</sup> And the good things of the fruits of the sun, and the good things of the growth of the moons, 
+<sup>14</sup> And the good things of the fruits of the sun, and the good things of the growth of the moons,
 
-<sup>15</sup> And the chief things of the oldest mountains, and the good things of the eternal hills, 
+<sup>15</sup> And the chief things of the oldest mountains, and the good things of the eternal hills,
 
-<sup>16</sup> The good things of the earth and all its wealth, the good pleasure of him who was seen in the burning tree: may they come on the head of Joseph, on the head of him who was prince among his brothers. 
+<sup>16</sup> The good things of the earth and all its wealth, the good pleasure of him who was seen in the burning tree: may they come on the head of Joseph, on the head of him who was prince among his brothers.
 
-<sup>17</sup> He is a young ox, glory is his; his horns are the horns of the mountain ox, with which all peoples will be wounded, even to the ends of the earth: they are the ten thousands of Ephraim and the thousands of Manasseh. 
+<sup>17</sup> He is a young ox, glory is his; his horns are the horns of the mountain ox, with which all peoples will be wounded, even to the ends of the earth: they are the ten thousands of Ephraim and the thousands of Manasseh.
 
-<sup>18</sup> And of Zebulun he said, Be glad, Zebulun, in your going out; and, Issachar, in your tents. 
+<sup>18</sup> And of Zebulun he said, Be glad, Zebulun, in your going out; and, Issachar, in your tents.
 
-<sup>19</sup> They will send out the word for the people to come to the mountain, taking there the offerings of righteousness: for the store of the seas will be theirs, and the secret wealth of the sand. 
+<sup>19</sup> They will send out the word for the people to come to the mountain, taking there the offerings of righteousness: for the store of the seas will be theirs, and the secret wealth of the sand.
 
-<sup>20</sup> Of Gad he said, A blessing be on him who makes wide the limits of Gad: he takes his rest like a she-lion, taking for himself the arm and the crown of the head. 
+<sup>20</sup> Of Gad he said, A blessing be on him who makes wide the limits of Gad: he takes his rest like a she-lion, taking for himself the arm and the crown of the head.
 
-<sup>21</sup> He kept for himself the first part, for his was the ruler's right: he put in force the righteousness of the Lord, and his decisions for Israel. 
+<sup>21</sup> He kept for himself the first part, for his was the ruler's right: he put in force the righteousness of the Lord, and his decisions for Israel.
 
-<sup>22</sup> And of Dan he said, Dan is a young lion, springing out from Bashan. 
+<sup>22</sup> And of Dan he said, Dan is a young lion, springing out from Bashan.
 
-<sup>23</sup> And of Naphtali he said, O Naphtali, made glad with grace and full of the blessing of the Lord: the sea and its fishes will be his. 
+<sup>23</sup> And of Naphtali he said, O Naphtali, made glad with grace and full of the blessing of the Lord: the sea and its fishes will be his.
 
-<sup>24</sup> And of Asher he said, Let Asher have the blessing of children; may he be pleasing to his brothers, and let his foot be wet with oil. 
+<sup>24</sup> And of Asher he said, Let Asher have the blessing of children; may he be pleasing to his brothers, and let his foot be wet with oil.
 
-<sup>25</sup> Your shoes will be iron and brass; and as your days, so may your work be. 
+<sup>25</sup> Your shoes will be iron and brass; and as your days, so may your work be.
 
-<sup>26</sup> No other is like the God of Jeshurun, coming on the heavens to your help, and letting his glory be seen in the skies. 
+<sup>26</sup> No other is like the God of Jeshurun, coming on the heavens to your help, and letting his glory be seen in the skies.
 
-<sup>27</sup> The God of your fathers is your safe resting-place, and under you are his eternal arms: driving out the forces of your haters from before you, he said, Let destruction overtake them. 
+<sup>27</sup> The God of your fathers is your safe resting-place, and under you are his eternal arms: driving out the forces of your haters from before you, he said, Let destruction overtake them.
 
-<sup>28</sup> And Israel is living in peace, the fountain of Jacob by himself, in a land of grain and wine, with dew dropping from the heavens. 
+<sup>28</sup> And Israel is living in peace, the fountain of Jacob by himself, in a land of grain and wine, with dew dropping from the heavens.
 
-<sup>29</sup> Happy are you, O Israel: who is like you, a people whose saviour is the Lord, whose help is your cover, whose sword is your strength! All those who are against you will put themselves under your rule, and your feet will be planted on their high places. 
-
-
+<sup>29</sup> Happy are you, O Israel: who is like you, a people whose saviour is the Lord, whose help is your cover, whose sword is your strength! All those who are against you will put themselves under your rule, and your feet will be planted on their high places.

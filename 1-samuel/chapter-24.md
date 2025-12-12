@@ -4,48 +4,46 @@ weight: 24
 
 # Chapter 24
 
-<sup>1</sup> Now when Saul came back from fighting the Philistines, news was given him that David was in the waste land of En-gedi. 
+<sup>1</sup> Now when Saul came back from fighting the Philistines, news was given him that David was in the waste land of En-gedi.
 
-<sup>2</sup> Then Saul took three thousand of the best men out of all Israel, and went in search of David and his men on the rocks of the mountain goats. 
+<sup>2</sup> Then Saul took three thousand of the best men out of all Israel, and went in search of David and his men on the rocks of the mountain goats.
 
-<sup>3</sup> And on the way he came to a place where sheep were kept, where there was a hollow in the rock; and Saul went in for a private purpose. Now David and his men were in the deepest part of the hollow. 
+<sup>3</sup> And on the way he came to a place where sheep were kept, where there was a hollow in the rock; and Saul went in for a private purpose. Now David and his men were in the deepest part of the hollow.
 
-<sup>4</sup> And David's men said to him, Now is the time when the Lord says to you, I will give up your hater into your hands to do with him whatever seems good to you. Then David, getting up, took the skirt of Saul's robe in his hand, cutting off the end of it without his knowledge. 
+<sup>4</sup> And David's men said to him, Now is the time when the Lord says to you, I will give up your hater into your hands to do with him whatever seems good to you. Then David, getting up, took the skirt of Saul's robe in his hand, cutting off the end of it without his knowledge.
 
-<sup>5</sup> And later, David was full of regret for cutting off Saul's skirt. 
+<sup>5</sup> And later, David was full of regret for cutting off Saul's skirt.
 
-<sup>6</sup> And David said to his men, Before the Lord, never let it be said that my hand was lifted up against my lord, the man of the Lord's selection, for the Lord's holy oil has been put on him. 
+<sup>6</sup> And David said to his men, Before the Lord, never let it be said that my hand was lifted up against my lord, the man of the Lord's selection, for the Lord's holy oil has been put on him.
 
-<sup>7</sup> So with these words David kept his servants back, and did not let them make an attack on Saul. And Saul got up and went on his way. 
+<sup>7</sup> So with these words David kept his servants back, and did not let them make an attack on Saul. And Saul got up and went on his way.
 
-<sup>8</sup> And after that David came out of the hollow rock, and crying after Saul said, My lord the king. And when Saul gave a look back, David went down on his face and gave him honour. 
+<sup>8</sup> And after that David came out of the hollow rock, and crying after Saul said, My lord the king. And when Saul gave a look back, David went down on his face and gave him honour.
 
-<sup>9</sup> And David said to Saul, Why do you give any attention to those who say that it is my desire to do you wrong? 
+<sup>9</sup> And David said to Saul, Why do you give any attention to those who say that it is my desire to do you wrong?
 
-<sup>10</sup> Look! you have seen today how the Lord gave you up into my hands even now in the hollow of the rocks: and some would have had me put you to death, but I had pity on you: for I said, Never will my hand be lifted up against my lord, who has been marked with the holy oil. 
+<sup>10</sup> Look! you have seen today how the Lord gave you up into my hands even now in the hollow of the rocks: and some would have had me put you to death, but I had pity on you: for I said, Never will my hand be lifted up against my lord, who has been marked with the holy oil.
 
-<sup>11</sup> And see, my father, see the skirt of your robe in my hand: for the fact that I took off the skirt of your robe and did not put you to death is witness that I have no evil purpose, and I have done you no wrong, though you are waiting for my life to take it. 
+<sup>11</sup> And see, my father, see the skirt of your robe in my hand: for the fact that I took off the skirt of your robe and did not put you to death is witness that I have no evil purpose, and I have done you no wrong, though you are waiting for my life to take it.
 
-<sup>12</sup> May the Lord be judge between me and you, and may the Lord give me my rights against you, but my hand will never be lifted up against you. 
+<sup>12</sup> May the Lord be judge between me and you, and may the Lord give me my rights against you, but my hand will never be lifted up against you.
 
-<sup>13</sup> There is an old saying, From the evil-doer comes evil: but my hand will never be lifted up against you. 
+<sup>13</sup> There is an old saying, From the evil-doer comes evil: but my hand will never be lifted up against you.
 
-<sup>14</sup> After whom has the king of Israel come out? for whom are you searching? for a dead dog, an insect. 
+<sup>14</sup> After whom has the king of Israel come out? for whom are you searching? for a dead dog, an insect.
 
-<sup>15</sup> So let the Lord be judge, and give a decision between me and you, and see and give support to my cause, and keep me from falling into your hands. 
+<sup>15</sup> So let the Lord be judge, and give a decision between me and you, and see and give support to my cause, and keep me from falling into your hands.
 
-<sup>16</sup> Now when David had said these words to Saul, Saul said, Is this your voice, David, my son? And Saul was overcome with weeping. 
+<sup>16</sup> Now when David had said these words to Saul, Saul said, Is this your voice, David, my son? And Saul was overcome with weeping.
 
-<sup>17</sup> And he said to David, You are right and I am wrong: for you have given me back good, but I have given you evil. 
+<sup>17</sup> And he said to David, You are right and I am wrong: for you have given me back good, but I have given you evil.
 
-<sup>18</sup> And you have made clear to me how good you have been to me today: because, when the Lord gave me up into your hands, you did not put me to death. 
+<sup>18</sup> And you have made clear to me how good you have been to me today: because, when the Lord gave me up into your hands, you did not put me to death.
 
-<sup>19</sup> If a man comes across his hater, will he let him get away safe? so may you be rewarded by the Lord for what you have done for me today. 
+<sup>19</sup> If a man comes across his hater, will he let him get away safe? so may you be rewarded by the Lord for what you have done for me today.
 
-<sup>20</sup> And now I am certain that you will be king, and that the kingdom of Israel will be made strong under your authority. 
+<sup>20</sup> And now I am certain that you will be king, and that the kingdom of Israel will be made strong under your authority.
 
-<sup>21</sup> So give me your oath by the Lord, that you will not put an end to my seed after me or let my name be cut off from my father's family. 
+<sup>21</sup> So give me your oath by the Lord, that you will not put an end to my seed after me or let my name be cut off from my father's family.
 
-<sup>22</sup> And David gave Saul his oath. And Saul went back to his house; but David and his men went up to their safe place. 
-
-
+<sup>22</sup> And David gave Saul his oath. And Saul went back to his house; but David and his men went up to their safe place.

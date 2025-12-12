@@ -4,42 +4,40 @@ weight: 6
 
 # Chapter 6
 
-<sup>1</sup> Now when word was given to Sanballat and Tobiah and to Geshem the Arabian and to the rest of our haters, that I had done the building of the wall and that there were no more broken places in it (though even then I had not put up the doors in the doorways); 
+<sup>1</sup> Now when word was given to Sanballat and Tobiah and to Geshem the Arabian and to the rest of our haters, that I had done the building of the wall and that there were no more broken places in it (though even then I had not put up the doors in the doorways);
 
-<sup>2</sup> Sanballat and Geshem sent to me saying, Come, let us have a meeting in one of the little towns in the lowland of Ono. But their purpose was to do me evil. 
+<sup>2</sup> Sanballat and Geshem sent to me saying, Come, let us have a meeting in one of the little towns in the lowland of Ono. But their purpose was to do me evil.
 
-<sup>3</sup> And I sent men to them saying, I am doing a great work, so that it is not possible for me to come down: is the work to be stopped while I go away from it and come down to you? 
+<sup>3</sup> And I sent men to them saying, I am doing a great work, so that it is not possible for me to come down: is the work to be stopped while I go away from it and come down to you?
 
-<sup>4</sup> And four times they sent to me in this way, and I sent them the same answer. 
+<sup>4</sup> And four times they sent to me in this way, and I sent them the same answer.
 
-<sup>5</sup> Then Sanballat sent his servant to me a fifth time with an open letter in his hand; 
+<sup>5</sup> Then Sanballat sent his servant to me a fifth time with an open letter in his hand;
 
-<sup>6</sup> And in it these words were recorded: It is said among the nations, and Geshem says so, that you and the Jews are hoping to make yourselves free from the king's authority; and that this is why you are building the wall: and they say that it is your purpose to be their king; 
+<sup>6</sup> And in it these words were recorded: It is said among the nations, and Geshem says so, that you and the Jews are hoping to make yourselves free from the king's authority; and that this is why you are building the wall: and they say that it is your purpose to be their king;
 
-<sup>7</sup> And that you have prophets preaching about you in Jerusalem, and saying, There is a king in Judah: now an account of these things will be sent to the king. So come now, and let us have a discussion. 
+<sup>7</sup> And that you have prophets preaching about you in Jerusalem, and saying, There is a king in Judah: now an account of these things will be sent to the king. So come now, and let us have a discussion.
 
-<sup>8</sup> Then I sent to him, saying, No such things as you say are being done, they are only a fiction you have made up yourself. 
+<sup>8</sup> Then I sent to him, saying, No such things as you say are being done, they are only a fiction you have made up yourself.
 
-<sup>9</sup> For they were hoping to put fear in us, saying, Their hands will become feeble and give up the work so that it may not get done. But now, O God, make my hands strong. 
+<sup>9</sup> For they were hoping to put fear in us, saying, Their hands will become feeble and give up the work so that it may not get done. But now, O God, make my hands strong.
 
-<sup>10</sup> And I went to the house of Shemaiah, the son of Delaiah, the son of Mehetabel, who was shut up; and he said, Let us have a meeting in the house of God, inside the Temple, and let the doors be shut: for they will come to put you to death; truly, in the night they will come to put you to death. 
+<sup>10</sup> And I went to the house of Shemaiah, the son of Delaiah, the son of Mehetabel, who was shut up; and he said, Let us have a meeting in the house of God, inside the Temple, and let the doors be shut: for they will come to put you to death; truly, in the night they will come to put you to death.
 
-<sup>11</sup> And I said, Am I the sort of man to go in flight? what man, in my position, would go into the Temple to keep himself safe? I will not go in. 
+<sup>11</sup> And I said, Am I the sort of man to go in flight? what man, in my position, would go into the Temple to keep himself safe? I will not go in.
 
-<sup>12</sup> Then it became clear to me that God had not sent him: he had given this word of a prophet against me himself: and Tobiah and Sanballat had given him money to do so. 
+<sup>12</sup> Then it became clear to me that God had not sent him: he had given this word of a prophet against me himself: and Tobiah and Sanballat had given him money to do so.
 
-<sup>13</sup> For this reason they had given him money, in order that I might be overcome by fear and do what he said and do wrong, and so they would have reason to say evil about me and put shame on me. 
+<sup>13</sup> For this reason they had given him money, in order that I might be overcome by fear and do what he said and do wrong, and so they would have reason to say evil about me and put shame on me.
 
-<sup>14</sup> Keep in mind, O my God, Tobiah and Sanballat and what they did, and Noadiah, the woman prophet, and the rest of the prophets whose purpose was to put fear into me. 
+<sup>14</sup> Keep in mind, O my God, Tobiah and Sanballat and what they did, and Noadiah, the woman prophet, and the rest of the prophets whose purpose was to put fear into me.
 
-<sup>15</sup> So the wall was complete on the twenty-fifth day of the month Elul, in fifty-two days. 
+<sup>15</sup> So the wall was complete on the twenty-fifth day of the month Elul, in fifty-two days.
 
-<sup>16</sup> And when our haters had news of this, all the nations round about us were full of fear and were greatly shamed, for they saw that this work had been done by our God. 
+<sup>16</sup> And when our haters had news of this, all the nations round about us were full of fear and were greatly shamed, for they saw that this work had been done by our God.
 
-<sup>17</sup> And further, in those days the chiefs of Judah sent a number of letters to Tobiah, and his letters came to them. 
+<sup>17</sup> And further, in those days the chiefs of Judah sent a number of letters to Tobiah, and his letters came to them.
 
-<sup>18</sup> For in Judah there were a number of people who had made an agreement by oath with him, because he was the son-in-law of Shecaniah, the son of Arah; and his son Jehohanan had taken as his wife the daughter of Meshullam, the son of Berechiah. 
+<sup>18</sup> For in Judah there were a number of people who had made an agreement by oath with him, because he was the son-in-law of Shecaniah, the son of Arah; and his son Jehohanan had taken as his wife the daughter of Meshullam, the son of Berechiah.
 
-<sup>19</sup> And they said much before me of the good he had done, and gave him accounts of my words. And Tobiah sent letters with the purpose of causing me fear. 
-
-
+<sup>19</sup> And they said much before me of the good he had done, and gave him accounts of my words. And Tobiah sent letters with the purpose of causing me fear.

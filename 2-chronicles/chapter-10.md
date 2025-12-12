@@ -4,42 +4,40 @@ weight: 10
 
 # Chapter 10
 
-<sup>1</sup> And Rehoboam went to Shechem, where all Israel had come together to make him king. 
+<sup>1</sup> And Rehoboam went to Shechem, where all Israel had come together to make him king.
 
-<sup>2</sup> And when Jeroboam, the son of Nebat, had news of it, (for he was in Egypt where he had gone in flight from King Solomon,) he came back from Egypt. 
+<sup>2</sup> And when Jeroboam, the son of Nebat, had news of it, (for he was in Egypt where he had gone in flight from King Solomon,) he came back from Egypt.
 
-<sup>3</sup> And they sent for him; and Jeroboam and all Israel came to Rehoboam and said, 
+<sup>3</sup> And they sent for him; and Jeroboam and all Israel came to Rehoboam and said,
 
-<sup>4</sup> Your father put a hard yoke on us: if you will make the conditions under which your father kept us down less cruel, and the weight of the yoke he put on us less hard, then we will be your servants. 
+<sup>4</sup> Your father put a hard yoke on us: if you will make the conditions under which your father kept us down less cruel, and the weight of the yoke he put on us less hard, then we will be your servants.
 
-<sup>5</sup> And he said to them, Come to me again after three days. So the people went away. 
+<sup>5</sup> And he said to them, Come to me again after three days. So the people went away.
 
-<sup>6</sup> Then King Rehoboam took the opinion of the old men who had been with Solomon his father when he was living, and said, In your opinion, what answer am I to give to this people? 
+<sup>6</sup> Then King Rehoboam took the opinion of the old men who had been with Solomon his father when he was living, and said, In your opinion, what answer am I to give to this people?
 
-<sup>7</sup> And they said to him, If you are kind to this people, pleasing them and saying good words to them, then they will be your servants for ever. 
+<sup>7</sup> And they said to him, If you are kind to this people, pleasing them and saying good words to them, then they will be your servants for ever.
 
-<sup>8</sup> But he gave no attention to the opinion of the old men, but went to the young men of his generation who were waiting before him. 
+<sup>8</sup> But he gave no attention to the opinion of the old men, but went to the young men of his generation who were waiting before him.
 
-<sup>9</sup> And he said to them, What is your opinion? What answer are we to give to this people who have said to me, Make less the weight of the yoke which your father put on us? 
+<sup>9</sup> And he said to them, What is your opinion? What answer are we to give to this people who have said to me, Make less the weight of the yoke which your father put on us?
 
-<sup>10</sup> And the young men of his generation said to him, This is the answer to give to the people who came to you saying, Your father put a hard yoke on us, but will you make it less; say to them, My little finger is thicker than my father's body; 
+<sup>10</sup> And the young men of his generation said to him, This is the answer to give to the people who came to you saying, Your father put a hard yoke on us, but will you make it less; say to them, My little finger is thicker than my father's body;
 
-<sup>11</sup> If my father put a hard yoke on you, I will make it harder: my father gave you punishment with whips, but I will give you blows with snakes. 
+<sup>11</sup> If my father put a hard yoke on you, I will make it harder: my father gave you punishment with whips, but I will give you blows with snakes.
 
-<sup>12</sup> So Jeroboam and all the people came to Rehoboam on the third day, as the king had given orders, saying, Come to me again on the third day. 
+<sup>12</sup> So Jeroboam and all the people came to Rehoboam on the third day, as the king had given orders, saying, Come to me again on the third day.
 
-<sup>13</sup> And the king gave them a rough answer. So King Rehoboam gave no attention to the suggestion of the old men, 
+<sup>13</sup> And the king gave them a rough answer. So King Rehoboam gave no attention to the suggestion of the old men,
 
-<sup>14</sup> But gave them the answer put forward by the young men, saying, My father made your yoke hard, but I will make it harder; my father gave you punishment with whips, but I will give it with snakes. 
+<sup>14</sup> But gave them the answer put forward by the young men, saying, My father made your yoke hard, but I will make it harder; my father gave you punishment with whips, but I will give it with snakes.
 
-<sup>15</sup> So the king did not give ear to the people; for this came about by the purpose of God, so that the Lord might give effect to his word which he had said by Ahijah the Shilonite to Jeroboam, the son of Nebat. 
+<sup>15</sup> So the king did not give ear to the people; for this came about by the purpose of God, so that the Lord might give effect to his word which he had said by Ahijah the Shilonite to Jeroboam, the son of Nebat.
 
-<sup>16</sup> And when all Israel saw that the king would give no attention to them, the people in answer said to the king, What part have we in David? what is our heritage in the son of Jesse? every man to your tents, O Israel; now see to your house, David. So all Israel went to their tents. 
+<sup>16</sup> And when all Israel saw that the king would give no attention to them, the people in answer said to the king, What part have we in David? what is our heritage in the son of Jesse? every man to your tents, O Israel; now see to your house, David. So all Israel went to their tents.
 
-<sup>17</sup> But Rehoboam was still king over those of the children of Israel who were living in the towns of Judah. 
+<sup>17</sup> But Rehoboam was still king over those of the children of Israel who were living in the towns of Judah.
 
-<sup>18</sup> Then Rehoboam sent Adoniram, the overseer of the forced work; and he was stoned to death by all Israel. And King Rehoboam went quickly and got into his carriage to go in flight to Jerusalem. 
+<sup>18</sup> Then Rehoboam sent Adoniram, the overseer of the forced work; and he was stoned to death by all Israel. And King Rehoboam went quickly and got into his carriage to go in flight to Jerusalem.
 
-<sup>19</sup> So Israel was turned away from the family of David to this day. 
-
-
+<sup>19</sup> So Israel was turned away from the family of David to this day.

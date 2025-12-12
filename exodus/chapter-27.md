@@ -4,46 +4,44 @@ weight: 27
 
 # Chapter 27
 
-<sup>1</sup> And make an altar of hard wood, a square altar, five cubits long, five cubits wide and three cubits high. 
+<sup>1</sup> And make an altar of hard wood, a square altar, five cubits long, five cubits wide and three cubits high.
 
-<sup>2</sup> Put horns at the four angles of it, made of the same, plating it all with brass. 
+<sup>2</sup> Put horns at the four angles of it, made of the same, plating it all with brass.
 
-<sup>3</sup> And make all its vessels, the baskets for taking away the dust of the fire, the spades and basins and meat-hooks and fire-trays, of brass. 
+<sup>3</sup> And make all its vessels, the baskets for taking away the dust of the fire, the spades and basins and meat-hooks and fire-trays, of brass.
 
-<sup>4</sup> And make a network of brass, with four brass rings at its four angles. 
+<sup>4</sup> And make a network of brass, with four brass rings at its four angles.
 
-<sup>5</sup> And put the network under the shelf round the altar so that the net comes half-way up the altar. 
+<sup>5</sup> And put the network under the shelf round the altar so that the net comes half-way up the altar.
 
-<sup>6</sup> And make rods for the altar, of hard wood, plated with brass. 
+<sup>6</sup> And make rods for the altar, of hard wood, plated with brass.
 
-<sup>7</sup> And put the rods through the rings at the two opposite sides of the altar, for lifting it. 
+<sup>7</sup> And put the rods through the rings at the two opposite sides of the altar, for lifting it.
 
-<sup>8</sup> The altar is to be hollow, boarded in with wood; make it from the design which you saw on the mountain. 
+<sup>8</sup> The altar is to be hollow, boarded in with wood; make it from the design which you saw on the mountain.
 
-<sup>9</sup> And let there be an open space round the House, with hangings for its south side of the best linen, a hundred cubits long. 
+<sup>9</sup> And let there be an open space round the House, with hangings for its south side of the best linen, a hundred cubits long.
 
-<sup>10</sup> Their twenty pillars and their twenty bases are to be of brass; the hooks of the pillars and their bands are to be of silver. 
+<sup>10</sup> Their twenty pillars and their twenty bases are to be of brass; the hooks of the pillars and their bands are to be of silver.
 
-<sup>11</sup> And on the north side in the same way, hangings a hundred cubits long, with twenty pillars of brass on bases of brass; their hooks and their bands are to be of silver. 
+<sup>11</sup> And on the north side in the same way, hangings a hundred cubits long, with twenty pillars of brass on bases of brass; their hooks and their bands are to be of silver.
 
-<sup>12</sup> And for the open space on the west side, the hangings are to be fifty cubits wide, with ten pillars and ten bases; 
+<sup>12</sup> And for the open space on the west side, the hangings are to be fifty cubits wide, with ten pillars and ten bases;
 
-<sup>13</sup> And on the east side the space is to be fifty cubits wide. 
+<sup>13</sup> And on the east side the space is to be fifty cubits wide.
 
-<sup>14</sup> On the one side of the doorway will be hangings fifteen cubits long, with three pillars and three bases; 
+<sup>14</sup> On the one side of the doorway will be hangings fifteen cubits long, with three pillars and three bases;
 
-<sup>15</sup> And on the other side, hangings fifteen cubits long, with three pillars and three bases. 
+<sup>15</sup> And on the other side, hangings fifteen cubits long, with three pillars and three bases.
 
-<sup>16</sup> And across the doorway, a veil of twenty cubits of the best linen, made of needlework of blue and purple and red, with four pillars and four bases. 
+<sup>16</sup> And across the doorway, a veil of twenty cubits of the best linen, made of needlework of blue and purple and red, with four pillars and four bases.
 
-<sup>17</sup> All the pillars round the open space are to have silver bands, with hooks of silver and bases of brass. 
+<sup>17</sup> All the pillars round the open space are to have silver bands, with hooks of silver and bases of brass.
 
-<sup>18</sup> The open space is to be a hundred cubits long, fifty cubits wide, with sides five cubits high, curtained with the best linen, with bases of brass. 
+<sup>18</sup> The open space is to be a hundred cubits long, fifty cubits wide, with sides five cubits high, curtained with the best linen, with bases of brass.
 
-<sup>19</sup> All the instruments for the work of the House, and all its nails, and the nails of the open space are to be of brass. 
+<sup>19</sup> All the instruments for the work of the House, and all its nails, and the nails of the open space are to be of brass.
 
-<sup>20</sup> Give orders to the children of Israel to give you clear olive oil for the lights, so that a light may be burning there at all times. 
+<sup>20</sup> Give orders to the children of Israel to give you clear olive oil for the lights, so that a light may be burning there at all times.
 
-<sup>21</sup> Let Aaron and his sons put this in order, evening and morning, before the Lord, inside the Tent of meeting, outside the veil which is before the ark; this is to be an order for ever, from generation to generation, to be kept by the children of Israel. 
-
-
+<sup>21</sup> Let Aaron and his sons put this in order, evening and morning, before the Lord, inside the Tent of meeting, outside the veil which is before the ark; this is to be an order for ever, from generation to generation, to be kept by the children of Israel.

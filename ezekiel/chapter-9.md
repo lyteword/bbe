@@ -4,26 +4,24 @@ weight: 9
 
 # Chapter 9
 
-<sup>1</sup> Then crying out in my hearing in a loud voice, he said, Let the overseers of the town come near, every man armed. 
+<sup>1</sup> Then crying out in my hearing in a loud voice, he said, Let the overseers of the town come near, every man armed.
 
-<sup>2</sup> And six men came from the way of the higher doorway looking to the north, every man with his axe in his hand: and one man among them was clothed in linen, with a writer's inkpot at his side. And they went in and took their places by the brass altar. 
+<sup>2</sup> And six men came from the way of the higher doorway looking to the north, every man with his axe in his hand: and one man among them was clothed in linen, with a writer's inkpot at his side. And they went in and took their places by the brass altar.
 
-<sup>3</sup> And the glory of the God of Israel had gone up from the winged ones on which it was resting, to the doorstep of the house. And crying out to the man clothed in linen who had the writer's inkpot at his side, 
+<sup>3</sup> And the glory of the God of Israel had gone up from the winged ones on which it was resting, to the doorstep of the house. And crying out to the man clothed in linen who had the writer's inkpot at his side,
 
-<sup>4</sup> The Lord said to him, Go through the town, through the middle of Jerusalem, and put a mark on the brows of the men who are sorrowing and crying for all the disgusting things which are done in it. 
+<sup>4</sup> The Lord said to him, Go through the town, through the middle of Jerusalem, and put a mark on the brows of the men who are sorrowing and crying for all the disgusting things which are done in it.
 
-<sup>5</sup> And to these he said in my hearing, Go through the town after him using your axes: do not let your eyes have mercy, and have no pity: 
+<sup>5</sup> And to these he said in my hearing, Go through the town after him using your axes: do not let your eyes have mercy, and have no pity:
 
-<sup>6</sup> Give up to destruction old men and young men and virgins, little children and women: but do not come near any man who has the mark on him: and make a start at my holy place. So they made a start with the old men who were before the house. 
+<sup>6</sup> Give up to destruction old men and young men and virgins, little children and women: but do not come near any man who has the mark on him: and make a start at my holy place. So they made a start with the old men who were before the house.
 
-<sup>7</sup> And he said to them, Make the house unclean, make the open places full of dead: go forward and send destruction on the town. 
+<sup>7</sup> And he said to them, Make the house unclean, make the open places full of dead: go forward and send destruction on the town.
 
-<sup>8</sup> Now while they were doing so, and I was untouched, I went down on my face, and crying out, I said, Ah, Lord! will you give all the rest of Israel to destruction in letting loose your wrath on Jerusalem? 
+<sup>8</sup> Now while they were doing so, and I was untouched, I went down on my face, and crying out, I said, Ah, Lord! will you give all the rest of Israel to destruction in letting loose your wrath on Jerusalem?
 
-<sup>9</sup> Then he said to me, The sin of the children of Israel and Judah is very, very great, and the land is full of blood and the town full of evil ways: for they say, The Lord has gone away from the land, and the Lord does not see. 
+<sup>9</sup> Then he said to me, The sin of the children of Israel and Judah is very, very great, and the land is full of blood and the town full of evil ways: for they say, The Lord has gone away from the land, and the Lord does not see.
 
-<sup>10</sup> And as for me, my eye will not have mercy, and I will have no pity, but I will send the punishment of their ways on their heads. 
+<sup>10</sup> And as for me, my eye will not have mercy, and I will have no pity, but I will send the punishment of their ways on their heads.
 
-<sup>11</sup> Then the man clothed in linen, who had the inkpot at his side, came back and said, I have done what you gave me orders to do. 
-
-
+<sup>11</sup> Then the man clothed in linen, who had the inkpot at his side, came back and said, I have done what you gave me orders to do.

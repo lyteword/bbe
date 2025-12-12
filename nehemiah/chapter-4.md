@@ -4,50 +4,48 @@ weight: 4
 
 # Chapter 4
 
-<sup>1</sup> Now, Sanballat, hearing that we were building the wall, was very angry, and in his wrath made sport of the Jews. 
+<sup>1</sup> Now, Sanballat, hearing that we were building the wall, was very angry, and in his wrath made sport of the Jews.
 
-<sup>2</sup> And in the hearing of his countrymen and the army of Samaria he said, What are these feeble Jews doing? will they make themselves strong? will they make offerings? will they get the work done in a day? will they make the stones which have been burned come again out of the dust? 
+<sup>2</sup> And in the hearing of his countrymen and the army of Samaria he said, What are these feeble Jews doing? will they make themselves strong? will they make offerings? will they get the work done in a day? will they make the stones which have been burned come again out of the dust?
 
-<sup>3</sup> Now Tobiah the Ammonite was by him, and he said, Such is their building that if a fox goes up it, their stone wall will be broken down. 
+<sup>3</sup> Now Tobiah the Ammonite was by him, and he said, Such is their building that if a fox goes up it, their stone wall will be broken down.
 
-<sup>4</sup> Give ear, O our God, for we are looked down on: let their words of shame be turned back on themselves, and let them be given up to wasting in a land where they are prisoners: 
+<sup>4</sup> Give ear, O our God, for we are looked down on: let their words of shame be turned back on themselves, and let them be given up to wasting in a land where they are prisoners:
 
-<sup>5</sup> Let not their wrongdoing be covered or their sin washed away from before you: for they have made you angry before the builders. 
+<sup>5</sup> Let not their wrongdoing be covered or their sin washed away from before you: for they have made you angry before the builders.
 
-<sup>6</sup> So we went on building the wall; and all the wall was joined together half-way up: for the people were working hard. 
+<sup>6</sup> So we went on building the wall; and all the wall was joined together half-way up: for the people were working hard.
 
-<sup>7</sup> But when it came to the ears of Sanballat and Tobiah and the Arabians and the Ammonites and the Ashdodites, that the building of the walls of Jerusalem was going forward and the broken places were being made good, they were full of wrath; 
+<sup>7</sup> But when it came to the ears of Sanballat and Tobiah and the Arabians and the Ammonites and the Ashdodites, that the building of the walls of Jerusalem was going forward and the broken places were being made good, they were full of wrath;
 
-<sup>8</sup> And they made designs, all of them together, to come and make an attack on Jerusalem, causing trouble there. 
+<sup>8</sup> And they made designs, all of them together, to come and make an attack on Jerusalem, causing trouble there.
 
-<sup>9</sup> But we made our prayer to God, and had men on watch against them day and night because of them. 
+<sup>9</sup> But we made our prayer to God, and had men on watch against them day and night because of them.
 
-<sup>10</sup> And Judah said, The strength of the workmen is giving way, and there is much waste material; it is impossible for us to put up the wall. 
+<sup>10</sup> And Judah said, The strength of the workmen is giving way, and there is much waste material; it is impossible for us to put up the wall.
 
-<sup>11</sup> And those who were against us said, Without their knowledge and without their seeing us, we will come among them and put them to death, causing the work to come to a stop. 
+<sup>11</sup> And those who were against us said, Without their knowledge and without their seeing us, we will come among them and put them to death, causing the work to come to a stop.
 
-<sup>12</sup> And it came about that when the Jews who were living near them came, they said to us ten times, From all directions they are coming against us. 
+<sup>12</sup> And it came about that when the Jews who were living near them came, they said to us ten times, From all directions they are coming against us.
 
-<sup>13</sup> So in the lowest part of the space at the back of the walls, in the open places, I put the people by families, with their swords, their spears, and their bows. 
+<sup>13</sup> So in the lowest part of the space at the back of the walls, in the open places, I put the people by families, with their swords, their spears, and their bows.
 
-<sup>14</sup> And after looking, I got up and said to the great ones and to the chiefs and to the rest of the people, Have no fear of them: keep in mind the Lord who is great and greatly to be feared, and take up arms for your brothers, your sons, and your daughters, your wives and your houses. 
+<sup>14</sup> And after looking, I got up and said to the great ones and to the chiefs and to the rest of the people, Have no fear of them: keep in mind the Lord who is great and greatly to be feared, and take up arms for your brothers, your sons, and your daughters, your wives and your houses.
 
-<sup>15</sup> And when it came to the ears of those who were against us, that we had knowledge of their designs and that God had made their purpose come to nothing, we all went back to the wall, everyone to his work 
+<sup>15</sup> And when it came to the ears of those who were against us, that we had knowledge of their designs and that God had made their purpose come to nothing, we all went back to the wall, everyone to his work
 
-<sup>16</sup> And from that time, half of my servants were doing their part of the work, and half kept the spears and body-covers and the bows and the metal war-dresses; and the chiefs were at the back of the men of Judah. 
+<sup>16</sup> And from that time, half of my servants were doing their part of the work, and half kept the spears and body-covers and the bows and the metal war-dresses; and the chiefs were at the back of the men of Judah.
 
-<sup>17</sup> Those who were building the wall and those who were moving material did their part, everyone working with one hand, with his spear in the other; 
+<sup>17</sup> Those who were building the wall and those who were moving material did their part, everyone working with one hand, with his spear in the other;
 
-<sup>18</sup> Every builder was working with his sword at his side. And by my side was a man for sounding the horn. 
+<sup>18</sup> Every builder was working with his sword at his side. And by my side was a man for sounding the horn.
 
-<sup>19</sup> And I said to the great ones and the chiefs and the rest of the people, The work is great and widely spaced and we are far away from one another on the wall: 
+<sup>19</sup> And I said to the great ones and the chiefs and the rest of the people, The work is great and widely spaced and we are far away from one another on the wall:
 
-<sup>20</sup> Wherever you may be when the horn is sounded, come here to us; our God will be fighting for us. 
+<sup>20</sup> Wherever you may be when the horn is sounded, come here to us; our God will be fighting for us.
 
-<sup>21</sup> So we went on with the work: and half of them had spears in their hands from the dawn of the morning till the stars were seen. 
+<sup>21</sup> So we went on with the work: and half of them had spears in their hands from the dawn of the morning till the stars were seen.
 
-<sup>22</sup> And at the same time I said to the people, Let everyone with his servant come inside Jerusalem for the night, so that at night they may keep watch for us, and go on working by day. 
+<sup>22</sup> And at the same time I said to the people, Let everyone with his servant come inside Jerusalem for the night, so that at night they may keep watch for us, and go on working by day.
 
-<sup>23</sup> So not one of us, I or my brothers or my servants or the watchmen who were with me, took off his clothing, everyone went armed to the water. 
-
-
+<sup>23</sup> So not one of us, I or my brothers or my servants or the watchmen who were with me, took off his clothing, everyone went armed to the water.

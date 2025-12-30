@@ -4,78 +4,78 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> Now in the fifteenth year of the rule of Tiberius Caesar, Pontius Pilate being ruler of Judaea, and Herod being king of Galilee, his brother Philip king of the country of Ituraea and Trachonitis, and Lysanias king of Abilene,
+**¹** Now in the fifteenth year of the rule of Tiberius Caesar, Pontius Pilate being ruler of Judaea, and Herod being king of Galilee, his brother Philip king of the country of Ituraea and Trachonitis, and Lysanias king of Abilene,
 
-<sup>2</sup> When Annas and Caiaphas were high priests, the word of the Lord came to John, the son of Zacharias, in the waste land.
+**²** When Annas and Caiaphas were high priests, the word of the Lord came to John, the son of Zacharias, in the waste land.
 
-<sup>3</sup> And he came into all the country round about Jordan, preaching baptism as a sign of forgiveness of sin for those whose hearts were changed.
+**³** And he came into all the country round about Jordan, preaching baptism as a sign of forgiveness of sin for those whose hearts were changed.
 
-<sup>4</sup> As it says in the book of the words of Isaiah the prophet, The voice of one crying in the waste land, Make ready the way of the Lord, make his roads straight.
+**⁴** As it says in the book of the words of Isaiah the prophet, The voice of one crying in the waste land, Make ready the way of the Lord, make his roads straight.
 
-<sup>5</sup> Every valley will be lifted up, and all the mountains and hills made low, and the twisted will be made straight, and the rough ways smooth;
+**⁵** Every valley will be lifted up, and all the mountains and hills made low, and the twisted will be made straight, and the rough ways smooth;
 
-<sup>6</sup> And all flesh will see the salvation of God.
+**⁶** And all flesh will see the salvation of God.
 
-<sup>7</sup> So he said to the people who went out to him for baptism: You offspring of snakes, at whose word are you going in flight from the wrath to come?
+**⁷** So he said to the people who went out to him for baptism: You offspring of snakes, at whose word are you going in flight from the wrath to come?
 
-<sup>8</sup> Make clear by your acts that your hearts have been changed; and do not say to yourselves, We have Abraham for our father: for I say to you that God is able from these stones to make children of Abraham.
+**⁸** Make clear by your acts that your hearts have been changed; and do not say to yourselves, We have Abraham for our father: for I say to you that God is able from these stones to make children of Abraham.
 
-<sup>9</sup> And even now the axe is put to the root of the trees; and every tree which does not have good fruit will be cut down and put into the fire.
+**⁹** And even now the axe is put to the root of the trees; and every tree which does not have good fruit will be cut down and put into the fire.
 
-<sup>10</sup> And the people put questions to him, saying, What have we to do?
+**¹⁰** And the people put questions to him, saying, What have we to do?
 
-<sup>11</sup> And he made answer and said to them, He who has two coats, let him give to him who has not even one; and he who has food, let him do the same.
+**¹¹** And he made answer and said to them, He who has two coats, let him give to him who has not even one; and he who has food, let him do the same.
 
-<sup>12</sup> Then tax-farmers came to him for baptism and said to him, Master, what have we to do?
+**¹²** Then tax-farmers came to him for baptism and said to him, Master, what have we to do?
 
-<sup>13</sup> And he said to them, Do not make an attempt to get more money than the right amount.
+**¹³** And he said to them, Do not make an attempt to get more money than the right amount.
 
-<sup>14</sup> And men of the army put questions to him, saying, And what have we to do? And he said to them, Do no violent acts to any man, and do not take anything without right, and let your payment be enough for you.
+**¹⁴** And men of the army put questions to him, saying, And what have we to do? And he said to them, Do no violent acts to any man, and do not take anything without right, and let your payment be enough for you.
 
-<sup>15</sup> And while the people were waiting, and all men were questioning in their hearts about John, if he was the Christ or not,
+**¹⁵** And while the people were waiting, and all men were questioning in their hearts about John, if he was the Christ or not,
 
-<sup>16</sup> John made answer, saying to them all, Truly, I give you baptism with water, but one is coming who is greater than I, whose shoes I am not good enough to undo: he will give you baptism with the Holy Spirit, and with fire:
+**¹⁶** John made answer, saying to them all, Truly, I give you baptism with water, but one is coming who is greater than I, whose shoes I am not good enough to undo: he will give you baptism with the Holy Spirit, and with fire:
 
-<sup>17</sup> In whose hand is the instrument with which he will make clean his grain; he will put the good grain in his store, but the waste will be burned in the fire which will never be put out.
+**¹⁷** In whose hand is the instrument with which he will make clean his grain; he will put the good grain in his store, but the waste will be burned in the fire which will never be put out.
 
-<sup>18</sup> And so comforting them with these and other words, he gave the good news to the people;
+**¹⁸** And so comforting them with these and other words, he gave the good news to the people;
 
-<sup>19</sup> But Herod the king, because John had made a protest on account of Herodias, his brother's wife, and other evil things which Herod had done,
+**¹⁹** But Herod the king, because John had made a protest on account of Herodias, his brother's wife, and other evil things which Herod had done,
 
-<sup>20</sup> Did this most evil thing of all, and had John shut up in prison.
+**²⁰** Did this most evil thing of all, and had John shut up in prison.
 
-<sup>21</sup> Now it came about that when all the people had been given baptism, Jesus, having had baptism with them, was in prayer, when, the heaven being open,
+**²¹** Now it came about that when all the people had been given baptism, Jesus, having had baptism with them, was in prayer, when, the heaven being open,
 
-<sup>22</sup> The Holy Spirit came down in the form of a dove, and a voice came from heaven, saying, You are my dearly loved Son, with whom I am well pleased.
+**²²** The Holy Spirit came down in the form of a dove, and a voice came from heaven, saying, You are my dearly loved Son, with whom I am well pleased.
 
-<sup>23</sup> And Jesus at this time was about thirty years old, being the son (as it seemed) of Joseph, the son of Heli,
+**²³** And Jesus at this time was about thirty years old, being the son (as it seemed) of Joseph, the son of Heli,
 
-<sup>24</sup> The son of Matthat, the son of Levi, the son of Melchi, the son of Jannai, the son of Joseph,
+**²⁴** The son of Matthat, the son of Levi, the son of Melchi, the son of Jannai, the son of Joseph,
 
-<sup>25</sup> The son of Mattathias, the son of Amos, the son of Nahum, the son of Esli, the son of Naggai,
+**²⁵** The son of Mattathias, the son of Amos, the son of Nahum, the son of Esli, the son of Naggai,
 
-<sup>26</sup> The son of Maath, the son of Mattathias, the son of Semein, the son of Josech, the son of Joda,
+**²⁶** The son of Maath, the son of Mattathias, the son of Semein, the son of Josech, the son of Joda,
 
-<sup>27</sup> The son of Joanan, the son of Rhesa, the son of Zerubbabel, the son of Shealtiel, the son of Neri,
+**²⁷** The son of Joanan, the son of Rhesa, the son of Zerubbabel, the son of Shealtiel, the son of Neri,
 
-<sup>28</sup> The son of Melchi, the son of Addi, the son of Cosam, the son of Elmadam, the son of Er,
+**²⁸** The son of Melchi, the son of Addi, the son of Cosam, the son of Elmadam, the son of Er,
 
-<sup>29</sup> The son of Jesus, the son of Eliezer, the son of Jorim, the son of Matthat, the son of Levi,
+**²⁹** The son of Jesus, the son of Eliezer, the son of Jorim, the son of Matthat, the son of Levi,
 
-<sup>30</sup> The son of Symeon, the son of Judas, the son of Joseph, the son of Jonam, the son of Eliakim,
+**³⁰** The son of Symeon, the son of Judas, the son of Joseph, the son of Jonam, the son of Eliakim,
 
-<sup>31</sup> The son of Melea, the son of Menna, the son of Mattatha, the son of Nathan, the son of David,
+**³¹** The son of Melea, the son of Menna, the son of Mattatha, the son of Nathan, the son of David,
 
-<sup>32</sup> The son of Jesse, the son of Obed, the son of Boaz, the son of Salmon, the son of Nahshon,
+**³²** The son of Jesse, the son of Obed, the son of Boaz, the son of Salmon, the son of Nahshon,
 
-<sup>33</sup> The son of Amminadab, the son of Arni, the son of Hezron, the son of Perez, the son of Judah,
+**³³** The son of Amminadab, the son of Arni, the son of Hezron, the son of Perez, the son of Judah,
 
-<sup>34</sup> The son of Jacob, the son of Isaac, the son of Abraham, the son of Terah, the son of Nahor,
+**³⁴** The son of Jacob, the son of Isaac, the son of Abraham, the son of Terah, the son of Nahor,
 
-<sup>35</sup> The son of Serug, the son of Reu, the son of Peleg, the son of Eber, the son of Shelah,
+**³⁵** The son of Serug, the son of Reu, the son of Peleg, the son of Eber, the son of Shelah,
 
-<sup>36</sup> The son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech,
+**³⁶** The son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech,
 
-<sup>37</sup> The son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalaleel, the son of Cainan,
+**³⁷** The son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalaleel, the son of Cainan,
 
-<sup>38</sup> The son of Enos, the son of Seth, the son of Adam, the son of God.
+**³⁸** The son of Enos, the son of Seth, the son of Adam, the son of God.

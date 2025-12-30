@@ -4,64 +4,64 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> How then is the Jew better off? or what profit is there in circumcision?
+**¹** How then is the Jew better off? or what profit is there in circumcision?
 
-<sup>2</sup> Much in every way: first of all because the words of God were given to them.
+**²** Much in every way: first of all because the words of God were given to them.
 
-<sup>3</sup> And if some have no faith, will that make the faith of God without effect?
+**³** And if some have no faith, will that make the faith of God without effect?
 
-<sup>4</sup> In no way: but let God be true, though every man is seen to be untrue; as it is said in the Writings, That your words may be seen to be true, and you may be seen to be right when you are judged.
+**⁴** In no way: but let God be true, though every man is seen to be untrue; as it is said in the Writings, That your words may be seen to be true, and you may be seen to be right when you are judged.
 
-<sup>5</sup> But if the righteousness of God is supported by our wrongdoing what is to be said? is it wrong for God to be angry (as men may say)?
+**⁵** But if the righteousness of God is supported by our wrongdoing what is to be said? is it wrong for God to be angry (as men may say)?
 
-<sup>6</sup> In no way: because if it is so, how is God able to be the judge of all the world?
+**⁶** In no way: because if it is so, how is God able to be the judge of all the world?
 
-<sup>7</sup> But if, because I am untrue, God being seen to be true gets more glory, why am I to be judged as a sinner?
+**⁷** But if, because I am untrue, God being seen to be true gets more glory, why am I to be judged as a sinner?
 
-<sup>8</sup> Let us not do evil so that good may come (a statement which we are falsely said by some to have made), because such behaviour will have its right punishment.
+**⁸** Let us not do evil so that good may come (a statement which we are falsely said by some to have made), because such behaviour will have its right punishment.
 
-<sup>9</sup> What then? are we worse off than they? In no way: because we have before made it clear that Jews as well as Greeks are all under the power of sin;
+**⁹** What then? are we worse off than they? In no way: because we have before made it clear that Jews as well as Greeks are all under the power of sin;
 
-<sup>10</sup> As it is said in the holy Writings, There is not one who does righteousness;
+**¹⁰** As it is said in the holy Writings, There is not one who does righteousness;
 
-<sup>11</sup> Not one who has the knowledge of what is right, not one who is a searcher after God;
+**¹¹** Not one who has the knowledge of what is right, not one who is a searcher after God;
 
-<sup>12</sup> They have all gone out of the way, there is no profit in any of them; there is not one who does good, not so much as one:
+**¹²** They have all gone out of the way, there is no profit in any of them; there is not one who does good, not so much as one:
 
-<sup>13</sup> Their throat is like an open place of death; with their tongues they have said what is not true: the poison of snakes is under their lips:
+**¹³** Their throat is like an open place of death; with their tongues they have said what is not true: the poison of snakes is under their lips:
 
-<sup>14</sup> Whose mouth is full of curses and bitter words:
+**¹⁴** Whose mouth is full of curses and bitter words:
 
-<sup>15</sup> Their feet are quick in running after blood;
+**¹⁵** Their feet are quick in running after blood;
 
-<sup>16</sup> Destruction and trouble are in their ways;
+**¹⁶** Destruction and trouble are in their ways;
 
-<sup>17</sup> And of the way of peace they have no knowledge:
+**¹⁷** And of the way of peace they have no knowledge:
 
-<sup>18</sup> There is no fear of God before their eyes.
+**¹⁸** There is no fear of God before their eyes.
 
-<sup>19</sup> Now, we have knowledge that what the law says is for those who are under the law, so that every mouth may be stopped, and all men may be judged by God:
+**¹⁹** Now, we have knowledge that what the law says is for those who are under the law, so that every mouth may be stopped, and all men may be judged by God:
 
-<sup>20</sup> Because by the works of the law no man is able to have righteousness in his eyes, for through the law comes the knowledge of sin.
+**²⁰** Because by the works of the law no man is able to have righteousness in his eyes, for through the law comes the knowledge of sin.
 
-<sup>21</sup> But now without the law there is a revelation of the righteousness of God, to which witness is given by the law and the prophets;
+**²¹** But now without the law there is a revelation of the righteousness of God, to which witness is given by the law and the prophets;
 
-<sup>22</sup> That is, the righteousness of God through faith in Jesus Christ, to all those who have faith; and one man is not different from another,
+**²²** That is, the righteousness of God through faith in Jesus Christ, to all those who have faith; and one man is not different from another,
 
-<sup>23</sup> For all have done wrong and are far from the glory of God;
+**²³** For all have done wrong and are far from the glory of God;
 
-<sup>24</sup> And they may have righteousness put to their credit, freely, by his grace, through the salvation which is in Christ Jesus:
+**²⁴** And they may have righteousness put to their credit, freely, by his grace, through the salvation which is in Christ Jesus:
 
-<sup>25</sup> Whom God has put forward as the sign of his mercy, through faith, by his blood, to make clear his righteousness when, in his pity, God let the sins of earlier times go without punishment;
+**²⁵** Whom God has put forward as the sign of his mercy, through faith, by his blood, to make clear his righteousness when, in his pity, God let the sins of earlier times go without punishment;
 
-<sup>26</sup> And to make clear his righteousness now, so that he might himself be upright, and give righteousness to him who has faith in Jesus.
+**²⁶** And to make clear his righteousness now, so that he might himself be upright, and give righteousness to him who has faith in Jesus.
 
-<sup>27</sup> What reason, then, is there for pride? It is shut out. By what sort of law? of works? No, but by a law of faith.
+**²⁷** What reason, then, is there for pride? It is shut out. By what sort of law? of works? No, but by a law of faith.
 
-<sup>28</sup> For this reason, then, a man may get righteousness by faith without the works of the law.
+**²⁸** For this reason, then, a man may get righteousness by faith without the works of the law.
 
-<sup>29</sup> Or is God the God of Jews only? is he not in the same way the God of Gentiles? Yes, of Gentiles:
+**²⁹** Or is God the God of Jews only? is he not in the same way the God of Gentiles? Yes, of Gentiles:
 
-<sup>30</sup> If God is one; and he will give righteousness because of faith to those who have circumcision, and through faith to those who have not circumcision.
+**³⁰** If God is one; and he will give righteousness because of faith to those who have circumcision, and through faith to those who have not circumcision.
 
-<sup>31</sup> Do we, then, through faith make the law of no effect? in no way: but we make it clear that the law is important.
+**³¹** Do we, then, through faith make the law of no effect? in no way: but we make it clear that the law is important.

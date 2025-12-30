@@ -4,30 +4,30 @@ weight: 12
 
 # Chapter 12
 
-<sup>1</sup> The word of the Lord about Israel. The Lord by whom the heavens are stretched out and the bases of the earth put in place, and the spirit of man formed inside him, has said:
+**¹** The word of the Lord about Israel. The Lord by whom the heavens are stretched out and the bases of the earth put in place, and the spirit of man formed inside him, has said:
 
-<sup>2</sup> See, I will make Jerusalem a cup of shaking fear to all the peoples round about, when Jerusalem is shut in.
+**²** See, I will make Jerusalem a cup of shaking fear to all the peoples round about, when Jerusalem is shut in.
 
-<sup>3</sup> And it will come about in that day that I will make Jerusalem a stone of great weight for all the peoples; all those who take it up will be badly wounded; and all the nations of the earth will come together against it.
+**³** And it will come about in that day that I will make Jerusalem a stone of great weight for all the peoples; all those who take it up will be badly wounded; and all the nations of the earth will come together against it.
 
-<sup>4</sup> In that day, says the Lord, I will put fear into every horse and make every horseman go off his head: and my eyes will be open on the people of Judah, and I will make every horse of the peoples blind.
+**⁴** In that day, says the Lord, I will put fear into every horse and make every horseman go off his head: and my eyes will be open on the people of Judah, and I will make every horse of the peoples blind.
 
-<sup>5</sup> And the families of Judah will say in their hearts, The people of Jerusalem have their strength in the Lord of armies, their God.
+**⁵** And the families of Judah will say in their hearts, The people of Jerusalem have their strength in the Lord of armies, their God.
 
-<sup>6</sup> In that day I will make the families of Judah like a pot with fire in it among trees, and like a flaming stick among cut grain; they will send destruction on all the peoples round about, on the right hand and on the left: and Jerusalem will be living again in the place which is hers, that is, in Jerusalem.
+**⁶** In that day I will make the families of Judah like a pot with fire in it among trees, and like a flaming stick among cut grain; they will send destruction on all the peoples round about, on the right hand and on the left: and Jerusalem will be living again in the place which is hers, that is, in Jerusalem.
 
-<sup>7</sup> And the Lord will give salvation to the tents of Judah first, so that the glory of the family of David and the glory of the people of Jerusalem may not be greater than that of Judah.
+**⁷** And the Lord will give salvation to the tents of Judah first, so that the glory of the family of David and the glory of the people of Jerusalem may not be greater than that of Judah.
 
-<sup>8</sup> In that day the Lord will be a cover over the people of Jerusalem; and he who is feeble among them in that day will be as strong as David, and the family of David will be as God, as the angel of the Lord before them.
+**⁸** In that day the Lord will be a cover over the people of Jerusalem; and he who is feeble among them in that day will be as strong as David, and the family of David will be as God, as the angel of the Lord before them.
 
-<sup>9</sup> And it will come about on that day that I will take in hand the destruction of all the nations who come against Jerusalem.
+**⁹** And it will come about on that day that I will take in hand the destruction of all the nations who come against Jerusalem.
 
-<sup>10</sup> And I will send down on the family of David and on the people of Jerusalem the spirit of grace and of prayer; and their eyes will be turned to the one who was wounded by their hands: and they will be weeping for him as for an only son, and their grief for him will be bitter, like the grief of one sorrowing for his oldest son.
+**¹⁰** And I will send down on the family of David and on the people of Jerusalem the spirit of grace and of prayer; and their eyes will be turned to the one who was wounded by their hands: and they will be weeping for him as for an only son, and their grief for him will be bitter, like the grief of one sorrowing for his oldest son.
 
-<sup>11</sup> In that day there will be a great weeping in Jerusalem, like the weeping of Hadad-rimmon in the valley of Megiddon.
+**¹¹** In that day there will be a great weeping in Jerusalem, like the weeping of Hadad-rimmon in the valley of Megiddon.
 
-<sup>12</sup> And the land will give itself to weeping, every family separately; the family of David by themselves, and their wives by themselves; the family of Nathan by themselves, and their wives by themselves;
+**¹²** And the land will give itself to weeping, every family separately; the family of David by themselves, and their wives by themselves; the family of Nathan by themselves, and their wives by themselves;
 
-<sup>13</sup> The family of Levi by themselves, and their wives by themselves; the family of Shimei by themselves, and their wives by themselves;
+**¹³** The family of Levi by themselves, and their wives by themselves; the family of Shimei by themselves, and their wives by themselves;
 
-<sup>14</sup> And all the other families by themselves, and their wives by themselves.
+**¹⁴** And all the other families by themselves, and their wives by themselves.

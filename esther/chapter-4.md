@@ -4,36 +4,36 @@ weight: 4
 
 # Chapter 4
 
-<sup>1</sup> Now when Mordecai saw what was done, pulling off his robe, he put on haircloth, with dust on his head, and went out into the middle of the town, crying out with a loud and bitter cry.
+**¹** Now when Mordecai saw what was done, pulling off his robe, he put on haircloth, with dust on his head, and went out into the middle of the town, crying out with a loud and bitter cry.
 
-<sup>2</sup> And he came even before the king's doorway; for no one might come inside the king's door clothed in haircloth.
+**²** And he came even before the king's doorway; for no one might come inside the king's door clothed in haircloth.
 
-<sup>3</sup> And in every part of the kingdom, wherever the king's word and his order came, there was great sorrow among the Jews, and weeping and crying and going without food; and numbers of them were stretched on the earth covered with dust and haircloth.
+**³** And in every part of the kingdom, wherever the king's word and his order came, there was great sorrow among the Jews, and weeping and crying and going without food; and numbers of them were stretched on the earth covered with dust and haircloth.
 
-<sup>4</sup> And Esther's women and her servants came and gave her word of it. Then great was the grief of the queen: and she sent robes for Mordecai, so that his clothing of haircloth might be taken off; but he would not have them.
+**⁴** And Esther's women and her servants came and gave her word of it. Then great was the grief of the queen: and she sent robes for Mordecai, so that his clothing of haircloth might be taken off; but he would not have them.
 
-<sup>5</sup> Then Esther sent for Hathach, one of the king's unsexed servants whom he had given her for waiting on her, and she gave him orders to go to Mordecai and see what this was and why it was.
+**⁵** Then Esther sent for Hathach, one of the king's unsexed servants whom he had given her for waiting on her, and she gave him orders to go to Mordecai and see what this was and why it was.
 
-<sup>6</sup> So Hathach went out and saw Mordecai in the open square of the town before the king's doorway.
+**⁶** So Hathach went out and saw Mordecai in the open square of the town before the king's doorway.
 
-<sup>7</sup> And Mordecai gave him an account of what had taken place, and of the amount of money which Haman had said he would put into the king's store for the destruction of the Jews.
+**⁷** And Mordecai gave him an account of what had taken place, and of the amount of money which Haman had said he would put into the king's store for the destruction of the Jews.
 
-<sup>8</sup> And he gave him the copy of the order which had been given out in Shushan for their destruction, ordering him to let Esther see it, and to make it clear to her; and to say to her that she was to go in to the king, requesting his mercy, and making prayer for her people.
+**⁸** And he gave him the copy of the order which had been given out in Shushan for their destruction, ordering him to let Esther see it, and to make it clear to her; and to say to her that she was to go in to the king, requesting his mercy, and making prayer for her people.
 
-<sup>9</sup> And Hathach came back and gave Esther an account of what Mordecai had said.
+**⁹** And Hathach came back and gave Esther an account of what Mordecai had said.
 
-<sup>10</sup> Then Esther sent Hathach to say to Mordecai:
+**¹⁰** Then Esther sent Hathach to say to Mordecai:
 
-<sup>11</sup> It is common knowledge among all the king's servants and the people of every part of the kingdom, that if anyone, man or woman, comes to the king in his inner room without being sent for, there is only one law for him, that he is to be put to death; only those to whom the king's rod of gold is stretched out may keep their lives: but I have not been sent for to come before the king these thirty days.
+**¹¹** It is common knowledge among all the king's servants and the people of every part of the kingdom, that if anyone, man or woman, comes to the king in his inner room without being sent for, there is only one law for him, that he is to be put to death; only those to whom the king's rod of gold is stretched out may keep their lives: but I have not been sent for to come before the king these thirty days.
 
-<sup>12</sup> And they said these words to Mordecai.
+**¹²** And they said these words to Mordecai.
 
-<sup>13</sup> Then Mordecai sent this answer back to Esther: Do not have the idea that you in the king's house will be safe from the fate of all the Jews.
+**¹³** Then Mordecai sent this answer back to Esther: Do not have the idea that you in the king's house will be safe from the fate of all the Jews.
 
-<sup>14</sup> If at this time you say nothing, then help and salvation will come to the Jews from some other place, but you and your father's family will come to destruction: and who is to say that you have not come to the kingdom even for such a time as this?
+**¹⁴** If at this time you say nothing, then help and salvation will come to the Jews from some other place, but you and your father's family will come to destruction: and who is to say that you have not come to the kingdom even for such a time as this?
 
-<sup>15</sup> Then Esther sent them back to Mordecai with this answer:
+**¹⁵** Then Esther sent them back to Mordecai with this answer:
 
-<sup>16</sup> Go, get together all the Jews who are present in Shushan, and go without food for me, taking no food or drink night or day for three days: and I and my women will do the same; and so I will go in to the king, which is against the law: and if death is to be my fate, then let it come.
+**¹⁶** Go, get together all the Jews who are present in Shushan, and go without food for me, taking no food or drink night or day for three days: and I and my women will do the same; and so I will go in to the king, which is against the law: and if death is to be my fate, then let it come.
 
-<sup>17</sup> So Mordecai went away and did everything as Esther had said.
+**¹⁷** So Mordecai went away and did everything as Esther had said.

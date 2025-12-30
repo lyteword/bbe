@@ -4,52 +4,52 @@ weight: 45
 
 # Chapter 45
 
-<sup>1</sup> The Lord says to the man of his selection, to Cyrus, whom I have taken by the right hand, putting down nations before him, and taking away the arms of kings; making the doors open before him, so that the ways into the towns may not be shut;
+**¹** The Lord says to the man of his selection, to Cyrus, whom I have taken by the right hand, putting down nations before him, and taking away the arms of kings; making the doors open before him, so that the ways into the towns may not be shut;
 
-<sup>2</sup> I will go before you, and make the rough places level: the doors of brass will be broken, and the iron rods cut in two:
+**²** I will go before you, and make the rough places level: the doors of brass will be broken, and the iron rods cut in two:
 
-<sup>3</sup> And I will give you the stores of the dark, and the wealth of secret places, so that you may be certain that I am the Lord, who gave you your name, even the God of Israel.
+**³** And I will give you the stores of the dark, and the wealth of secret places, so that you may be certain that I am the Lord, who gave you your name, even the God of Israel.
 
-<sup>4</sup> Because of Jacob my servant, and Israel whom I have taken for myself, I have sent for you by name, giving you a name of honour, though you had no knowledge of me.
+**⁴** Because of Jacob my servant, and Israel whom I have taken for myself, I have sent for you by name, giving you a name of honour, though you had no knowledge of me.
 
-<sup>5</sup> I am the Lord, and there is no other; there is no God but me: I will make you ready for war, though you had no knowledge of me:
+**⁵** I am the Lord, and there is no other; there is no God but me: I will make you ready for war, though you had no knowledge of me:
 
-<sup>6</sup> So that they may see from the east and from the west that there is no God but me: I am the Lord, and there is no other.
+**⁶** So that they may see from the east and from the west that there is no God but me: I am the Lord, and there is no other.
 
-<sup>7</sup> I am the giver of light and the maker of the dark; causing blessing, and sending troubles; I am the Lord, who does all these things.
+**⁷** I am the giver of light and the maker of the dark; causing blessing, and sending troubles; I am the Lord, who does all these things.
 
-<sup>8</sup> Let righteousness come down, O heavens, from on high, and let the sky send it down like rain: let the earth be open to give the fruit of salvation, causing righteousness to come up with it; I the Lord have made it come about.
+**⁸** Let righteousness come down, O heavens, from on high, and let the sky send it down like rain: let the earth be open to give the fruit of salvation, causing righteousness to come up with it; I the Lord have made it come about.
 
-<sup>9</sup> Cursed is he who has an argument with his Maker, the pot which has an argument with the Potter! Will the wet earth say to him who is working with it, What are you doing, that your work has nothing by which it may be gripped?
+**⁹** Cursed is he who has an argument with his Maker, the pot which has an argument with the Potter! Will the wet earth say to him who is working with it, What are you doing, that your work has nothing by which it may be gripped?
 
-<sup>10</sup> Cursed is he who says to a father, To what are you giving life? or to a woman, What are you in birth-pains with?
+**¹⁰** Cursed is he who says to a father, To what are you giving life? or to a woman, What are you in birth-pains with?
 
-<sup>11</sup> The Lord, the Holy One of Israel, and his Maker, says, Will you put a question to me about the things which are to come, or will you give me orders about my sons, and the work of my hands?
+**¹¹** The Lord, the Holy One of Israel, and his Maker, says, Will you put a question to me about the things which are to come, or will you give me orders about my sons, and the work of my hands?
 
-<sup>12</sup> I have made the earth, forming man on it: by my hands the heavens have been stretched out, and all the stars put in their ordered places.
+**¹²** I have made the earth, forming man on it: by my hands the heavens have been stretched out, and all the stars put in their ordered places.
 
-<sup>13</sup> I have sent him out to overcome the nations, and I will make all his ways straight: I will give him the work of building my town, and he will let my prisoners go free, without price or reward, says the Lord of armies.
+**¹³** I have sent him out to overcome the nations, and I will make all his ways straight: I will give him the work of building my town, and he will let my prisoners go free, without price or reward, says the Lord of armies.
 
-<sup>14</sup> The Lord says, The workmen of Egypt, and the traders of Ethiopia, and the tall Sabaeans, will come over the sea to you, and they will be yours; they will go after you; in chains they will come over: and they will go down on their faces before you, and will make prayer to you, saying, Truly, God is among you; and there is no other God.
+**¹⁴** The Lord says, The workmen of Egypt, and the traders of Ethiopia, and the tall Sabaeans, will come over the sea to you, and they will be yours; they will go after you; in chains they will come over: and they will go down on their faces before you, and will make prayer to you, saying, Truly, God is among you; and there is no other God.
 
-<sup>15</sup> Truly, you have a secret God, the God of Israel is a Saviour!
+**¹⁵** Truly, you have a secret God, the God of Israel is a Saviour!
 
-<sup>16</sup> All those who have gone against him will be put to shame; the makers of images will be made low.
+**¹⁶** All those who have gone against him will be put to shame; the makers of images will be made low.
 
-<sup>17</sup> But the Lord will make Israel free with an eternal salvation: you will not be put to shame or made low for ever and ever.
+**¹⁷** But the Lord will make Israel free with an eternal salvation: you will not be put to shame or made low for ever and ever.
 
-<sup>18</sup> For this is the word of the Lord who made the heavens; he is God; the maker and designer of the earth; who made it not to be a waste, but as a living-place for man: I am the Lord, and there is no other.
+**¹⁸** For this is the word of the Lord who made the heavens; he is God; the maker and designer of the earth; who made it not to be a waste, but as a living-place for man: I am the Lord, and there is no other.
 
-<sup>19</sup> I have not given my word in secret, in a place in the underworld; I did not say to the seed of Jacob, Go into a waste land to make request of me: I the Lord say what is true, my word is righteousness.
+**¹⁹** I have not given my word in secret, in a place in the underworld; I did not say to the seed of Jacob, Go into a waste land to make request of me: I the Lord say what is true, my word is righteousness.
 
-<sup>20</sup> Come together, even come near, you nations who are still living: they have no knowledge who take up their image of wood, and make prayer to a god in whom is no salvation.
+**²⁰** Come together, even come near, you nations who are still living: they have no knowledge who take up their image of wood, and make prayer to a god in whom is no salvation.
 
-<sup>21</sup> Give the word, put forward your cause, let us have a discussion together: who has given news of this in the past? who made it clear in early times? did not I, the Lord? and there is no God but me; a true God and a saviour; there is no other.
+**²¹** Give the word, put forward your cause, let us have a discussion together: who has given news of this in the past? who made it clear in early times? did not I, the Lord? and there is no God but me; a true God and a saviour; there is no other.
 
-<sup>22</sup> Let your hearts be turned to me, so that you may have salvation, all the ends of the earth: for I am God, and there is no other.
+**²²** Let your hearts be turned to me, so that you may have salvation, all the ends of the earth: for I am God, and there is no other.
 
-<sup>23</sup> By myself have I taken an oath, a true word has gone from my mouth, and will not be changed, that to me every knee will be bent, and every tongue will give honour.
+**²³** By myself have I taken an oath, a true word has gone from my mouth, and will not be changed, that to me every knee will be bent, and every tongue will give honour.
 
-<sup>24</sup> Only in the Lord will Jacob overcome and be strong: together all those who were angry with him will be put to shame and come to destruction.
+**²⁴** Only in the Lord will Jacob overcome and be strong: together all those who were angry with him will be put to shame and come to destruction.
 
-<sup>25</sup> In the Lord will all the seed of Israel get their rights, and they will give glory to him.
+**²⁵** In the Lord will all the seed of Israel get their rights, and they will give glory to him.

@@ -4,78 +4,78 @@ weight: 19
 
 # Chapter 19
 
-<sup>1</sup> And at nightfall the two angels came to Sodom; and Lot was seated at the way into the town: and when he saw them he got up and came before them, falling down on his face to the earth.
+**¹** And at nightfall the two angels came to Sodom; and Lot was seated at the way into the town: and when he saw them he got up and came before them, falling down on his face to the earth.
 
-<sup>2</sup> And he said, My masters, come now into your servant's house and take your rest there for the night, and let your feet be washed; and early in the morning you may go on your way. And they said, Not so, but we will take our night's rest in the street.
+**²** And he said, My masters, come now into your servant's house and take your rest there for the night, and let your feet be washed; and early in the morning you may go on your way. And they said, Not so, but we will take our night's rest in the street.
 
-<sup>3</sup> But he made his request more strongly, so they went with him into his house; and he got food ready for them, and made unleavened bread, of which they took.
+**³** But he made his request more strongly, so they went with him into his house; and he got food ready for them, and made unleavened bread, of which they took.
 
-<sup>4</sup> But before they had gone to bed, the men of the town, all the men of Sodom, came round the house, young and old, from every part of the town;
+**⁴** But before they had gone to bed, the men of the town, all the men of Sodom, came round the house, young and old, from every part of the town;
 
-<sup>5</sup> And crying out to Lot, they said, Where are the men who came to your house this night? Send them out to us, so that we may take our pleasure with them.
+**⁵** And crying out to Lot, they said, Where are the men who came to your house this night? Send them out to us, so that we may take our pleasure with them.
 
-<sup>6</sup> And Lot went out to them in the doorway, shutting the door after him.
+**⁶** And Lot went out to them in the doorway, shutting the door after him.
 
-<sup>7</sup> And he said, My brothers, do not this evil.
+**⁷** And he said, My brothers, do not this evil.
 
-<sup>8</sup> See now, I have two unmarried daughters; I will send them out to you so that you may do to them whatever seems good to you: only do nothing to these men, for this is why they have come under the shade of my roof.
+**⁸** See now, I have two unmarried daughters; I will send them out to you so that you may do to them whatever seems good to you: only do nothing to these men, for this is why they have come under the shade of my roof.
 
-<sup>9</sup> And they said, Give way there. This one man, they said, came here from a strange country, and will he now be our judge? now we will do worse to you than to them; and pushing violently against Lot, they came near to get the door broken in.
+**⁹** And they said, Give way there. This one man, they said, came here from a strange country, and will he now be our judge? now we will do worse to you than to them; and pushing violently against Lot, they came near to get the door broken in.
 
-<sup>10</sup> But the men put out their hands and took Lot into the house to them, shutting the door again.
+**¹⁰** But the men put out their hands and took Lot into the house to them, shutting the door again.
 
-<sup>11</sup> But the men who were outside the door they made blind, all of them, small and great, so that they were tired out with looking for the door.
+**¹¹** But the men who were outside the door they made blind, all of them, small and great, so that they were tired out with looking for the door.
 
-<sup>12</sup> Then the men said to Lot, Are there any others of your family here? sons-in-law or sons or daughters, take them all out of this place;
+**¹²** Then the men said to Lot, Are there any others of your family here? sons-in-law or sons or daughters, take them all out of this place;
 
-<sup>13</sup> For we are about to send destruction on this place, because a great outcry against them has come to the ears of the Lord; and the Lord has sent us to put an end to the town.
+**¹³** For we are about to send destruction on this place, because a great outcry against them has come to the ears of the Lord; and the Lord has sent us to put an end to the town.
 
-<sup>14</sup> And Lot went out and said to his sons-in-law, who were married to his daughters, Come, let us go out of this place, for the Lord is about to send destruction on the town. But his sons-in-law did not take him seriously.
+**¹⁴** And Lot went out and said to his sons-in-law, who were married to his daughters, Come, let us go out of this place, for the Lord is about to send destruction on the town. But his sons-in-law did not take him seriously.
 
-<sup>15</sup> And when morning came, the angels did all in their power to make Lot go, saying, Get up quickly and take your wife and your two daughters who are here, and go, for fear that you come to destruction in the punishment of the town.
+**¹⁵** And when morning came, the angels did all in their power to make Lot go, saying, Get up quickly and take your wife and your two daughters who are here, and go, for fear that you come to destruction in the punishment of the town.
 
-<sup>16</sup> But while he was waiting, the men took him and his wife and his daughters by the hand, for the Lord had mercy on them, and put them outside the town.
+**¹⁶** But while he was waiting, the men took him and his wife and his daughters by the hand, for the Lord had mercy on them, and put them outside the town.
 
-<sup>17</sup> And when they had put them out, he said, Go for your life, without looking back or waiting in the lowland; go quickly to the mountain or you will come to destruction.
+**¹⁷** And when they had put them out, he said, Go for your life, without looking back or waiting in the lowland; go quickly to the mountain or you will come to destruction.
 
-<sup>18</sup> And Lot said to them, Not so, O my Lord;
+**¹⁸** And Lot said to them, Not so, O my Lord;
 
-<sup>19</sup> See now, your servant has had grace in your eyes and great is your mercy in keeping my life from destruction, but I am not able to get as far as the mountain before evil overtakes me and death;
+**¹⁹** See now, your servant has had grace in your eyes and great is your mercy in keeping my life from destruction, but I am not able to get as far as the mountain before evil overtakes me and death;
 
-<sup>20</sup> This town, now, is near, and it is a little one: O, let me go there (is it not a little one?) so that my life may be safe.
+**²⁰** This town, now, is near, and it is a little one: O, let me go there (is it not a little one?) so that my life may be safe.
 
-<sup>21</sup> And he said, See, I have given you your request in this one thing more: I will not send destruction on this town.
+**²¹** And he said, See, I have given you your request in this one thing more: I will not send destruction on this town.
 
-<sup>22</sup> Go there quickly, for I am not able to do anything till you have come there. For this reason, the town was named Zoar.
+**²²** Go there quickly, for I am not able to do anything till you have come there. For this reason, the town was named Zoar.
 
-<sup>23</sup> The sun was up when Lot came to Zoar.
+**²³** The sun was up when Lot came to Zoar.
 
-<sup>24</sup> Then the Lord sent fire and flaming smoke raining down from heaven on Sodom and Gomorrah.
+**²⁴** Then the Lord sent fire and flaming smoke raining down from heaven on Sodom and Gomorrah.
 
-<sup>25</sup> And he sent destruction on those towns, with all the lowland and all the people of those towns and every green thing in the land.
+**²⁵** And he sent destruction on those towns, with all the lowland and all the people of those towns and every green thing in the land.
 
-<sup>26</sup> But Lot's wife, looking back, became a pillar of salt.
+**²⁶** But Lot's wife, looking back, became a pillar of salt.
 
-<sup>27</sup> And Abraham got up early in the morning and went to the place where he had been talking with the Lord:
+**²⁷** And Abraham got up early in the morning and went to the place where he had been talking with the Lord:
 
-<sup>28</sup> And looking in the direction of Sodom and Gomorrah and the lowland, he saw the smoke of the land going up like the smoke of an oven.
+**²⁸** And looking in the direction of Sodom and Gomorrah and the lowland, he saw the smoke of the land going up like the smoke of an oven.
 
-<sup>29</sup> So it came about that when God sent destruction on the towns of the lowland, he kept his word to Abraham, and sent Lot safely away when he put an end to the towns where he was living.
+**²⁹** So it came about that when God sent destruction on the towns of the lowland, he kept his word to Abraham, and sent Lot safely away when he put an end to the towns where he was living.
 
-<sup>30</sup> Then Lot went up out of Zoar to the mountain, and was living there with his two daughters, for fear kept him from living in Zoar: and he and his daughters made their living-place in a hole in the rock.
+**³⁰** Then Lot went up out of Zoar to the mountain, and was living there with his two daughters, for fear kept him from living in Zoar: and he and his daughters made their living-place in a hole in the rock.
 
-<sup>31</sup> And the older daughter said to her sister, Our father is old, and there is no man to be a husband to us in the natural way:
+**³¹** And the older daughter said to her sister, Our father is old, and there is no man to be a husband to us in the natural way:
 
-<sup>32</sup> Come, let us give our father much wine, and we will go into his bed, so that we may have offspring by our father,
+**³²** Come, let us give our father much wine, and we will go into his bed, so that we may have offspring by our father,
 
-<sup>33</sup> And that night they made their father take much wine; and the older daughter went into his bed; and he had no knowledge of when she went in or when she went away.
+**³³** And that night they made their father take much wine; and the older daughter went into his bed; and he had no knowledge of when she went in or when she went away.
 
-<sup>34</sup> And on the day after, the older daughter said to the younger, Last night I was with my father; let us make him take much wine this night again, and do you go to him, so that we may have offspring by our father.
+**³⁴** And on the day after, the older daughter said to the younger, Last night I was with my father; let us make him take much wine this night again, and do you go to him, so that we may have offspring by our father.
 
-<sup>35</sup> And that night again they made their father take much wine; and the younger daughter went into his bed; and he had no knowledge of when she went in or when she went away.
+**³⁵** And that night again they made their father take much wine; and the younger daughter went into his bed; and he had no knowledge of when she went in or when she went away.
 
-<sup>36</sup> And so the two daughters of Lot were with child by their father.
+**³⁶** And so the two daughters of Lot were with child by their father.
 
-<sup>37</sup> And the older daughter had a son, and she gave him the name Moab: he is the father of the Moabites to this day.
+**³⁷** And the older daughter had a son, and she gave him the name Moab: he is the father of the Moabites to this day.
 
-<sup>38</sup> And the younger had a son and gave him the name Ben-ammi: from him come the children of Ammon to this day.
+**³⁸** And the younger had a son and gave him the name Ben-ammi: from him come the children of Ammon to this day.

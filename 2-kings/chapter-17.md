@@ -4,84 +4,84 @@ weight: 17
 
 # Chapter 17
 
-<sup>1</sup> In the twelfth year of Ahaz, king of Judah, Hoshea, the son of Elah, became king over Israel in Samaria, ruling for nine years.
+**¹** In the twelfth year of Ahaz, king of Judah, Hoshea, the son of Elah, became king over Israel in Samaria, ruling for nine years.
 
-<sup>2</sup> He did evil in the eyes of the Lord, though not like the kings of Israel before him.
+**²** He did evil in the eyes of the Lord, though not like the kings of Israel before him.
 
-<sup>3</sup> Against him came up Shalmaneser, king of Assyria, and Hoshea became his servant and sent him offerings.
+**³** Against him came up Shalmaneser, king of Assyria, and Hoshea became his servant and sent him offerings.
 
-<sup>4</sup> But Hoshea's broken faith became clear to the king of Assyria because he had sent representatives to So, king of Egypt, and did not send his offering to the king of Assyria, as he had done year by year: so the king of Assyria had him shut up in prison and put in chains.
+**⁴** But Hoshea's broken faith became clear to the king of Assyria because he had sent representatives to So, king of Egypt, and did not send his offering to the king of Assyria, as he had done year by year: so the king of Assyria had him shut up in prison and put in chains.
 
-<sup>5</sup> Then the king of Assyria went through all the land and came up to Samaria, shutting it in with his forces for three years.
+**⁵** Then the king of Assyria went through all the land and came up to Samaria, shutting it in with his forces for three years.
 
-<sup>6</sup> In the ninth year of Hoshea, the king of Assyria took Samaria, and took Israel away to Assyria, placing them in Halah and in Habor on the river Gozan, and in the towns of the Medes.
+**⁶** In the ninth year of Hoshea, the king of Assyria took Samaria, and took Israel away to Assyria, placing them in Halah and in Habor on the river Gozan, and in the towns of the Medes.
 
-<sup>7</sup> And the wrath of the Lord came on Israel because they had done evil against the Lord their God, who took them out of the land of Egypt from under the yoke of Pharaoh, king of Egypt, and had become worshippers of other gods,
+**⁷** And the wrath of the Lord came on Israel because they had done evil against the Lord their God, who took them out of the land of Egypt from under the yoke of Pharaoh, king of Egypt, and had become worshippers of other gods,
 
-<sup>8</sup> Living by the rules of the nations whom the Lord had sent out from before the children of Israel.
+**⁸** Living by the rules of the nations whom the Lord had sent out from before the children of Israel.
 
-<sup>9</sup> And the children of Israel did secretly against the Lord their God things which were not right, building high places for themselves in all their towns, from the tower of the watchmen to the walled town.
+**⁹** And the children of Israel did secretly against the Lord their God things which were not right, building high places for themselves in all their towns, from the tower of the watchmen to the walled town.
 
-<sup>10</sup> They put up pillars of stone and wood on every high hill and under every green tree:
+**¹⁰** They put up pillars of stone and wood on every high hill and under every green tree:
 
-<sup>11</sup> Burning their offerings in all the high places, as those nations did whom the Lord sent away from before them; they did evil things, moving the Lord to wrath;
+**¹¹** Burning their offerings in all the high places, as those nations did whom the Lord sent away from before them; they did evil things, moving the Lord to wrath;
 
-<sup>12</sup> And they made themselves servants of disgusting things, though the Lord had said, You are not to do this.
+**¹²** And they made themselves servants of disgusting things, though the Lord had said, You are not to do this.
 
-<sup>13</sup> And he gave witness to Israel and Judah, by every prophet and seer, saying, Come back from your evil ways, and do my orders and keep my rules, and be guided by the law which I gave to your fathers and sent to you by my servants the prophets.
+**¹³** And he gave witness to Israel and Judah, by every prophet and seer, saying, Come back from your evil ways, and do my orders and keep my rules, and be guided by the law which I gave to your fathers and sent to you by my servants the prophets.
 
-<sup>14</sup> And they did not give ear, but became stiff-necked, like their fathers who had no faith in the Lord their God.
+**¹⁴** And they did not give ear, but became stiff-necked, like their fathers who had no faith in the Lord their God.
 
-<sup>15</sup> And they went against his rules, and the agreement which he made with their fathers, and his laws which he gave them; they gave themselves up to things without sense or value, and became foolish like the nations round them, of whom the Lord had said, Do not as they do.
+**¹⁵** And they went against his rules, and the agreement which he made with their fathers, and his laws which he gave them; they gave themselves up to things without sense or value, and became foolish like the nations round them, of whom the Lord had said, Do not as they do.
 
-<sup>16</sup> And turning their backs on all the orders which the Lord had given them, they made for themselves images of metal, and the image of Asherah, worshipping all the stars of heaven and becoming servants to Baal.
+**¹⁶** And turning their backs on all the orders which the Lord had given them, they made for themselves images of metal, and the image of Asherah, worshipping all the stars of heaven and becoming servants to Baal.
 
-<sup>17</sup> And they made their sons and their daughters go through the fire, and they made use of secret arts and unnatural powers, and gave themselves up to doing evil in the eyes of the Lord, till he was moved to wrath.
+**¹⁷** And they made their sons and their daughters go through the fire, and they made use of secret arts and unnatural powers, and gave themselves up to doing evil in the eyes of the Lord, till he was moved to wrath.
 
-<sup>18</sup> So the Lord was very angry with Israel, and his face was turned away from them: only the tribe of Judah kept its place.
+**¹⁸** So the Lord was very angry with Israel, and his face was turned away from them: only the tribe of Judah kept its place.
 
-<sup>19</sup> (But even Judah did not keep the orders of the Lord their God, but were guided by the rules which Israel had made.
+**¹⁹** (But even Judah did not keep the orders of the Lord their God, but were guided by the rules which Israel had made.
 
-<sup>20</sup> So the Lord would have nothing to do with all the offspring of Israel, and sent trouble on them, and gave them up into the hands of their attackers, till he had sent them away from before his face.)
+**²⁰** So the Lord would have nothing to do with all the offspring of Israel, and sent trouble on them, and gave them up into the hands of their attackers, till he had sent them away from before his face.)
 
-<sup>21</sup> For Israel was broken off from the family of David, and they made Jeroboam, the son of Nebat, king, who, driving them away from the laws of the Lord, made them do a great sin.
+**²¹** For Israel was broken off from the family of David, and they made Jeroboam, the son of Nebat, king, who, driving them away from the laws of the Lord, made them do a great sin.
 
-<sup>22</sup> And the children of Israel went on with all the sins which Jeroboam did; they did not keep themselves from them;
+**²²** And the children of Israel went on with all the sins which Jeroboam did; they did not keep themselves from them;
 
-<sup>23</sup> Till the Lord put Israel away from before his face, as he had said by all his servants the prophets. So Israel was taken away from their land to Assyria, to this day.
+**²³** Till the Lord put Israel away from before his face, as he had said by all his servants the prophets. So Israel was taken away from their land to Assyria, to this day.
 
-<sup>24</sup> Then the king of Assyria took men from Babylon and from Cuthah and Avva and Hamath and Sepharvaim, and put them in the towns of Samaria in place of the children of Israel; so they got Samaria for their heritage, living in its towns.
+**²⁴** Then the king of Assyria took men from Babylon and from Cuthah and Avva and Hamath and Sepharvaim, and put them in the towns of Samaria in place of the children of Israel; so they got Samaria for their heritage, living in its towns.
 
-<sup>25</sup> Now when first they were living there they did not give worship to the Lord. So the Lord sent lions among them, causing the death of some of them.
+**²⁵** Now when first they were living there they did not give worship to the Lord. So the Lord sent lions among them, causing the death of some of them.
 
-<sup>26</sup> So they said to the king of Assyria, The nations whom you have taken as prisoners and put in the towns of Samaria, have no knowledge of the way of the god of the land: so he has sent lions among them, causing their death, because they have no knowledge of his way.
+**²⁶** So they said to the king of Assyria, The nations whom you have taken as prisoners and put in the towns of Samaria, have no knowledge of the way of the god of the land: so he has sent lions among them, causing their death, because they have no knowledge of his way.
 
-<sup>27</sup> Then the king of Assyria gave orders, saying, Send there one of the priests whom you took away, and let him be living there and teaching the people the way of the god of the land.
+**²⁷** Then the king of Assyria gave orders, saying, Send there one of the priests whom you took away, and let him be living there and teaching the people the way of the god of the land.
 
-<sup>28</sup> So one of the priests whom they had taken away as a prisoner from Samaria came back, and, living in Beth-el, became their teacher in the worship of the Lord.
+**²⁸** So one of the priests whom they had taken away as a prisoner from Samaria came back, and, living in Beth-el, became their teacher in the worship of the Lord.
 
-<sup>29</sup> And every nation made gods for themselves, and put them in the houses of the high places which the Samaritans had made, every nation in the towns where they were living.
+**²⁹** And every nation made gods for themselves, and put them in the houses of the high places which the Samaritans had made, every nation in the towns where they were living.
 
-<sup>30</sup> The men of Babylon made Succoth-benoth, and the men of Cuth made Nergal, and the men of Hamath made Ashima,
+**³⁰** The men of Babylon made Succoth-benoth, and the men of Cuth made Nergal, and the men of Hamath made Ashima,
 
-<sup>31</sup> The Avvites made Nibhaz and Tartak, and the Sepharvites gave their children to be burned in the fire to Adrammelech and Anammelech, the gods of Sepharvaim.
+**³¹** The Avvites made Nibhaz and Tartak, and the Sepharvites gave their children to be burned in the fire to Adrammelech and Anammelech, the gods of Sepharvaim.
 
-<sup>32</sup> So they went on worshipping the Lord, and made for themselves, from among all the people, priests for the high places, to make offerings for them in the houses of the high places.
+**³²** So they went on worshipping the Lord, and made for themselves, from among all the people, priests for the high places, to make offerings for them in the houses of the high places.
 
-<sup>33</sup> They gave worship to the Lord, but they gave honour to their gods like the nations did from whom they had been taken as prisoners.
+**³³** They gave worship to the Lord, but they gave honour to their gods like the nations did from whom they had been taken as prisoners.
 
-<sup>34</sup> So to this day they go on in their old ways, not worshipping the Lord or keeping his orders or his ways or the law and the rule which the Lord gave to the children of Jacob, to whom he gave the name Israel;
+**³⁴** So to this day they go on in their old ways, not worshipping the Lord or keeping his orders or his ways or the law and the rule which the Lord gave to the children of Jacob, to whom he gave the name Israel;
 
-<sup>35</sup> And the Lord made an agreement with them and gave them orders, saying, You are to have no other gods; you are not to give worship to them or be their servants or make them offerings:
+**³⁵** And the Lord made an agreement with them and gave them orders, saying, You are to have no other gods; you are not to give worship to them or be their servants or make them offerings:
 
-<sup>36</sup> But the Lord, who took you out of the land of Egypt with his great power and his outstretched arm, he is your God, to whom you are to give worship and make offerings:
+**³⁶** But the Lord, who took you out of the land of Egypt with his great power and his outstretched arm, he is your God, to whom you are to give worship and make offerings:
 
-<sup>37</sup> And the rules and the orders and the law which he put in writing for you, you are to keep and do for ever; you are to have no other gods.
+**³⁷** And the rules and the orders and the law which he put in writing for you, you are to keep and do for ever; you are to have no other gods.
 
-<sup>38</sup> And you are to keep in memory the agreement which I have made with you; and you are to have no other gods.
+**³⁸** And you are to keep in memory the agreement which I have made with you; and you are to have no other gods.
 
-<sup>39</sup> And you are to give worship to the Lord your God; for it is he who will give you salvation from the hands of all who are against you.
+**³⁹** And you are to give worship to the Lord your God; for it is he who will give you salvation from the hands of all who are against you.
 
-<sup>40</sup> But they gave no attention, but went on in their old way.
+**⁴⁰** But they gave no attention, but went on in their old way.
 
-<sup>41</sup> So these nations, worshipping the Lord, still were servants to the images they had made; their children and their children's children did the same; as their fathers did, so do they, to this day.
+**⁴¹** So these nations, worshipping the Lord, still were servants to the images they had made; their children and their children's children did the same; as their fathers did, so do they, to this day.

@@ -4,128 +4,128 @@ weight: 16
 
 # Chapter 16
 
-<sup>1</sup> And the word of the Lord came to me, saying,
+**¹** And the word of the Lord came to me, saying,
 
-<sup>2</sup> Son of man, make clear to Jerusalem her disgusting ways,
+**²** Son of man, make clear to Jerusalem her disgusting ways,
 
-<sup>3</sup> And say, This is what the Lord has said to Jerusalem: Your start and your birth was from the land of the Canaanite; an Amorite was your father and your mother was a Hittite.
+**³** And say, This is what the Lord has said to Jerusalem: Your start and your birth was from the land of the Canaanite; an Amorite was your father and your mother was a Hittite.
 
-<sup>4</sup> As for your birth, on the day of your birth your cord was not cut and you were not washed in water to make you clean; you were not salted or folded in linen bands.
+**⁴** As for your birth, on the day of your birth your cord was not cut and you were not washed in water to make you clean; you were not salted or folded in linen bands.
 
-<sup>5</sup> No eye had pity on you to do any of these things to you or to be kind to you; but you were put out into the open country, because your life was hated at the time of your birth.
+**⁵** No eye had pity on you to do any of these things to you or to be kind to you; but you were put out into the open country, because your life was hated at the time of your birth.
 
-<sup>6</sup> And when I went past you and saw you stretched out in your blood, I said to you, Though you are stretched out in your blood, have life;
+**⁶** And when I went past you and saw you stretched out in your blood, I said to you, Though you are stretched out in your blood, have life;
 
-<sup>7</sup> And be increased in number like the buds of the field; and you were increased and became great, and you came to the time of love: your breasts were formed and your hair was long; but you were uncovered and without clothing.
+**⁷** And be increased in number like the buds of the field; and you were increased and became great, and you came to the time of love: your breasts were formed and your hair was long; but you were uncovered and without clothing.
 
-<sup>8</sup> Now when I went past you, looking at you, I saw that your time was the time of love; and I put my skirts over you, covering your unclothed body: and I gave you my oath and made an agreement with you, says the Lord, and you became mine.
+**⁸** Now when I went past you, looking at you, I saw that your time was the time of love; and I put my skirts over you, covering your unclothed body: and I gave you my oath and made an agreement with you, says the Lord, and you became mine.
 
-<sup>9</sup> Then I had you washed with water, washing away all your blood and rubbing you with oil.
+**⁹** Then I had you washed with water, washing away all your blood and rubbing you with oil.
 
-<sup>10</sup> And I had you clothed with needlework, and put leather shoes on your feet, folding fair linen about you and covering you with silk.
+**¹⁰** And I had you clothed with needlework, and put leather shoes on your feet, folding fair linen about you and covering you with silk.
 
-<sup>11</sup> And I made you fair with ornaments and put jewels on your hands and a chain on your neck.
+**¹¹** And I made you fair with ornaments and put jewels on your hands and a chain on your neck.
 
-<sup>12</sup> And I put a ring in your nose and ear-rings in your ears and a beautiful crown on your head.
+**¹²** And I put a ring in your nose and ear-rings in your ears and a beautiful crown on your head.
 
-<sup>13</sup> So you were made beautiful with gold and silver; and your clothing was of the best linen and silk and needlework; your food was the best meal and honey and oil: and you were very beautiful.
+**¹³** So you were made beautiful with gold and silver; and your clothing was of the best linen and silk and needlework; your food was the best meal and honey and oil: and you were very beautiful.
 
-<sup>14</sup> You were so beautiful that the story of you went out into all nations; you were completely beautiful because of my glory which I had put on you, says the Lord.
+**¹⁴** You were so beautiful that the story of you went out into all nations; you were completely beautiful because of my glory which I had put on you, says the Lord.
 
-<sup>15</sup> But you put your faith in the fact that you were beautiful, acting like a loose woman because you were widely talked of, and offering your cheap love to everyone who went by, whoever it might be.
+**¹⁵** But you put your faith in the fact that you were beautiful, acting like a loose woman because you were widely talked of, and offering your cheap love to everyone who went by, whoever it might be.
 
-<sup>16</sup> And you took your robes and made high places for yourself ornamented with every colour, acting like a loose woman on them, without shame or fear.
+**¹⁶** And you took your robes and made high places for yourself ornamented with every colour, acting like a loose woman on them, without shame or fear.
 
-<sup>17</sup> And you took the fair jewels, my silver and gold which I had given to you, and made for yourself male images, acting like a loose woman with them;
+**¹⁷** And you took the fair jewels, my silver and gold which I had given to you, and made for yourself male images, acting like a loose woman with them;
 
-<sup>18</sup> And you took your robes of needlework for their clothing, and put my oil and my perfume before them.
+**¹⁸** And you took your robes of needlework for their clothing, and put my oil and my perfume before them.
 
-<sup>19</sup> And my bread which I gave you, the best meal and oil and honey which I gave you for your food, you put it before them for a sweet smell, says the Lord.
+**¹⁹** And my bread which I gave you, the best meal and oil and honey which I gave you for your food, you put it before them for a sweet smell, says the Lord.
 
-<sup>20</sup> And you took your sons and your daughters whom I had by you, offering even these to them to be their food. Was your loose behaviour so small a thing,
+**²⁰** And you took your sons and your daughters whom I had by you, offering even these to them to be their food. Was your loose behaviour so small a thing,
 
-<sup>21</sup> That you put my children to death and gave them up to go through the fire to them?
+**²¹** That you put my children to death and gave them up to go through the fire to them?
 
-<sup>22</sup> And in all your disgusting and false behaviour you had no memory of your early days, when you were uncovered and without clothing, stretched out in your blood.
+**²²** And in all your disgusting and false behaviour you had no memory of your early days, when you were uncovered and without clothing, stretched out in your blood.
 
-<sup>23</sup> And it came about, after all your evil-doing, says the Lord,
+**²³** And it came about, after all your evil-doing, says the Lord,
 
-<sup>24</sup> That you made for yourself an arched room in every open place.
+**²⁴** That you made for yourself an arched room in every open place.
 
-<sup>25</sup> You put up your high places at the top of every street, and made the grace of your form a disgusting thing, opening your feet to everyone who went by, increasing your loose ways.
+**²⁵** You put up your high places at the top of every street, and made the grace of your form a disgusting thing, opening your feet to everyone who went by, increasing your loose ways.
 
-<sup>26</sup> And you went with the Egyptians, your neighbours, great of flesh; increasing your loose ways, moving me to wrath.
+**²⁶** And you went with the Egyptians, your neighbours, great of flesh; increasing your loose ways, moving me to wrath.
 
-<sup>27</sup> Now, then, my hand is stretched out against you, cutting down your fixed amount, and I have given you up to the desire of your haters, the daughters of the Philistines who are shamed by your loose ways.
+**²⁷** Now, then, my hand is stretched out against you, cutting down your fixed amount, and I have given you up to the desire of your haters, the daughters of the Philistines who are shamed by your loose ways.
 
-<sup>28</sup> And you went with the Assyrians, because of your desire which was without measure; you were acting like a loose woman with them, and still you had not enough.
+**²⁸** And you went with the Assyrians, because of your desire which was without measure; you were acting like a loose woman with them, and still you had not enough.
 
-<sup>29</sup> And you went on in your loose ways, even as far as the land of Chaldaea, and still you had not enough.
+**²⁹** And you went on in your loose ways, even as far as the land of Chaldaea, and still you had not enough.
 
-<sup>30</sup> How feeble is your heart, says the Lord, seeing that you do all these things, the work of a loose and overruling woman;
+**³⁰** How feeble is your heart, says the Lord, seeing that you do all these things, the work of a loose and overruling woman;
 
-<sup>31</sup> For you have made your arched room at the top of every street, and your high place in every open place; though you were not like a loose woman in getting together your payment.
+**³¹** For you have made your arched room at the top of every street, and your high place in every open place; though you were not like a loose woman in getting together your payment.
 
-<sup>32</sup> The untrue wife who takes strange lovers in place of her husband!
+**³²** The untrue wife who takes strange lovers in place of her husband!
 
-<sup>33</sup> They give payment to all loose women: but you give rewards to your lovers, offering them payment so that they may come to you on every side for your cheap love.
+**³³** They give payment to all loose women: but you give rewards to your lovers, offering them payment so that they may come to you on every side for your cheap love.
 
-<sup>34</sup> And in your loose behaviour you are different from other women, for no one goes after you to make love to you: and because you give payment and no payment is given to you, in this you are different from them.
+**³⁴** And in your loose behaviour you are different from other women, for no one goes after you to make love to you: and because you give payment and no payment is given to you, in this you are different from them.
 
-<sup>35</sup> For this cause, O loose woman, give ear to the voice of the Lord:
+**³⁵** For this cause, O loose woman, give ear to the voice of the Lord:
 
-<sup>36</sup> This is what the Lord has said: Because your unclean behaviour was let loose and your body uncovered in your loose ways with your lovers and with your disgusting images, and for the blood of your children which you gave to them;
+**³⁶** This is what the Lord has said: Because your unclean behaviour was let loose and your body uncovered in your loose ways with your lovers and with your disgusting images, and for the blood of your children which you gave to them;
 
-<sup>37</sup> For this cause I will get together all your lovers with whom you have taken your pleasure, and all those to whom you have given your love, with all those who were hated by you; I will even make them come together against you on every side, and I will have you uncovered before them so that they may see your shame.
+**³⁷** For this cause I will get together all your lovers with whom you have taken your pleasure, and all those to whom you have given your love, with all those who were hated by you; I will even make them come together against you on every side, and I will have you uncovered before them so that they may see your shame.
 
-<sup>38</sup> And you will be judged by me as women are judged who have been untrue to their husbands and have taken life; and I will let loose against you passion and bitter feeling.
+**³⁸** And you will be judged by me as women are judged who have been untrue to their husbands and have taken life; and I will let loose against you passion and bitter feeling.
 
-<sup>39</sup> I will give you into their hands, and your arched room will be overturned and your high places broken down; they will take your clothing off you and take away your fair jewels: and when they have done, you will be uncovered and shamed.
+**³⁹** I will give you into their hands, and your arched room will be overturned and your high places broken down; they will take your clothing off you and take away your fair jewels: and when they have done, you will be uncovered and shamed.
 
-<sup>40</sup> And they will get together a meeting against you, stoning you with stones and wounding you with their swords.
+**⁴⁰** And they will get together a meeting against you, stoning you with stones and wounding you with their swords.
 
-<sup>41</sup> And they will have you burned with fire, sending punishments on you before the eyes of great numbers of women; and I will put an end to your loose ways, and you will no longer give payment.
+**⁴¹** And they will have you burned with fire, sending punishments on you before the eyes of great numbers of women; and I will put an end to your loose ways, and you will no longer give payment.
 
-<sup>42</sup> And the heat of my wrath against you will have an end, and my bitter feeling will be turned away from you, and I will be quiet and will be angry no longer.
+**⁴²** And the heat of my wrath against you will have an end, and my bitter feeling will be turned away from you, and I will be quiet and will be angry no longer.
 
-<sup>43</sup> Because you have not kept in mind the days when you were young, but have been troubling me with all these things; for this reason I will make the punishment of your ways come on your head, says the Lord, because you have done this evil thing in addition to all your disgusting acts.
+**⁴³** Because you have not kept in mind the days when you were young, but have been troubling me with all these things; for this reason I will make the punishment of your ways come on your head, says the Lord, because you have done this evil thing in addition to all your disgusting acts.
 
-<sup>44</sup> See, in every common saying about you it will be said, As the mother is, so is her daughter.
+**⁴⁴** See, in every common saying about you it will be said, As the mother is, so is her daughter.
 
-<sup>45</sup> You are the daughter of your mother whose soul is turned in disgust from her husband and her children; and you are the sister of your sisters who were turned in disgust from their husbands and their children: your mother was a Hittite and your father an Amorite.
+**⁴⁵** You are the daughter of your mother whose soul is turned in disgust from her husband and her children; and you are the sister of your sisters who were turned in disgust from their husbands and their children: your mother was a Hittite and your father an Amorite.
 
-<sup>46</sup> Your older sister is Samaria, living at your left hand, she and her daughters: and your younger sister, living at your right hand, is Sodom and her daughters.
+**⁴⁶** Your older sister is Samaria, living at your left hand, she and her daughters: and your younger sister, living at your right hand, is Sodom and her daughters.
 
-<sup>47</sup> Still you have not gone in their ways or done the disgusting things which they have done; but, as if that was only a little thing, you have gone deeper in evil than they in all your ways.
+**⁴⁷** Still you have not gone in their ways or done the disgusting things which they have done; but, as if that was only a little thing, you have gone deeper in evil than they in all your ways.
 
-<sup>48</sup> By my life, says the Lord, Sodom your sister never did, she or her daughters, what you and your daughters have done.
+**⁴⁸** By my life, says the Lord, Sodom your sister never did, she or her daughters, what you and your daughters have done.
 
-<sup>49</sup> Truly, this was the sin of your sister Sodom: pride, a full measure of food, and the comforts of wealth in peace, were seen in her and her daughters, and she gave no help to the poor or to those in need.
+**⁴⁹** Truly, this was the sin of your sister Sodom: pride, a full measure of food, and the comforts of wealth in peace, were seen in her and her daughters, and she gave no help to the poor or to those in need.
 
-<sup>50</sup> They were full of pride and did what was disgusting to me: and so I took them away as you have seen.
+**⁵⁰** They were full of pride and did what was disgusting to me: and so I took them away as you have seen.
 
-<sup>51</sup> And Samaria has not done half your sins; but you have made the number of your disgusting acts greater than theirs, making your sisters seem more upright than you by all the disgusting things which you have done.
+**⁵¹** And Samaria has not done half your sins; but you have made the number of your disgusting acts greater than theirs, making your sisters seem more upright than you by all the disgusting things which you have done.
 
-<sup>52</sup> And you yourself will be put to shame, in that you have given the decision for your sisters; through your sins, which are more disgusting than theirs, they are more upright than you: truly, you will be shamed and made low, for you have made your sisters seem upright.
+**⁵²** And you yourself will be put to shame, in that you have given the decision for your sisters; through your sins, which are more disgusting than theirs, they are more upright than you: truly, you will be shamed and made low, for you have made your sisters seem upright.
 
-<sup>53</sup> And I will let their fate be changed, the fate of Sodom and her daughters, and the fate of Samaria and her daughters, and your fate with theirs.
+**⁵³** And I will let their fate be changed, the fate of Sodom and her daughters, and the fate of Samaria and her daughters, and your fate with theirs.
 
-<sup>54</sup> So that you will be shamed and made low because of all you have done, when I have mercy on you.
+**⁵⁴** So that you will be shamed and made low because of all you have done, when I have mercy on you.
 
-<sup>55</sup> And your sisters, Sodom and her daughters, will go back to their first condition, and Samaria and her daughters will go back to their first condition, and you and your daughters will go back to your first condition.
+**⁵⁵** And your sisters, Sodom and her daughters, will go back to their first condition, and Samaria and her daughters will go back to their first condition, and you and your daughters will go back to your first condition.
 
-<sup>56</sup> Was not your sister Sodom an oath in your mouth in the day of your pride,
+**⁵⁶** Was not your sister Sodom an oath in your mouth in the day of your pride,
 
-<sup>57</sup> Before your shame was uncovered? Now you have become like her a word of shame to the daughters of Edom and all who are round about you, the daughters of the Philistines who put shame on you round about.
+**⁵⁷** Before your shame was uncovered? Now you have become like her a word of shame to the daughters of Edom and all who are round about you, the daughters of the Philistines who put shame on you round about.
 
-<sup>58</sup> The reward of your evil designs and your disgusting ways has come on you, says the Lord.
+**⁵⁸** The reward of your evil designs and your disgusting ways has come on you, says the Lord.
 
-<sup>59</sup> For this is what the Lord has said: I will do to you as you have done, you who, putting the oath on one side, have let the agreement be broken.
+**⁵⁹** For this is what the Lord has said: I will do to you as you have done, you who, putting the oath on one side, have let the agreement be broken.
 
-<sup>60</sup> But still I will keep in mind the agreement made with you in the days when you were young, and I will make with you an eternal agreement.
+**⁶⁰** But still I will keep in mind the agreement made with you in the days when you were young, and I will make with you an eternal agreement.
 
-<sup>61</sup> Then at the memory of your ways you will be overcome with shame, when I take your sisters, the older and the younger, and give them to you for daughters, but not by your agreement.
+**⁶¹** Then at the memory of your ways you will be overcome with shame, when I take your sisters, the older and the younger, and give them to you for daughters, but not by your agreement.
 
-<sup>62</sup> And I will make my agreement with you; and you will be certain that I am the Lord:
+**⁶²** And I will make my agreement with you; and you will be certain that I am the Lord:
 
-<sup>63</sup> So that, at the memory of these things, you may be at a loss, never opening your mouth because of your shame; when you have my forgiveness for all you have done, says the Lord.
+**⁶³** So that, at the memory of these things, you may be at a loss, never opening your mouth because of your shame; when you have my forgiveness for all you have done, says the Lord.

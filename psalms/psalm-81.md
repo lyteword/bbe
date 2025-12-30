@@ -6,34 +6,34 @@ weight: 81
 
 To the chief music-maker; put to the Gittith. Of Asaph.
 
-<sup>1</sup> Make a song to God our strength: make a glad cry to the God of Jacob.
+**¹** Make a song to God our strength: make a glad cry to the God of Jacob.
 
-<sup>2</sup> Take up the melody, playing on an instrument of music, even on corded instruments.
+**²** Take up the melody, playing on an instrument of music, even on corded instruments.
 
-<sup>3</sup> Let the horn be sounded in the time of the new moon, at the full moon, on our holy feast-day:
+**³** Let the horn be sounded in the time of the new moon, at the full moon, on our holy feast-day:
 
-<sup>4</sup> For this is a rule for Israel, and a law of the God of Jacob.
+**⁴** For this is a rule for Israel, and a law of the God of Jacob.
 
-<sup>5</sup> He gave it to Joseph as a witness, when he went out over the land of Egypt; then the words of a strange tongue were sounding in my ears.
+**⁵** He gave it to Joseph as a witness, when he went out over the land of Egypt; then the words of a strange tongue were sounding in my ears.
 
-<sup>6</sup> I took the weight from his back; his hands were made free from the baskets.
+**⁶** I took the weight from his back; his hands were made free from the baskets.
 
-<sup>7</sup> You gave a cry in your trouble, and I made you free; I gave you an answer in the secret place of the thunder; I put you to the test at the waters of Meribah. (Selah.)
+**⁷** You gave a cry in your trouble, and I made you free; I gave you an answer in the secret place of the thunder; I put you to the test at the waters of Meribah. (Selah.)
 
-<sup>8</sup> Give ear, O my people, and I will give you my word, O Israel, if you will only do as I say!
+**⁸** Give ear, O my people, and I will give you my word, O Israel, if you will only do as I say!
 
-<sup>9</sup> There is to be no strange god among you; you are not to give worship to any other god.
+**⁹** There is to be no strange god among you; you are not to give worship to any other god.
 
-<sup>10</sup> I am the Lord your God, who took you up from the land of Egypt: let your mouth be open wide, so that I may give you food.
+**¹⁰** I am the Lord your God, who took you up from the land of Egypt: let your mouth be open wide, so that I may give you food.
 
-<sup>11</sup> But my people did not give ear to my voice; Israel would have nothing to do with me.
+**¹¹** But my people did not give ear to my voice; Israel would have nothing to do with me.
 
-<sup>12</sup> So I gave them up to the desires of their hearts; that they might go after their evil purposes.
+**¹²** So I gave them up to the desires of their hearts; that they might go after their evil purposes.
 
-<sup>13</sup> If only my people would give ear to me, walking in my ways!
+**¹³** If only my people would give ear to me, walking in my ways!
 
-<sup>14</sup> I would quickly overcome their haters: my hand would be turned against those who make war on them.
+**¹⁴** I would quickly overcome their haters: my hand would be turned against those who make war on them.
 
-<sup>15</sup> The haters of the Lord would be broken, and their destruction would be eternal.
+**¹⁵** The haters of the Lord would be broken, and their destruction would be eternal.
 
-<sup>16</sup> I would give them the best grain for food; you would be full of honey from the rock.
+**¹⁶** I would give them the best grain for food; you would be full of honey from the rock.

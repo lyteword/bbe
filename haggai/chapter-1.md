@@ -4,32 +4,32 @@ weight: 1
 
 # Chapter 1
 
-<sup>1</sup> In the second year of Darius the king, in the sixth month, on the first day of the month, came the word of the Lord by Haggai the prophet to Zerubbabel, the son of Shealtiel, ruler of Judah, and to Joshua, the son of Jehozadak, the high priest, saying,
+**¹** In the second year of Darius the king, in the sixth month, on the first day of the month, came the word of the Lord by Haggai the prophet to Zerubbabel, the son of Shealtiel, ruler of Judah, and to Joshua, the son of Jehozadak, the high priest, saying,
 
-<sup>2</sup> These are the words of the Lord of armies: These people say, The time has not come for building the Lord's house.
+**²** These are the words of the Lord of armies: These people say, The time has not come for building the Lord's house.
 
-<sup>3</sup> Then the word of the Lord came by Haggai the prophet, saying,
+**³** Then the word of the Lord came by Haggai the prophet, saying,
 
-<sup>4</sup> Is it a time for you to be living in roofed houses while this house is a waste?
+**⁴** Is it a time for you to be living in roofed houses while this house is a waste?
 
-<sup>5</sup> For this cause the Lord of armies has said, Give thought to your ways.
+**⁵** For this cause the Lord of armies has said, Give thought to your ways.
 
-<sup>6</sup> Much has been planted, but little got in; you take food, but have not enough; you take drink, but are not full; you are clothed, but no one is warm; and he who gets payment for his work, gets it to put it into a bag full of holes.
+**⁶** Much has been planted, but little got in; you take food, but have not enough; you take drink, but are not full; you are clothed, but no one is warm; and he who gets payment for his work, gets it to put it into a bag full of holes.
 
-<sup>7</sup> This is what the Lord of armies has said: Give thought to your ways.
+**⁷** This is what the Lord of armies has said: Give thought to your ways.
 
-<sup>8</sup> Go up to the hills and get wood and put up the house; and I will take pleasure in it and be honoured, says the Lord.
+**⁸** Go up to the hills and get wood and put up the house; and I will take pleasure in it and be honoured, says the Lord.
 
-<sup>9</sup> You were looking for much, and it came to little; and when you got it into your house, I took it away with a breath. Why? says the Lord of armies. Because of my house which is a waste, while every man takes care of the house which is his.
+**⁹** You were looking for much, and it came to little; and when you got it into your house, I took it away with a breath. Why? says the Lord of armies. Because of my house which is a waste, while every man takes care of the house which is his.
 
-<sup>10</sup> For this cause the heaven over you is kept from giving dew, and the earth from giving her fruit.
+**¹⁰** For this cause the heaven over you is kept from giving dew, and the earth from giving her fruit.
 
-<sup>11</sup> And by my order no rain came on the land or on the mountains or the grain or the wine or the oil or the produce of the earth or on men or cattle or on any work of man's hands.
+**¹¹** And by my order no rain came on the land or on the mountains or the grain or the wine or the oil or the produce of the earth or on men or cattle or on any work of man's hands.
 
-<sup>12</sup> Then Zerubbabel, the son of Shealtiel, and Joshua, the son of Jehozadak, the high priest, and all the rest of the people, gave ear to the voice of the Lord their God and to the words of Haggai the prophet, because the Lord their God had sent him, and the people were in fear before the Lord.
+**¹²** Then Zerubbabel, the son of Shealtiel, and Joshua, the son of Jehozadak, the high priest, and all the rest of the people, gave ear to the voice of the Lord their God and to the words of Haggai the prophet, because the Lord their God had sent him, and the people were in fear before the Lord.
 
-<sup>13</sup> Then Haggai, whom the Lord had sent to give his words to the people, said, I am with you, says the Lord.
+**¹³** Then Haggai, whom the Lord had sent to give his words to the people, said, I am with you, says the Lord.
 
-<sup>14</sup> And the spirit of Zerubbabel, the son of Shealtiel, ruler of Judah, was moved by the Lord, as was the spirit of Joshua, the son of Jehozadak, the high priest, and the spirit of all the rest of the people; and they came and did work in the house of the Lord of armies, their God.
+**¹⁴** And the spirit of Zerubbabel, the son of Shealtiel, ruler of Judah, was moved by the Lord, as was the spirit of Joshua, the son of Jehozadak, the high priest, and the spirit of all the rest of the people; and they came and did work in the house of the Lord of armies, their God.
 
-<sup>15</sup> On the twenty-fourth day of the month, in the sixth month, in the second year of Darius the king.
+**¹⁵** On the twenty-fourth day of the month, in the sixth month, in the second year of Darius the king.

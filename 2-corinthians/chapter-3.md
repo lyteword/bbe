@@ -4,38 +4,38 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> Do we seem to be again attempting to put ourselves in the right? or have we need, as some have, of letters of approval to you or from you?
+**¹** Do we seem to be again attempting to put ourselves in the right? or have we need, as some have, of letters of approval to you or from you?
 
-<sup>2</sup> You yourselves are our letter, whose writing is in our heart, open for every man's reading and knowledge;
+**²** You yourselves are our letter, whose writing is in our heart, open for every man's reading and knowledge;
 
-<sup>3</sup> For you are clearly a letter of Christ, the fruit of our work, recorded not with ink, but with the Spirit of the living God; not in stone, but in hearts of flesh.
+**³** For you are clearly a letter of Christ, the fruit of our work, recorded not with ink, but with the Spirit of the living God; not in stone, but in hearts of flesh.
 
-<sup>4</sup> And this is the certain faith which we have in God through Christ:
+**⁴** And this is the certain faith which we have in God through Christ:
 
-<sup>5</sup> Not as if we were able by ourselves to do anything for which we might take the credit; but our power comes from God;
+**⁵** Not as if we were able by ourselves to do anything for which we might take the credit; but our power comes from God;
 
-<sup>6</sup> Who has made us able to be servants of a new agreement; not of the letter, but of the Spirit: for the letter gives death, but the Spirit gives life.
+**⁶** Who has made us able to be servants of a new agreement; not of the letter, but of the Spirit: for the letter gives death, but the Spirit gives life.
 
-<sup>7</sup> For if the operation of the law, giving death, recorded in letters on stone, came with glory, so that the eyes of the children of Israel had to be turned away from the face of Moses because of its glory, a glory which was only for a time:
+**⁷** For if the operation of the law, giving death, recorded in letters on stone, came with glory, so that the eyes of the children of Israel had to be turned away from the face of Moses because of its glory, a glory which was only for a time:
 
-<sup>8</sup> Will not the operation of the Spirit have a much greater glory?
+**⁸** Will not the operation of the Spirit have a much greater glory?
 
-<sup>9</sup> For if the operation of the law, producing punishment, had its glory, how much greater will be the operation of the Spirit causing righteousness?
+**⁹** For if the operation of the law, producing punishment, had its glory, how much greater will be the operation of the Spirit causing righteousness?
 
-<sup>10</sup> For the glory of the first no longer seems to be glory, because of the greater glory of that which comes after.
+**¹⁰** For the glory of the first no longer seems to be glory, because of the greater glory of that which comes after.
 
-<sup>11</sup> For if the order which was for a time had its glory, much more will the eternal order have its glory.
+**¹¹** For if the order which was for a time had its glory, much more will the eternal order have its glory.
 
-<sup>12</sup> Having then such a hope, we keep nothing back,
+**¹²** Having then such a hope, we keep nothing back,
 
-<sup>13</sup> And are not like Moses, who put a veil on his face, so that the children of Israel might not see clearly to the end of the present order of things:
+**¹³** And are not like Moses, who put a veil on his face, so that the children of Israel might not see clearly to the end of the present order of things:
 
-<sup>14</sup> But their minds were made hard: for to this very day at the reading of the old agreement the same veil is still unlifted; though it is taken away in Christ.
+**¹⁴** But their minds were made hard: for to this very day at the reading of the old agreement the same veil is still unlifted; though it is taken away in Christ.
 
-<sup>15</sup> But to this day, at the reading of the law of Moses, a veil is over their heart.
+**¹⁵** But to this day, at the reading of the law of Moses, a veil is over their heart.
 
-<sup>16</sup> But when it is turned to the Lord, the veil will be taken away.
+**¹⁶** But when it is turned to the Lord, the veil will be taken away.
 
-<sup>17</sup> Now the Lord is the Spirit: and where the Spirit of the Lord is, there the heart is free.
+**¹⁷** Now the Lord is the Spirit: and where the Spirit of the Lord is, there the heart is free.
 
-<sup>18</sup> But we all, with unveiled face giving back as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as from the Lord who is the Spirit.
+**¹⁸** But we all, with unveiled face giving back as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as from the Lord who is the Spirit.

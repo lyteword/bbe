@@ -4,24 +4,24 @@ weight: 1
 
 # Chapter 1
 
-<sup>1</sup> Now in the first year of Cyrus, king of Persia, in order that the word of the Lord given by the mouth of Jeremiah might come true, the spirit of Cyrus, king of Persia, was moved by the Lord, so that he made a public statement through all his kingdom, and put it in writing, saying,
+**¹** Now in the first year of Cyrus, king of Persia, in order that the word of the Lord given by the mouth of Jeremiah might come true, the spirit of Cyrus, king of Persia, was moved by the Lord, so that he made a public statement through all his kingdom, and put it in writing, saying,
 
-<sup>2</sup> These are the words of Cyrus, king of Persia: The Lord God of heaven has given me all the kingdoms of the earth; and he has made me responsible for building a house for him in Jerusalem, which is in Judah.
+**²** These are the words of Cyrus, king of Persia: The Lord God of heaven has given me all the kingdoms of the earth; and he has made me responsible for building a house for him in Jerusalem, which is in Judah.
 
-<sup>3</sup> Whoever there is among you of his people, may his God be with him, and let him go up to Jerusalem, which is in Judah, and take in hand the building of the house of the Lord, the God of Israel; he is the God who is in Jerusalem.
+**³** Whoever there is among you of his people, may his God be with him, and let him go up to Jerusalem, which is in Judah, and take in hand the building of the house of the Lord, the God of Israel; he is the God who is in Jerusalem.
 
-<sup>4</sup> And whoever there may be of the rest of Israel, living in any place, let the men of that place give him help with offerings of silver and gold and goods and beasts, in addition to the offering freely given for the house of God in Jerusalem.
+**⁴** And whoever there may be of the rest of Israel, living in any place, let the men of that place give him help with offerings of silver and gold and goods and beasts, in addition to the offering freely given for the house of God in Jerusalem.
 
-<sup>5</sup> Then the heads of families of Judah and Benjamin, with the priests and the Levites, got ready, even all those whose spirits were moved by God to go up and take in hand the building of the Lord's house in Jerusalem.
+**⁵** Then the heads of families of Judah and Benjamin, with the priests and the Levites, got ready, even all those whose spirits were moved by God to go up and take in hand the building of the Lord's house in Jerusalem.
 
-<sup>6</sup> And all their neighbours gave them help with offerings of vessels of silver and gold and goods and beasts and things of great value, in addition to what was freely offered.
+**⁶** And all their neighbours gave them help with offerings of vessels of silver and gold and goods and beasts and things of great value, in addition to what was freely offered.
 
-<sup>7</sup> And Cyrus the king got out the vessels of the house of the Lord which Nebuchadnezzar had taken from Jerusalem and put in the house of his gods;
+**⁷** And Cyrus the king got out the vessels of the house of the Lord which Nebuchadnezzar had taken from Jerusalem and put in the house of his gods;
 
-<sup>8</sup> Even these Cyrus made Mithredath, the keeper of his wealth, get out, and he gave them, after numbering them, to Sheshbazzar, the ruler of Judah.
+**⁸** Even these Cyrus made Mithredath, the keeper of his wealth, get out, and he gave them, after numbering them, to Sheshbazzar, the ruler of Judah.
 
-<sup>9</sup> And this is the number of them: there were thirty gold plates, a thousand silver plates, twenty-nine knives,
+**⁹** And this is the number of them: there were thirty gold plates, a thousand silver plates, twenty-nine knives,
 
-<sup>10</sup> Thirty gold basins, four hundred and ten silver basins, and a thousand other vessels.
+**¹⁰** Thirty gold basins, four hundred and ten silver basins, and a thousand other vessels.
 
-<sup>11</sup> There were five thousand, four hundred gold and silver vessels. All these were taken back by Sheshbazzar, when those who had been taken prisoner went up from Babylon to Jerusalem.
+**¹¹** There were five thousand, four hundred gold and silver vessels. All these were taken back by Sheshbazzar, when those who had been taken prisoner went up from Babylon to Jerusalem.

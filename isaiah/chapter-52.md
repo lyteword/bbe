@@ -4,32 +4,32 @@ weight: 52
 
 # Chapter 52
 
-<sup>1</sup> Awake! awake! put on your strength, O Zion; put on your beautiful robes, O Jerusalem, the holy town: for from now there will never again come into you the unclean and those without circumcision.
+**¹** Awake! awake! put on your strength, O Zion; put on your beautiful robes, O Jerusalem, the holy town: for from now there will never again come into you the unclean and those without circumcision.
 
-<sup>2</sup> Make yourself clean from the dust; up! and take the seat of your power, O Jerusalem: the bands of your neck are loose, O prisoned daughter of Zion.
+**²** Make yourself clean from the dust; up! and take the seat of your power, O Jerusalem: the bands of your neck are loose, O prisoned daughter of Zion.
 
-<sup>3</sup> For the Lord says, You were given for nothing, and you will be made free without price.
+**³** For the Lord says, You were given for nothing, and you will be made free without price.
 
-<sup>4</sup> For the Lord God says, My people went down at first into Egypt, to get a place for themselves there: and the Assyrian put a cruel yoke on them without cause.
+**⁴** For the Lord God says, My people went down at first into Egypt, to get a place for themselves there: and the Assyrian put a cruel yoke on them without cause.
 
-<sup>5</sup> Now then, what have I here? says the Lord, for my people are taken away without cause; they are made waste and give cries of sorrow, says the Lord, and all the day the nations put shame on my name.
+**⁵** Now then, what have I here? says the Lord, for my people are taken away without cause; they are made waste and give cries of sorrow, says the Lord, and all the day the nations put shame on my name.
 
-<sup>6</sup> For this cause I will make my name clear to my people; in that day they will be certain that it is my word which comes to them; see, here am I.
+**⁶** For this cause I will make my name clear to my people; in that day they will be certain that it is my word which comes to them; see, here am I.
 
-<sup>7</sup> How beautiful on the mountains are the feet of him who comes with good news, who gives word of peace, saying that salvation is near; who says to Zion, Your God is ruling!
+**⁷** How beautiful on the mountains are the feet of him who comes with good news, who gives word of peace, saying that salvation is near; who says to Zion, Your God is ruling!
 
-<sup>8</sup> The voice of your watchmen! their voices are loud in song together; for they will see him, eye to eye, when the Lord comes back to Zion.
+**⁸** The voice of your watchmen! their voices are loud in song together; for they will see him, eye to eye, when the Lord comes back to Zion.
 
-<sup>9</sup> Give sounds of joy, make melody together, waste places of Jerusalem: for the Lord has given comfort to his people, he has taken up the cause of Jerusalem.
+**⁹** Give sounds of joy, make melody together, waste places of Jerusalem: for the Lord has given comfort to his people, he has taken up the cause of Jerusalem.
 
-<sup>10</sup> The Lord has let his holy arm be seen by the eyes of all nations; and all the ends of the earth will see the salvation of our God.
+**¹⁰** The Lord has let his holy arm be seen by the eyes of all nations; and all the ends of the earth will see the salvation of our God.
 
-<sup>11</sup> Away! away! go out from there, touching no unclean thing; go out from among her; be clean, you who take up the vessels of the Lord.
+**¹¹** Away! away! go out from there, touching no unclean thing; go out from among her; be clean, you who take up the vessels of the Lord.
 
-<sup>12</sup> For you will not go out suddenly, and you will not go in flight: for the Lord will go before you, and the God of Israel will come after you to keep you.
+**¹²** For you will not go out suddenly, and you will not go in flight: for the Lord will go before you, and the God of Israel will come after you to keep you.
 
-<sup>13</sup> See, my servant will do well in his undertakings, he will be honoured, and lifted up, and be very high.
+**¹³** See, my servant will do well in his undertakings, he will be honoured, and lifted up, and be very high.
 
-<sup>14</sup> As peoples were surprised at him, And his face was not beautiful, so as to be desired: his face was so changed by disease as to be unlike that of a man, and his form was no longer that of the sons of men.
+**¹⁴** As peoples were surprised at him, And his face was not beautiful, so as to be desired: his face was so changed by disease as to be unlike that of a man, and his form was no longer that of the sons of men.
 
-<sup>15</sup> So will nations give him honour; kings will keep quiet because of him: for what had not been made clear to them they will see; and they will give their minds to what had not come to their ears.
+**¹⁵** So will nations give him honour; kings will keep quiet because of him: for what had not been made clear to them they will see; and they will give their minds to what had not come to their ears.

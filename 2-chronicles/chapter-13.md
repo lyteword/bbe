@@ -4,46 +4,46 @@ weight: 13
 
 # Chapter 13
 
-<sup>1</sup> In the eighteenth year of King Jeroboam, Abijah became king over Judah.
+**¹** In the eighteenth year of King Jeroboam, Abijah became king over Judah.
 
-<sup>2</sup> He was king in Jerusalem for three years; his mother's name was Maacah, the daughter of Uriel of Gibeah. And there was war between Abijah and Jeroboam.
+**²** He was king in Jerusalem for three years; his mother's name was Maacah, the daughter of Uriel of Gibeah. And there was war between Abijah and Jeroboam.
 
-<sup>3</sup> And Abijah went out to the fight with an army of men of war, four hundred thousand of his best men; and Jeroboam put his forces in line against him, eight hundred thousand of his best men of war.
+**³** And Abijah went out to the fight with an army of men of war, four hundred thousand of his best men; and Jeroboam put his forces in line against him, eight hundred thousand of his best men of war.
 
-<sup>4</sup> And Abijah took up his position on Mount Zemaraim, in the hill-country of Ephraim, and said, Give ear to me, O Jeroboam and all Israel:
+**⁴** And Abijah took up his position on Mount Zemaraim, in the hill-country of Ephraim, and said, Give ear to me, O Jeroboam and all Israel:
 
-<sup>5</sup> Is it not clear to you that the Lord, the God of Israel, gave the rule over Israel to David and to his sons for ever, by an agreement made with salt?
+**⁵** Is it not clear to you that the Lord, the God of Israel, gave the rule over Israel to David and to his sons for ever, by an agreement made with salt?
 
-<sup>6</sup> But Jeroboam, the son of Nebat, the servant of Solomon, the son of David, took up arms against his lord.
+**⁶** But Jeroboam, the son of Nebat, the servant of Solomon, the son of David, took up arms against his lord.
 
-<sup>7</sup> And certain foolish and good-for-nothing men were joined with him, and made themselves strong against Rehoboam, the son of Solomon, when he was young and untested and not able to keep them back.
+**⁷** And certain foolish and good-for-nothing men were joined with him, and made themselves strong against Rehoboam, the son of Solomon, when he was young and untested and not able to keep them back.
 
-<sup>8</sup> And now it is your purpose to put yourselves against the authority which the Lord has put into the hands of the sons of David, and you are a very great number, and you have with you the gold oxen which Jeroboam made to be your gods.
+**⁸** And now it is your purpose to put yourselves against the authority which the Lord has put into the hands of the sons of David, and you are a very great number, and you have with you the gold oxen which Jeroboam made to be your gods.
 
-<sup>9</sup> And after driving out the priests of the Lord, the sons of Aaron and the Levites, have you not made priests for yourselves as the people of other lands do? so that anyone who comes to make himself priest by offering an ox or seven sheep, may be a priest of those who are no gods.
+**⁹** And after driving out the priests of the Lord, the sons of Aaron and the Levites, have you not made priests for yourselves as the people of other lands do? so that anyone who comes to make himself priest by offering an ox or seven sheep, may be a priest of those who are no gods.
 
-<sup>10</sup> But as for us, the Lord is our God, and we have not been turned away from him; we have priests who do the work of the Lord, even the sons of Aaron and the Levites in their places;
+**¹⁰** But as for us, the Lord is our God, and we have not been turned away from him; we have priests who do the work of the Lord, even the sons of Aaron and the Levites in their places;
 
-<sup>11</sup> By whom burned offerings and perfumes are sent up in smoke before the Lord every morning and every evening; and they put out the holy bread on its table and the gold support for the lights with its lights burning every evening; for we keep the orders given to us by the Lord our God, but you have gone away from him.
+**¹¹** By whom burned offerings and perfumes are sent up in smoke before the Lord every morning and every evening; and they put out the holy bread on its table and the gold support for the lights with its lights burning every evening; for we keep the orders given to us by the Lord our God, but you have gone away from him.
 
-<sup>12</sup> And now God is with us at our head, and his priests with their loud horns sounding against you. O children of Israel, do not make war on the Lord, the God of your fathers, for it will not go well for you.
+**¹²** And now God is with us at our head, and his priests with their loud horns sounding against you. O children of Israel, do not make war on the Lord, the God of your fathers, for it will not go well for you.
 
-<sup>13</sup> But Jeroboam had put some of his men to make a surprise attack on them from the back, so some were facing Judah and others were stationed secretly at their back.
+**¹³** But Jeroboam had put some of his men to make a surprise attack on them from the back, so some were facing Judah and others were stationed secretly at their back.
 
-<sup>14</sup> And Judah, turning their faces, saw that they were being attacked in front and at the back; and they gave a cry for help to the Lord, while the priests were sounding their horns.
+**¹⁴** And Judah, turning their faces, saw that they were being attacked in front and at the back; and they gave a cry for help to the Lord, while the priests were sounding their horns.
 
-<sup>15</sup> And the men of Judah gave a loud cry; and at their cry, God put fear into Jeroboam and all Israel before Abijah and Judah.
+**¹⁵** And the men of Judah gave a loud cry; and at their cry, God put fear into Jeroboam and all Israel before Abijah and Judah.
 
-<sup>16</sup> And the children of Israel went in flight before Judah, and God gave them up into their hands.
+**¹⁶** And the children of Israel went in flight before Judah, and God gave them up into their hands.
 
-<sup>17</sup> And Abijah and his people put them to death with great destruction: five hundred thousand of the best of Israel were put to the sword.
+**¹⁷** And Abijah and his people put them to death with great destruction: five hundred thousand of the best of Israel were put to the sword.
 
-<sup>18</sup> So at that time the children of Israel were overcome, and the children of Judah got the better of them, because they put their faith in the Lord, the God of their fathers.
+**¹⁸** So at that time the children of Israel were overcome, and the children of Judah got the better of them, because they put their faith in the Lord, the God of their fathers.
 
-<sup>19</sup> And Abijah went after Jeroboam and took some of his towns, Beth-el with its small towns and Jeshanah with its small towns and Ephron with its small towns.
+**¹⁹** And Abijah went after Jeroboam and took some of his towns, Beth-el with its small towns and Jeshanah with its small towns and Ephron with its small towns.
 
-<sup>20</sup> And Jeroboam did not get back his power again in the life-time of Abijah; and the Lord sent death on him.
+**²⁰** And Jeroboam did not get back his power again in the life-time of Abijah; and the Lord sent death on him.
 
-<sup>21</sup> But Abijah became great, and had fourteen wives, and became the father of twenty-two sons and sixteen daughters.
+**²¹** But Abijah became great, and had fourteen wives, and became the father of twenty-two sons and sixteen daughters.
 
-<sup>22</sup> And the rest of the acts of Abijah, and his ways and his sayings, are recorded in the account of the prophet Iddo.
+**²²** And the rest of the acts of Abijah, and his ways and his sayings, are recorded in the account of the prophet Iddo.

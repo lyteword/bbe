@@ -6,16 +6,16 @@ weight: 142
 
 Maschil. Of David. A prayer when he was in the hole of the rock.
 
-<sup>1</sup> The sound of my cry went up to the Lord; with my voice I made my prayer for grace to the Lord.
+**¹** The sound of my cry went up to the Lord; with my voice I made my prayer for grace to the Lord.
 
-<sup>2</sup> I put all my sorrows before him; and made clear to him all my trouble.
+**²** I put all my sorrows before him; and made clear to him all my trouble.
 
-<sup>3</sup> When my spirit is overcome, your eyes are on my goings; nets have been secretly placed in the way in which I go.
+**³** When my spirit is overcome, your eyes are on my goings; nets have been secretly placed in the way in which I go.
 
-<sup>4</sup> Looking to my right side, I saw no man who was my friend: I had no safe place; no one had any care for my soul.
+**⁴** Looking to my right side, I saw no man who was my friend: I had no safe place; no one had any care for my soul.
 
-<sup>5</sup> I have made my cry to you, O Lord; I have said, You are my safe place, and my heritage in the land of the living.
+**⁵** I have made my cry to you, O Lord; I have said, You are my safe place, and my heritage in the land of the living.
 
-<sup>6</sup> Give ear to my cry, for I am made very low: take me out of the hands of my haters, for they are stronger than I.
+**⁶** Give ear to my cry, for I am made very low: take me out of the hands of my haters, for they are stronger than I.
 
-<sup>7</sup> Take my soul out of prison, so that I may give praise to your name: the upright will give praise because of me; for you have given me a full reward.
+**⁷** Take my soul out of prison, so that I may give praise to your name: the upright will give praise because of me; for you have given me a full reward.

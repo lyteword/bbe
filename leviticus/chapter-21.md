@@ -4,50 +4,50 @@ weight: 21
 
 # Chapter 21
 
-<sup>1</sup> And the Lord said to Moses, Say to the priests, the sons of Aaron, Let no man make himself unclean for the dead among his people;
+**¹** And the Lord said to Moses, Say to the priests, the sons of Aaron, Let no man make himself unclean for the dead among his people;
 
-<sup>2</sup> But only for his near relations, for his mother or his father, his son or his daughter, and his brother;
+**²** But only for his near relations, for his mother or his father, his son or his daughter, and his brother;
 
-<sup>3</sup> And for his sister, a virgin, for she is his near relation and has had no husband, he may make himself unclean.
+**³** And for his sister, a virgin, for she is his near relation and has had no husband, he may make himself unclean.
 
-<sup>4</sup> But let him, being a chief among his people, not make himself unclean in such a way as to put shame on himself.
+**⁴** But let him, being a chief among his people, not make himself unclean in such a way as to put shame on himself.
 
-<sup>5</sup> They are not to have their hair cut off for the dead, or the hair on their chins cut short, or make cuts in their flesh.
+**⁵** They are not to have their hair cut off for the dead, or the hair on their chins cut short, or make cuts in their flesh.
 
-<sup>6</sup> Let them be holy to their God and not make the name of their God common; for the fire offerings of the Lord and the bread of their God are offered by them, and they are to be holy.
+**⁶** Let them be holy to their God and not make the name of their God common; for the fire offerings of the Lord and the bread of their God are offered by them, and they are to be holy.
 
-<sup>7</sup> They may not take as wife a loose or common woman, or one who has been put away by her husband: for the priest is holy to his God.
+**⁷** They may not take as wife a loose or common woman, or one who has been put away by her husband: for the priest is holy to his God.
 
-<sup>8</sup> And he is to be holy in your eyes, for by him the bread of your God is offered; he is to be holy in your eyes, for I the Lord, who make you holy, am holy.
+**⁸** And he is to be holy in your eyes, for by him the bread of your God is offered; he is to be holy in your eyes, for I the Lord, who make you holy, am holy.
 
-<sup>9</sup> And if the daughter of a priest makes herself common and by her loose behaviour puts shame on her father, let her be burned with fire.
+**⁹** And if the daughter of a priest makes herself common and by her loose behaviour puts shame on her father, let her be burned with fire.
 
-<sup>10</sup> And he who is the chief priest among his brothers, on whose head the holy oil has been put, who is marked out to put on the holy robes, may not let his hair go loose or have his clothing out of order as a sign of sorrow.
+**¹⁰** And he who is the chief priest among his brothers, on whose head the holy oil has been put, who is marked out to put on the holy robes, may not let his hair go loose or have his clothing out of order as a sign of sorrow.
 
-<sup>11</sup> He may not go near any dead body or make himself unclean for his father or his mother;
+**¹¹** He may not go near any dead body or make himself unclean for his father or his mother;
 
-<sup>12</sup> He may not go out of the holy place or make the holy place of his God common; for the crown of the holy oil of his God is on him: I am the Lord.
+**¹²** He may not go out of the holy place or make the holy place of his God common; for the crown of the holy oil of his God is on him: I am the Lord.
 
-<sup>13</sup> And let him take as his wife one who has not had relations with a man.
+**¹³** And let him take as his wife one who has not had relations with a man.
 
-<sup>14</sup> A widow, or one whose husband has put her away, or a common woman of loose behaviour, may not be the wife of a priest; but let him take a virgin from among his people.
+**¹⁴** A widow, or one whose husband has put her away, or a common woman of loose behaviour, may not be the wife of a priest; but let him take a virgin from among his people.
 
-<sup>15</sup> And he may not make his seed unclean among his people, for I the Lord have made him holy.
+**¹⁵** And he may not make his seed unclean among his people, for I the Lord have made him holy.
 
-<sup>16</sup> And the Lord said to Moses,
+**¹⁶** And the Lord said to Moses,
 
-<sup>17</sup> Say to Aaron, If a man of your family, in any generation, is damaged in body, let him not come near to make the offering of the bread of his God.
+**¹⁷** Say to Aaron, If a man of your family, in any generation, is damaged in body, let him not come near to make the offering of the bread of his God.
 
-<sup>18</sup> For any man whose body is damaged may not come near: one who is blind, or has not the use of his legs, or one who has a broken nose or any unnatural growth,
+**¹⁸** For any man whose body is damaged may not come near: one who is blind, or has not the use of his legs, or one who has a broken nose or any unnatural growth,
 
-<sup>19</sup> Or a man with broken feet or hands,
+**¹⁹** Or a man with broken feet or hands,
 
-<sup>20</sup> Or one whose back is bent, or one who is unnaturally small, or one who has a damaged eye, or whose skin is diseased, or whose sex parts are damaged;
+**²⁰** Or one whose back is bent, or one who is unnaturally small, or one who has a damaged eye, or whose skin is diseased, or whose sex parts are damaged;
 
-<sup>21</sup> No man of the offspring of Aaron whose body is damaged in any way may come near to give the fire offerings of the Lord: he is damaged, he may not come near to make the offerings.
+**²¹** No man of the offspring of Aaron whose body is damaged in any way may come near to give the fire offerings of the Lord: he is damaged, he may not come near to make the offerings.
 
-<sup>22</sup> He may take of the bread of God, the holy and the most holy;
+**²²** He may take of the bread of God, the holy and the most holy;
 
-<sup>23</sup> But he may not go inside the veil or come near the altar, because he is damaged; and he may not make my holy places common; for I the Lord have made them holy.
+**²³** But he may not go inside the veil or come near the altar, because he is damaged; and he may not make my holy places common; for I the Lord have made them holy.
 
-<sup>24</sup> These are the words which Moses said to Aaron and to his sons and to all the children of Israel.
+**²⁴** These are the words which Moses said to Aaron and to his sons and to all the children of Israel.

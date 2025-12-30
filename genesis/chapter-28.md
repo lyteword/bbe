@@ -4,46 +4,46 @@ weight: 28
 
 # Chapter 28
 
-<sup>1</sup> Then Isaac sent for Jacob, and blessing him, said, Do not take a wife from among the women of Canaan;
+**¹** Then Isaac sent for Jacob, and blessing him, said, Do not take a wife from among the women of Canaan;
 
-<sup>2</sup> But go to Paddan-aram, to the house of Bethuel, your mother's father, and there get yourself a wife from the daughters of Laban, your mother's brother.
+**²** But go to Paddan-aram, to the house of Bethuel, your mother's father, and there get yourself a wife from the daughters of Laban, your mother's brother.
 
-<sup>3</sup> And may God, the Ruler of all, give you his blessing, giving you fruit and increase, so that you may become an army of peoples.
+**³** And may God, the Ruler of all, give you his blessing, giving you fruit and increase, so that you may become an army of peoples.
 
-<sup>4</sup> And may God give you the blessing of Abraham, to you and to your seed, so that the land of your wanderings, which God gave to Abraham, may be your heritage.
+**⁴** And may God give you the blessing of Abraham, to you and to your seed, so that the land of your wanderings, which God gave to Abraham, may be your heritage.
 
-<sup>5</sup> So Isaac sent Jacob away: and he went to Paddan-aram, to Laban, son of Bethuel the Aramaean, the brother of Rebekah, the mother of Jacob and Esau.
+**⁵** So Isaac sent Jacob away: and he went to Paddan-aram, to Laban, son of Bethuel the Aramaean, the brother of Rebekah, the mother of Jacob and Esau.
 
-<sup>6</sup> So when Esau saw that Isaac had given Jacob his blessing, and sent him away to Paddan-aram to get a wife for himself there, blessing him and saying to him, Do not take a wife from among the women of Canaan;
+**⁶** So when Esau saw that Isaac had given Jacob his blessing, and sent him away to Paddan-aram to get a wife for himself there, blessing him and saying to him, Do not take a wife from among the women of Canaan;
 
-<sup>7</sup> And that Jacob had done as his father and mother said and had gone to Paddan-aram;
+**⁷** And that Jacob had done as his father and mother said and had gone to Paddan-aram;
 
-<sup>8</sup> It was clear to Esau that his father had no love for the women of Canaan,
+**⁸** It was clear to Esau that his father had no love for the women of Canaan,
 
-<sup>9</sup> So Esau went to Ishmael and took Mahalath, the daughter of Abraham's son Ishmael, the sister of Nebaioth, to be his wife in addition to the wives he had.
+**⁹** So Esau went to Ishmael and took Mahalath, the daughter of Abraham's son Ishmael, the sister of Nebaioth, to be his wife in addition to the wives he had.
 
-<sup>10</sup> So Jacob went out from Beer-sheba to go to Haran.
+**¹⁰** So Jacob went out from Beer-sheba to go to Haran.
 
-<sup>11</sup> And coming to a certain place, he made it his resting-place for the night, for the sun had gone down; and he took one of the stones which were there, and putting it under his head he went to sleep in that place.
+**¹¹** And coming to a certain place, he made it his resting-place for the night, for the sun had gone down; and he took one of the stones which were there, and putting it under his head he went to sleep in that place.
 
-<sup>12</sup> And he had a dream, and in his dream he saw steps stretching from earth to heaven, and the angels of God were going up and down on them.
+**¹²** And he had a dream, and in his dream he saw steps stretching from earth to heaven, and the angels of God were going up and down on them.
 
-<sup>13</sup> And he saw the Lord by his side, saying, I am the Lord, the God of Abraham your father, and the God of Isaac: I will give to you and to your seed this land on which you are sleeping.
+**¹³** And he saw the Lord by his side, saying, I am the Lord, the God of Abraham your father, and the God of Isaac: I will give to you and to your seed this land on which you are sleeping.
 
-<sup>14</sup> Your seed will be like the dust of the earth, covering all the land to the west and to the east, to the north and to the south: you and your seed will be a name of blessing to all the families of the earth.
+**¹⁴** Your seed will be like the dust of the earth, covering all the land to the west and to the east, to the north and to the south: you and your seed will be a name of blessing to all the families of the earth.
 
-<sup>15</sup> And truly, I will be with you, and will keep you wherever you go, guiding you back again to this land; and I will not give you up till I have done what I have said to you.
+**¹⁵** And truly, I will be with you, and will keep you wherever you go, guiding you back again to this land; and I will not give you up till I have done what I have said to you.
 
-<sup>16</sup> And Jacob, awaking from his sleep, said, Truly, the Lord is in this place and I was not conscious of it.
+**¹⁶** And Jacob, awaking from his sleep, said, Truly, the Lord is in this place and I was not conscious of it.
 
-<sup>17</sup> And fear came on him, and he said, This is a holy place; this is nothing less than the house of God and the doorway of heaven.
+**¹⁷** And fear came on him, and he said, This is a holy place; this is nothing less than the house of God and the doorway of heaven.
 
-<sup>18</sup> And early in the morning Jacob took the stone which had been under his head, and put it up as a pillar and put oil on it.
+**¹⁸** And early in the morning Jacob took the stone which had been under his head, and put it up as a pillar and put oil on it.
 
-<sup>19</sup> And he gave that place the name of Beth-el, but before that time the town was named Luz.
+**¹⁹** And he gave that place the name of Beth-el, but before that time the town was named Luz.
 
-<sup>20</sup> Then Jacob took an oath, and said, If God will be with me, and keep me safe on my journey, and give me food and clothing to put on,
+**²⁰** Then Jacob took an oath, and said, If God will be with me, and keep me safe on my journey, and give me food and clothing to put on,
 
-<sup>21</sup> So that I come again to my father's house in peace, then I will take the Lord to be my God,
+**²¹** So that I come again to my father's house in peace, then I will take the Lord to be my God,
 
-<sup>22</sup> And this stone which I have put up for a pillar will be God's house: and of all you give me, I will give a tenth part to you.
+**²²** And this stone which I have put up for a pillar will be God's house: and of all you give me, I will give a tenth part to you.

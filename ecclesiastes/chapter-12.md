@@ -4,30 +4,30 @@ weight: 12
 
 # Chapter 12
 
-<sup>1</sup> Let your mind be turned to your Maker in the days of your strength, while the evil days come not, and the years are far away when you will say, I have no pleasure in them;
+**¹** Let your mind be turned to your Maker in the days of your strength, while the evil days come not, and the years are far away when you will say, I have no pleasure in them;
 
-<sup>2</sup> While the sun, or the light, or the moon, or the stars, are not dark, and the clouds come not back after the rain;
+**²** While the sun, or the light, or the moon, or the stars, are not dark, and the clouds come not back after the rain;
 
-<sup>3</sup> In the day when the keepers of the house are shaking for fear, and the strong men are bent down, and the women who were crushing the grain are at rest because their number is small, and those looking out of the windows are unable to see;
+**³** In the day when the keepers of the house are shaking for fear, and the strong men are bent down, and the women who were crushing the grain are at rest because their number is small, and those looking out of the windows are unable to see;
 
-<sup>4</sup> When the doors are shut in the street, and the sound of the crushing is low, and the voice of the bird is soft, and the daughters of music will be made low;
+**⁴** When the doors are shut in the street, and the sound of the crushing is low, and the voice of the bird is soft, and the daughters of music will be made low;
 
-<sup>5</sup> And he is in fear of that which is high, and danger is in the road, and the tree is white with flower, and the least thing is a weight, and desire is at an end, because man goes to his last resting-place, and those who are sorrowing are in the streets;
+**⁵** And he is in fear of that which is high, and danger is in the road, and the tree is white with flower, and the least thing is a weight, and desire is at an end, because man goes to his last resting-place, and those who are sorrowing are in the streets;
 
-<sup>6</sup> Before ever the silver cord is cut, or the vessel of gold is broken, or the pot is broken at the fountain, or the wheel broken at the water-hole;
+**⁶** Before ever the silver cord is cut, or the vessel of gold is broken, or the pot is broken at the fountain, or the wheel broken at the water-hole;
 
-<sup>7</sup> And the dust goes back to the earth as it was, and the spirit goes back to God who gave it.
+**⁷** And the dust goes back to the earth as it was, and the spirit goes back to God who gave it.
 
-<sup>8</sup> All things are to no purpose, says the Preacher, all is to no purpose.
+**⁸** All things are to no purpose, says the Preacher, all is to no purpose.
 
-<sup>9</sup> And because the Preacher was wise he still gave the people knowledge; searching out, testing, and putting in order a great number of wise sayings.
+**⁹** And because the Preacher was wise he still gave the people knowledge; searching out, testing, and putting in order a great number of wise sayings.
 
-<sup>10</sup> The Preacher made search for words which were pleasing, but his writing was in words upright and true.
+**¹⁰** The Preacher made search for words which were pleasing, but his writing was in words upright and true.
 
-<sup>11</sup> The words of the wise are pointed, and sayings grouped together are like nails fixed with a hammer; they are given by one guide.
+**¹¹** The words of the wise are pointed, and sayings grouped together are like nails fixed with a hammer; they are given by one guide.
 
-<sup>12</sup> And further, my son, take note of this: of the making of books there is no end, and much learning is a weariness to the flesh.
+**¹²** And further, my son, take note of this: of the making of books there is no end, and much learning is a weariness to the flesh.
 
-<sup>13</sup> This is the last word. All has been said. Have fear of God and keep his laws; because this is right for every man.
+**¹³** This is the last word. All has been said. Have fear of God and keep his laws; because this is right for every man.
 
-<sup>14</sup> God will be judge of every work, with every secret thing, good or evil.
+**¹⁴** God will be judge of every work, with every secret thing, good or evil.

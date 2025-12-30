@@ -4,48 +4,48 @@ weight: 8
 
 # Chapter 8
 
-<sup>1</sup> And the word of the Lord of armies came to me, saying,
+**¹** And the word of the Lord of armies came to me, saying,
 
-<sup>2</sup> These are the words of the Lord of armies: I am angry about the fate of Zion, I am angry about her with great wrath.
+**²** These are the words of the Lord of armies: I am angry about the fate of Zion, I am angry about her with great wrath.
 
-<sup>3</sup> This is what the Lord has said: I have come back to Zion, and will make my living-place in Jerusalem: and Jerusalem will be named The town of good faith; and the mountain of the Lord of armies The holy mountain.
+**³** This is what the Lord has said: I have come back to Zion, and will make my living-place in Jerusalem: and Jerusalem will be named The town of good faith; and the mountain of the Lord of armies The holy mountain.
 
-<sup>4</sup> This is what the Lord of armies has said: There will again be old men and old women seated in the open spaces of Jerusalem, every man with his stick in his hand because he is so old.
+**⁴** This is what the Lord of armies has said: There will again be old men and old women seated in the open spaces of Jerusalem, every man with his stick in his hand because he is so old.
 
-<sup>5</sup> And the open spaces of the town will be full of boys and girls playing in its open spaces.
+**⁵** And the open spaces of the town will be full of boys and girls playing in its open spaces.
 
-<sup>6</sup> This is what the Lord of armies has said: If this is a wonder to the rest of this people, is it a wonder to me? says the Lord of armies.
+**⁶** This is what the Lord of armies has said: If this is a wonder to the rest of this people, is it a wonder to me? says the Lord of armies.
 
-<sup>7</sup> This is what the Lord of armies has said: See, I will be the saviour of my people from the east country, and from the west country;
+**⁷** This is what the Lord of armies has said: See, I will be the saviour of my people from the east country, and from the west country;
 
-<sup>8</sup> And I will make them come and be living in Jerusalem and they will be to me a people and I will be to them a God, in good faith and in righteousness.
+**⁸** And I will make them come and be living in Jerusalem and they will be to me a people and I will be to them a God, in good faith and in righteousness.
 
-<sup>9</sup> This is what the Lord of armies has said: Let your hands be strong, you who are now hearing these words from the mouths of the prophets, that is to say, in the days when the base of the house of the Lord of armies has been put in place for the building of the house, that is the Temple.
+**⁹** This is what the Lord of armies has said: Let your hands be strong, you who are now hearing these words from the mouths of the prophets, that is to say, in the days when the base of the house of the Lord of armies has been put in place for the building of the house, that is the Temple.
 
-<sup>10</sup> For before those days there was no payment for a man's work, or for the use of a beast, and there was no peace for him who went out or him who came in, because of the attacker: for I had every man turned against his neighbour.
+**¹⁰** For before those days there was no payment for a man's work, or for the use of a beast, and there was no peace for him who went out or him who came in, because of the attacker: for I had every man turned against his neighbour.
 
-<sup>11</sup> But now I will not be to the rest of this people as I was in the past, says the Lord of armies.
+**¹¹** But now I will not be to the rest of this people as I was in the past, says the Lord of armies.
 
-<sup>12</sup> For I will let the seed of peace be planted; the vine will give her fruit and the land will give her increase and the heavens will give their dew; and I will give to the rest of this people all these things for their heritage.
+**¹²** For I will let the seed of peace be planted; the vine will give her fruit and the land will give her increase and the heavens will give their dew; and I will give to the rest of this people all these things for their heritage.
 
-<sup>13</sup> And it will come about that, as you were a curse among the nations, O children of Judah and children of Israel, so I will give you salvation and you will be a blessing: have no fear and let your hands be strong.
+**¹³** And it will come about that, as you were a curse among the nations, O children of Judah and children of Israel, so I will give you salvation and you will be a blessing: have no fear and let your hands be strong.
 
-<sup>14</sup> For this is what the Lord of armies has said: As it was my purpose to do evil to you when your fathers made me angry, says the Lord of armies, and my purpose was not changed:
+**¹⁴** For this is what the Lord of armies has said: As it was my purpose to do evil to you when your fathers made me angry, says the Lord of armies, and my purpose was not changed:
 
-<sup>15</sup> So in these days it is again my purpose to do good to Jerusalem and to the children of Judah: have no fear.
+**¹⁵** So in these days it is again my purpose to do good to Jerusalem and to the children of Judah: have no fear.
 
-<sup>16</sup> These are the things which you are to do: Let every man say what is true to his neighbour; and let your judging give peace in your towns.
+**¹⁶** These are the things which you are to do: Let every man say what is true to his neighbour; and let your judging give peace in your towns.
 
-<sup>17</sup> Let no one have any evil thought in his heart against his neighbour; and have no love for false oaths: for all these things are hated by me, says the Lord.
+**¹⁷** Let no one have any evil thought in his heart against his neighbour; and have no love for false oaths: for all these things are hated by me, says the Lord.
 
-<sup>18</sup> And the word of the Lord of armies came to me, saying,
+**¹⁸** And the word of the Lord of armies came to me, saying,
 
-<sup>19</sup> This is what the Lord of armies has said: The times of going without food in the fourth month and in the fifth and the seventh and the tenth months, will be for the people of Judah times of joy and happy meetings; so be lovers of good faith and of peace.
+**¹⁹** This is what the Lord of armies has said: The times of going without food in the fourth month and in the fifth and the seventh and the tenth months, will be for the people of Judah times of joy and happy meetings; so be lovers of good faith and of peace.
 
-<sup>20</sup> This is what the Lord of armies has said: It will again come about that when peoples and those living in great towns come,
+**²⁰** This is what the Lord of armies has said: It will again come about that when peoples and those living in great towns come,
 
-<sup>21</sup> And the people of one town go to another and say, Let us certainly go with a request for grace from the Lord, and to give worship to the Lord of armies, then I will go with you.
+**²¹** And the people of one town go to another and say, Let us certainly go with a request for grace from the Lord, and to give worship to the Lord of armies, then I will go with you.
 
-<sup>22</sup> And great peoples and strong nations will come to give worship to the Lord of armies in Jerusalem and to make requests for grace from the Lord.
+**²²** And great peoples and strong nations will come to give worship to the Lord of armies in Jerusalem and to make requests for grace from the Lord.
 
-<sup>23</sup> This is what the Lord of armies has said: In those days, ten men from all the languages of the nations will put out their hands and take a grip of the skirt of him who is a Jew, saying, We will go with you, for it has come to our ears that God is with you.
+**²³** This is what the Lord of armies has said: In those days, ten men from all the languages of the nations will put out their hands and take a grip of the skirt of him who is a Jew, saying, We will go with you, for it has come to our ears that God is with you.

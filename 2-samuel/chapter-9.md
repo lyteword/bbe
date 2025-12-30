@@ -4,28 +4,28 @@ weight: 9
 
 # Chapter 9
 
-<sup>1</sup> And David said, Is there still anyone of Saul's family living, so that I may be a friend to him, because of Jonathan?
+**¹** And David said, Is there still anyone of Saul's family living, so that I may be a friend to him, because of Jonathan?
 
-<sup>2</sup> Now there was of Saul's people a servant named Ziba, and they sent him to David; and the king said to him, Are you Ziba? And he said, I am.
+**²** Now there was of Saul's people a servant named Ziba, and they sent him to David; and the king said to him, Are you Ziba? And he said, I am.
 
-<sup>3</sup> And the king said, Is there anyone of Saul's family still living, to whom I may be a friend in God's name? And Ziba said, There is a son of Jonathan, whose feet are damaged.
+**³** And the king said, Is there anyone of Saul's family still living, to whom I may be a friend in God's name? And Ziba said, There is a son of Jonathan, whose feet are damaged.
 
-<sup>4</sup> And the king said to him, Where is he? And Ziba said to the king, He is in the house of Machir, the son of Ammiel, in Lo-debar.
+**⁴** And the king said to him, Where is he? And Ziba said to the king, He is in the house of Machir, the son of Ammiel, in Lo-debar.
 
-<sup>5</sup> Then King David sent, and had him taken from Lo-debar, from the house of Machir, the son of Ammiel.
+**⁵** Then King David sent, and had him taken from Lo-debar, from the house of Machir, the son of Ammiel.
 
-<sup>6</sup> And Mephibosheth, the son of Jonathan, came to David, and falling down on his face, gave him honour. And David said, Mephibosheth. And answering he said, Your servant is here.
+**⁶** And Mephibosheth, the son of Jonathan, came to David, and falling down on his face, gave him honour. And David said, Mephibosheth. And answering he said, Your servant is here.
 
-<sup>7</sup> And David said to him, Have no fear: for truly I will be good to you, because of your father Jonathan, and I will give back to you all the land which was Saul's; and you will have a place at my table at all times.
+**⁷** And David said to him, Have no fear: for truly I will be good to you, because of your father Jonathan, and I will give back to you all the land which was Saul's; and you will have a place at my table at all times.
 
-<sup>8</sup> And he went down on his face before the king, and said, What is your servant, for you to take note of a dead dog such as I am?
+**⁸** And he went down on his face before the king, and said, What is your servant, for you to take note of a dead dog such as I am?
 
-<sup>9</sup> Then the king sent for Ziba, Saul's servant, and said to him, All the property of Saul and of his family I have given to your master's son.
+**⁹** Then the king sent for Ziba, Saul's servant, and said to him, All the property of Saul and of his family I have given to your master's son.
 
-<sup>10</sup> And you and your sons and your servants are to take care of the land for him, and get in the fruit of it, so that your master's son may have food: but Mephibosheth, your master's son, will have a place at my table at all times. Now Ziba had fifteen sons and twenty servants.
+**¹⁰** And you and your sons and your servants are to take care of the land for him, and get in the fruit of it, so that your master's son may have food: but Mephibosheth, your master's son, will have a place at my table at all times. Now Ziba had fifteen sons and twenty servants.
 
-<sup>11</sup> Then Ziba said to the king, Every order which you have given to your servant will be done. As for Mephibosheth, he had a place at David's table, like one of the king's sons.
+**¹¹** Then Ziba said to the king, Every order which you have given to your servant will be done. As for Mephibosheth, he had a place at David's table, like one of the king's sons.
 
-<sup>12</sup> And Mephibosheth had a young son named Mica. And all the people living in the house of Ziba were servants to Mephibosheth.
+**¹²** And Mephibosheth had a young son named Mica. And all the people living in the house of Ziba were servants to Mephibosheth.
 
-<sup>13</sup> So Mephibosheth went on living in Jerusalem; for he took all his meals at the king's table; and he had not the use of his feet.
+**¹³** So Mephibosheth went on living in Jerusalem; for he took all his meals at the king's table; and he had not the use of his feet.

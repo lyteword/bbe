@@ -4,44 +4,44 @@ weight: 12
 
 # Chapter 12
 
-<sup>1</sup> For this reason I make request to you, brothers, by the mercies of God, that you will give your bodies as a living offering, holy, pleasing to God, which is the worship it is right for you to give him.
+**¹** For this reason I make request to you, brothers, by the mercies of God, that you will give your bodies as a living offering, holy, pleasing to God, which is the worship it is right for you to give him.
 
-<sup>2</sup> And let not your behaviour be like that of this world, but be changed and made new in mind, so that by experience you may have knowledge of the good and pleasing and complete purpose of God.
+**²** And let not your behaviour be like that of this world, but be changed and made new in mind, so that by experience you may have knowledge of the good and pleasing and complete purpose of God.
 
-<sup>3</sup> But I say to every one of you, through the grace given to me, not to have an over-high opinion of himself, but to have wise thoughts, as God has given to every one a measure of faith.
+**³** But I say to every one of you, through the grace given to me, not to have an over-high opinion of himself, but to have wise thoughts, as God has given to every one a measure of faith.
 
-<sup>4</sup> For, as we have a number of parts in one body, but all the parts have not the same use,
+**⁴** For, as we have a number of parts in one body, but all the parts have not the same use,
 
-<sup>5</sup> So we, though we are a number of persons, are one body in Christ, and are dependent on one another;
+**⁵** So we, though we are a number of persons, are one body in Christ, and are dependent on one another;
 
-<sup>6</sup> And having different qualities by reason of the grace given to us, such as the quality of a prophet, let it be made use of in relation to the measure of our faith;
+**⁶** And having different qualities by reason of the grace given to us, such as the quality of a prophet, let it be made use of in relation to the measure of our faith;
 
-<sup>7</sup> Or the position of a Deacon of the church, let a man give himself to it; or he who has the power of teaching, let him make use of it;
+**⁷** Or the position of a Deacon of the church, let a man give himself to it; or he who has the power of teaching, let him make use of it;
 
-<sup>8</sup> He who has the power of comforting, let him do so; he who gives, let him give freely; he who has the power of ruling, let him do it with a serious mind; he who has mercy on others, let it be with joy.
+**⁸** He who has the power of comforting, let him do so; he who gives, let him give freely; he who has the power of ruling, let him do it with a serious mind; he who has mercy on others, let it be with joy.
 
-<sup>9</sup> Let love be without deceit. Be haters of what is evil; keep your minds fixed on what is good.
+**⁹** Let love be without deceit. Be haters of what is evil; keep your minds fixed on what is good.
 
-<sup>10</sup> Be kind to one another with a brother's love, putting others before yourselves in honour;
+**¹⁰** Be kind to one another with a brother's love, putting others before yourselves in honour;
 
-<sup>11</sup> Be not slow in your work, but be quick in spirit, as the Lord's servants;
+**¹¹** Be not slow in your work, but be quick in spirit, as the Lord's servants;
 
-<sup>12</sup> Being glad in hope, quiet in trouble, at all times given to prayer,
+**¹²** Being glad in hope, quiet in trouble, at all times given to prayer,
 
-<sup>13</sup> Giving to the needs of the saints, ready to take people into your houses.
+**¹³** Giving to the needs of the saints, ready to take people into your houses.
 
-<sup>14</sup> Give blessing and not curses to those who are cruel to you.
+**¹⁴** Give blessing and not curses to those who are cruel to you.
 
-<sup>15</sup> Take part in the joy of those who are glad, and in the grief of those who are sorrowing.
+**¹⁵** Take part in the joy of those who are glad, and in the grief of those who are sorrowing.
 
-<sup>16</sup> Be in harmony with one another. Do not have a high opinion of yourselves, but be in agreement with common people. Do not give yourselves an air of wisdom.
+**¹⁶** Be in harmony with one another. Do not have a high opinion of yourselves, but be in agreement with common people. Do not give yourselves an air of wisdom.
 
-<sup>17</sup> Do not give evil for evil to any man. Let all your business be well ordered in the eyes of all men.
+**¹⁷** Do not give evil for evil to any man. Let all your business be well ordered in the eyes of all men.
 
-<sup>18</sup> As far as it is possible for you be at peace with all men.
+**¹⁸** As far as it is possible for you be at peace with all men.
 
-<sup>19</sup> Do not give punishment for wrongs done to you, dear brothers, but give way to the wrath of God; for it is said in the holy Writings, Punishment is mine, I will give reward, says the Lord.
+**¹⁹** Do not give punishment for wrongs done to you, dear brothers, but give way to the wrath of God; for it is said in the holy Writings, Punishment is mine, I will give reward, says the Lord.
 
-<sup>20</sup> But if one who has hate for you is in need of food or of drink, give it to him, for in so doing you will put coals of fire on his head.
+**²⁰** But if one who has hate for you is in need of food or of drink, give it to him, for in so doing you will put coals of fire on his head.
 
-<sup>21</sup> Do not let evil overcome you, but overcome evil by good.
+**²¹** Do not let evil overcome you, but overcome evil by good.

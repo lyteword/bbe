@@ -4,38 +4,38 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> My loved ones, this is now my second letter to you, and in this as in the first, I am attempting to keep your true minds awake;
+**¹** My loved ones, this is now my second letter to you, and in this as in the first, I am attempting to keep your true minds awake;
 
-<sup>2</sup> So that you may keep in mind the words of the holy prophets in the past, and the law of the Lord and Saviour which was given to you by his Apostles.
+**²** So that you may keep in mind the words of the holy prophets in the past, and the law of the Lord and Saviour which was given to you by his Apostles.
 
-<sup>3</sup> Having first of all the knowledge that in the last days there will be men who, ruled by their evil desires, will make sport of holy things,
+**³** Having first of all the knowledge that in the last days there will be men who, ruled by their evil desires, will make sport of holy things,
 
-<sup>4</sup> Saying, Where is the hope of his coming? From the death of the fathers till now everything has gone on as it was from the making of the world.
+**⁴** Saying, Where is the hope of his coming? From the death of the fathers till now everything has gone on as it was from the making of the world.
 
-<sup>5</sup> But in taking this view they put out of their minds the memory that in the old days there was a heaven, and an earth lifted out of the water and circled by water, by the word of God;
+**⁵** But in taking this view they put out of their minds the memory that in the old days there was a heaven, and an earth lifted out of the water and circled by water, by the word of God;
 
-<sup>6</sup> And that the world which then was came to an end through the overflowing of the waters.
+**⁶** And that the world which then was came to an end through the overflowing of the waters.
 
-<sup>7</sup> But the present heaven and the present earth have been kept for destruction by fire, which is waiting for them on the day of the judging and destruction of evil men.
+**⁷** But the present heaven and the present earth have been kept for destruction by fire, which is waiting for them on the day of the judging and destruction of evil men.
 
-<sup>8</sup> But, my loved ones, keep in mind this one thing, that with the Lord one day is the same as a thousand years, and a thousand years are no more than one day.
+**⁸** But, my loved ones, keep in mind this one thing, that with the Lord one day is the same as a thousand years, and a thousand years are no more than one day.
 
-<sup>9</sup> The Lord is not slow in keeping his word, as he seems to some, but he is waiting in mercy for you, not desiring the destruction of any, but that all may be turned from their evil ways.
+**⁹** The Lord is not slow in keeping his word, as he seems to some, but he is waiting in mercy for you, not desiring the destruction of any, but that all may be turned from their evil ways.
 
-<sup>10</sup> But the day of the Lord will come like a thief; and in that day the heavens will be rolled up with a great noise, and the substance of the earth will be changed by violent heat, and the world and everything in it will be burned up.
+**¹⁰** But the day of the Lord will come like a thief; and in that day the heavens will be rolled up with a great noise, and the substance of the earth will be changed by violent heat, and the world and everything in it will be burned up.
 
-<sup>11</sup> Seeing then that all these things are coming to such an end, what sort of persons is it right for you to be, in all holy behaviour and righteousness,
+**¹¹** Seeing then that all these things are coming to such an end, what sort of persons is it right for you to be, in all holy behaviour and righteousness,
 
-<sup>12</sup> Looking for and truly desiring the coming of the day of God, when the heavens will come to an end through fire, and the substance of the earth will be changed by the great heat?
+**¹²** Looking for and truly desiring the coming of the day of God, when the heavens will come to an end through fire, and the substance of the earth will be changed by the great heat?
 
-<sup>13</sup> But having faith in his word, we are looking for a new heaven and a new earth, which will be the resting-place of righteousness.
+**¹³** But having faith in his word, we are looking for a new heaven and a new earth, which will be the resting-place of righteousness.
 
-<sup>14</sup> For this reason, my loved ones, as you are looking for these things, take great care that when he comes you may be in peace before him, free from sin and every evil thing.
+**¹⁴** For this reason, my loved ones, as you are looking for these things, take great care that when he comes you may be in peace before him, free from sin and every evil thing.
 
-<sup>15</sup> And be certain that the long waiting of the Lord is for salvation; even as our brother Paul has said in his letters to you, from the wisdom which was given to him;
+**¹⁵** And be certain that the long waiting of the Lord is for salvation; even as our brother Paul has said in his letters to you, from the wisdom which was given to him;
 
-<sup>16</sup> And as he said in all his letters, which had to do with these things; in which are some hard sayings, so that, like the rest of the holy Writings, they are twisted by those who are uncertain and without knowledge, to the destruction of their souls.
+**¹⁶** And as he said in all his letters, which had to do with these things; in which are some hard sayings, so that, like the rest of the holy Writings, they are twisted by those who are uncertain and without knowledge, to the destruction of their souls.
 
-<sup>17</sup> For this reason, my loved ones, having knowledge of these things before they take place, take care that you are not turned away by the error of the uncontrolled, so falling from your true faith.
+**¹⁷** For this reason, my loved ones, having knowledge of these things before they take place, take care that you are not turned away by the error of the uncontrolled, so falling from your true faith.
 
-<sup>18</sup> But be increased in grace and in the knowledge of our Lord and Saviour Jesus Christ. May he have glory now and for ever. So be it.
+**¹⁸** But be increased in grace and in the knowledge of our Lord and Saviour Jesus Christ. May he have glory now and for ever. So be it.

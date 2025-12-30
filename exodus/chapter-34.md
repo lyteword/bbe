@@ -4,72 +4,72 @@ weight: 34
 
 # Chapter 34
 
-<sup>1</sup> And the Lord said to Moses, Make two other stones like the first two; and I will put on them the words which were on the first stones, which were broken by you.
+**¹** And the Lord said to Moses, Make two other stones like the first two; and I will put on them the words which were on the first stones, which were broken by you.
 
-<sup>2</sup> And be ready by the morning, and come up on Mount Sinai, and come before me there in the morning, on the top of the mountain.
+**²** And be ready by the morning, and come up on Mount Sinai, and come before me there in the morning, on the top of the mountain.
 
-<sup>3</sup> No one is to come up with you, and let no man be seen anywhere on the mountain; let no flocks or herds come near to get their food at its foot.
+**³** No one is to come up with you, and let no man be seen anywhere on the mountain; let no flocks or herds come near to get their food at its foot.
 
-<sup>4</sup> So Moses got two stones cut like the first; and early in the morning he went up Mount Sinai, as the Lord had said, with the two stones in his hand.
+**⁴** So Moses got two stones cut like the first; and early in the morning he went up Mount Sinai, as the Lord had said, with the two stones in his hand.
 
-<sup>5</sup> And the Lord came down in the cloud and took his place by the side of Moses, and Moses gave worship to the name of the Lord.
+**⁵** And the Lord came down in the cloud and took his place by the side of Moses, and Moses gave worship to the name of the Lord.
 
-<sup>6</sup> And the Lord went past before his eyes, saying, The Lord, the Lord, a God full of pity and grace, slow to wrath and great in mercy and faith;
+**⁶** And the Lord went past before his eyes, saying, The Lord, the Lord, a God full of pity and grace, slow to wrath and great in mercy and faith;
 
-<sup>7</sup> Having mercy on thousands, overlooking evil and wrongdoing and sin; he will not let wrongdoers go free, but will send punishment on children for the sins of their fathers, and on their children's children to the third and fourth generation.
+**⁷** Having mercy on thousands, overlooking evil and wrongdoing and sin; he will not let wrongdoers go free, but will send punishment on children for the sins of their fathers, and on their children's children to the third and fourth generation.
 
-<sup>8</sup> Then Moses quickly went down on his face in worship.
+**⁸** Then Moses quickly went down on his face in worship.
 
-<sup>9</sup> And he said, If now I have grace in your eyes, let the Lord go among us, for this is a stiff-necked people, and give us forgiveness for our wrongdoing and our sin, and take us for your heritage.
+**⁹** And he said, If now I have grace in your eyes, let the Lord go among us, for this is a stiff-necked people, and give us forgiveness for our wrongdoing and our sin, and take us for your heritage.
 
-<sup>10</sup> And the Lord said, See, this is what I will undertake: before the eyes of your people I will do wonders, such as have not been done in all the earth or in any nation: and all your people will see the work of the Lord, for what I am about to do for you is greatly to be feared.
+**¹⁰** And the Lord said, See, this is what I will undertake: before the eyes of your people I will do wonders, such as have not been done in all the earth or in any nation: and all your people will see the work of the Lord, for what I am about to do for you is greatly to be feared.
 
-<sup>11</sup> Take care to do the orders which I give you today; I will send out from before you the Amorite and the Canaanite and the Hittite and the Perizzite and the Hivite and the Jebusite.
+**¹¹** Take care to do the orders which I give you today; I will send out from before you the Amorite and the Canaanite and the Hittite and the Perizzite and the Hivite and the Jebusite.
 
-<sup>12</sup> But take care, and do not make any agreement with the people of the land where you are going, for it will be a cause of sin to you.
+**¹²** But take care, and do not make any agreement with the people of the land where you are going, for it will be a cause of sin to you.
 
-<sup>13</sup> But their altars are to be overturned and their pillars broken and their images cut down:
+**¹³** But their altars are to be overturned and their pillars broken and their images cut down:
 
-<sup>14</sup> For you are to be worshippers of no other god: for the Lord is a God who will not give his honour to another.
+**¹⁴** For you are to be worshippers of no other god: for the Lord is a God who will not give his honour to another.
 
-<sup>15</sup> So see that you make no agreement with the people of the land, and do not go after their gods, or take part in their offerings, or be guests at their feasts,
+**¹⁵** So see that you make no agreement with the people of the land, and do not go after their gods, or take part in their offerings, or be guests at their feasts,
 
-<sup>16</sup> Or take their daughters for your sons; for when their daughters give worship before their gods, they will make your sons take part with them.
+**¹⁶** Or take their daughters for your sons; for when their daughters give worship before their gods, they will make your sons take part with them.
 
-<sup>17</sup> Make for yourselves no gods of metal.
+**¹⁷** Make for yourselves no gods of metal.
 
-<sup>18</sup> Keep the feast of unleavened bread; for seven days your food is to be bread without leaven, as I gave you orders, at the regular time in the month Abib; for in that month you came out of Egypt.
+**¹⁸** Keep the feast of unleavened bread; for seven days your food is to be bread without leaven, as I gave you orders, at the regular time in the month Abib; for in that month you came out of Egypt.
 
-<sup>19</sup> Every first male child is mine; the first male birth of your cattle, the first male of every ox and sheep.
+**¹⁹** Every first male child is mine; the first male birth of your cattle, the first male of every ox and sheep.
 
-<sup>20</sup> A lamb may be given in payment for the young of an ass, but if you will not make payment for it, its neck will have to be broken. For all the first of your sons you are to make payment. No one is to come before me without an offering.
+**²⁰** A lamb may be given in payment for the young of an ass, but if you will not make payment for it, its neck will have to be broken. For all the first of your sons you are to make payment. No one is to come before me without an offering.
 
-<sup>21</sup> Six days let work be done, but on the seventh day take your rest: at ploughing time and at the grain-cutting you are to have a day for rest.
+**²¹** Six days let work be done, but on the seventh day take your rest: at ploughing time and at the grain-cutting you are to have a day for rest.
 
-<sup>22</sup> And you are to keep the feast of weeks when you get in the first-fruits of the grain, and the feast at the turn of the year when you take in the produce of your fields.
+**²²** And you are to keep the feast of weeks when you get in the first-fruits of the grain, and the feast at the turn of the year when you take in the produce of your fields.
 
-<sup>23</sup> Three times in the year let all your males come before the Lord, the God of Israel.
+**²³** Three times in the year let all your males come before the Lord, the God of Israel.
 
-<sup>24</sup> For I will send out the nations before you and make wide the limits of your land; and no man will make an attempt to take your land while you go up to give worship to the Lord, three times in the year.
+**²⁴** For I will send out the nations before you and make wide the limits of your land; and no man will make an attempt to take your land while you go up to give worship to the Lord, three times in the year.
 
-<sup>25</sup> No leaven is to be offered with the blood of my offering, and the offering of the Passover feast may not be kept till the morning.
+**²⁵** No leaven is to be offered with the blood of my offering, and the offering of the Passover feast may not be kept till the morning.
 
-<sup>26</sup> Take the first-fruits of your land as an offering to the house of the Lord your God. Let not the young goat be cooked in its mother's milk
+**²⁶** Take the first-fruits of your land as an offering to the house of the Lord your God. Let not the young goat be cooked in its mother's milk
 
-<sup>27</sup> And the Lord said to Moses, Put all these words in writing; for on them is based the agreement which I will make with you.
+**²⁷** And the Lord said to Moses, Put all these words in writing; for on them is based the agreement which I will make with you.
 
-<sup>28</sup> And for forty days and forty nights Moses was there with the Lord, and in that time he had no food or drink. And he put in writing on the stones the words of the agreement, the ten rules of the law.
+**²⁸** And for forty days and forty nights Moses was there with the Lord, and in that time he had no food or drink. And he put in writing on the stones the words of the agreement, the ten rules of the law.
 
-<sup>29</sup> Now when Moses came down from Mount Sinai, with the two stones in his hand, he was not conscious that his face was shining because of his talk with God.
+**²⁹** Now when Moses came down from Mount Sinai, with the two stones in his hand, he was not conscious that his face was shining because of his talk with God.
 
-<sup>30</sup> But when Aaron and all the children of Israel saw Moses, and the shining of his face, they would not come near him for fear.
+**³⁰** But when Aaron and all the children of Israel saw Moses, and the shining of his face, they would not come near him for fear.
 
-<sup>31</sup> Then Moses sent for them; and Aaron, with the chiefs of the people, came to him; and Moses had talk with them.
+**³¹** Then Moses sent for them; and Aaron, with the chiefs of the people, came to him; and Moses had talk with them.
 
-<sup>32</sup> And later, all the children of Israel came near, and he gave them all the orders which the Lord had given him on Mount Sinai.
+**³²** And later, all the children of Israel came near, and he gave them all the orders which the Lord had given him on Mount Sinai.
 
-<sup>33</sup> And at the end of his talk with them, Moses put a veil over his face.
+**³³** And at the end of his talk with them, Moses put a veil over his face.
 
-<sup>34</sup> But whenever Moses went in before the Lord to have talk with him, he took off the veil till he came out. And whenever he came out he said to the children of Israel what he had been ordered to say;
+**³⁴** But whenever Moses went in before the Lord to have talk with him, he took off the veil till he came out. And whenever he came out he said to the children of Israel what he had been ordered to say;
 
-<sup>35</sup> And the children of Israel saw that the face of Moses was shining: so Moses put the veil over his face again till he went to the Lord.
+**³⁵** And the children of Israel saw that the face of Moses was shining: so Moses put the veil over his face again till he went to the Lord.

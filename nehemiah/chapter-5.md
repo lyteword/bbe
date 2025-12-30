@@ -4,40 +4,40 @@ weight: 5
 
 # Chapter 5
 
-<sup>1</sup> Then there was a great outcry from the people and their wives against their countrymen the Jews.
+**¹** Then there was a great outcry from the people and their wives against their countrymen the Jews.
 
-<sup>2</sup> For there were some who said, We, our sons and our daughters, are a great number: let us get grain, so that we may have food for our needs.
+**²** For there were some who said, We, our sons and our daughters, are a great number: let us get grain, so that we may have food for our needs.
 
-<sup>3</sup> And there were some who said, We are giving our fields and our vine-gardens and our houses for debt: let us get grain because we are in need.
+**³** And there were some who said, We are giving our fields and our vine-gardens and our houses for debt: let us get grain because we are in need.
 
-<sup>4</sup> And there were others who said, We have given up our fields and our vine-gardens to get money for the king's taxes.
+**⁴** And there were others who said, We have given up our fields and our vine-gardens to get money for the king's taxes.
 
-<sup>5</sup> But our flesh is the same as the flesh of our countrymen, and our children as their children: and now we are giving our sons and daughters into the hands of others, to be their servants, and some of our daughters are servants even now: and we have no power to put a stop to it; for other men have our fields and our vine-gardens.
+**⁵** But our flesh is the same as the flesh of our countrymen, and our children as their children: and now we are giving our sons and daughters into the hands of others, to be their servants, and some of our daughters are servants even now: and we have no power to put a stop to it; for other men have our fields and our vine-gardens.
 
-<sup>6</sup> And on hearing their outcry and what they said I was very angry.
+**⁶** And on hearing their outcry and what they said I was very angry.
 
-<sup>7</sup> And after turning it over in my mind, I made a protest to the chiefs and the rulers, and said to them, Every one of you is taking interest from his countryman. And I got together a great meeting of protest.
+**⁷** And after turning it over in my mind, I made a protest to the chiefs and the rulers, and said to them, Every one of you is taking interest from his countryman. And I got together a great meeting of protest.
 
-<sup>8</sup> And I said to them, We have given whatever we were able to give, to make our brothers the Jews free, who were servants and prisoners of the nations: and would you now give up your brothers for a price, and are they to become our property? Then they said nothing, answering not a word.
+**⁸** And I said to them, We have given whatever we were able to give, to make our brothers the Jews free, who were servants and prisoners of the nations: and would you now give up your brothers for a price, and are they to become our property? Then they said nothing, answering not a word.
 
-<sup>9</sup> And I said, What you are doing is not good: is it not the more necessary for you to go in the fear of our God, because of the shame which the nations may put on us?
+**⁹** And I said, What you are doing is not good: is it not the more necessary for you to go in the fear of our God, because of the shame which the nations may put on us?
 
-<sup>10</sup> Even I and my servants have been taking interest for the money and the grain we have let them have. So now, let us give up this thing.
+**¹⁰** Even I and my servants have been taking interest for the money and the grain we have let them have. So now, let us give up this thing.
 
-<sup>11</sup> Give back to them this very day their fields, their vine-gardens, their olive-gardens, and their houses, as well as a hundredth part of the money and the grain and the wine and the oil which you have taken from them.
+**¹¹** Give back to them this very day their fields, their vine-gardens, their olive-gardens, and their houses, as well as a hundredth part of the money and the grain and the wine and the oil which you have taken from them.
 
-<sup>12</sup> Then they said, We will give them back, and take nothing for them; we will do as you say. Then I sent for the priests and made them take an oath that they would keep this agreement.
+**¹²** Then they said, We will give them back, and take nothing for them; we will do as you say. Then I sent for the priests and made them take an oath that they would keep this agreement.
 
-<sup>13</sup> And shaking out the folds of my robe, I said, So may God send out from his house and his work every man who does not keep this agreement; even so let him be sent out and made as nothing. And all the meeting of the people said, So be it, and gave praise to the Lord. And the people did as they had said.
+**¹³** And shaking out the folds of my robe, I said, So may God send out from his house and his work every man who does not keep this agreement; even so let him be sent out and made as nothing. And all the meeting of the people said, So be it, and gave praise to the Lord. And the people did as they had said.
 
-<sup>14</sup> Now from the time when I was made ruler of the people in the land of Judah, from the twentieth year till the thirty-second year of Artaxerxes the king, for twelve years, I and my servants have never taken the food which was the right of the ruler.
+**¹⁴** Now from the time when I was made ruler of the people in the land of Judah, from the twentieth year till the thirty-second year of Artaxerxes the king, for twelve years, I and my servants have never taken the food which was the right of the ruler.
 
-<sup>15</sup> But earlier rulers who were before me made the people responsible for their upkeep, and took from them bread and wine at the rate of forty shekels of silver; and even their servants were lords over the people: but I did not do so, because of the fear of God.
+**¹⁵** But earlier rulers who were before me made the people responsible for their upkeep, and took from them bread and wine at the rate of forty shekels of silver; and even their servants were lords over the people: but I did not do so, because of the fear of God.
 
-<sup>16</sup> And I kept on with the work of this wall, and we got no land for ourselves: and all my servants were helping with the work.
+**¹⁶** And I kept on with the work of this wall, and we got no land for ourselves: and all my servants were helping with the work.
 
-<sup>17</sup> And more than this, a hundred and fifty of the Jews and the rulers were guests at my table, in addition to those who came to us from the nations round about us.
+**¹⁷** And more than this, a hundred and fifty of the Jews and the rulers were guests at my table, in addition to those who came to us from the nations round about us.
 
-<sup>18</sup> Now the food made ready for one day was one ox and six fat sheep, as well as fowls; and once in ten days a store of all sorts of wine: but all the same, I did not take the food to which the ruler had a right, because the people were crushed under a hard yoke.
+**¹⁸** Now the food made ready for one day was one ox and six fat sheep, as well as fowls; and once in ten days a store of all sorts of wine: but all the same, I did not take the food to which the ruler had a right, because the people were crushed under a hard yoke.
 
-<sup>19</sup> Keep in mind, O my God, for my good, all I have done for this people.
+**¹⁹** Keep in mind, O my God, for my good, all I have done for this people.

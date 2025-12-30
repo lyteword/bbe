@@ -4,46 +4,46 @@ weight: 1
 
 # Chapter 1
 
-<sup>1</sup> Now there came a time, in the days of the judges, when there was no food in the land. And a certain man went from Beth-lehem-judah, he and his wife and his two sons, to make a living-place in the country of Moab.
+**¹** Now there came a time, in the days of the judges, when there was no food in the land. And a certain man went from Beth-lehem-judah, he and his wife and his two sons, to make a living-place in the country of Moab.
 
-<sup>2</sup> And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Beth-lehem-judah. And they came into the country of Moab, and were there for some time.
+**²** And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Beth-lehem-judah. And they came into the country of Moab, and were there for some time.
 
-<sup>3</sup> And Elimelech, Naomi's husband, came to his end; and only her two sons were with her.
+**³** And Elimelech, Naomi's husband, came to his end; and only her two sons were with her.
 
-<sup>4</sup> And they took two women of Moab as their wives: the name of the one was Orpah, and the name of the other Ruth; and they went on living there for about ten years.
+**⁴** And they took two women of Moab as their wives: the name of the one was Orpah, and the name of the other Ruth; and they went on living there for about ten years.
 
-<sup>5</sup> And Mahlon and Chilion came to their end; and the woman was without her two sons and her husband.
+**⁵** And Mahlon and Chilion came to their end; and the woman was without her two sons and her husband.
 
-<sup>6</sup> So she and her daughters-in-law got ready to go back from the country of Moab, for news had come to her in the country of Moab that the Lord, in mercy for his people, had given them food.
+**⁶** So she and her daughters-in-law got ready to go back from the country of Moab, for news had come to her in the country of Moab that the Lord, in mercy for his people, had given them food.
 
-<sup>7</sup> And she went out of the place where she was, and her two daughters-in-law with her; and they went on their way to go back to the land of Judah.
+**⁷** And she went out of the place where she was, and her two daughters-in-law with her; and they went on their way to go back to the land of Judah.
 
-<sup>8</sup> And Naomi said to her two daughters-in-law, Go back to your mothers' houses: may the Lord be good to you as you have been good to the dead and to me:
+**⁸** And Naomi said to her two daughters-in-law, Go back to your mothers' houses: may the Lord be good to you as you have been good to the dead and to me:
 
-<sup>9</sup> May the Lord give you rest in the houses of your husbands. Then she gave them a kiss; and they were weeping bitterly.
+**⁹** May the Lord give you rest in the houses of your husbands. Then she gave them a kiss; and they were weeping bitterly.
 
-<sup>10</sup> And they said to her, No, but we will go back with you to your people.
+**¹⁰** And they said to her, No, but we will go back with you to your people.
 
-<sup>11</sup> But Naomi said, Go back, my daughters; why will you come with me? Have I more sons in my body, to become your husbands?
+**¹¹** But Naomi said, Go back, my daughters; why will you come with me? Have I more sons in my body, to become your husbands?
 
-<sup>12</sup> Go back, my daughters, and go on your way; I am so old now that I may not have another husband. If I said, I have hopes, if I had a husband tonight, and might have sons,
+**¹²** Go back, my daughters, and go on your way; I am so old now that I may not have another husband. If I said, I have hopes, if I had a husband tonight, and might have sons,
 
-<sup>13</sup> Would you keep yourselves till they were old enough? would you keep from having husbands for them? No, my daughters; but I am very sad for you that the hand of the Lord is against me.
+**¹³** Would you keep yourselves till they were old enough? would you keep from having husbands for them? No, my daughters; but I am very sad for you that the hand of the Lord is against me.
 
-<sup>14</sup> Then again they were weeping; and Orpah gave her mother-in-law a kiss, but Ruth would not be parted from her.
+**¹⁴** Then again they were weeping; and Orpah gave her mother-in-law a kiss, but Ruth would not be parted from her.
 
-<sup>15</sup> And Naomi said, See, your sister-in-law has gone back to her people and to her gods: go back after your sister-in-law.
+**¹⁵** And Naomi said, See, your sister-in-law has gone back to her people and to her gods: go back after your sister-in-law.
 
-<sup>16</sup> But Ruth said, Give up requesting me to go away from you, or to go back without you: for where you go I will go; and where you take your rest I will take my rest; your people will be my people, and your God my God.
+**¹⁶** But Ruth said, Give up requesting me to go away from you, or to go back without you: for where you go I will go; and where you take your rest I will take my rest; your people will be my people, and your God my God.
 
-<sup>17</sup> Wherever death comes to you, death will come to me, and there will be my last resting-place; the Lord do so to me and more if we are parted by anything but death.
+**¹⁷** Wherever death comes to you, death will come to me, and there will be my last resting-place; the Lord do so to me and more if we are parted by anything but death.
 
-<sup>18</sup> And when she saw that Ruth was strong in her purpose to go with her she said no more.
+**¹⁸** And when she saw that Ruth was strong in her purpose to go with her she said no more.
 
-<sup>19</sup> So the two of them went on till they came to Beth-lehem. And when they came to Beth-lehem all the town was moved about them, and they said, Is this Naomi?
+**¹⁹** So the two of them went on till they came to Beth-lehem. And when they came to Beth-lehem all the town was moved about them, and they said, Is this Naomi?
 
-<sup>20</sup> And she said to them, Do not let my name be Naomi, but Mara, for the Ruler of all has given me a bitter fate.
+**²⁰** And she said to them, Do not let my name be Naomi, but Mara, for the Ruler of all has given me a bitter fate.
 
-<sup>21</sup> I went out full, and the Lord has sent me back again with nothing; why do you give me the name Naomi, seeing that the Lord has given witness against me, and the Ruler of all has sent sorrow on me?
+**²¹** I went out full, and the Lord has sent me back again with nothing; why do you give me the name Naomi, seeing that the Lord has given witness against me, and the Ruler of all has sent sorrow on me?
 
-<sup>22</sup> So Naomi came back out of the country of Moab, and Ruth the Moabitess, her daughter-in-law, with her; and they came to Beth-lehem in the first days of the grain-cutting.
+**²²** So Naomi came back out of the country of Moab, and Ruth the Moabitess, her daughter-in-law, with her; and they came to Beth-lehem in the first days of the grain-cutting.

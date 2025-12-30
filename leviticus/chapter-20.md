@@ -4,56 +4,56 @@ weight: 20
 
 # Chapter 20
 
-<sup>1</sup> And the Lord said to Moses,
+**¹** And the Lord said to Moses,
 
-<sup>2</sup> Again, say to the children of Israel, If any man of the children of Israel, or any other man living in Israel, gives his offspring to Molech, he is certainly to be put to death: he is to be stoned by the people of the land;
+**²** Again, say to the children of Israel, If any man of the children of Israel, or any other man living in Israel, gives his offspring to Molech, he is certainly to be put to death: he is to be stoned by the people of the land;
 
-<sup>3</sup> And my face will be turned against that man, and he will be cut off from his people; because he has given his offspring to Molech, making my holy place unclean, and making my holy name common.
+**³** And my face will be turned against that man, and he will be cut off from his people; because he has given his offspring to Molech, making my holy place unclean, and making my holy name common.
 
-<sup>4</sup> And if the people of the land do not take note of that man when he gives his offspring to Molech, and do not put him to death,
+**⁴** And if the people of the land do not take note of that man when he gives his offspring to Molech, and do not put him to death,
 
-<sup>5</sup> Then my face will be turned against him and his family, and he and all those who do evil with him will be cut off from among their people.
+**⁵** Then my face will be turned against him and his family, and he and all those who do evil with him will be cut off from among their people.
 
-<sup>6</sup> And whoever goes after those who make use of spirits and wonder-workers, doing evil with them, against him will my face be turned, and he will be cut off from among his people.
+**⁶** And whoever goes after those who make use of spirits and wonder-workers, doing evil with them, against him will my face be turned, and he will be cut off from among his people.
 
-<sup>7</sup> So make and keep yourselves holy, for I am the Lord your God.
+**⁷** So make and keep yourselves holy, for I am the Lord your God.
 
-<sup>8</sup> And keep my rules and do them: I am the Lord, who make you holy.
+**⁸** And keep my rules and do them: I am the Lord, who make you holy.
 
-<sup>9</sup> Every man cursing his father or his mother is certainly to be put to death; because of his curse on his father or his mother, his blood will be on him.
+**⁹** Every man cursing his father or his mother is certainly to be put to death; because of his curse on his father or his mother, his blood will be on him.
 
-<sup>10</sup> And if a man has sex relations with another man's wife, even the wife of his neighbour, he and she are certainly to be put to death.
+**¹⁰** And if a man has sex relations with another man's wife, even the wife of his neighbour, he and she are certainly to be put to death.
 
-<sup>11</sup> And the man who has sex relations with his father's wife has put shame on his father: the two of them are to be put to death; their blood will be on them.
+**¹¹** And the man who has sex relations with his father's wife has put shame on his father: the two of them are to be put to death; their blood will be on them.
 
-<sup>12</sup> And if a man has sex relations with his son's wife, the two of them are to be put to death: it is unnatural; their blood will be on them.
+**¹²** And if a man has sex relations with his son's wife, the two of them are to be put to death: it is unnatural; their blood will be on them.
 
-<sup>13</sup> And if a man has sex relations with a man, the two of them have done a disgusting thing: let them be put to death; their blood will be on them.
+**¹³** And if a man has sex relations with a man, the two of them have done a disgusting thing: let them be put to death; their blood will be on them.
 
-<sup>14</sup> And if a man takes as wife a woman and her mother, it is an act of shame; let them be burned with fire, all three of them, so that there may be no shame among you.
+**¹⁴** And if a man takes as wife a woman and her mother, it is an act of shame; let them be burned with fire, all three of them, so that there may be no shame among you.
 
-<sup>15</sup> And if a man has sex relations with a beast, let him be put to death, and let the beast be put to destruction.
+**¹⁵** And if a man has sex relations with a beast, let him be put to death, and let the beast be put to destruction.
 
-<sup>16</sup> And if a woman goes near a beast and has sex relations with it, you will put an end to the woman and the beast: their blood will be on them.
+**¹⁶** And if a woman goes near a beast and has sex relations with it, you will put an end to the woman and the beast: their blood will be on them.
 
-<sup>17</sup> And if a man takes his sister, daughter of his father or his mother, and has sex relations with her and she with him, it is an act of shame: they are to be cut off before the children of their people; he has had sex relations with his sister, and his sin will be on him.
+**¹⁷** And if a man takes his sister, daughter of his father or his mother, and has sex relations with her and she with him, it is an act of shame: they are to be cut off before the children of their people; he has had sex relations with his sister, and his sin will be on him.
 
-<sup>18</sup> And if a man has sex relations with a woman at the time when she is unwell, he has seen her fountain and she has let the fountain of her blood be uncovered, and the two of them are to be cut off from among their people.
+**¹⁸** And if a man has sex relations with a woman at the time when she is unwell, he has seen her fountain and she has let the fountain of her blood be uncovered, and the two of them are to be cut off from among their people.
 
-<sup>19</sup> And you may not have sex connection with your mother's sister or your father's sister, for they are his near relations: their sin will be on them.
+**¹⁹** And you may not have sex connection with your mother's sister or your father's sister, for they are his near relations: their sin will be on them.
 
-<sup>20</sup> And if a man has sex relations with the wife of his father's brother, he has put shame on his father's brother: their sin will be on them; till the day of their death they will have no children.
+**²⁰** And if a man has sex relations with the wife of his father's brother, he has put shame on his father's brother: their sin will be on them; till the day of their death they will have no children.
 
-<sup>21</sup> And if a man takes his brother's wife, it is an unclean act; he has put shame on his brother; they will have no children.
+**²¹** And if a man takes his brother's wife, it is an unclean act; he has put shame on his brother; they will have no children.
 
-<sup>22</sup> So then, keep my rules and my decisions and do them, so that the land which I am giving you as your resting-place may not violently send you out again.
+**²²** So then, keep my rules and my decisions and do them, so that the land which I am giving you as your resting-place may not violently send you out again.
 
-<sup>23</sup> And do not keep the rules of the nations which I am driving out before you; for they did all these things, and for that reason my soul was turned against them.
+**²³** And do not keep the rules of the nations which I am driving out before you; for they did all these things, and for that reason my soul was turned against them.
 
-<sup>24</sup> But I have said to you, You will take their land and I will give it to you for your heritage, a land flowing with milk and honey: I am the Lord your God who have made you separate from all other peoples.
+**²⁴** But I have said to you, You will take their land and I will give it to you for your heritage, a land flowing with milk and honey: I am the Lord your God who have made you separate from all other peoples.
 
-<sup>25</sup> So then, make division between the clean beast and the unclean, and between the clean bird and the unclean: do not make yourselves disgusting by any beast or bird or anything which goes flat on the earth, which has been marked by me as unclean for you.
+**²⁵** So then, make division between the clean beast and the unclean, and between the clean bird and the unclean: do not make yourselves disgusting by any beast or bird or anything which goes flat on the earth, which has been marked by me as unclean for you.
 
-<sup>26</sup> And you are to be holy to me; for I the Lord am holy and have made you separate from the nations, so that you may be my people.
+**²⁶** And you are to be holy to me; for I the Lord am holy and have made you separate from the nations, so that you may be my people.
 
-<sup>27</sup> Any man or woman who makes use of spirits, or who is a wonder-worker, is to be put to death: they are to be stoned with stones: their blood will be on them.
+**²⁷** Any man or woman who makes use of spirits, or who is a wonder-worker, is to be put to death: they are to be stoned with stones: their blood will be on them.

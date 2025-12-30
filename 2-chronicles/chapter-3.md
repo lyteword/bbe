@@ -4,36 +4,36 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> Then Solomon made a start at building the house of the Lord on Mount Moriah in Jerusalem, where the Lord had been seen by his father David, in the place which David had made ready in the grain-floor of Ornan the Jebusite.
+**¹** Then Solomon made a start at building the house of the Lord on Mount Moriah in Jerusalem, where the Lord had been seen by his father David, in the place which David had made ready in the grain-floor of Ornan the Jebusite.
 
-<sup>2</sup> The building was started in the second month in the fourth year of his rule.
+**²** The building was started in the second month in the fourth year of his rule.
 
-<sup>3</sup> And Solomon put the base of the house of God in position; by the older measure it was sixty cubits long and twenty cubits wide.
+**³** And Solomon put the base of the house of God in position; by the older measure it was sixty cubits long and twenty cubits wide.
 
-<sup>4</sup> And the covered way in front of the house was twenty cubits long, as wide as the house, and a hundred and twenty cubits high, all plated inside with the best gold.
+**⁴** And the covered way in front of the house was twenty cubits long, as wide as the house, and a hundred and twenty cubits high, all plated inside with the best gold.
 
-<sup>5</sup> And the greater house was roofed with cypress-wood, plated with the best gold and ornamented with designs of palm-trees and chains.
+**⁵** And the greater house was roofed with cypress-wood, plated with the best gold and ornamented with designs of palm-trees and chains.
 
-<sup>6</sup> And the house was made beautiful with stones of great value, and the gold was gold of Parvaim.
+**⁶** And the house was made beautiful with stones of great value, and the gold was gold of Parvaim.
 
-<sup>7</sup> All the house was plated with gold, the supports, the steps, the walls and the doors; and the walls were ornamented with designs of winged ones.
+**⁷** All the house was plated with gold, the supports, the steps, the walls and the doors; and the walls were ornamented with designs of winged ones.
 
-<sup>8</sup> And he made the most holy place; it was twenty cubits long, and twenty cubits wide, like the greater house, and was plated all over with the best gold; six hundred talents were used for it.
+**⁸** And he made the most holy place; it was twenty cubits long, and twenty cubits wide, like the greater house, and was plated all over with the best gold; six hundred talents were used for it.
 
-<sup>9</sup> And fifty shekels weight of gold was used for the nails. He had all the higher rooms plated with gold.
+**⁹** And fifty shekels weight of gold was used for the nails. He had all the higher rooms plated with gold.
 
-<sup>10</sup> And in the most holy place he made images of two winged beings, covering them with gold.
+**¹⁰** And in the most holy place he made images of two winged beings, covering them with gold.
 
-<sup>11</sup> Their outstretched wings were twenty cubits across; one wing, five cubits long, touching the wall of the house, and the other, of the same size, meeting the wing of the other winged one.
+**¹¹** Their outstretched wings were twenty cubits across; one wing, five cubits long, touching the wall of the house, and the other, of the same size, meeting the wing of the other winged one.
 
-<sup>12</sup> And in the same way, the wings of the other, five cubits long, were stretched out, one touching the wall and the other meeting the wing of the first winged one.
+**¹²** And in the same way, the wings of the other, five cubits long, were stretched out, one touching the wall and the other meeting the wing of the first winged one.
 
-<sup>13</sup> Their outstretched wings were twenty cubits across; they were placed upright on their feet, facing the inner part of the house.
+**¹³** Their outstretched wings were twenty cubits across; they were placed upright on their feet, facing the inner part of the house.
 
-<sup>14</sup> And he made the veil of blue and purple and red, of the best linen, worked with winged ones.
+**¹⁴** And he made the veil of blue and purple and red, of the best linen, worked with winged ones.
 
-<sup>15</sup> And in front of the house he made two pillars, thirty-five cubits high, with crowns on the tops of them, five cubits high.
+**¹⁵** And in front of the house he made two pillars, thirty-five cubits high, with crowns on the tops of them, five cubits high.
 
-<sup>16</sup> And he made chains, like neck ornaments, and put them on the tops of the pillars, and a hundred apples on the chains.
+**¹⁶** And he made chains, like neck ornaments, and put them on the tops of the pillars, and a hundred apples on the chains.
 
-<sup>17</sup> He put up the pillars in front of the Temple, one on the right side and one on the left, naming the one on the right Jachin and that on the left Boaz.
+**¹⁷** He put up the pillars in front of the Temple, one on the right side and one on the left, naming the one on the right Jachin and that on the left Boaz.

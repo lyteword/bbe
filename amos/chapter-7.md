@@ -4,36 +4,36 @@ weight: 7
 
 # Chapter 7
 
-<sup>1</sup> This is what the Lord God let me see: and I saw that, when the growth of the late grass was starting, he made locusts; it was the late growth after the king's cutting was done.
+**¹** This is what the Lord God let me see: and I saw that, when the growth of the late grass was starting, he made locusts; it was the late growth after the king's cutting was done.
 
-<sup>2</sup> And it came about that after they had taken all the grass of the land, I said, O Lord God, have mercy: how will Jacob be able to keep his place? for he is small.
+**²** And it came about that after they had taken all the grass of the land, I said, O Lord God, have mercy: how will Jacob be able to keep his place? for he is small.
 
-<sup>3</sup> The Lord, changing his purpose about this, said, It will not be.
+**³** The Lord, changing his purpose about this, said, It will not be.
 
-<sup>4</sup> This is what the Lord let me see: and I saw that the Lord God sent for a great fire to be the instrument of his punishment; and, after burning up the great deep, it was about to put an end to the Lord's heritage.
+**⁴** This is what the Lord let me see: and I saw that the Lord God sent for a great fire to be the instrument of his punishment; and, after burning up the great deep, it was about to put an end to the Lord's heritage.
 
-<sup>5</sup> Then said I, O Lord God, let there be an end: how will Jacob be able to keep his place? for he is small.
+**⁵** Then said I, O Lord God, let there be an end: how will Jacob be able to keep his place? for he is small.
 
-<sup>6</sup> The Lord, changing his purpose about this, said, And this will not be.
+**⁶** The Lord, changing his purpose about this, said, And this will not be.
 
-<sup>7</sup> This is what he let me see: and I saw the Lord stationed by a wall made straight by a weighted line, and he had a weighted line in his hand.
+**⁷** This is what he let me see: and I saw the Lord stationed by a wall made straight by a weighted line, and he had a weighted line in his hand.
 
-<sup>8</sup> And the Lord said to me, Amos, what do you see? And I said, A weighted line. Then the Lord said, See, I will let down a weighted line among my people Israel; never again will my eyes be shut to their sin:
+**⁸** And the Lord said to me, Amos, what do you see? And I said, A weighted line. Then the Lord said, See, I will let down a weighted line among my people Israel; never again will my eyes be shut to their sin:
 
-<sup>9</sup> And the high places of Isaac will be unpeopled, and the holy places of Israel will be made waste; and I will come up against the family of Jeroboam with the sword.
+**⁹** And the high places of Isaac will be unpeopled, and the holy places of Israel will be made waste; and I will come up against the family of Jeroboam with the sword.
 
-<sup>10</sup> Then Amaziah, the priest of Beth-el, sent to Jeroboam, king of Israel, saying, Amos has made designs against you among the people of Israel: the land is troubled by his words.
+**¹⁰** Then Amaziah, the priest of Beth-el, sent to Jeroboam, king of Israel, saying, Amos has made designs against you among the people of Israel: the land is troubled by his words.
 
-<sup>11</sup> For Amos has said, Jeroboam will be put to the sword, and Israel will certainly be taken away as a prisoner out of his land.
+**¹¹** For Amos has said, Jeroboam will be put to the sword, and Israel will certainly be taken away as a prisoner out of his land.
 
-<sup>12</sup> And Amaziah said to Amos, O seer, go in flight into the land of Judah, and there get your living by working as a prophet:
+**¹²** And Amaziah said to Amos, O seer, go in flight into the land of Judah, and there get your living by working as a prophet:
 
-<sup>13</sup> But be a prophet no longer at Beth-el: for it is the holy place of the king, and the king's house.
+**¹³** But be a prophet no longer at Beth-el: for it is the holy place of the king, and the king's house.
 
-<sup>14</sup> Then Amos in answer said to Amaziah, I am no prophet, or one of the sons of the prophets; I am a herdman and one who takes care of sycamore-trees:
+**¹⁴** Then Amos in answer said to Amaziah, I am no prophet, or one of the sons of the prophets; I am a herdman and one who takes care of sycamore-trees:
 
-<sup>15</sup> And the Lord took me from the flock, and the Lord said to me, Go, be a prophet to my people Israel.
+**¹⁵** And the Lord took me from the flock, and the Lord said to me, Go, be a prophet to my people Israel.
 
-<sup>16</sup> Now then, give ear to the word of the Lord: You say, Be no prophet to Israel, and say not a word against the people of Isaac.
+**¹⁶** Now then, give ear to the word of the Lord: You say, Be no prophet to Israel, and say not a word against the people of Isaac.
 
-<sup>17</sup> So this is what the Lord has said: Your wife will be a loose woman in the town, and your sons and your daughters will be put to the sword, and your land will be cut up into parts by a line; and you yourself will come to your end in an unclean land, and Israel will certainly be taken away a prisoner out of his land.
+**¹⁷** So this is what the Lord has said: Your wife will be a loose woman in the town, and your sons and your daughters will be put to the sword, and your land will be cut up into parts by a line; and you yourself will come to your end in an unclean land, and Israel will certainly be taken away a prisoner out of his land.

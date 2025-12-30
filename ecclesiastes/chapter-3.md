@@ -4,46 +4,46 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> For everything there is a fixed time, and a time for every business under the sun.
+**¹** For everything there is a fixed time, and a time for every business under the sun.
 
-<sup>2</sup> A time for birth and a time for death; a time for planting and a time for uprooting;
+**²** A time for birth and a time for death; a time for planting and a time for uprooting;
 
-<sup>3</sup> A time to put to death and a time to make well; a time for pulling down and a time for building up;
+**³** A time to put to death and a time to make well; a time for pulling down and a time for building up;
 
-<sup>4</sup> A time for weeping and a time for laughing; a time for sorrow and a time for dancing;
+**⁴** A time for weeping and a time for laughing; a time for sorrow and a time for dancing;
 
-<sup>5</sup> A time to take stones away and a time to get stones together; a time for kissing and a time to keep from kissing;
+**⁵** A time to take stones away and a time to get stones together; a time for kissing and a time to keep from kissing;
 
-<sup>6</sup> A time for search and a time for loss; a time to keep and a time to give away;
+**⁶** A time for search and a time for loss; a time to keep and a time to give away;
 
-<sup>7</sup> A time for undoing and a time for stitching; a time for keeping quiet and a time for talk;
+**⁷** A time for undoing and a time for stitching; a time for keeping quiet and a time for talk;
 
-<sup>8</sup> A time for love and a time for hate; a time for war and a time for peace.
+**⁸** A time for love and a time for hate; a time for war and a time for peace.
 
-<sup>9</sup> What profit has the worker in the work which he does?
+**⁹** What profit has the worker in the work which he does?
 
-<sup>10</sup> I saw the work which God has put on the sons of man.
+**¹⁰** I saw the work which God has put on the sons of man.
 
-<sup>11</sup> He has made everything right in its time; but he has made their hearts without knowledge, so that man is unable to see the works of God, from the first to the last.
+**¹¹** He has made everything right in its time; but he has made their hearts without knowledge, so that man is unable to see the works of God, from the first to the last.
 
-<sup>12</sup> I am certain that there is nothing better for a man than to be glad, and to do good while life is in him.
+**¹²** I am certain that there is nothing better for a man than to be glad, and to do good while life is in him.
 
-<sup>13</sup> And for every man to take food and drink, and have joy in all his work, is a reward from God.
+**¹³** And for every man to take food and drink, and have joy in all his work, is a reward from God.
 
-<sup>14</sup> I am certain that whatever God does will be for ever. No addition may be made to it, nothing may be taken from it; and God has done it so that man may be in fear before him.
+**¹⁴** I am certain that whatever God does will be for ever. No addition may be made to it, nothing may be taken from it; and God has done it so that man may be in fear before him.
 
-<sup>15</sup> Whatever is has been before, and what is to be is now; because God makes search for the things which are past.
+**¹⁵** Whatever is has been before, and what is to be is now; because God makes search for the things which are past.
 
-<sup>16</sup> And again, I saw under the sun, in the place of the judges, that evil was there; and in the place of righteousness, that evil was there.
+**¹⁶** And again, I saw under the sun, in the place of the judges, that evil was there; and in the place of righteousness, that evil was there.
 
-<sup>17</sup> I said in my heart, God will be judge of the good and of the bad; because a time for every purpose and for every work has been fixed by him.
+**¹⁷** I said in my heart, God will be judge of the good and of the bad; because a time for every purpose and for every work has been fixed by him.
 
-<sup>18</sup> I said in my heart, It is because of the sons of men, so that God may put them to the test and that they may see themselves as beasts.
+**¹⁸** I said in my heart, It is because of the sons of men, so that God may put them to the test and that they may see themselves as beasts.
 
-<sup>19</sup> Because the fate of the sons of men and the fate of the beasts is the same. As is the death of one so is the death of the other, and all have one spirit. Man is not higher than the beasts; because all is to no purpose.
+**¹⁹** Because the fate of the sons of men and the fate of the beasts is the same. As is the death of one so is the death of the other, and all have one spirit. Man is not higher than the beasts; because all is to no purpose.
 
-<sup>20</sup> All go to one place, all are of the dust, and all will be turned to dust again.
+**²⁰** All go to one place, all are of the dust, and all will be turned to dust again.
 
-<sup>21</sup> Who is certain that the spirit of the sons of men goes up to heaven, or that the spirit of the beasts goes down to the earth?
+**²¹** Who is certain that the spirit of the sons of men goes up to heaven, or that the spirit of the beasts goes down to the earth?
 
-<sup>22</sup> So I saw that there is nothing better than for a man to have joy in his work — because that is his reward. Who will make him see what will come after him?
+**²²** So I saw that there is nothing better than for a man to have joy in his work — because that is his reward. Who will make him see what will come after him?

@@ -4,64 +4,64 @@ weight: 38
 
 # Chapter 38
 
-<sup>1</sup> The altar of burned offerings he made of hard wood; a square altar, five cubits long, five cubits wide and three cubits high,
+**¹** The altar of burned offerings he made of hard wood; a square altar, five cubits long, five cubits wide and three cubits high,
 
-<sup>2</sup> And he put horns at its four angles made of the same, plating it all with brass;
+**²** And he put horns at its four angles made of the same, plating it all with brass;
 
-<sup>3</sup> And brass was used for all the vessels of the altar, the baskets and the spades, the basins and the meat-hooks and the fire-trays; all the vessels he made of brass
+**³** And brass was used for all the vessels of the altar, the baskets and the spades, the basins and the meat-hooks and the fire-trays; all the vessels he made of brass
 
-<sup>4</sup> And he made a network of brass for the altar, under the frame round it, stretching half-way up;
+**⁴** And he made a network of brass for the altar, under the frame round it, stretching half-way up;
 
-<sup>5</sup> And four rings for the four angles of this network, to take the rods.
+**⁵** And four rings for the four angles of this network, to take the rods.
 
-<sup>6</sup> The rods he made of hard wood plated with brass.
+**⁶** The rods he made of hard wood plated with brass.
 
-<sup>7</sup> He put the rods through the rings at the opposite sides of the altar for lifting it; he made the altar hollow, boarded in with wood.
+**⁷** He put the rods through the rings at the opposite sides of the altar for lifting it; he made the altar hollow, boarded in with wood.
 
-<sup>8</sup> And he made the washing-vessel of brass on a brass base, using the polished brass looking-glasses given by the women who did work at the doors of the Tent of meeting.
+**⁸** And he made the washing-vessel of brass on a brass base, using the polished brass looking-glasses given by the women who did work at the doors of the Tent of meeting.
 
-<sup>9</sup> To make the open space, he put hangings on the south side, of the best linen, a hundred cubits long:
+**⁹** To make the open space, he put hangings on the south side, of the best linen, a hundred cubits long:
 
-<sup>10</sup> Their twenty pillars and their twenty bases were brass; and the hooks of the pillars and their bands were of silver.
+**¹⁰** Their twenty pillars and their twenty bases were brass; and the hooks of the pillars and their bands were of silver.
 
-<sup>11</sup> And for the north side. hangings a hundred cubits long, on twenty brass pillars in brass bases, with silver hooks and bands.
+**¹¹** And for the north side. hangings a hundred cubits long, on twenty brass pillars in brass bases, with silver hooks and bands.
 
-<sup>12</sup> And on the west side, hangings fifty cubits long, on ten pillars in ten bases, with silver bands.
+**¹²** And on the west side, hangings fifty cubits long, on ten pillars in ten bases, with silver bands.
 
-<sup>13</sup> And on the east side, the open space was fifty cubits long.
+**¹³** And on the east side, the open space was fifty cubits long.
 
-<sup>14</sup> The hangings on one side of the doorway were fifteen cubits long, on three pillars with their three bases;
+**¹⁴** The hangings on one side of the doorway were fifteen cubits long, on three pillars with their three bases;
 
-<sup>15</sup> And the same on the other side of the doorway; on this side and on that the hangings were fifteen cubits long, on three pillars with their three bases.
+**¹⁵** And the same on the other side of the doorway; on this side and on that the hangings were fifteen cubits long, on three pillars with their three bases.
 
-<sup>16</sup> All the hangings were of the best linen.
+**¹⁶** All the hangings were of the best linen.
 
-<sup>17</sup> And the bases of the pillars were of brass; their hooks and the bands round the tops of them were of silver; all the pillars were ringed with silver.
+**¹⁷** And the bases of the pillars were of brass; their hooks and the bands round the tops of them were of silver; all the pillars were ringed with silver.
 
-<sup>18</sup> And the curtain for the doorway of the open space was of the best linen, with designs of blue and purple and red in needlework; it was twenty cubits long and five cubits high, to go with the hangings round the sides.
+**¹⁸** And the curtain for the doorway of the open space was of the best linen, with designs of blue and purple and red in needlework; it was twenty cubits long and five cubits high, to go with the hangings round the sides.
 
-<sup>19</sup> There were four pillars with their bases, all of brass, the hooks being of silver, and their tops and their bands being covered with silver.
+**¹⁹** There were four pillars with their bases, all of brass, the hooks being of silver, and their tops and their bands being covered with silver.
 
-<sup>20</sup> All the nails used for the House and the open space round it were of brass.
+**²⁰** All the nails used for the House and the open space round it were of brass.
 
-<sup>21</sup> This is the price of the making of the House, even the House of witness, as it was valued by the word of Moses, for the work of the Levites under the direction of Ithamar, the son of Aaron the priest.
+**²¹** This is the price of the making of the House, even the House of witness, as it was valued by the word of Moses, for the work of the Levites under the direction of Ithamar, the son of Aaron the priest.
 
-<sup>22</sup> Bezalel, the son of Uri, the son of Hur, of the tribe of Judah, made everything as the Lord had given orders to Moses.
+**²²** Bezalel, the son of Uri, the son of Hur, of the tribe of Judah, made everything as the Lord had given orders to Moses.
 
-<sup>23</sup> And with him was Oholiab, the son of Ahisamach, of the tribe of Dan; a designer and a trained workman, expert in needlework of blue and purple and red and the best linen.
+**²³** And with him was Oholiab, the son of Ahisamach, of the tribe of Dan; a designer and a trained workman, expert in needlework of blue and purple and red and the best linen.
 
-<sup>24</sup> The gold used for all the different work done for the holy place, the gold which was given, was twenty-nine talents, and seven hundred and thirty shekels in weight, by the scale of the holy place.
+**²⁴** The gold used for all the different work done for the holy place, the gold which was given, was twenty-nine talents, and seven hundred and thirty shekels in weight, by the scale of the holy place.
 
-<sup>25</sup> And the silver given by those who were numbered of the people was a hundred talents, and a thousand, seven hundred and seventy-five shekels in weight, by the scale of the holy place.
+**²⁵** And the silver given by those who were numbered of the people was a hundred talents, and a thousand, seven hundred and seventy-five shekels in weight, by the scale of the holy place.
 
-<sup>26</sup> A beka, that is, half a shekel by the holy scale, for everyone who was numbered; there were six hundred and three thousand, five hundred and fifty men of twenty years old and over.
+**²⁶** A beka, that is, half a shekel by the holy scale, for everyone who was numbered; there were six hundred and three thousand, five hundred and fifty men of twenty years old and over.
 
-<sup>27</sup> Of this silver, a hundred talents was used for making the bases of the pillars of the holy place and of the veil; a talent for every base.
+**²⁷** Of this silver, a hundred talents was used for making the bases of the pillars of the holy place and of the veil; a talent for every base.
 
-<sup>28</sup> And a thousand, seven hundred and seventy-five shekels of silver was used to make the hooks for the pillars, and for plating the tops of the pillars and for making their bands.
+**²⁸** And a thousand, seven hundred and seventy-five shekels of silver was used to make the hooks for the pillars, and for plating the tops of the pillars and for making their bands.
 
-<sup>29</sup> The brass which was given was seventy talents, two thousand four hundred shekels;
+**²⁹** The brass which was given was seventy talents, two thousand four hundred shekels;
 
-<sup>30</sup> From it he made the bases of the doorway of the Tent of meeting and the brass altar and the network for it and all the vessels for the altar,
+**³⁰** From it he made the bases of the doorway of the Tent of meeting and the brass altar and the network for it and all the vessels for the altar,
 
-<sup>31</sup> And the bases for the open space all round and for its doorway, and all the nails for the House and for the open space.
+**³¹** And the bases for the open space all round and for its doorway, and all the nails for the House and for the open space.

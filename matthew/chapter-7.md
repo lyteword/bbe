@@ -4,60 +4,60 @@ weight: 7
 
 # Chapter 7
 
-<sup>1</sup> Be not judges of others, and you will not be judged.
+**¹** Be not judges of others, and you will not be judged.
 
-<sup>2</sup> For as you have been judging, so you will be judged, and with your measure will it be measured to you.
+**²** For as you have been judging, so you will be judged, and with your measure will it be measured to you.
 
-<sup>3</sup> And why do you take note of the grain of dust in your brother's eye, but take no note of the bit of wood which is in your eye?
+**³** And why do you take note of the grain of dust in your brother's eye, but take no note of the bit of wood which is in your eye?
 
-<sup>4</sup> Or how will you say to your brother, Let me take out the grain of dust from your eye, when you yourself have a bit of wood in your eye?
+**⁴** Or how will you say to your brother, Let me take out the grain of dust from your eye, when you yourself have a bit of wood in your eye?
 
-<sup>5</sup> You false one, first take out the bit of wood from your eye, then will you see clearly to take out the grain of dust from your brother's eye.
+**⁵** You false one, first take out the bit of wood from your eye, then will you see clearly to take out the grain of dust from your brother's eye.
 
-<sup>6</sup> Do not give that which is holy to the dogs, or put your jewels before pigs, for fear that they will be crushed under foot by the pigs whose attack will then be made against you.
+**⁶** Do not give that which is holy to the dogs, or put your jewels before pigs, for fear that they will be crushed under foot by the pigs whose attack will then be made against you.
 
-<sup>7</sup> Make a request, and it will be answered; what you are searching for you will get; give the sign, and the door will be open to you:
+**⁷** Make a request, and it will be answered; what you are searching for you will get; give the sign, and the door will be open to you:
 
-<sup>8</sup> Because to everyone who makes a request, it will be given; and he who is searching will get his desire, and to him who gives the sign, the door will be open.
+**⁸** Because to everyone who makes a request, it will be given; and he who is searching will get his desire, and to him who gives the sign, the door will be open.
 
-<sup>9</sup> Or which of you, if his son makes a request for bread, will give him a stone?
+**⁹** Or which of you, if his son makes a request for bread, will give him a stone?
 
-<sup>10</sup> Or if he makes a request for a fish, will give him a snake?
+**¹⁰** Or if he makes a request for a fish, will give him a snake?
 
-<sup>11</sup> If you, then, being evil, are able to give good things to your children, how much more will your Father in heaven give good things to those who make requests to him?
+**¹¹** If you, then, being evil, are able to give good things to your children, how much more will your Father in heaven give good things to those who make requests to him?
 
-<sup>12</sup> All those things, then, which you would have men do to you, even so do you to them: because this is the law and the prophets.
+**¹²** All those things, then, which you would have men do to you, even so do you to them: because this is the law and the prophets.
 
-<sup>13</sup> Go in by the narrow door; for wide is the door and open is the way which goes to destruction, and great numbers go in by it.
+**¹³** Go in by the narrow door; for wide is the door and open is the way which goes to destruction, and great numbers go in by it.
 
-<sup>14</sup> For narrow is the door and hard the road to life, and only a small number make discovery of it.
+**¹⁴** For narrow is the door and hard the road to life, and only a small number make discovery of it.
 
-<sup>15</sup> Be on the watch for false prophets, who come to you in sheep's clothing, but inside they are cruel wolves.
+**¹⁵** Be on the watch for false prophets, who come to you in sheep's clothing, but inside they are cruel wolves.
 
-<sup>16</sup> By their fruits you will get knowledge of them. Do men get grapes from thorns or figs from thistles?
+**¹⁶** By their fruits you will get knowledge of them. Do men get grapes from thorns or figs from thistles?
 
-<sup>17</sup> Even so, every good tree gives good fruit; but the bad tree gives evil fruit.
+**¹⁷** Even so, every good tree gives good fruit; but the bad tree gives evil fruit.
 
-<sup>18</sup> It is not possible for a good tree to give bad fruit, and a bad tree will not give good fruit.
+**¹⁸** It is not possible for a good tree to give bad fruit, and a bad tree will not give good fruit.
 
-<sup>19</sup> Every tree which does not give good fruit is cut down and put in the fire.
+**¹⁹** Every tree which does not give good fruit is cut down and put in the fire.
 
-<sup>20</sup> So by their fruits you will get knowledge of them.
+**²⁰** So by their fruits you will get knowledge of them.
 
-<sup>21</sup> Not everyone who says to me, Lord, Lord, will go into the kingdom of heaven; but he who does the pleasure of my Father in heaven.
+**²¹** Not everyone who says to me, Lord, Lord, will go into the kingdom of heaven; but he who does the pleasure of my Father in heaven.
 
-<sup>22</sup> A great number will say to me on that day, Lord, Lord, were we not prophets in your name, and did we not by your name send out evil spirits, and by your name do works of power?
+**²²** A great number will say to me on that day, Lord, Lord, were we not prophets in your name, and did we not by your name send out evil spirits, and by your name do works of power?
 
-<sup>23</sup> And then will I say to them, I never had knowledge of you: go from me, you workers of evil.
+**²³** And then will I say to them, I never had knowledge of you: go from me, you workers of evil.
 
-<sup>24</sup> Everyone, then, to whom my words come and who does them, will be like a wise man who made his house on a rock;
+**²⁴** Everyone, then, to whom my words come and who does them, will be like a wise man who made his house on a rock;
 
-<sup>25</sup> And the rain came down and there was a rush of waters and the winds were driving against that house, but it was not moved; because it was based on the rock.
+**²⁵** And the rain came down and there was a rush of waters and the winds were driving against that house, but it was not moved; because it was based on the rock.
 
-<sup>26</sup> And everyone to whom my words come and who does them not, will be like a foolish man who made his house on sand;
+**²⁶** And everyone to whom my words come and who does them not, will be like a foolish man who made his house on sand;
 
-<sup>27</sup> And the rain came down and there was a rush of waters and the winds were driving against that house; and it came down and great was its fall.
+**²⁷** And the rain came down and there was a rush of waters and the winds were driving against that house; and it came down and great was its fall.
 
-<sup>28</sup> And it came about, when Jesus had come to the end of these words, that the people were surprised at his teaching,
+**²⁸** And it came about, when Jesus had come to the end of these words, that the people were surprised at his teaching,
 
-<sup>29</sup> for he was teaching as one having authority, and not as their scribes.
+**²⁹** for he was teaching as one having authority, and not as their scribes.

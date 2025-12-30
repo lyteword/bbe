@@ -4,56 +4,56 @@ weight: 1
 
 # Chapter 1
 
-<sup>1</sup> James, a servant of God and of the Lord Jesus Christ, sends words of love to the twelve tribes of the Jews living in all parts of the earth.
+**¹** James, a servant of God and of the Lord Jesus Christ, sends words of love to the twelve tribes of the Jews living in all parts of the earth.
 
-<sup>2</sup> Let it be all joy to you, my brothers, when you undergo tests of every sort;
+**²** Let it be all joy to you, my brothers, when you undergo tests of every sort;
 
-<sup>3</sup> Because you have the knowledge that the testing of your faith gives you the power of going on in hope;
+**³** Because you have the knowledge that the testing of your faith gives you the power of going on in hope;
 
-<sup>4</sup> But let this power have its full effect, so that you may be made complete, needing nothing.
+**⁴** But let this power have its full effect, so that you may be made complete, needing nothing.
 
-<sup>5</sup> But if any man among you is without wisdom, let him make his request to God, who gives freely to all without an unkind word, and it will be given to him.
+**⁵** But if any man among you is without wisdom, let him make his request to God, who gives freely to all without an unkind word, and it will be given to him.
 
-<sup>6</sup> Let him make his request in faith, doubting nothing; for he who has doubt in his heart is like the waves of the sea, which are troubled by the driving of the wind.
+**⁶** Let him make his request in faith, doubting nothing; for he who has doubt in his heart is like the waves of the sea, which are troubled by the driving of the wind.
 
-<sup>7</sup> Let it not seem to such a man that he will get anything from the Lord;
+**⁷** Let it not seem to such a man that he will get anything from the Lord;
 
-<sup>8</sup> For there is a division in his mind, and he is uncertain in all his ways.
+**⁸** For there is a division in his mind, and he is uncertain in all his ways.
 
-<sup>9</sup> But let the brother of low position be glad that he is lifted up;
+**⁹** But let the brother of low position be glad that he is lifted up;
 
-<sup>10</sup> But the man of wealth, that he is made low; because like the flower of the grass he will come to his end.
+**¹⁰** But the man of wealth, that he is made low; because like the flower of the grass he will come to his end.
 
-<sup>11</sup> For when the sun comes up with its burning heat, the grass gets dry and the grace of its form is gone with the falling flower; so the man of wealth comes to nothing in his ways.
+**¹¹** For when the sun comes up with its burning heat, the grass gets dry and the grace of its form is gone with the falling flower; so the man of wealth comes to nothing in his ways.
 
-<sup>12</sup> There is a blessing on the man who undergoes testing; because, if he has God's approval, he will be given the crown of life, which the Lord has said he will give to those who have love for him.
+**¹²** There is a blessing on the man who undergoes testing; because, if he has God's approval, he will be given the crown of life, which the Lord has said he will give to those who have love for him.
 
-<sup>13</sup> Let no man say when he is tested, I am tested by God; for it is not possible for God to be tested by evil, and he himself puts no man to such a test:
+**¹³** Let no man say when he is tested, I am tested by God; for it is not possible for God to be tested by evil, and he himself puts no man to such a test:
 
-<sup>14</sup> But every man is tested when he is turned out of the right way by the attraction of his desire.
+**¹⁴** But every man is tested when he is turned out of the right way by the attraction of his desire.
 
-<sup>15</sup> Then when its time comes, desire gives birth to sin; and sin, when it is of full growth, gives birth to death.
+**¹⁵** Then when its time comes, desire gives birth to sin; and sin, when it is of full growth, gives birth to death.
 
-<sup>16</sup> Do not be turned from the right way, dear brothers.
+**¹⁶** Do not be turned from the right way, dear brothers.
 
-<sup>17</sup> Every good and true thing is given to us from heaven, coming from the Father of lights, with whom there is no change or any shade made by turning.
+**¹⁷** Every good and true thing is given to us from heaven, coming from the Father of lights, with whom there is no change or any shade made by turning.
 
-<sup>18</sup> Of his purpose he gave us being, by his true word, so that we might be, in a sense, the first-fruits of all the things which he had made.
+**¹⁸** Of his purpose he gave us being, by his true word, so that we might be, in a sense, the first-fruits of all the things which he had made.
 
-<sup>19</sup> You have knowledge of this, dear brothers. But let every man be quick in hearing, slow in words, slow to get angry;
+**¹⁹** You have knowledge of this, dear brothers. But let every man be quick in hearing, slow in words, slow to get angry;
 
-<sup>20</sup> For the righteousness of God does not come about by the wrath of man.
+**²⁰** For the righteousness of God does not come about by the wrath of man.
 
-<sup>21</sup> For this reason, putting away all dirty behaviour and the overweight of evil, take into your souls without pride the word which, being planted there, is able to give you salvation.
+**²¹** For this reason, putting away all dirty behaviour and the overweight of evil, take into your souls without pride the word which, being planted there, is able to give you salvation.
 
-<sup>22</sup> But be doers of the word, and not only hearers of it, blinding yourselves with false ideas.
+**²²** But be doers of the word, and not only hearers of it, blinding yourselves with false ideas.
 
-<sup>23</sup> Because if any man is a hearer of the word and not a doer, he is like a man looking at his natural face in a glass;
+**²³** Because if any man is a hearer of the word and not a doer, he is like a man looking at his natural face in a glass;
 
-<sup>24</sup> For after looking at himself he goes away, and in a short time he has no memory of what he was like.
+**²⁴** For after looking at himself he goes away, and in a short time he has no memory of what he was like.
 
-<sup>25</sup> But he who goes on looking into the true law which makes him free, being not a hearer without memory but a doer putting it into effect, this man will have a blessing on his acts.
+**²⁵** But he who goes on looking into the true law which makes him free, being not a hearer without memory but a doer putting it into effect, this man will have a blessing on his acts.
 
-<sup>26</sup> If a man seems to have religion and has no control over his tongue but lets himself be tricked by what is false, this man's religion is of no value.
+**²⁶** If a man seems to have religion and has no control over his tongue but lets himself be tricked by what is false, this man's religion is of no value.
 
-<sup>27</sup> The religion which is holy and free from evil in the eyes of our God and Father is this: to take care of children who have no fathers and of widows who are in trouble, and to keep oneself untouched by the world.
+**²⁷** The religion which is holy and free from evil in the eyes of our God and Father is this: to take care of children who have no fathers and of widows who are in trouble, and to keep oneself untouched by the world.

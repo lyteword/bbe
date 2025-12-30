@@ -4,88 +4,88 @@ weight: 19
 
 # Chapter 19
 
-<sup>1</sup> And word was given to Joab that the king was weeping and sorrowing for Absalom.
+**¹** And word was given to Joab that the king was weeping and sorrowing for Absalom.
 
-<sup>2</sup> And the salvation of that day was changed to sorrow for all the people: for it was said to the people, The king is in bitter grief for his son.
+**²** And the salvation of that day was changed to sorrow for all the people: for it was said to the people, The king is in bitter grief for his son.
 
-<sup>3</sup> And the people made their way back to the town quietly and secretly, as those who are shamed go secretly when they go in flight from the war.
+**³** And the people made their way back to the town quietly and secretly, as those who are shamed go secretly when they go in flight from the war.
 
-<sup>4</sup> But the king, covering his face, gave a great cry, O my son Absalom, O Absalom, my son, my son!
+**⁴** But the king, covering his face, gave a great cry, O my son Absalom, O Absalom, my son, my son!
 
-<sup>5</sup> And Joab came into the house to the king and said, Today you have put to shame the faces of all your servants who even now have kept you and your sons and your daughters and your wives and all your women safe from death;
+**⁵** And Joab came into the house to the king and said, Today you have put to shame the faces of all your servants who even now have kept you and your sons and your daughters and your wives and all your women safe from death;
 
-<sup>6</sup> For your haters, it seems, are dear to you, and your friends are hated. For you have made it clear that captains and servants are nothing to you: and now I see that if Absalom was living and we had all been dead today, it would have been right in your eyes.
+**⁶** For your haters, it seems, are dear to you, and your friends are hated. For you have made it clear that captains and servants are nothing to you: and now I see that if Absalom was living and we had all been dead today, it would have been right in your eyes.
 
-<sup>7</sup> So get up now, and go out and say some kind words to your servants; for, by the Lord, I give you my oath, that if you do not go out, not one of them will keep with you tonight; and that will be worse for you than all the evil which has overtaken you from your earliest years.
+**⁷** So get up now, and go out and say some kind words to your servants; for, by the Lord, I give you my oath, that if you do not go out, not one of them will keep with you tonight; and that will be worse for you than all the evil which has overtaken you from your earliest years.
 
-<sup>8</sup> Then the king got up and took his seat near the town-door. And word was given to all the people that the king was in the public place: and all the people came before the king. Now all the men of Israel had gone back in flight to their tents.
+**⁸** Then the king got up and took his seat near the town-door. And word was given to all the people that the king was in the public place: and all the people came before the king. Now all the men of Israel had gone back in flight to their tents.
 
-<sup>9</sup> And through all the tribes of Israel the people were having arguments, saying, The king made us safe from the hands of those who were against us and made us free from the hands of the Philistines; and now he has gone in flight from the land, because of Absalom.
+**⁹** And through all the tribes of Israel the people were having arguments, saying, The king made us safe from the hands of those who were against us and made us free from the hands of the Philistines; and now he has gone in flight from the land, because of Absalom.
 
-<sup>10</sup> And Absalom, whom we made a ruler over us, is dead in the fight. So now why do you say nothing about getting the king back? And word of what all Israel was saying came to the king.
+**¹⁰** And Absalom, whom we made a ruler over us, is dead in the fight. So now why do you say nothing about getting the king back? And word of what all Israel was saying came to the king.
 
-<sup>11</sup> And King David sent word to Zadok and Abiathar, the priests, Say to the responsible men of Judah, Why are you the last to take steps to get the king back to his house?
+**¹¹** And King David sent word to Zadok and Abiathar, the priests, Say to the responsible men of Judah, Why are you the last to take steps to get the king back to his house?
 
-<sup>12</sup> You are my brothers, my bone and my flesh; why are you the last to get the king back again?
+**¹²** You are my brothers, my bone and my flesh; why are you the last to get the king back again?
 
-<sup>13</sup> And say to Amasa, Are you not my bone and my flesh? May God's punishment be on me, if I do not make you chief of the army before me at all times in place of Joab!
+**¹³** And say to Amasa, Are you not my bone and my flesh? May God's punishment be on me, if I do not make you chief of the army before me at all times in place of Joab!
 
-<sup>14</sup> And the hearts of the men of Judah were moved like one man; so that they sent to the king, saying, Come back, with all your servants.
+**¹⁴** And the hearts of the men of Judah were moved like one man; so that they sent to the king, saying, Come back, with all your servants.
 
-<sup>15</sup> So the king came back, and came as far as Jordan. And Judah came to Gilgal, meeting the king there, to take him back with them over Jordan.
+**¹⁵** So the king came back, and came as far as Jordan. And Judah came to Gilgal, meeting the king there, to take him back with them over Jordan.
 
-<sup>16</sup> And Shimei, the son of Gera, the Benjamite from Bahurim, got up quickly and went down with the men of Judah for the purpose of meeting King David;
+**¹⁶** And Shimei, the son of Gera, the Benjamite from Bahurim, got up quickly and went down with the men of Judah for the purpose of meeting King David;
 
-<sup>17</sup> And with him a thousand men of Benjamin, and Ziba, the servant of Saul, with his fifteen sons and twenty servants, came rushing to Jordan before the king,
+**¹⁷** And with him a thousand men of Benjamin, and Ziba, the servant of Saul, with his fifteen sons and twenty servants, came rushing to Jordan before the king,
 
-<sup>18</sup> And kept going across the river to take the people of the king's house over, and to do whatever was desired by the king. And Shimei, the son of Gera, went down on his face in the dust before the king, when he was about to go over Jordan,
+**¹⁸** And kept going across the river to take the people of the king's house over, and to do whatever was desired by the king. And Shimei, the son of Gera, went down on his face in the dust before the king, when he was about to go over Jordan,
 
-<sup>19</sup> And said to him, Let me not be judged as a sinner in your eyes, O my lord, and do not keep in mind the wrong I did on the day when my lord the king went out of Jerusalem, or take it to heart.
+**¹⁹** And said to him, Let me not be judged as a sinner in your eyes, O my lord, and do not keep in mind the wrong I did on the day when my lord the king went out of Jerusalem, or take it to heart.
 
-<sup>20</sup> For your servant is conscious of his sin: and so, as you see, I have come today, the first of all the sons of Joseph, for the purpose of meeting my lord the king.
+**²⁰** For your servant is conscious of his sin: and so, as you see, I have come today, the first of all the sons of Joseph, for the purpose of meeting my lord the king.
 
-<sup>21</sup> But Abishai, the son of Zeruiah, said, Is not death the right fate for Shimei, because he has been cursing the one marked by the holy oil?
+**²¹** But Abishai, the son of Zeruiah, said, Is not death the right fate for Shimei, because he has been cursing the one marked by the holy oil?
 
-<sup>22</sup> And David said, What have I to do with you, you sons of Zeruiah, that you put yourselves against me today? is it right for any man in Israel to be put to death today? for I am certain today that I am king in Israel.
+**²²** And David said, What have I to do with you, you sons of Zeruiah, that you put yourselves against me today? is it right for any man in Israel to be put to death today? for I am certain today that I am king in Israel.
 
-<sup>23</sup> So the king said to Shimei, You will not be put to death. And the king gave him his oath.
+**²³** So the king said to Shimei, You will not be put to death. And the king gave him his oath.
 
-<sup>24</sup> And Mephibosheth, the son of Saul's son, came down for the purpose of meeting the king; his feet had not been cared for or his hair cut or his clothing washed from the day when the king went away till the day when he came back in peace.
+**²⁴** And Mephibosheth, the son of Saul's son, came down for the purpose of meeting the king; his feet had not been cared for or his hair cut or his clothing washed from the day when the king went away till the day when he came back in peace.
 
-<sup>25</sup> Now when he had come from Jerusalem to see the king, the king said to him, Why did you not come with me, Mephibosheth?
+**²⁵** Now when he had come from Jerusalem to see the king, the king said to him, Why did you not come with me, Mephibosheth?
 
-<sup>26</sup> And he said in answer, Because of the deceit of my servant, my lord king: for I, your servant, said to him, You are to make ready an ass and on it I will go with the king, for your servant has not the use of his feet.
+**²⁶** And he said in answer, Because of the deceit of my servant, my lord king: for I, your servant, said to him, You are to make ready an ass and on it I will go with the king, for your servant has not the use of his feet.
 
-<sup>27</sup> He has given you a false account of me: but my lord the king is like the angel of God: do then whatever seems good to you.
+**²⁷** He has given you a false account of me: but my lord the king is like the angel of God: do then whatever seems good to you.
 
-<sup>28</sup> For all my father's family were only dead men before my lord the king: and still you put your servant among those whose place is at the king's table. What right then have I to say anything more to the king?
+**²⁸** For all my father's family were only dead men before my lord the king: and still you put your servant among those whose place is at the king's table. What right then have I to say anything more to the king?
 
-<sup>29</sup> And the king said, Say nothing more about these things. I say, Let there be a division of the land between Ziba and you.
+**²⁹** And the king said, Say nothing more about these things. I say, Let there be a division of the land between Ziba and you.
 
-<sup>30</sup> And Mephibosheth said, Let him take it all, now that my lord the king has come back to his house in peace!
+**³⁰** And Mephibosheth said, Let him take it all, now that my lord the king has come back to his house in peace!
 
-<sup>31</sup> And Barzillai the Gileadite came down from Rogelim; and he went on as far as Jordan with the king to take him across Jordan.
+**³¹** And Barzillai the Gileadite came down from Rogelim; and he went on as far as Jordan with the king to take him across Jordan.
 
-<sup>32</sup> Now Barzillai was a very old man, as much as eighty years old: and he had given the king everything he had need of, while he was at Mahanaim, for he was a very great man.
+**³²** Now Barzillai was a very old man, as much as eighty years old: and he had given the king everything he had need of, while he was at Mahanaim, for he was a very great man.
 
-<sup>33</sup> And the king said to Barzillai, Come over with me, and I will take care of you in Jerusalem.
+**³³** And the king said to Barzillai, Come over with me, and I will take care of you in Jerusalem.
 
-<sup>34</sup> And Barzillai said to the king, How much of my life is still before me, for me to go up to Jerusalem with the king?
+**³⁴** And Barzillai said to the king, How much of my life is still before me, for me to go up to Jerusalem with the king?
 
-<sup>35</sup> I am now eighty years old: good and bad are the same to me; have meat and drink any taste for me now? am I able to take pleasure in the voices of men or women in song? why then am I to be a trouble to my lord the king?
+**³⁵** I am now eighty years old: good and bad are the same to me; have meat and drink any taste for me now? am I able to take pleasure in the voices of men or women in song? why then am I to be a trouble to my lord the king?
 
-<sup>36</sup> Your servant's desire was only to take the king over Jordan; why is the king to give me such a reward?
+**³⁶** Your servant's desire was only to take the king over Jordan; why is the king to give me such a reward?
 
-<sup>37</sup> Let your servant now go back again, so that when death comes to me, it may be in my town and by the resting-place of my father and mother. But here is your servant Chimham: let him go with my lord the king, and do for him what seems good to you.
+**³⁷** Let your servant now go back again, so that when death comes to me, it may be in my town and by the resting-place of my father and mother. But here is your servant Chimham: let him go with my lord the king, and do for him what seems good to you.
 
-<sup>38</sup> And the king said in answer, Let Chimham go over with me, and I will do for him whatever seems good to you: and whatever your desire is, I will do it for you.
+**³⁸** And the king said in answer, Let Chimham go over with me, and I will do for him whatever seems good to you: and whatever your desire is, I will do it for you.
 
-<sup>39</sup> Then all the people went over Jordan, and the king went over: and the king gave Barzillai a kiss, with his blessing; and he went back to his place.
+**³⁹** Then all the people went over Jordan, and the king went over: and the king gave Barzillai a kiss, with his blessing; and he went back to his place.
 
-<sup>40</sup> So the king went over to Gilgal, and Chimham went with him: and all the people of Judah, as well as half the people of Israel, took the king on his way.
+**⁴⁰** So the king went over to Gilgal, and Chimham went with him: and all the people of Judah, as well as half the people of Israel, took the king on his way.
 
-<sup>41</sup> Then the men of Israel came to the king and said, Why have our countrymen of Judah taken you away in secret and come over Jordan with the king and all his family, because all his people are David's men?
+**⁴¹** Then the men of Israel came to the king and said, Why have our countrymen of Judah taken you away in secret and come over Jordan with the king and all his family, because all his people are David's men?
 
-<sup>42</sup> And all the men of Judah gave this answer to the men of Israel, Because the king is our near relation: why then are you angry about this? have we taken any of the king's food, or has he given us any offering?
+**⁴²** And all the men of Judah gave this answer to the men of Israel, Because the king is our near relation: why then are you angry about this? have we taken any of the king's food, or has he given us any offering?
 
-<sup>43</sup> And in answer to the men of Judah, the men of Israel said, We have ten parts in the king, and we are the first in order of birth: why did you make nothing of us? and were we not the first to make suggestions for getting the king back? And the words of the men of Judah were more violent than the words of the men of Israel.
+**⁴³** And in answer to the men of Judah, the men of Israel said, We have ten parts in the king, and we are the first in order of birth: why did you make nothing of us? and were we not the first to make suggestions for getting the king back? And the words of the men of Judah were more violent than the words of the men of Israel.

@@ -15,20 +15,20 @@ This repository contains a complete **Bible in Basic English (BBE)** translation
 ```
 # Psalm 23
 
-<sup>1</sup> A Psalm. Of David. The Lord takes care of me as his sheep; I will not be without any good thing. 
+**¹** A Psalm. Of David. The Lord takes care of me as his sheep; I will not be without any good thing. 
 
-<sup>2</sup> He makes a resting-place for me in the green fields: he is my guide by the quiet waters. 
+**²** He makes a resting-place for me in the green fields: he is my guide by the quiet waters. 
 ```
 
 `john/chapter-1.md`
 ```
 # Chapter 1
 
-<sup>1</sup> From the first he was the Word, and the Word was in relation with God and was God. 
+**¹** From the first he was the Word, and the Word was in relation with God and was God. 
 
-<sup>2</sup> This Word was from the first in relation with God. 
+**²** This Word was from the first in relation with God. 
 
-<sup>3</sup> All things came into existence through him, and without him nothing was. 
+**³** All things came into existence through him, and without him nothing was. 
 ```
 
 ## Usage

@@ -4,110 +4,110 @@ weight: 31
 
 # Chapter 31
 
-<sup>1</sup> Then the Lord said to Moses,
+**¹** Then the Lord said to Moses,
 
-<sup>2</sup> Give the Midianites punishment for the wrong they did to the children of Israel: and after that you will go to rest with your people.
+**²** Give the Midianites punishment for the wrong they did to the children of Israel: and after that you will go to rest with your people.
 
-<sup>3</sup> So Moses said to the people, Let men from among you be armed for war to put into effect against Midian the Lord's punishment on them.
+**³** So Moses said to the people, Let men from among you be armed for war to put into effect against Midian the Lord's punishment on them.
 
-<sup>4</sup> From every tribe of Israel send a thousand to the war.
+**⁴** From every tribe of Israel send a thousand to the war.
 
-<sup>5</sup> So from the thousands of Israel a thousand were taken from every tribe, twelve thousand men armed for war.
+**⁵** So from the thousands of Israel a thousand were taken from every tribe, twelve thousand men armed for war.
 
-<sup>6</sup> And Moses sent them out to war, a thousand from every tribe, and with them Phinehas, the son of Eleazar the priest, taking in his hands the vessels of the holy place and the horns for sounding the note of war.
+**⁶** And Moses sent them out to war, a thousand from every tribe, and with them Phinehas, the son of Eleazar the priest, taking in his hands the vessels of the holy place and the horns for sounding the note of war.
 
-<sup>7</sup> And they made war on Midian, as the Lord gave orders to Moses; and they put to death every male.
+**⁷** And they made war on Midian, as the Lord gave orders to Moses; and they put to death every male.
 
-<sup>8</sup> They put the kings of Midian to death with the rest, Evi and Reken and Zur and Hur and Reba, the five kings of Midian: and Balaam, the son of Beor, they put to death with the sword.
+**⁸** They put the kings of Midian to death with the rest, Evi and Reken and Zur and Hur and Reba, the five kings of Midian: and Balaam, the son of Beor, they put to death with the sword.
 
-<sup>9</sup> The women of Midian with their little ones the children of Israel took prisoner; and all their cattle and flocks and all their goods they took for themselves;
+**⁹** The women of Midian with their little ones the children of Israel took prisoner; and all their cattle and flocks and all their goods they took for themselves;
 
-<sup>10</sup> And after burning all their towns and all their tent-circles,
+**¹⁰** And after burning all their towns and all their tent-circles,
 
-<sup>11</sup> They went away with the goods they had taken, man and beast.
+**¹¹** They went away with the goods they had taken, man and beast.
 
-<sup>12</sup> And the prisoners and the goods and everything they had taken, they took to Moses and Eleazar the priest and the people of Israel, to the tent-circle in the lowlands of Moab by the Jordan at Jericho.
+**¹²** And the prisoners and the goods and everything they had taken, they took to Moses and Eleazar the priest and the people of Israel, to the tent-circle in the lowlands of Moab by the Jordan at Jericho.
 
-<sup>13</sup> Then Moses and Eleazar the priest and the chiefs of the people went out to them before they had come into the tent-circle.
+**¹³** Then Moses and Eleazar the priest and the chiefs of the people went out to them before they had come into the tent-circle.
 
-<sup>14</sup> And Moses was angry with the chiefs of the army, the captains of thousands and the captains of hundreds who had come back from the war.
+**¹⁴** And Moses was angry with the chiefs of the army, the captains of thousands and the captains of hundreds who had come back from the war.
 
-<sup>15</sup> And Moses said to them, Why have you kept all the women safe?
+**¹⁵** And Moses said to them, Why have you kept all the women safe?
 
-<sup>16</sup> It was these who, moved by Balaam, were the cause of Israel's sin against the Lord in the question of Peor, because of which disease came on the people of the Lord.
+**¹⁶** It was these who, moved by Balaam, were the cause of Israel's sin against the Lord in the question of Peor, because of which disease came on the people of the Lord.
 
-<sup>17</sup> So now put every male child to death, and every woman who has had sex relations with a man.
+**¹⁷** So now put every male child to death, and every woman who has had sex relations with a man.
 
-<sup>18</sup> But all the female children who have had no sex relations with men, you may keep for yourselves.
+**¹⁸** But all the female children who have had no sex relations with men, you may keep for yourselves.
 
-<sup>19</sup> You yourselves will have to keep outside the tent-circle for seven days, anyone of you who has put any person to death or come near a dead body; and on the third day and on the seventh day make yourselves and your prisoners clean.
+**¹⁹** You yourselves will have to keep outside the tent-circle for seven days, anyone of you who has put any person to death or come near a dead body; and on the third day and on the seventh day make yourselves and your prisoners clean.
 
-<sup>20</sup> And every bit of clothing, and anything made of leather or goats' hair or wood, you are to make clean.
+**²⁰** And every bit of clothing, and anything made of leather or goats' hair or wood, you are to make clean.
 
-<sup>21</sup> Then Eleazar the priest said to the men of war who had been to the fight, This is the rule of the law which the Lord has given to Moses:
+**²¹** Then Eleazar the priest said to the men of war who had been to the fight, This is the rule of the law which the Lord has given to Moses:
 
-<sup>22</sup> But gold and silver and brass and iron and tin and lead,
+**²²** But gold and silver and brass and iron and tin and lead,
 
-<sup>23</sup> And anything which may be heated, is to go through the fire and be made clean; but in addition it is to be put in the water of cleaning: and anything which may not go through the fire is to be put in the water.
+**²³** And anything which may be heated, is to go through the fire and be made clean; but in addition it is to be put in the water of cleaning: and anything which may not go through the fire is to be put in the water.
 
-<sup>24</sup> And on the seventh day, after washing your clothing, you will be clean, and then you may come into the tent-circle.
+**²⁴** And on the seventh day, after washing your clothing, you will be clean, and then you may come into the tent-circle.
 
-<sup>25</sup> And the Lord said to Moses,
+**²⁵** And the Lord said to Moses,
 
-<sup>26</sup> Get an account of everything which was taken in the war, of man and of beast, you and Eleazar the priest and the heads of families of the people:
+**²⁶** Get an account of everything which was taken in the war, of man and of beast, you and Eleazar the priest and the heads of families of the people:
 
-<sup>27</sup> And let division be made of it into two parts, one for the men of war who went out to the fight, and one for all the people:
+**²⁷** And let division be made of it into two parts, one for the men of war who went out to the fight, and one for all the people:
 
-<sup>28</sup> And from the men of war who went out let there be offered to the Lord one out of every five hundred, from the persons, and from the oxen and asses and sheep:
+**²⁸** And from the men of war who went out let there be offered to the Lord one out of every five hundred, from the persons, and from the oxen and asses and sheep:
 
-<sup>29</sup> Take this from their part and give it to Eleazar the priest as an offering to be lifted up to the Lord.
+**²⁹** Take this from their part and give it to Eleazar the priest as an offering to be lifted up to the Lord.
 
-<sup>30</sup> And from the part given to the children of Israel, take one out of every fifty, from the persons, and from the oxen and asses and sheep, and give it to the Levites who have the care of the House of the Lord.
+**³⁰** And from the part given to the children of Israel, take one out of every fifty, from the persons, and from the oxen and asses and sheep, and give it to the Levites who have the care of the House of the Lord.
 
-<sup>31</sup> So Eleazar and Moses did as the Lord had given orders to Moses.
+**³¹** So Eleazar and Moses did as the Lord had given orders to Moses.
 
-<sup>32</sup> Now the beasts taken, in addition to what the fighting-men took for themselves, were six hundred and seventy-five thousand sheep,
+**³²** Now the beasts taken, in addition to what the fighting-men took for themselves, were six hundred and seventy-five thousand sheep,
 
-<sup>33</sup> And seventy-two thousand oxen,
+**³³** And seventy-two thousand oxen,
 
-<sup>34</sup> And sixty-one thousand asses;
+**³⁴** And sixty-one thousand asses;
 
-<sup>35</sup> And thirty-two thousand persons, that is, women who had never had sex relations with a man.
+**³⁵** And thirty-two thousand persons, that is, women who had never had sex relations with a man.
 
-<sup>36</sup> And the half given as their part to the men who went to the war, was three hundred and thirty-seven thousand, five hundred sheep,
+**³⁶** And the half given as their part to the men who went to the war, was three hundred and thirty-seven thousand, five hundred sheep,
 
-<sup>37</sup> Of which the Lord's part was six hundred and seventy-five.
+**³⁷** Of which the Lord's part was six hundred and seventy-five.
 
-<sup>38</sup> The number of oxen was thirty-six thousand, of which the Lord's part was seventy-two;
+**³⁸** The number of oxen was thirty-six thousand, of which the Lord's part was seventy-two;
 
-<sup>39</sup> The number of asses was thirty thousand, five hundred, of which the Lord's part was sixty-one.
+**³⁹** The number of asses was thirty thousand, five hundred, of which the Lord's part was sixty-one.
 
-<sup>40</sup> And the number of persons was sixteen thousand, of which the Lord's part was thirty-two persons.
+**⁴⁰** And the number of persons was sixteen thousand, of which the Lord's part was thirty-two persons.
 
-<sup>41</sup> And Moses gave the Lord's part, lifted up as an offering, to Eleazar the priest, as the Lord had given orders to Moses.
+**⁴¹** And Moses gave the Lord's part, lifted up as an offering, to Eleazar the priest, as the Lord had given orders to Moses.
 
-<sup>42</sup> And from the half given to the children of Israel, which Moses had kept separate from that given to the fighting-men,
+**⁴²** And from the half given to the children of Israel, which Moses had kept separate from that given to the fighting-men,
 
-<sup>43</sup> (Now the people's half was three hundred and thirty-seven thousand, five hundred sheep,
+**⁴³** (Now the people's half was three hundred and thirty-seven thousand, five hundred sheep,
 
-<sup>44</sup> And thirty-six thousand oxen,
+**⁴⁴** And thirty-six thousand oxen,
 
-<sup>45</sup> And thirty thousand, five hundred asses,
+**⁴⁵** And thirty thousand, five hundred asses,
 
-<sup>46</sup> And sixteen thousand persons;)
+**⁴⁶** And sixteen thousand persons;)
 
-<sup>47</sup> Even from the children of Israel's half, Moses took one out of every fifty, men and beasts, and gave them to the Levites who had the care of the House of the Lord; as the Lord gave orders to Moses.
+**⁴⁷** Even from the children of Israel's half, Moses took one out of every fifty, men and beasts, and gave them to the Levites who had the care of the House of the Lord; as the Lord gave orders to Moses.
 
-<sup>48</sup> Then the men in authority over the thousands of the army, the captains of thousands and captains of hundreds, came to Moses,
+**⁴⁸** Then the men in authority over the thousands of the army, the captains of thousands and captains of hundreds, came to Moses,
 
-<sup>49</sup> And said to him, Your servants have taken note of the number of all the fighting-men under our orders, and every one is present;
+**⁴⁹** And said to him, Your servants have taken note of the number of all the fighting-men under our orders, and every one is present;
 
-<sup>50</sup> And we have here an offering for the Lord from what every man took in the war, ornaments of gold, leg-chains and arm-rings, finger-rings, ear-rings, and neck-ornaments, to make our souls free from sin before the Lord.
+**⁵⁰** And we have here an offering for the Lord from what every man took in the war, ornaments of gold, leg-chains and arm-rings, finger-rings, ear-rings, and neck-ornaments, to make our souls free from sin before the Lord.
 
-<sup>51</sup> So Moses and Eleazar the priest took the gold from them, even all the worked ornaments.
+**⁵¹** So Moses and Eleazar the priest took the gold from them, even all the worked ornaments.
 
-<sup>52</sup> And the gold which the captains of thousands and captains of hundreds gave, as an offering to be lifted up before the Lord, came to sixteen thousand, seven hundred and fifty shekels.
+**⁵²** And the gold which the captains of thousands and captains of hundreds gave, as an offering to be lifted up before the Lord, came to sixteen thousand, seven hundred and fifty shekels.
 
-<sup>53</sup> (For every man of the army had taken goods for himself in the war.)
+**⁵³** (For every man of the army had taken goods for himself in the war.)
 
-<sup>54</sup> Then Moses and Eleazar the priest took the gold given by the captains of thousands and captains of hundreds, and took it into the Tent of meeting, to be a sign in memory of the children of Israel before the Lord.
+**⁵⁴** Then Moses and Eleazar the priest took the gold given by the captains of thousands and captains of hundreds, and took it into the Tent of meeting, to be a sign in memory of the children of Israel before the Lord.

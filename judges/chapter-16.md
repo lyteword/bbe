@@ -4,64 +4,64 @@ weight: 16
 
 # Chapter 16
 
-<sup>1</sup> Now Samson went to Gaza, and there he saw a loose woman and went in to her.
+**¹** Now Samson went to Gaza, and there he saw a loose woman and went in to her.
 
-<sup>2</sup> And it was said to the Gazites, Samson is here. So they went round, watching for him all day at the doorway of the town, but at night they kept quiet, saying, When daylight comes we will put him to death.
+**²** And it was said to the Gazites, Samson is here. So they went round, watching for him all day at the doorway of the town, but at night they kept quiet, saying, When daylight comes we will put him to death.
 
-<sup>3</sup> And Samson was there till the middle of the night; then he got up, and took a grip on the doors of the town, pulling them up, together with their two supports and their locks, and put them on his back and took them up to the top of the hill in front of Hebron.
+**³** And Samson was there till the middle of the night; then he got up, and took a grip on the doors of the town, pulling them up, together with their two supports and their locks, and put them on his back and took them up to the top of the hill in front of Hebron.
 
-<sup>4</sup> Now after this, he was in love with a woman in the valley of Sorek, named Delilah.
+**⁴** Now after this, he was in love with a woman in the valley of Sorek, named Delilah.
 
-<sup>5</sup> And the chiefs of the Philistines came up to her, and said to her, Make use of your power over him and see what is the secret of his great strength, and how we may get the better of him, and put bands on him, so that we may make him feeble; and every one of us will give you eleven hundred shekels of silver.
+**⁵** And the chiefs of the Philistines came up to her, and said to her, Make use of your power over him and see what is the secret of his great strength, and how we may get the better of him, and put bands on him, so that we may make him feeble; and every one of us will give you eleven hundred shekels of silver.
 
-<sup>6</sup> So Delilah said to Samson, Make clear to me now what is the secret of your great strength, and how you may be put in bands and made feeble.
+**⁶** So Delilah said to Samson, Make clear to me now what is the secret of your great strength, and how you may be put in bands and made feeble.
 
-<sup>7</sup> And Samson said to her, If seven new bow-cords which have never been made dry are knotted round me, I will become feeble and will be like any other man.
+**⁷** And Samson said to her, If seven new bow-cords which have never been made dry are knotted round me, I will become feeble and will be like any other man.
 
-<sup>8</sup> So the chiefs of the Philistines gave her seven new bow-cords which had never been made dry, and she had them tightly knotted round him.
+**⁸** So the chiefs of the Philistines gave her seven new bow-cords which had never been made dry, and she had them tightly knotted round him.
 
-<sup>9</sup> Now she had men waiting secretly in the inner room; and she said to him, The Philistines are on you, Samson. And the cords were broken by him as a twist of thread is broken when touched by a flame. So the secret of his strength did not come to light.
+**⁹** Now she had men waiting secretly in the inner room; and she said to him, The Philistines are on you, Samson. And the cords were broken by him as a twist of thread is broken when touched by a flame. So the secret of his strength did not come to light.
 
-<sup>10</sup> Then Delilah said to Samson, See, you have been making sport of me with false words; now, say truly how may you be put in bands?
+**¹⁰** Then Delilah said to Samson, See, you have been making sport of me with false words; now, say truly how may you be put in bands?
 
-<sup>11</sup> And he said to her, If they only put round me new thick cords which have never been used, then I will become feeble and will be like any other man.
+**¹¹** And he said to her, If they only put round me new thick cords which have never been used, then I will become feeble and will be like any other man.
 
-<sup>12</sup> So Delilah took new thick cords, knotting them tightly round him, and said to him, The Philistines are on you, Samson. And men were waiting secretly in the inner room. And the cords were broken off his arms like threads.
+**¹²** So Delilah took new thick cords, knotting them tightly round him, and said to him, The Philistines are on you, Samson. And men were waiting secretly in the inner room. And the cords were broken off his arms like threads.
 
-<sup>13</sup> Then Delilah said to Samson, Up to now you have made sport of me with false words; now say truly, how may you be put in bands? And he said to her, If you get the seven twists of my hair worked into the cloth you are making and fixed with the pin, I will become feeble and will be like any other man.
+**¹³** Then Delilah said to Samson, Up to now you have made sport of me with false words; now say truly, how may you be put in bands? And he said to her, If you get the seven twists of my hair worked into the cloth you are making and fixed with the pin, I will become feeble and will be like any other man.
 
-<sup>14</sup> So while he was sleeping she got the seven twists of his hair worked into her cloth and fixed with the pin, and said to him, The Philistines are on you, Samson. Then awaking from his sleep, he got up quickly, pulling up cloth and machine together.
+**¹⁴** So while he was sleeping she got the seven twists of his hair worked into her cloth and fixed with the pin, and said to him, The Philistines are on you, Samson. Then awaking from his sleep, he got up quickly, pulling up cloth and machine together.
 
-<sup>15</sup> And she said to him, Why do you say you are my lover when your heart is not mine? Three times you have made sport of me, and have not made clear to me the secret of your great strength.
+**¹⁵** And she said to him, Why do you say you are my lover when your heart is not mine? Three times you have made sport of me, and have not made clear to me the secret of your great strength.
 
-<sup>16</sup> So day after day she gave him no peace, for ever questioning him till his soul was troubled to death.
+**¹⁶** So day after day she gave him no peace, for ever questioning him till his soul was troubled to death.
 
-<sup>17</sup> And opening all his heart to her, he said to her, My head has never been touched by a blade, for I have been separate to God from the day of my birth: if my hair is cut off, then my strength will go from me and I will become feeble, and will be like any other man.
+**¹⁷** And opening all his heart to her, he said to her, My head has never been touched by a blade, for I have been separate to God from the day of my birth: if my hair is cut off, then my strength will go from me and I will become feeble, and will be like any other man.
 
-<sup>18</sup> And when Delilah saw that he had let her see into his heart, she sent word to the chiefs of the Philistines saying, Come up this time, for he has let out all his heart to me. Then the chiefs of the Philistines came to her, with the money in their hands.
+**¹⁸** And when Delilah saw that he had let her see into his heart, she sent word to the chiefs of the Philistines saying, Come up this time, for he has let out all his heart to me. Then the chiefs of the Philistines came to her, with the money in their hands.
 
-<sup>19</sup> And she made him go to sleep on her knees; and she sent for a man and had his seven twists of hair cut off; and while it was being done he became feeble and his strength went from him.
+**¹⁹** And she made him go to sleep on her knees; and she sent for a man and had his seven twists of hair cut off; and while it was being done he became feeble and his strength went from him.
 
-<sup>20</sup> Then she said, The Philistines are on you, Samson. And awaking from his sleep, he said, I will go out as at other times, shaking myself free. But he was not conscious that the Lord had gone from him.
+**²⁰** Then she said, The Philistines are on you, Samson. And awaking from his sleep, he said, I will go out as at other times, shaking myself free. But he was not conscious that the Lord had gone from him.
 
-<sup>21</sup> So the Philistines took him and put out his eyes; then they took him down to Gaza, and, chaining him with bands of brass, put him to work crushing grain in the prison-house.
+**²¹** So the Philistines took him and put out his eyes; then they took him down to Gaza, and, chaining him with bands of brass, put him to work crushing grain in the prison-house.
 
-<sup>22</sup> But the growth of his hair was starting again after it had been cut off.
+**²²** But the growth of his hair was starting again after it had been cut off.
 
-<sup>23</sup> And the chiefs of the Philistines came together to make a great offering to Dagon their god, and to be glad; for they said, Our god has given into our hands Samson our hater.
+**²³** And the chiefs of the Philistines came together to make a great offering to Dagon their god, and to be glad; for they said, Our god has given into our hands Samson our hater.
 
-<sup>24</sup> And when the people saw him, they gave praise to their god; for they said, Our god has given into our hands the one who was fighting against us, who made our country waste, and who put great numbers of us to death.
+**²⁴** And when the people saw him, they gave praise to their god; for they said, Our god has given into our hands the one who was fighting against us, who made our country waste, and who put great numbers of us to death.
 
-<sup>25</sup> Now when their hearts were full of joy, they said, Send for Samson to make sport for us. And they sent for Samson out of the prison-house, and he made sport before them; and they put him between the pillars.
+**²⁵** Now when their hearts were full of joy, they said, Send for Samson to make sport for us. And they sent for Samson out of the prison-house, and he made sport before them; and they put him between the pillars.
 
-<sup>26</sup> And Samson said to the boy who took him by the hand, Let me put my hand on the pillars supporting the house, so that I may put my back against them.
+**²⁶** And Samson said to the boy who took him by the hand, Let me put my hand on the pillars supporting the house, so that I may put my back against them.
 
-<sup>27</sup> Now the house was full of men and women; and all the lords of the Philistines were there; and about three thousand men and women were on the roof, looking on while Samson made sport.
+**²⁷** Now the house was full of men and women; and all the lords of the Philistines were there; and about three thousand men and women were on the roof, looking on while Samson made sport.
 
-<sup>28</sup> And Samson, crying out to the Lord, said, O Lord God, do have me now in mind, and do make me strong only this once, O God, so that I may take one last payment from the Philistines for my two eyes.
+**²⁸** And Samson, crying out to the Lord, said, O Lord God, do have me now in mind, and do make me strong only this once, O God, so that I may take one last payment from the Philistines for my two eyes.
 
-<sup>29</sup> Then Samson put his arms round the two middle pillars supporting the house, putting his weight on them, on one with his right hand and on the other with his left.
+**²⁹** Then Samson put his arms round the two middle pillars supporting the house, putting his weight on them, on one with his right hand and on the other with his left.
 
-<sup>30</sup> And Samson said, Let death overtake me with the Philistines. And he put out all his strength, and the house came down on the chiefs and on all the people who were in it. So the dead whom he sent to destruction by his death were more than all those on whom he had sent destruction in his life.
+**³⁰** And Samson said, Let death overtake me with the Philistines. And he put out all his strength, and the house came down on the chiefs and on all the people who were in it. So the dead whom he sent to destruction by his death were more than all those on whom he had sent destruction in his life.
 
-<sup>31</sup> Then his brothers and his father's people came down and took him up and put his body to rest in the earth between Zorah and Eshtaol in the resting-place of Manoah his father. And he had been judge of Israel for twenty years.
+**³¹** Then his brothers and his father's people came down and took him up and put his body to rest in the earth between Zorah and Eshtaol in the resting-place of Manoah his father. And he had been judge of Israel for twenty years.

@@ -4,90 +4,90 @@ weight: 23
 
 # Chapter 23
 
-<sup>1</sup> And the Lord said to Moses,
+**¹** And the Lord said to Moses,
 
-<sup>2</sup> Say to the children of Israel, These are the fixed feasts of the Lord, which you will keep for holy meetings: these are my feasts.
+**²** Say to the children of Israel, These are the fixed feasts of the Lord, which you will keep for holy meetings: these are my feasts.
 
-<sup>3</sup> On six days work may be done; but the seventh day is a special day of rest, a time for worship; you may do no sort of work: it is a Sabbath to the Lord wherever you may be living.
+**³** On six days work may be done; but the seventh day is a special day of rest, a time for worship; you may do no sort of work: it is a Sabbath to the Lord wherever you may be living.
 
-<sup>4</sup> These are the fixed feasts of the Lord, the holy days of worship which you will keep at their regular times.
+**⁴** These are the fixed feasts of the Lord, the holy days of worship which you will keep at their regular times.
 
-<sup>5</sup> In the first month, on the fourteenth day of the month at nightfall, is the Lord's Passover;
+**⁵** In the first month, on the fourteenth day of the month at nightfall, is the Lord's Passover;
 
-<sup>6</sup> And on the fifteenth day of the same month is the feast of unleavened bread; for seven days let your food be unleavened bread.
+**⁶** And on the fifteenth day of the same month is the feast of unleavened bread; for seven days let your food be unleavened bread.
 
-<sup>7</sup> On the first day you will have a holy meeting; you may do no sort of field-work.
+**⁷** On the first day you will have a holy meeting; you may do no sort of field-work.
 
-<sup>8</sup> And every day for seven days you will give a burned offering to the Lord; and on the seventh day there will be a holy meeting; you may do no field-work.
+**⁸** And every day for seven days you will give a burned offering to the Lord; and on the seventh day there will be a holy meeting; you may do no field-work.
 
-<sup>9</sup> And the Lord said to Moses,
+**⁹** And the Lord said to Moses,
 
-<sup>10</sup> Say to the children of Israel, When you have come to the land which I will give you, and have got in the grain from its fields, take some of the first-fruits of the grain to the priest;
+**¹⁰** Say to the children of Israel, When you have come to the land which I will give you, and have got in the grain from its fields, take some of the first-fruits of the grain to the priest;
 
-<sup>11</sup> And let the grain be waved before the Lord, so that you may be pleasing to him; on the day after the Sabbath let it be waved by the priest.
+**¹¹** And let the grain be waved before the Lord, so that you may be pleasing to him; on the day after the Sabbath let it be waved by the priest.
 
-<sup>12</sup> And on the day of the waving of the grain, you are to give a male lamb of the first year, without any mark, for a burned offering to the Lord.
+**¹²** And on the day of the waving of the grain, you are to give a male lamb of the first year, without any mark, for a burned offering to the Lord.
 
-<sup>13</sup> And let the meal offering with it be two tenth parts of an ephah of the best meal mixed with oil, an offering made by fire to the Lord for a sweet smell; and the drink offering with it is to be of wine, the fourth part of a hin.
+**¹³** And let the meal offering with it be two tenth parts of an ephah of the best meal mixed with oil, an offering made by fire to the Lord for a sweet smell; and the drink offering with it is to be of wine, the fourth part of a hin.
 
-<sup>14</sup> And you may take no bread or dry grain or new grain for food till the very day on which you have given the offering for your God: this is a rule for ever through all your generations wherever you are living.
+**¹⁴** And you may take no bread or dry grain or new grain for food till the very day on which you have given the offering for your God: this is a rule for ever through all your generations wherever you are living.
 
-<sup>15</sup> And let seven full weeks be numbered from the day after the Sabbath, the day when you give the grain for the wave offering;
+**¹⁵** And let seven full weeks be numbered from the day after the Sabbath, the day when you give the grain for the wave offering;
 
-<sup>16</sup> Let fifty days be numbered, to the day after the seventh Sabbath; then you are to give a new meal offering to the Lord.
+**¹⁶** Let fifty days be numbered, to the day after the seventh Sabbath; then you are to give a new meal offering to the Lord.
 
-<sup>17</sup> Take from your houses two cakes of bread, made of a fifth part of an ephah of the best meal, cooked with leaven, to be waved for first-fruits to the Lord.
+**¹⁷** Take from your houses two cakes of bread, made of a fifth part of an ephah of the best meal, cooked with leaven, to be waved for first-fruits to the Lord.
 
-<sup>18</sup> And with the bread, take seven lambs of the first year, without any marks, and one ox and two male sheep, to be a burned offering to the Lord, with their meal offering and their drink offerings, an offering of a sweet smell made by fire to the Lord.
+**¹⁸** And with the bread, take seven lambs of the first year, without any marks, and one ox and two male sheep, to be a burned offering to the Lord, with their meal offering and their drink offerings, an offering of a sweet smell made by fire to the Lord.
 
-<sup>19</sup> And you are to give one male goat for a sin-offering and two male lambs of the first year for peace-offerings.
+**¹⁹** And you are to give one male goat for a sin-offering and two male lambs of the first year for peace-offerings.
 
-<sup>20</sup> And these will be waved by the priest, with the bread of the first-fruits, for a wave offering to the Lord, with the two lambs: they will be holy to the Lord for the priest.
+**²⁰** And these will be waved by the priest, with the bread of the first-fruits, for a wave offering to the Lord, with the two lambs: they will be holy to the Lord for the priest.
 
-<sup>21</sup> And on the same day, let it be given out that there will be a holy meeting for you: you may do no field-work on that day: it is a rule for ever through all your generations wherever you are living.
+**²¹** And on the same day, let it be given out that there will be a holy meeting for you: you may do no field-work on that day: it is a rule for ever through all your generations wherever you are living.
 
-<sup>22</sup> And when you get in the grain from your land, do not let all the grain at the edges of the field be cut, and do not take up the grain which has been dropped in the field; let that be for the poor, and for the man from another country: I am the Lord your God.
+**²²** And when you get in the grain from your land, do not let all the grain at the edges of the field be cut, and do not take up the grain which has been dropped in the field; let that be for the poor, and for the man from another country: I am the Lord your God.
 
-<sup>23</sup> And the Lord said to Moses,
+**²³** And the Lord said to Moses,
 
-<sup>24</sup> Say to the children of Israel, In the seventh month, on the first day of the month, let there be a special day of rest for you, a day of memory, marked by the blowing of horns, a meeting for worship.
+**²⁴** Say to the children of Israel, In the seventh month, on the first day of the month, let there be a special day of rest for you, a day of memory, marked by the blowing of horns, a meeting for worship.
 
-<sup>25</sup> Do no field-work and give to the Lord an offering made by fire.
+**²⁵** Do no field-work and give to the Lord an offering made by fire.
 
-<sup>26</sup> And the Lord said to Moses,
+**²⁶** And the Lord said to Moses,
 
-<sup>27</sup> The tenth day of this seventh month is the day for the taking away of sin; let it be a holy day of worship; you are to keep from pleasure, and give to the Lord an offering made by fire.
+**²⁷** The tenth day of this seventh month is the day for the taking away of sin; let it be a holy day of worship; you are to keep from pleasure, and give to the Lord an offering made by fire.
 
-<sup>28</sup> And on that day you may do no sort of work, for it is a day of taking away sin, to make you clean before the Lord your God.
+**²⁸** And on that day you may do no sort of work, for it is a day of taking away sin, to make you clean before the Lord your God.
 
-<sup>29</sup> For any person, whoever he may be, who takes his pleasure on that day will be cut off from his people.
+**²⁹** For any person, whoever he may be, who takes his pleasure on that day will be cut off from his people.
 
-<sup>30</sup> And if any person, whoever he may be, on that day does any sort of work, I will send destruction on him from among his people.
+**³⁰** And if any person, whoever he may be, on that day does any sort of work, I will send destruction on him from among his people.
 
-<sup>31</sup> You may not do any sort of work: this is an order for ever through all your generations wherever you may be living.
+**³¹** You may not do any sort of work: this is an order for ever through all your generations wherever you may be living.
 
-<sup>32</sup> Let this be a Sabbath of special rest to you, and keep yourselves from all pleasure; on the ninth day of the month at nightfall from evening to evening, let this Sabbath be kept.
+**³²** Let this be a Sabbath of special rest to you, and keep yourselves from all pleasure; on the ninth day of the month at nightfall from evening to evening, let this Sabbath be kept.
 
-<sup>33</sup> And the Lord said to Moses,
+**³³** And the Lord said to Moses,
 
-<sup>34</sup> Say to the children of Israel, On the fifteenth day of this seventh month let the feast of tents be kept to the Lord for seven days.
+**³⁴** Say to the children of Israel, On the fifteenth day of this seventh month let the feast of tents be kept to the Lord for seven days.
 
-<sup>35</sup> On the first day there will be a holy meeting: do no field-work.
+**³⁵** On the first day there will be a holy meeting: do no field-work.
 
-<sup>36</sup> Every day for seven days give an offering made by fire to the Lord; and on the eighth day there is to be a holy meeting, when you are to give an offering made by fire to the Lord; this is a special holy day: you may do no field-work on that day.
+**³⁶** Every day for seven days give an offering made by fire to the Lord; and on the eighth day there is to be a holy meeting, when you are to give an offering made by fire to the Lord; this is a special holy day: you may do no field-work on that day.
 
-<sup>37</sup> These are the fixed feasts of the Lord, to be kept by you as holy days of worship, for making an offering by fire to the Lord; a burned offering, a meal offering, an offering of beasts, and drink offerings; every one on its special day;
+**³⁷** These are the fixed feasts of the Lord, to be kept by you as holy days of worship, for making an offering by fire to the Lord; a burned offering, a meal offering, an offering of beasts, and drink offerings; every one on its special day;
 
-<sup>38</sup> In addition to the Sabbaths of the Lord, and in addition to the things you give and the oaths you make and the free offerings to the Lord.
+**³⁸** In addition to the Sabbaths of the Lord, and in addition to the things you give and the oaths you make and the free offerings to the Lord.
 
-<sup>39</sup> But on the fifteenth day of the seventh month, when you have got in all the fruits of the land, you will keep the feast of the Lord for seven days: the first day will be a Sabbath, and the eighth day the same.
+**³⁹** But on the fifteenth day of the seventh month, when you have got in all the fruits of the land, you will keep the feast of the Lord for seven days: the first day will be a Sabbath, and the eighth day the same.
 
-<sup>40</sup> On the first day, take the fruit of fair trees, branches of palm-trees, and branches of thick trees and trees from the riverside, and be glad before the Lord for seven days.
+**⁴⁰** On the first day, take the fruit of fair trees, branches of palm-trees, and branches of thick trees and trees from the riverside, and be glad before the Lord for seven days.
 
-<sup>41</sup> And let this feast be kept before the Lord for seven days in the year: it is a rule for ever from generation to generation; in the seventh month let it be kept.
+**⁴¹** And let this feast be kept before the Lord for seven days in the year: it is a rule for ever from generation to generation; in the seventh month let it be kept.
 
-<sup>42</sup> For seven days you will be living in tents; all those who are Israelites by birth are to make tents their living-places:
+**⁴²** For seven days you will be living in tents; all those who are Israelites by birth are to make tents their living-places:
 
-<sup>43</sup> So that future generations may keep in mind how I gave the children of Israel tents as their living-places when I took them out of the land of Egypt: I am the Lord your God.
+**⁴³** So that future generations may keep in mind how I gave the children of Israel tents as their living-places when I took them out of the land of Egypt: I am the Lord your God.
 
-<sup>44</sup> And Moses made clear to the children of Israel the orders about the fixed feasts of the Lord.
+**⁴⁴** And Moses made clear to the children of Israel the orders about the fixed feasts of the Lord.

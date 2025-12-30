@@ -4,50 +4,50 @@ weight: 4
 
 # Chapter 4
 
-<sup>1</sup> And the children of Israel again did evil in the eyes of the Lord when Ehud was dead.
+**¹** And the children of Israel again did evil in the eyes of the Lord when Ehud was dead.
 
-<sup>2</sup> And the Lord gave them up into the hands of Jabin, king of Canaan, who was ruling in Hazor; the captain of his army was Sisera, who was living in Harosheth of the Gentiles.
+**²** And the Lord gave them up into the hands of Jabin, king of Canaan, who was ruling in Hazor; the captain of his army was Sisera, who was living in Harosheth of the Gentiles.
 
-<sup>3</sup> Then the children of Israel made prayer to the Lord; for he had nine hundred iron war-carriages, and for twenty years he was very cruel to the children of Israel.
+**³** Then the children of Israel made prayer to the Lord; for he had nine hundred iron war-carriages, and for twenty years he was very cruel to the children of Israel.
 
-<sup>4</sup> Now Deborah, a woman prophet, the wife of Lapidoth, was judge of Israel at that time.
+**⁴** Now Deborah, a woman prophet, the wife of Lapidoth, was judge of Israel at that time.
 
-<sup>5</sup> (And she had her seat under the palm-tree of Deborah between Ramah and Beth-el in the hill-country of Ephraim; and the children of Israel came up to her to be judged.)
+**⁵** (And she had her seat under the palm-tree of Deborah between Ramah and Beth-el in the hill-country of Ephraim; and the children of Israel came up to her to be judged.)
 
-<sup>6</sup> And she sent for Barak, the son of Abinoam, from Kedesh-naphtali, and said to him, Has not the Lord, the God of Israel, given orders saying, Go and get your force into line in Mount Tabor, and take with you ten thousand men of the children of Naphtali and of the children of Zebulun?
+**⁶** And she sent for Barak, the son of Abinoam, from Kedesh-naphtali, and said to him, Has not the Lord, the God of Israel, given orders saying, Go and get your force into line in Mount Tabor, and take with you ten thousand men of the children of Naphtali and of the children of Zebulun?
 
-<sup>7</sup> And I will make Sisera, the captain of Jabin's army, with his war-carriages and his forces, come against you at the river Kishon, where I will give him into your hands.
+**⁷** And I will make Sisera, the captain of Jabin's army, with his war-carriages and his forces, come against you at the river Kishon, where I will give him into your hands.
 
-<sup>8</sup> And Barak said to her, If you will go with me then I will go; but if you will not go with me I will not go.
+**⁸** And Barak said to her, If you will go with me then I will go; but if you will not go with me I will not go.
 
-<sup>9</sup> And she said, I will certainly go with you: though you will get no honour in your undertaking, for the Lord will give Sisera into the hands of a woman. So Deborah got up and went with Barak to Kedesh.
+**⁹** And she said, I will certainly go with you: though you will get no honour in your undertaking, for the Lord will give Sisera into the hands of a woman. So Deborah got up and went with Barak to Kedesh.
 
-<sup>10</sup> Then Barak sent for Zebulun and Naphtali to come to Kedesh; and ten thousand men went up after him, and Deborah went up with him.
+**¹⁰** Then Barak sent for Zebulun and Naphtali to come to Kedesh; and ten thousand men went up after him, and Deborah went up with him.
 
-<sup>11</sup> Now Heber the Kenite, separating himself from the rest of the Kenites, from the children of Hobab, the brother-in-law of Moses, had put up his tent as far away as the oak-tree in Zaanannim, by Kedesh.
+**¹¹** Now Heber the Kenite, separating himself from the rest of the Kenites, from the children of Hobab, the brother-in-law of Moses, had put up his tent as far away as the oak-tree in Zaanannim, by Kedesh.
 
-<sup>12</sup> And word was given to Sisera that Barak, the son of Abinoam, had gone up to Mount Tabor.
+**¹²** And word was given to Sisera that Barak, the son of Abinoam, had gone up to Mount Tabor.
 
-<sup>13</sup> So Sisera got together all his war-carriages, nine hundred war-carriages of iron, and all the people who were with him, from Harosheth of the Gentiles as far as the river Kishon.
+**¹³** So Sisera got together all his war-carriages, nine hundred war-carriages of iron, and all the people who were with him, from Harosheth of the Gentiles as far as the river Kishon.
 
-<sup>14</sup> Then Deborah said to Barak, Up! for today the Lord has given Sisera into your hands: has not the Lord gone out before you? So Barak went down from Mount Tabor and ten thousand men after him.
+**¹⁴** Then Deborah said to Barak, Up! for today the Lord has given Sisera into your hands: has not the Lord gone out before you? So Barak went down from Mount Tabor and ten thousand men after him.
 
-<sup>15</sup> And the Lord sent fear on Sisera and all his war-carriages and all his army before Barak; and Sisera got down from his war-carriage and went in flight on foot.
+**¹⁵** And the Lord sent fear on Sisera and all his war-carriages and all his army before Barak; and Sisera got down from his war-carriage and went in flight on foot.
 
-<sup>16</sup> But Barak went after the war-carriages and the army as far as Harosheth of the Gentiles; and all Sisera's army was put to the sword; not a man got away.
+**¹⁶** But Barak went after the war-carriages and the army as far as Harosheth of the Gentiles; and all Sisera's army was put to the sword; not a man got away.
 
-<sup>17</sup> But Sisera went in flight on foot to the tent of Jael, the wife of Heber the Kenite; for there was peace between Jabin, king of Hazor, and the family of Heber the Kenite.
+**¹⁷** But Sisera went in flight on foot to the tent of Jael, the wife of Heber the Kenite; for there was peace between Jabin, king of Hazor, and the family of Heber the Kenite.
 
-<sup>18</sup> And Jael went out to Sisera, and said to him, Come in, my lord, come in to me without fear. So he went into her tent, and she put a cover over him.
+**¹⁸** And Jael went out to Sisera, and said to him, Come in, my lord, come in to me without fear. So he went into her tent, and she put a cover over him.
 
-<sup>19</sup> Then he said to her, Give me now a little water, for I have need of a drink. And opening a skin of milk, she gave him drink, and put the cover over him again.
+**¹⁹** Then he said to her, Give me now a little water, for I have need of a drink. And opening a skin of milk, she gave him drink, and put the cover over him again.
 
-<sup>20</sup> And he said to her, Take your place at the door of the tent, and if anyone comes and says to you, Is there any man here, say, No.
+**²⁰** And he said to her, Take your place at the door of the tent, and if anyone comes and says to you, Is there any man here, say, No.
 
-<sup>21</sup> Then Jael, Heber's wife, took a tent-pin and a hammer and went up to him quietly, driving the pin into his head, and it went through his head into the earth, for he was in a deep sleep from weariness; and so he came to his end.
+**²¹** Then Jael, Heber's wife, took a tent-pin and a hammer and went up to him quietly, driving the pin into his head, and it went through his head into the earth, for he was in a deep sleep from weariness; and so he came to his end.
 
-<sup>22</sup> Then Jael went out, and meeting Barak going after Sisera, said to him, Come, and I will let you see the man you are searching for. So he came into her tent and saw, and there was Sisera stretched out dead with the tent-pin in his head.
+**²²** Then Jael went out, and meeting Barak going after Sisera, said to him, Come, and I will let you see the man you are searching for. So he came into her tent and saw, and there was Sisera stretched out dead with the tent-pin in his head.
 
-<sup>23</sup> So that day God overcame Jabin, king of Canaan, before the children of Israel.
+**²³** So that day God overcame Jabin, king of Canaan, before the children of Israel.
 
-<sup>24</sup> And the power of the children of Israel went on increasing against Jabin, king of Canaan, till he was cut off.
+**²⁴** And the power of the children of Israel went on increasing against Jabin, king of Canaan, till he was cut off.

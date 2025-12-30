@@ -6,20 +6,20 @@ weight: 20
 
 To the chief music-maker. A Psalm. Of David.
 
-<sup>1</sup> May the Lord give ear to you in the day of trouble; may you be placed on high by the name of the God of Jacob;
+**¹** May the Lord give ear to you in the day of trouble; may you be placed on high by the name of the God of Jacob;
 
-<sup>2</sup> May he send you help from the holy place, and give you strength from Zion;
+**²** May he send you help from the holy place, and give you strength from Zion;
 
-<sup>3</sup> May he keep all your offerings in mind, and be pleased with the fat of your burned offerings; (Selah.)
+**³** May he keep all your offerings in mind, and be pleased with the fat of your burned offerings; (Selah.)
 
-<sup>4</sup> May he give you your heart's desire, and put all your purposes into effect.
+**⁴** May he give you your heart's desire, and put all your purposes into effect.
 
-<sup>5</sup> We will be glad in your salvation, and in the name of our God we will put up our flags: may the Lord give you all your requests.
+**⁵** We will be glad in your salvation, and in the name of our God we will put up our flags: may the Lord give you all your requests.
 
-<sup>6</sup> Now am I certain that the Lord gives salvation to his king; he will give him an answer from his holy heaven with the strength of salvation in his right hand.
+**⁶** Now am I certain that the Lord gives salvation to his king; he will give him an answer from his holy heaven with the strength of salvation in his right hand.
 
-<sup>7</sup> Some put their faith in carriages and some in horses; but we will be strong in the name of the Lord our God.
+**⁷** Some put their faith in carriages and some in horses; but we will be strong in the name of the Lord our God.
 
-<sup>8</sup> They are bent down and made low; but we have been lifted up.
+**⁸** They are bent down and made low; but we have been lifted up.
 
-<sup>9</sup> Come to our help, Lord: let the king give ear to our cry.
+**⁹** Come to our help, Lord: let the king give ear to our cry.

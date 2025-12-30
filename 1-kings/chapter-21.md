@@ -4,60 +4,60 @@ weight: 21
 
 # Chapter 21
 
-<sup>1</sup> Now Naboth the Jezreelite had a vine-garden in Jezreel, near the house of Ahab, king of Samaria.
+**¹** Now Naboth the Jezreelite had a vine-garden in Jezreel, near the house of Ahab, king of Samaria.
 
-<sup>2</sup> And Ahab said to Naboth, Give me your vine-garden so that I may have it for a garden of sweet plants, for it is near my house; and let me give you a better vine-garden in exchange, or, if it seems good to you, let me give you its value in money.
+**²** And Ahab said to Naboth, Give me your vine-garden so that I may have it for a garden of sweet plants, for it is near my house; and let me give you a better vine-garden in exchange, or, if it seems good to you, let me give you its value in money.
 
-<sup>3</sup> But Naboth said to Ahab, By the Lord, far be it from me to give you the heritage of my fathers.
+**³** But Naboth said to Ahab, By the Lord, far be it from me to give you the heritage of my fathers.
 
-<sup>4</sup> So Ahab came into his house bitter and angry because Naboth the Jezreelite had said to him, I will not give you the heritage of my fathers. And stretching himself on the bed with his face turned away, he would take no food.
+**⁴** So Ahab came into his house bitter and angry because Naboth the Jezreelite had said to him, I will not give you the heritage of my fathers. And stretching himself on the bed with his face turned away, he would take no food.
 
-<sup>5</sup> But Jezebel, his wife, came to him and said, Why is your spirit so bitter that you have no desire for food?
+**⁵** But Jezebel, his wife, came to him and said, Why is your spirit so bitter that you have no desire for food?
 
-<sup>6</sup> And he said to her, Because I was talking to Naboth the Jezreelite, and I said to him, Let me have your vine-garden for a price, or, if it is pleasing to you, I will give you another vine-garden for it: and he said, I will not give you my vine-garden.
+**⁶** And he said to her, Because I was talking to Naboth the Jezreelite, and I said to him, Let me have your vine-garden for a price, or, if it is pleasing to you, I will give you another vine-garden for it: and he said, I will not give you my vine-garden.
 
-<sup>7</sup> Then Jezebel, his wife, said, Are you now the ruler of Israel? Get up, take food, and let your heart be glad; I will give you the vine-garden of Naboth the Jezreelite.
+**⁷** Then Jezebel, his wife, said, Are you now the ruler of Israel? Get up, take food, and let your heart be glad; I will give you the vine-garden of Naboth the Jezreelite.
 
-<sup>8</sup> So she sent a letter in Ahab's name, stamped with his stamp, to the responsible men and the chiefs who were in authority with Naboth.
+**⁸** So she sent a letter in Ahab's name, stamped with his stamp, to the responsible men and the chiefs who were in authority with Naboth.
 
-<sup>9</sup> And in the letter she said, Let a time of public sorrow be fixed, and put Naboth at the head of the people;
+**⁹** And in the letter she said, Let a time of public sorrow be fixed, and put Naboth at the head of the people;
 
-<sup>10</sup> And get two good-for-nothing persons to come before him and give witness that he has been cursing God and the king. Then take him out and have him stoned to death.
+**¹⁰** And get two good-for-nothing persons to come before him and give witness that he has been cursing God and the king. Then take him out and have him stoned to death.
 
-<sup>11</sup> So the responsible men and the chiefs who were in authority in his town, did as Jezebel had said in the letter she sent them.
+**¹¹** So the responsible men and the chiefs who were in authority in his town, did as Jezebel had said in the letter she sent them.
 
-<sup>12</sup> They gave orders for a day of public sorrow, and put Naboth at the head of the people.
+**¹²** They gave orders for a day of public sorrow, and put Naboth at the head of the people.
 
-<sup>13</sup> And the two good-for-nothing persons came in and took their seats before him and gave witness against Naboth, in front of the people, saying, Naboth has been cursing God and the king. Then they took him outside the town and had him stoned to death.
+**¹³** And the two good-for-nothing persons came in and took their seats before him and gave witness against Naboth, in front of the people, saying, Naboth has been cursing God and the king. Then they took him outside the town and had him stoned to death.
 
-<sup>14</sup> And they sent word to Jezebel, saying, Naboth has been stoned and is dead.
+**¹⁴** And they sent word to Jezebel, saying, Naboth has been stoned and is dead.
 
-<sup>15</sup> Then Jezebel, hearing that Naboth had been stoned and was dead, said to Ahab, Get up and take as your heritage the vine-garden of Naboth the Jezreelite, which he would not give you for money, for Naboth is no longer living but is dead.
+**¹⁵** Then Jezebel, hearing that Naboth had been stoned and was dead, said to Ahab, Get up and take as your heritage the vine-garden of Naboth the Jezreelite, which he would not give you for money, for Naboth is no longer living but is dead.
 
-<sup>16</sup> So Ahab, hearing that Naboth was dead, went down to the vine-garden of Naboth the Jezreelite to take it as his heritage.
+**¹⁶** So Ahab, hearing that Naboth was dead, went down to the vine-garden of Naboth the Jezreelite to take it as his heritage.
 
-<sup>17</sup> And the word of the Lord came to Elijah the Tishbite, saying,
+**¹⁷** And the word of the Lord came to Elijah the Tishbite, saying,
 
-<sup>18</sup> Go down to Ahab, king of Israel, in Samaria; see, he is in the vine-garden of Naboth the Jezreelite, where he has gone to take it as his heritage.
+**¹⁸** Go down to Ahab, king of Israel, in Samaria; see, he is in the vine-garden of Naboth the Jezreelite, where he has gone to take it as his heritage.
 
-<sup>19</sup> Say to him, The Lord says, Have you put a man to death and taken his heritage? Then say to him, The Lord says, In the place where dogs have been drinking the blood of Naboth, there will your blood become the drink of dogs.
+**¹⁹** Say to him, The Lord says, Have you put a man to death and taken his heritage? Then say to him, The Lord says, In the place where dogs have been drinking the blood of Naboth, there will your blood become the drink of dogs.
 
-<sup>20</sup> And Ahab said to Elijah, Have you come face to face with me, O my hater? And he said, I have come to you because you have given yourself up to do evil in the eyes of the Lord.
+**²⁰** And Ahab said to Elijah, Have you come face to face with me, O my hater? And he said, I have come to you because you have given yourself up to do evil in the eyes of the Lord.
 
-<sup>21</sup> See, I will send evil on you and put an end to you completely, cutting off from Ahab every male child, him who is shut up and him who goes free in Israel;
+**²¹** See, I will send evil on you and put an end to you completely, cutting off from Ahab every male child, him who is shut up and him who goes free in Israel;
 
-<sup>22</sup> And I will make your family like the family of Jeroboam, the son of Nebat, and like the family of Baasha, the son of Ahijah, because you have made me angry, and have made Israel do evil.
+**²²** And I will make your family like the family of Jeroboam, the son of Nebat, and like the family of Baasha, the son of Ahijah, because you have made me angry, and have made Israel do evil.
 
-<sup>23</sup> And of Jezebel the Lord said, Jezebel will become food for dogs in the heritage of Jezreel.
+**²³** And of Jezebel the Lord said, Jezebel will become food for dogs in the heritage of Jezreel.
 
-<sup>24</sup> Any man of the family of Ahab who comes to his death in the town will become food for the dogs; and he who comes to his death in the open country will be food for the birds of the air.
+**²⁴** Any man of the family of Ahab who comes to his death in the town will become food for the dogs; and he who comes to his death in the open country will be food for the birds of the air.
 
-<sup>25</sup> (There was no one like Ahab, who gave himself up to do evil in the eyes of the Lord, moved to it by Jezebel his wife.
+**²⁵** (There was no one like Ahab, who gave himself up to do evil in the eyes of the Lord, moved to it by Jezebel his wife.
 
-<sup>26</sup> He did a very disgusting thing in going after false gods, doing all the things the Amorites did, whom the Lord sent out before the children of Israel.)
+**²⁶** He did a very disgusting thing in going after false gods, doing all the things the Amorites did, whom the Lord sent out before the children of Israel.)
 
-<sup>27</sup> Hearing these words, Ahab, in great grief, put haircloth on his flesh and went without food, sleeping in haircloth, and going about quietly.
+**²⁷** Hearing these words, Ahab, in great grief, put haircloth on his flesh and went without food, sleeping in haircloth, and going about quietly.
 
-<sup>28</sup> Then the word of the Lord came to Elijah the Tishbite, saying,
+**²⁸** Then the word of the Lord came to Elijah the Tishbite, saying,
 
-<sup>29</sup> Do you see how Ahab has made himself low before me? because he has made himself low before me, I will not send the evil in his life-time, but in his son's time I will send the evil on his family.
+**²⁹** Do you see how Ahab has made himself low before me? because he has made himself low before me, I will not send the evil in his life-time, but in his son's time I will send the evil on his family.

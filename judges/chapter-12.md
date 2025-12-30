@@ -4,32 +4,32 @@ weight: 12
 
 # Chapter 12
 
-<sup>1</sup> Now the men of Ephraim came together and took up arms and went over to Zaphon; and they said to Jephthah, Why did you go over to make war against the children of Ammon without sending for us to go with you? Now we will put your house on fire over you.
+**¹** Now the men of Ephraim came together and took up arms and went over to Zaphon; and they said to Jephthah, Why did you go over to make war against the children of Ammon without sending for us to go with you? Now we will put your house on fire over you.
 
-<sup>2</sup> And Jephthah said to them, I and my people were in danger, and the children of Ammon were very cruel to us, and when I sent for you, you gave me no help against them.
+**²** And Jephthah said to them, I and my people were in danger, and the children of Ammon were very cruel to us, and when I sent for you, you gave me no help against them.
 
-<sup>3</sup> So when I saw that there was no help to be had from you, I put my life in my hand and went over against the children of Ammon, and the Lord gave them into my hands: why then have you come up to me this day to make war on me?
+**³** So when I saw that there was no help to be had from you, I put my life in my hand and went over against the children of Ammon, and the Lord gave them into my hands: why then have you come up to me this day to make war on me?
 
-<sup>4</sup> Then Jephthah got together all the men of Gilead and made war on Ephraim; and the men of Gilead overcame Ephraim.
+**⁴** Then Jephthah got together all the men of Gilead and made war on Ephraim; and the men of Gilead overcame Ephraim.
 
-<sup>5</sup> And the Gileadites took the crossing-places of Jordan against the Ephraimites; and when any of the men of Ephraim who had gone in flight said, let me go over; the men of Gilead said to him, Are you an Ephraimite? And if he said, No;
+**⁵** And the Gileadites took the crossing-places of Jordan against the Ephraimites; and when any of the men of Ephraim who had gone in flight said, let me go over; the men of Gilead said to him, Are you an Ephraimite? And if he said, No;
 
-<sup>6</sup> Then they said to him, Now say Shibboleth; and he said Sibboleth, and was not able to say it in the right way; then they took him and put him to death at the crossing-places of Jordan; and at that time forty-two thousand Ephraimites were put to death.
+**⁶** Then they said to him, Now say Shibboleth; and he said Sibboleth, and was not able to say it in the right way; then they took him and put him to death at the crossing-places of Jordan; and at that time forty-two thousand Ephraimites were put to death.
 
-<sup>7</sup> Now Jephthah was judge of Israel for six years. And Jephthah the Gileadite came to his death, and his body was put to rest in his town, Mizpeh of Gilead.
+**⁷** Now Jephthah was judge of Israel for six years. And Jephthah the Gileadite came to his death, and his body was put to rest in his town, Mizpeh of Gilead.
 
-<sup>8</sup> And after him, Ibzan of Beth-lehem was judge of Israel.
+**⁸** And after him, Ibzan of Beth-lehem was judge of Israel.
 
-<sup>9</sup> He had thirty sons, and thirty daughters whom he sent to other places, and he got thirty wives from other places for his sons. And he was judge of Israel for seven years.
+**⁹** He had thirty sons, and thirty daughters whom he sent to other places, and he got thirty wives from other places for his sons. And he was judge of Israel for seven years.
 
-<sup>10</sup> And Ibzan came to his death and his body was put to rest at Beth-lehem.
+**¹⁰** And Ibzan came to his death and his body was put to rest at Beth-lehem.
 
-<sup>11</sup> And after him, Elon the Zebulonite was judge of Israel; and he was judge of Israel for ten years.
+**¹¹** And after him, Elon the Zebulonite was judge of Israel; and he was judge of Israel for ten years.
 
-<sup>12</sup> And Elon the Zebulonite came to his death, and his body was put to rest in Aijalon in the land of Zebulun.
+**¹²** And Elon the Zebulonite came to his death, and his body was put to rest in Aijalon in the land of Zebulun.
 
-<sup>13</sup> And after him, Abdon, the son of Hillel, the Pirathonite, was judge of Israel.
+**¹³** And after him, Abdon, the son of Hillel, the Pirathonite, was judge of Israel.
 
-<sup>14</sup> He had forty sons and thirty sons' sons who went on seventy young asses; and he was judge of Israel for eight years.
+**¹⁴** He had forty sons and thirty sons' sons who went on seventy young asses; and he was judge of Israel for eight years.
 
-<sup>15</sup> And Abdon, the son of Hillel, came to his death, and his body was put to rest in Pirathon in the land of Ephraim, in the hill-country of the Amalekites.
+**¹⁵** And Abdon, the son of Hillel, came to his death, and his body was put to rest in Pirathon in the land of Ephraim, in the hill-country of the Amalekites.

@@ -4,22 +4,22 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> And he let me see Joshua, the high priest, in his place before the angel of the Lord, and the Satan at his right hand ready to take up a cause against him.
+**¹** And he let me see Joshua, the high priest, in his place before the angel of the Lord, and the Satan at his right hand ready to take up a cause against him.
 
-<sup>2</sup> And the Lord said to the Satan, May the Lord's word be sharp against you, O Satan, the word of the Lord who has taken Jerusalem for himself: is this not a burning branch pulled out of the fire?
+**²** And the Lord said to the Satan, May the Lord's word be sharp against you, O Satan, the word of the Lord who has taken Jerusalem for himself: is this not a burning branch pulled out of the fire?
 
-<sup>3</sup> Now Joshua was clothed in unclean robes, and he was in his place before the angel.
+**³** Now Joshua was clothed in unclean robes, and he was in his place before the angel.
 
-<sup>4</sup> And he made answer and said to those who were there before him, Take the unclean robes off him, and let him be clothed in clean robes;
+**⁴** And he made answer and said to those who were there before him, Take the unclean robes off him, and let him be clothed in clean robes;
 
-<sup>5</sup> And let them put a clean head-dress on his head. So they put a clean head-dress on his head, clothing him with clean robes: and to him he said, See, I have taken your sin away from you.
+**⁵** And let them put a clean head-dress on his head. So they put a clean head-dress on his head, clothing him with clean robes: and to him he said, See, I have taken your sin away from you.
 
-<sup>6</sup> And the angel of the Lord made a statement to Joshua, and said,
+**⁶** And the angel of the Lord made a statement to Joshua, and said,
 
-<sup>7</sup> These are the words of the Lord of armies: If you will go in my ways and keep what I have put in your care, then you will be judge over my Temple and have the care of my house, and I will give you the right to come in among those who are there.
+**⁷** These are the words of the Lord of armies: If you will go in my ways and keep what I have put in your care, then you will be judge over my Temple and have the care of my house, and I will give you the right to come in among those who are there.
 
-<sup>8</sup> Give ear now, O Joshua, the high priest, you and your friends who are seated before you; for these are men who are a sign: for see, I will let my servant the Branch be seen.
+**⁸** Give ear now, O Joshua, the high priest, you and your friends who are seated before you; for these are men who are a sign: for see, I will let my servant the Branch be seen.
 
-<sup>9</sup> For see, the stone which I have put before Joshua; on one stone are seven eyes: see, the design cut on it will be my work, says the Lord of armies, and I will take away the sin of that land in one day.
+**⁹** For see, the stone which I have put before Joshua; on one stone are seven eyes: see, the design cut on it will be my work, says the Lord of armies, and I will take away the sin of that land in one day.
 
-<sup>10</sup> In that day, says the Lord of armies, you will be one another's guests under the vine and under the fig-tree.
+**¹⁰** In that day, says the Lord of armies, you will be one another's guests under the vine and under the fig-tree.

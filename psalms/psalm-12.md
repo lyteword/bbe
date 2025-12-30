@@ -6,18 +6,18 @@ weight: 12
 
 For the chief music-maker on the Sheminith. A Psalm. Of David.
 
-<sup>1</sup> Send help, Lord, for mercy has come to an end; there is no more faith among the children of men.
+**¹** Send help, Lord, for mercy has come to an end; there is no more faith among the children of men.
 
-<sup>2</sup> Everyone says false words to his neighbour: their tongues are smooth in their talk, and their hearts are full of deceit.
+**²** Everyone says false words to his neighbour: their tongues are smooth in their talk, and their hearts are full of deceit.
 
-<sup>3</sup> The smooth lips and the tongue of pride will be cut off by the Lord.
+**³** The smooth lips and the tongue of pride will be cut off by the Lord.
 
-<sup>4</sup> They have said, With our tongues will we overcome; our lips are ours: who is lord over us?
+**⁴** They have said, With our tongues will we overcome; our lips are ours: who is lord over us?
 
-<sup>5</sup> Because of the crushing of the poor and the weeping of those in need, now will I come to his help, says the Lord; I will give him the salvation which he is desiring.
+**⁵** Because of the crushing of the poor and the weeping of those in need, now will I come to his help, says the Lord; I will give him the salvation which he is desiring.
 
-<sup>6</sup> The words of the Lord are true words: like silver tested by fire and burned clean seven times.
+**⁶** The words of the Lord are true words: like silver tested by fire and burned clean seven times.
 
-<sup>7</sup> You will keep them, O Lord, you will keep them safe from this generation for ever.
+**⁷** You will keep them, O Lord, you will keep them safe from this generation for ever.
 
-<sup>8</sup> The sinners are walking on every side, and evil is honoured among the children of men.
+**⁸** The sinners are walking on every side, and evil is honoured among the children of men.

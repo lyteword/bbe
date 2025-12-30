@@ -6,24 +6,24 @@ weight: 57
 
 To the chief music-maker; put to Al-tashheth. Michtam. Of David. When he went in flight from Saul, in the hole of the rock.
 
-<sup>1</sup> Have mercy on me, O God, have mercy on me; for the hope of my soul is in you: I will keep myself safely under the shade of your wings, till these troubles are past.
+**¹** Have mercy on me, O God, have mercy on me; for the hope of my soul is in you: I will keep myself safely under the shade of your wings, till these troubles are past.
 
-<sup>2</sup> I will send up my cry to the Most High God; to God who does all things for me.
+**²** I will send up my cry to the Most High God; to God who does all things for me.
 
-<sup>3</sup> He will send from heaven, and take me from the power of him whose desire is for my destruction. God will send out his mercy and his good faith.
+**³** He will send from heaven, and take me from the power of him whose desire is for my destruction. God will send out his mercy and his good faith.
 
-<sup>4</sup> My soul is among lions; I am stretched out among those who are on fire, even the sons of men, whose teeth are spears and arrows, and whose tongue is a sharp sword.
+**⁴** My soul is among lions; I am stretched out among those who are on fire, even the sons of men, whose teeth are spears and arrows, and whose tongue is a sharp sword.
 
-<sup>5</sup> O God, be lifted up higher than the heavens; let your glory be over all the earth.
+**⁵** O God, be lifted up higher than the heavens; let your glory be over all the earth.
 
-<sup>6</sup> They have made ready a net for my steps; my soul is bent down; they have made a great hole before me, and have gone down into it themselves. (Selah.)
+**⁶** They have made ready a net for my steps; my soul is bent down; they have made a great hole before me, and have gone down into it themselves. (Selah.)
 
-<sup>7</sup> My heart is fixed, O God, my heart is fixed; I will make songs, and give praise.
+**⁷** My heart is fixed, O God, my heart is fixed; I will make songs, and give praise.
 
-<sup>8</sup> You are my glory; let the instruments of music be awake; I myself will be awake with the dawn.
+**⁸** You are my glory; let the instruments of music be awake; I myself will be awake with the dawn.
 
-<sup>9</sup> I will give you praise, O Lord, among the peoples; I will make songs to you among the nations.
+**⁹** I will give you praise, O Lord, among the peoples; I will make songs to you among the nations.
 
-<sup>10</sup> For your mercy is great, stretching up to the heavens, and your righteousness goes up to the clouds.
+**¹⁰** For your mercy is great, stretching up to the heavens, and your righteousness goes up to the clouds.
 
-<sup>11</sup> Be lifted up, O God, higher than the heavens, let your glory be over all the earth.
+**¹¹** Be lifted up, O God, higher than the heavens, let your glory be over all the earth.

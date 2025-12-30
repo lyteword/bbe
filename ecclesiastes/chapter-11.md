@@ -4,22 +4,22 @@ weight: 11
 
 # Chapter 11
 
-<sup>1</sup> Put out your bread on the face of the waters; for after a long time it will come back to you again.
+**¹** Put out your bread on the face of the waters; for after a long time it will come back to you again.
 
-<sup>2</sup> Give a part to seven or even to eight, because you have no knowledge of the evil which will be on the earth.
+**²** Give a part to seven or even to eight, because you have no knowledge of the evil which will be on the earth.
 
-<sup>3</sup> If the clouds are full of rain, they send it down on the earth; and if a tree comes down to the south, or the north, in whatever place it comes down, there it will be.
+**³** If the clouds are full of rain, they send it down on the earth; and if a tree comes down to the south, or the north, in whatever place it comes down, there it will be.
 
-<sup>4</sup> He who is watching the wind will not get the seed planted, and he who is looking at the clouds will not get in the grain.
+**⁴** He who is watching the wind will not get the seed planted, and he who is looking at the clouds will not get in the grain.
 
-<sup>5</sup> As you have no knowledge of the way of the wind, or of the growth of the bones in the body of her who is with child, even so you have no knowledge of the works of God who has made all.
+**⁵** As you have no knowledge of the way of the wind, or of the growth of the bones in the body of her who is with child, even so you have no knowledge of the works of God who has made all.
 
-<sup>6</sup> In the morning put your seed into the earth, and till the evening let not your hand be at rest; because you are not certain which will do well, this or that — or if the two will be equally good.
+**⁶** In the morning put your seed into the earth, and till the evening let not your hand be at rest; because you are not certain which will do well, this or that — or if the two will be equally good.
 
-<sup>7</sup> Truly the light is sweet, and it is good for the eyes to see the sun.
+**⁷** Truly the light is sweet, and it is good for the eyes to see the sun.
 
-<sup>8</sup> But even if a man's life is long and he has joy in all his years, let him keep in mind the dark days, because they will be great in number. Whatever may come is to no purpose.
+**⁸** But even if a man's life is long and he has joy in all his years, let him keep in mind the dark days, because they will be great in number. Whatever may come is to no purpose.
 
-<sup>9</sup> Have joy, O young man, while you are young; and let your heart be glad in the days of your strength, and go in the ways of your heart, and in the desire of your eyes; but be certain that for all these things God will be your judge.
+**⁹** Have joy, O young man, while you are young; and let your heart be glad in the days of your strength, and go in the ways of your heart, and in the desire of your eyes; but be certain that for all these things God will be your judge.
 
-<sup>10</sup> So put away trouble from your heart, and sorrow from your flesh; because the early years and the best years are to no purpose.
+**¹⁰** So put away trouble from your heart, and sorrow from your flesh; because the early years and the best years are to no purpose.

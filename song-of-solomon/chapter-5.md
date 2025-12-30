@@ -4,34 +4,34 @@ weight: 5
 
 # Chapter 5
 
-<sup>1</sup> I have come into my garden, my sister, my bride; to take my myrrh with my spice; my wax with my honey; my wine with my milk. Take meat, O friends; take wine, yes, be overcome with love.
+**¹** I have come into my garden, my sister, my bride; to take my myrrh with my spice; my wax with my honey; my wine with my milk. Take meat, O friends; take wine, yes, be overcome with love.
 
-<sup>2</sup> I am sleeping, but my heart is awake; it is the sound of my loved one at the door, saying, Be open to me, my sister, my love, my dove, my very beautiful one; my head is wet with dew, and my hair with the drops of the night.
+**²** I am sleeping, but my heart is awake; it is the sound of my loved one at the door, saying, Be open to me, my sister, my love, my dove, my very beautiful one; my head is wet with dew, and my hair with the drops of the night.
 
-<sup>3</sup> I have put off my coat; how may I put it on? My feet are washed; how may I make them unclean?
+**³** I have put off my coat; how may I put it on? My feet are washed; how may I make them unclean?
 
-<sup>4</sup> My loved one put his hand on the door, and my heart was moved for him.
+**⁴** My loved one put his hand on the door, and my heart was moved for him.
 
-<sup>5</sup> I got up to let my loved one in; and my hands were dropping with myrrh, and my fingers with liquid myrrh, on the lock of the door.
+**⁵** I got up to let my loved one in; and my hands were dropping with myrrh, and my fingers with liquid myrrh, on the lock of the door.
 
-<sup>6</sup> I made the door open to my loved one; but my loved one had taken himself away, and was gone, my soul was feeble when his back was turned on me; I went after him, but I did not come near him; I said his name, but he gave me no answer.
+**⁶** I made the door open to my loved one; but my loved one had taken himself away, and was gone, my soul was feeble when his back was turned on me; I went after him, but I did not come near him; I said his name, but he gave me no answer.
 
-<sup>7</sup> The keepers who go about the town overtook me; they gave me blows and wounds; the keepers of the walls took away my veil from me.
+**⁷** The keepers who go about the town overtook me; they gave me blows and wounds; the keepers of the walls took away my veil from me.
 
-<sup>8</sup> I say to you, O daughters of Jerusalem, if you see my loved one, what will you say to him? That I am overcome with love.
+**⁸** I say to you, O daughters of Jerusalem, if you see my loved one, what will you say to him? That I am overcome with love.
 
-<sup>9</sup> What is your loved one more than another, O fairest among women? What is your loved one more than another, that you say this to us?
+**⁹** What is your loved one more than another, O fairest among women? What is your loved one more than another, that you say this to us?
 
-<sup>10</sup> My loved one is white and red, the chief among ten thousand.
+**¹⁰** My loved one is white and red, the chief among ten thousand.
 
-<sup>11</sup> His head is as the most delicate gold; his hair is thick, and black as a raven.
+**¹¹** His head is as the most delicate gold; his hair is thick, and black as a raven.
 
-<sup>12</sup> His eyes are as the eyes of doves by the water streams, washed with milk, and rightly placed.
+**¹²** His eyes are as the eyes of doves by the water streams, washed with milk, and rightly placed.
 
-<sup>13</sup> His face is as beds of spices, giving out perfumes of every sort; his lips like lilies, dropping liquid myrrh.
+**¹³** His face is as beds of spices, giving out perfumes of every sort; his lips like lilies, dropping liquid myrrh.
 
-<sup>14</sup> His hands are as rings of gold ornamented with beryl-stones; his body is as a smooth plate of ivory covered with sapphires.
+**¹⁴** His hands are as rings of gold ornamented with beryl-stones; his body is as a smooth plate of ivory covered with sapphires.
 
-<sup>15</sup> His legs are as pillars of stone on a base of delicate gold; his looks are as Lebanon, beautiful as the cedar-tree.
+**¹⁵** His legs are as pillars of stone on a base of delicate gold; his looks are as Lebanon, beautiful as the cedar-tree.
 
-<sup>16</sup> His mouth is most sweet; yes, he is all beautiful. This is my loved one, and this is my friend, O daughters of Jerusalem.
+**¹⁶** His mouth is most sweet; yes, he is all beautiful. This is my loved one, and this is my friend, O daughters of Jerusalem.

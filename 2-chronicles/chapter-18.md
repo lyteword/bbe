@@ -4,70 +4,70 @@ weight: 18
 
 # Chapter 18
 
-<sup>1</sup> Now Jehoshaphat had great wealth and honour, and his son was married to Ahab's daughter.
+**¹** Now Jehoshaphat had great wealth and honour, and his son was married to Ahab's daughter.
 
-<sup>2</sup> And after some years he went down to Samaria to see Ahab. And Ahab made a feast for him and the people who were with him, putting to death great numbers of sheep and oxen; and he got Jehoshaphat to go with him to Ramoth-gilead.
+**²** And after some years he went down to Samaria to see Ahab. And Ahab made a feast for him and the people who were with him, putting to death great numbers of sheep and oxen; and he got Jehoshaphat to go with him to Ramoth-gilead.
 
-<sup>3</sup> For Ahab, king of Israel, said to Jehoshaphat, king of Judah, Will you go with me to Ramoth-gilead? And he said, I am as you are, and my people as your people; we will be with you in the war.
+**³** For Ahab, king of Israel, said to Jehoshaphat, king of Judah, Will you go with me to Ramoth-gilead? And he said, I am as you are, and my people as your people; we will be with you in the war.
 
-<sup>4</sup> Then Jehoshaphat said to the king of Israel, Let us now get directions from the Lord.
+**⁴** Then Jehoshaphat said to the king of Israel, Let us now get directions from the Lord.
 
-<sup>5</sup> So the king of Israel got together all the prophets, four hundred men, and said to them, Am I to go to Ramoth-gilead to make war or not? And they said, Go up: for God will give it into the hands of the king.
+**⁵** So the king of Israel got together all the prophets, four hundred men, and said to them, Am I to go to Ramoth-gilead to make war or not? And they said, Go up: for God will give it into the hands of the king.
 
-<sup>6</sup> But Jehoshaphat said, Is there no other prophet of the Lord here from whom we may get directions?
+**⁶** But Jehoshaphat said, Is there no other prophet of the Lord here from whom we may get directions?
 
-<sup>7</sup> And the king of Israel said to Jehoshaphat, There is still one man by whom we may get directions from the Lord, but I have no love for him, because he has never been a prophet of good to me, but only of evil: he is Micaiah, the son of Imla. And Jehoshaphat said, Let not the king say so.
+**⁷** And the king of Israel said to Jehoshaphat, There is still one man by whom we may get directions from the Lord, but I have no love for him, because he has never been a prophet of good to me, but only of evil: he is Micaiah, the son of Imla. And Jehoshaphat said, Let not the king say so.
 
-<sup>8</sup> Then the king of Israel sent for one of his unsexed servants and said, Go quickly and come back with Micaiah, the son of Imla.
+**⁸** Then the king of Israel sent for one of his unsexed servants and said, Go quickly and come back with Micaiah, the son of Imla.
 
-<sup>9</sup> Now the king of Israel and Jehoshaphat, the king of Judah, were seated on their seats of authority, dressed in their robes, by the doorway into Samaria; and all the prophets were acting as prophets before them.
+**⁹** Now the king of Israel and Jehoshaphat, the king of Judah, were seated on their seats of authority, dressed in their robes, by the doorway into Samaria; and all the prophets were acting as prophets before them.
 
-<sup>10</sup> And Zedekiah, the son of Chenaanah, made himself iron horns and said, The Lord says, Pushing back the Aramaeans with these, you will put an end to them completely.
+**¹⁰** And Zedekiah, the son of Chenaanah, made himself iron horns and said, The Lord says, Pushing back the Aramaeans with these, you will put an end to them completely.
 
-<sup>11</sup> And all the prophets said the same thing, saying, Go up to Ramoth-gilead, and it will go well for you, for the Lord will give it into the hands of the king.
+**¹¹** And all the prophets said the same thing, saying, Go up to Ramoth-gilead, and it will go well for you, for the Lord will give it into the hands of the king.
 
-<sup>12</sup> Now the servant who had gone to get Micaiah said to him, See now, all the prophets with one voice are saying good things to the king; so let your words be like theirs, and say good things.
+**¹²** Now the servant who had gone to get Micaiah said to him, See now, all the prophets with one voice are saying good things to the king; so let your words be like theirs, and say good things.
 
-<sup>13</sup> And Micaiah said, By the living Lord, whatever the Lord says to me I will say.
+**¹³** And Micaiah said, By the living Lord, whatever the Lord says to me I will say.
 
-<sup>14</sup> When he came to the king, the king said to him, Micaiah, are we to go to Ramoth-gilead to make war or not? And he said, Go up, and it will go well for you; and they will be given up into your hands.
+**¹⁴** When he came to the king, the king said to him, Micaiah, are we to go to Ramoth-gilead to make war or not? And he said, Go up, and it will go well for you; and they will be given up into your hands.
 
-<sup>15</sup> And the king said to him, Have I not, again and again, put you on your oath to say nothing to me but what is true in the name of the Lord?
+**¹⁵** And the king said to him, Have I not, again and again, put you on your oath to say nothing to me but what is true in the name of the Lord?
 
-<sup>16</sup> Then he said, I saw all Israel wandering on the mountains like sheep without a keeper; and the Lord said, These have no master: let them go back, every man to his house in peace.
+**¹⁶** Then he said, I saw all Israel wandering on the mountains like sheep without a keeper; and the Lord said, These have no master: let them go back, every man to his house in peace.
 
-<sup>17</sup> And the king of Israel said to Jehoshaphat, Did I not say that he would not be a prophet of good to me, but of evil?
+**¹⁷** And the king of Israel said to Jehoshaphat, Did I not say that he would not be a prophet of good to me, but of evil?
 
-<sup>18</sup> Then he said, Give ear now to the word of the Lord: I saw the Lord seated on his seat of power, and all the army of heaven in their places, at his right hand and at his left.
+**¹⁸** Then he said, Give ear now to the word of the Lord: I saw the Lord seated on his seat of power, and all the army of heaven in their places, at his right hand and at his left.
 
-<sup>19</sup> And the Lord said, How may Ahab, king of Israel, be tricked into going up to Ramoth-gilead to his death? And one said one thing and one another.
+**¹⁹** And the Lord said, How may Ahab, king of Israel, be tricked into going up to Ramoth-gilead to his death? And one said one thing and one another.
 
-<sup>20</sup> Then a spirit came forward and took his place before the Lord and said, I will get him to do it by a trick. And the Lord said to him, How?
+**²⁰** Then a spirit came forward and took his place before the Lord and said, I will get him to do it by a trick. And the Lord said to him, How?
 
-<sup>21</sup> And he said, I will go out and be a spirit of deceit in the mouth of all his prophets. And the Lord said, Your trick will have its effect on him: go out and do so.
+**²¹** And he said, I will go out and be a spirit of deceit in the mouth of all his prophets. And the Lord said, Your trick will have its effect on him: go out and do so.
 
-<sup>22</sup> And now, see, the Lord has put a spirit of deceit in the mouth of these prophets of yours; and the Lord has said evil against you.
+**²²** And now, see, the Lord has put a spirit of deceit in the mouth of these prophets of yours; and the Lord has said evil against you.
 
-<sup>23</sup> Then Zedekiah, the son of Chenaanah, came near and gave Micaiah a blow on the side of his face, saying, Where is the spirit of the Lord whose word is in you?
+**²³** Then Zedekiah, the son of Chenaanah, came near and gave Micaiah a blow on the side of his face, saying, Where is the spirit of the Lord whose word is in you?
 
-<sup>24</sup> And Micaiah said, Truly, you will see on that day when you go into an inner room to keep yourself safe.
+**²⁴** And Micaiah said, Truly, you will see on that day when you go into an inner room to keep yourself safe.
 
-<sup>25</sup> And the king of Israel said, Take Micaiah and send him back to Amon, the ruler of the town, and to Joash, the king's son;
+**²⁵** And the king of Israel said, Take Micaiah and send him back to Amon, the ruler of the town, and to Joash, the king's son;
 
-<sup>26</sup> And say, By the king's order this man is to be put in prison, and given prison food till I come back in peace.
+**²⁶** And say, By the king's order this man is to be put in prison, and given prison food till I come back in peace.
 
-<sup>27</sup> And Micaiah said, If you come back at all in peace, the Lord has not sent his word by me.
+**²⁷** And Micaiah said, If you come back at all in peace, the Lord has not sent his word by me.
 
-<sup>28</sup> So the king of Israel and Jehoshaphat, the king of Judah, went up to Ramoth-gilead.
+**²⁸** So the king of Israel and Jehoshaphat, the king of Judah, went up to Ramoth-gilead.
 
-<sup>29</sup> And the king of Israel said to Jehoshaphat, I will make a change in my clothing, so that I do not seem to be the king, and will go into the fight; but do you put on your robes. So the king of Israel made a change in his dress, and they went to the fight.
+**²⁹** And the king of Israel said to Jehoshaphat, I will make a change in my clothing, so that I do not seem to be the king, and will go into the fight; but do you put on your robes. So the king of Israel made a change in his dress, and they went to the fight.
 
-<sup>30</sup> Now the king of Aram had given orders to the captains of his war-carriages, saying, Make no attack on small or great, but only on the king of Israel.
+**³⁰** Now the king of Aram had given orders to the captains of his war-carriages, saying, Make no attack on small or great, but only on the king of Israel.
 
-<sup>31</sup> So when the captains of the war-carriages saw Jehoshaphat, they said, It is the king of Israel. And turning about, they came round him, but Jehoshaphat gave a cry, and the Lord came to his help, and God sent them away from him.
+**³¹** So when the captains of the war-carriages saw Jehoshaphat, they said, It is the king of Israel. And turning about, they came round him, but Jehoshaphat gave a cry, and the Lord came to his help, and God sent them away from him.
 
-<sup>32</sup> Now when the captains of the war-carriages saw that he was not the king of Israel, they went back from going after him.
+**³²** Now when the captains of the war-carriages saw that he was not the king of Israel, they went back from going after him.
 
-<sup>33</sup> And a certain man sent an arrow from his bow without thought of its direction, and gave the king of Israel a wound where his breastplate was joined to his clothing; so he said to the driver of his war-carriage, Go to one side and take me away out of the army, for I am badly wounded.
+**³³** And a certain man sent an arrow from his bow without thought of its direction, and gave the king of Israel a wound where his breastplate was joined to his clothing; so he said to the driver of his war-carriage, Go to one side and take me away out of the army, for I am badly wounded.
 
-<sup>34</sup> But the fight became more violent while the day went on; and the king of Israel was supported in his war-carriage facing the Aramaeans till the evening; and by sundown he was dead.
+**³⁴** But the fight became more violent while the day went on; and the king of Israel was supported in his war-carriage facing the Aramaeans till the evening; and by sundown he was dead.

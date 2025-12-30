@@ -4,52 +4,52 @@ weight: 1
 
 # Chapter 1
 
-<sup>1</sup> Peter, an Apostle of Jesus Christ, to the saints who are living in Pontus, Galatia, Cappadocia, Asia, and Bithynia,
+**¹** Peter, an Apostle of Jesus Christ, to the saints who are living in Pontus, Galatia, Cappadocia, Asia, and Bithynia,
 
-<sup>2</sup> Who, through the purpose of God, have been made holy by the Spirit, disciples of Jesus, made clean by his blood: May you have grace and peace in full measure.
+**²** Who, through the purpose of God, have been made holy by the Spirit, disciples of Jesus, made clean by his blood: May you have grace and peace in full measure.
 
-<sup>3</sup> Praise be to the God and Father of our Lord Jesus Christ, who through his great mercy has given us a new birth and a living hope by the coming again of Jesus Christ from the dead,
+**³** Praise be to the God and Father of our Lord Jesus Christ, who through his great mercy has given us a new birth and a living hope by the coming again of Jesus Christ from the dead,
 
-<sup>4</sup> And a heritage fair, holy and for ever new, waiting in heaven for you,
+**⁴** And a heritage fair, holy and for ever new, waiting in heaven for you,
 
-<sup>5</sup> Who, by the power of God are kept, through faith, for that salvation, which will be seen at the last day.
+**⁵** Who, by the power of God are kept, through faith, for that salvation, which will be seen at the last day.
 
-<sup>6</sup> You have cause for great joy in this, though it may have been necessary for you to be troubled for a little time, being tested in all sorts of ways,
+**⁶** You have cause for great joy in this, though it may have been necessary for you to be troubled for a little time, being tested in all sorts of ways,
 
-<sup>7</sup> So that the true metal of your faith, being of much greater value than gold (which, though it comes to an end, is tested by fire), may come to light in praise and glory and honour, at the revelation of Jesus Christ:
+**⁷** So that the true metal of your faith, being of much greater value than gold (which, though it comes to an end, is tested by fire), may come to light in praise and glory and honour, at the revelation of Jesus Christ:
 
-<sup>8</sup> To whom your love is given, though you have not seen him; and the faith which you have in him, though you do not see him now, gives you joy greater than words and full of glory:
+**⁸** To whom your love is given, though you have not seen him; and the faith which you have in him, though you do not see him now, gives you joy greater than words and full of glory:
 
-<sup>9</sup> For so you have the true end of your faith, even the salvation of your souls.
+**⁹** For so you have the true end of your faith, even the salvation of your souls.
 
-<sup>10</sup> For the prophets who gave the news of the grace which would come to you, made search with all care for knowledge of this salvation;
+**¹⁰** For the prophets who gave the news of the grace which would come to you, made search with all care for knowledge of this salvation;
 
-<sup>11</sup> Attempting to see what sort of time the Spirit of Christ which was in them was pointing to, when it gave witness to the pains which Christ would undergo and the glories which would come after them.
+**¹¹** Attempting to see what sort of time the Spirit of Christ which was in them was pointing to, when it gave witness to the pains which Christ would undergo and the glories which would come after them.
 
-<sup>12</sup> And it was made clear to those prophets that they were God's servants not for themselves but for you, to give you word of the things which have now come to your ears from the preachers of the good news through the Holy Spirit sent down from heaven; things which even angels have a desire to see.
+**¹²** And it was made clear to those prophets that they were God's servants not for themselves but for you, to give you word of the things which have now come to your ears from the preachers of the good news through the Holy Spirit sent down from heaven; things which even angels have a desire to see.
 
-<sup>13</sup> So make your minds ready, and keep on the watch, hoping with all your power for the grace which is to come to you at the revelation of Jesus Christ;
+**¹³** So make your minds ready, and keep on the watch, hoping with all your power for the grace which is to come to you at the revelation of Jesus Christ;
 
-<sup>14</sup> Like children ruled by God, do not go back to the old desires of the time when you were without knowledge:
+**¹⁴** Like children ruled by God, do not go back to the old desires of the time when you were without knowledge:
 
-<sup>15</sup> But be holy in every detail of your lives, as he, whose servants you are, is holy;
+**¹⁵** But be holy in every detail of your lives, as he, whose servants you are, is holy;
 
-<sup>16</sup> Because it has been said in the Writings, You are to be holy, for I am holy.
+**¹⁶** Because it has been said in the Writings, You are to be holy, for I am holy.
 
-<sup>17</sup> And if you give the name of Father to him who, judging every man by his acts, has no respect for a man's position, then go in fear while you are on this earth:
+**¹⁷** And if you give the name of Father to him who, judging every man by his acts, has no respect for a man's position, then go in fear while you are on this earth:
 
-<sup>18</sup> Being conscious that you have been made free from that foolish way of life which was your heritage from your fathers, not through a payment of things like silver or gold which come to destruction,
+**¹⁸** Being conscious that you have been made free from that foolish way of life which was your heritage from your fathers, not through a payment of things like silver or gold which come to destruction,
 
-<sup>19</sup> But through holy blood, like that of a clean and unmarked lamb, even the blood of Christ:
+**¹⁹** But through holy blood, like that of a clean and unmarked lamb, even the blood of Christ:
 
-<sup>20</sup> Who was marked out by God before the making of the world, but was caused to be seen in these last times for you,
+**²⁰** Who was marked out by God before the making of the world, but was caused to be seen in these last times for you,
 
-<sup>21</sup> Who through him have faith in God who took him up again from the dead into glory; so that your faith and hope might be in God.
+**²¹** Who through him have faith in God who took him up again from the dead into glory; so that your faith and hope might be in God.
 
-<sup>22</sup> And as you have made your souls clean, being ruled by what is true, and loving one another without deceit, see that your love is warm and from the heart:
+**²²** And as you have made your souls clean, being ruled by what is true, and loving one another without deceit, see that your love is warm and from the heart:
 
-<sup>23</sup> Because you have had a new birth, not from the seed of man, but from eternal seed, through the word of a living and unchanging God.
+**²³** Because you have had a new birth, not from the seed of man, but from eternal seed, through the word of a living and unchanging God.
 
-<sup>24</sup> For it is said, All flesh is like grass, and all its glory like the flower of the grass. The grass becomes dry and the flower dead:
+**²⁴** For it is said, All flesh is like grass, and all its glory like the flower of the grass. The grass becomes dry and the flower dead:
 
-<sup>25</sup> But the word of the Lord is eternal. And this is the word of the good news which was given to you.
+**²⁵** But the word of the Lord is eternal. And this is the word of the good news which was given to you.

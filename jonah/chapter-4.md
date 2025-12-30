@@ -4,24 +4,24 @@ weight: 4
 
 # Chapter 4
 
-<sup>1</sup> But this seemed very wrong to Jonah, and he was angry.
+**¹** But this seemed very wrong to Jonah, and he was angry.
 
-<sup>2</sup> And he made prayer to the Lord and said, O Lord, is this not what I said when I was still in my country? This is why I took care to go in flight to Tarshish: for I was certain that you were a loving God, full of pity, slow to be angry and great in mercy, and ready to be turned from your purpose of evil.
+**²** And he made prayer to the Lord and said, O Lord, is this not what I said when I was still in my country? This is why I took care to go in flight to Tarshish: for I was certain that you were a loving God, full of pity, slow to be angry and great in mercy, and ready to be turned from your purpose of evil.
 
-<sup>3</sup> So now, O Lord, give ear to my prayer and take my life from me; for death is better for me than life.
+**³** So now, O Lord, give ear to my prayer and take my life from me; for death is better for me than life.
 
-<sup>4</sup> And the Lord said, Have you any right to be angry?
+**⁴** And the Lord said, Have you any right to be angry?
 
-<sup>5</sup> Then Jonah went out of the town, and took his seat on the east side of the town and made himself a roof of branches and took his seat under its shade till he saw what would become of the town.
+**⁵** Then Jonah went out of the town, and took his seat on the east side of the town and made himself a roof of branches and took his seat under its shade till he saw what would become of the town.
 
-<sup>6</sup> And the Lord God made a vine come up over Jonah to give him shade over his head. And Jonah was very glad because of the vine.
+**⁶** And the Lord God made a vine come up over Jonah to give him shade over his head. And Jonah was very glad because of the vine.
 
-<sup>7</sup> But early on the morning after, God made ready a worm for the destruction of the vine, and it became dry and dead.
+**⁷** But early on the morning after, God made ready a worm for the destruction of the vine, and it became dry and dead.
 
-<sup>8</sup> Then when the sun came up, God sent a burning east wind: and so great was the heat of the sun on his head that Jonah was overcome, and, requesting death for himself, said, Death is better for me than life.
+**⁸** Then when the sun came up, God sent a burning east wind: and so great was the heat of the sun on his head that Jonah was overcome, and, requesting death for himself, said, Death is better for me than life.
 
-<sup>9</sup> And the Lord said to Jonah, Have you any right to be angry about the vine? And he said, I have a right to be truly angry.
+**⁹** And the Lord said to Jonah, Have you any right to be angry about the vine? And he said, I have a right to be truly angry.
 
-<sup>10</sup> And the Lord said, You had pity on the vine, for which you did no work and for the growth of which you were not responsible; which came up in a night and came to an end in a night;
+**¹⁰** And the Lord said, You had pity on the vine, for which you did no work and for the growth of which you were not responsible; which came up in a night and came to an end in a night;
 
-<sup>11</sup> And am I not to have mercy on Nineveh, that great town, in which there are more than a hundred and twenty thousand persons without the power of judging between right and left, as well as much cattle?
+**¹¹** And am I not to have mercy on Nineveh, that great town, in which there are more than a hundred and twenty thousand persons without the power of judging between right and left, as well as much cattle?

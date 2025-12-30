@@ -4,50 +4,50 @@ weight: 30
 
 # Chapter 30
 
-<sup>1</sup> The word which came to Jeremiah from the Lord, saying,
+**¹** The word which came to Jeremiah from the Lord, saying,
 
-<sup>2</sup> The Lord, the God of Israel, has said, Put down in a book all the words which I have said to you.
+**²** The Lord, the God of Israel, has said, Put down in a book all the words which I have said to you.
 
-<sup>3</sup> For see, the days are coming, says the Lord, when I will let the fate of my people Israel and Judah be changed, says the Lord: and I will make them come back to the land which I gave to their fathers, so that they may take it for their heritage.
+**³** For see, the days are coming, says the Lord, when I will let the fate of my people Israel and Judah be changed, says the Lord: and I will make them come back to the land which I gave to their fathers, so that they may take it for their heritage.
 
-<sup>4</sup> And these are the words which the Lord said about Israel and about Judah.
+**⁴** And these are the words which the Lord said about Israel and about Judah.
 
-<sup>5</sup> This is what the Lord has said: A voice of shaking fear has come to our ears, of fear and not of peace.
+**⁵** This is what the Lord has said: A voice of shaking fear has come to our ears, of fear and not of peace.
 
-<sup>6</sup> Put the question and see if it is possible for a man to have birth-pains: why do I see every man with his hands gripping his sides, as a woman does when the pains of birth are on her, and all faces are turned green?
+**⁶** Put the question and see if it is possible for a man to have birth-pains: why do I see every man with his hands gripping his sides, as a woman does when the pains of birth are on her, and all faces are turned green?
 
-<sup>7</sup> Ha! for that day is so great that there is no day like it: it is the time of Jacob's trouble: but he will get salvation from it.
+**⁷** Ha! for that day is so great that there is no day like it: it is the time of Jacob's trouble: but he will get salvation from it.
 
-<sup>8</sup> For it will come about on that day, says the Lord of armies, that his yoke will be broken off his neck, and his bands will be burst; and men of strange lands will no longer make use of him as their servant:
+**⁸** For it will come about on that day, says the Lord of armies, that his yoke will be broken off his neck, and his bands will be burst; and men of strange lands will no longer make use of him as their servant:
 
-<sup>9</sup> But they will be servants to the Lord their God and to David their king, whom I will give back to them.
+**⁹** But they will be servants to the Lord their God and to David their king, whom I will give back to them.
 
-<sup>10</sup> So have no fear, O Jacob, my servant, says the Lord; and do not be troubled, O Israel: for see, I will make you come back from far away, and your seed from the land where they are prisoners; and Jacob will come back, and will be quiet and at peace, and no one will give him cause for fear.
+**¹⁰** So have no fear, O Jacob, my servant, says the Lord; and do not be troubled, O Israel: for see, I will make you come back from far away, and your seed from the land where they are prisoners; and Jacob will come back, and will be quiet and at peace, and no one will give him cause for fear.
 
-<sup>11</sup> For I am with you, says the Lord, to be your saviour: for I will put an end to all the nations where I have sent you wandering, but I will not put an end to you completely: though with wise purpose I will put right your errors, and will not let you go quite without punishment.
+**¹¹** For I am with you, says the Lord, to be your saviour: for I will put an end to all the nations where I have sent you wandering, but I will not put an end to you completely: though with wise purpose I will put right your errors, and will not let you go quite without punishment.
 
-<sup>12</sup> For the Lord has said, Your disease may not be made well and your wound is bitter.
+**¹²** For the Lord has said, Your disease may not be made well and your wound is bitter.
 
-<sup>13</sup> There is no help for your wound, there is nothing to make you well.
+**¹³** There is no help for your wound, there is nothing to make you well.
 
-<sup>14</sup> Your lovers have no more thought for you, they go after you no longer; for I have given you the wound of a hater, even cruel punishment;
+**¹⁴** Your lovers have no more thought for you, they go after you no longer; for I have given you the wound of a hater, even cruel punishment;
 
-<sup>15</sup> Why are you crying for help because of your wound? for your pain may never be taken away: because your evil-doing was so great and because your sins were increased, I have done these things to you.
+**¹⁵** Why are you crying for help because of your wound? for your pain may never be taken away: because your evil-doing was so great and because your sins were increased, I have done these things to you.
 
-<sup>16</sup> For this cause, all those who take you for their food will themselves become your food; and all your attackers, every one of them, will be taken prisoners; and those who send destruction on you will come to destruction; and all those who take away your goods by force will undergo the same themselves.
+**¹⁶** For this cause, all those who take you for their food will themselves become your food; and all your attackers, every one of them, will be taken prisoners; and those who send destruction on you will come to destruction; and all those who take away your goods by force will undergo the same themselves.
 
-<sup>17</sup> For I will make you healthy again and I will make you well from your wounds, says the Lord; because they have given you the name of an outlaw, saying, It is Zion cared for by no man.
+**¹⁷** For I will make you healthy again and I will make you well from your wounds, says the Lord; because they have given you the name of an outlaw, saying, It is Zion cared for by no man.
 
-<sup>18</sup> The Lord has said, See, I am changing the fate of the tents of Jacob, and I will have pity on his houses; the town will be put up on its hill, and the great houses will be living-places again.
+**¹⁸** The Lord has said, See, I am changing the fate of the tents of Jacob, and I will have pity on his houses; the town will be put up on its hill, and the great houses will be living-places again.
 
-<sup>19</sup> And from them will go out praise and the sound of laughing: and I will make them great in number, and they will not become less; and I will give them glory, and they will not be small.
+**¹⁹** And from them will go out praise and the sound of laughing: and I will make them great in number, and they will not become less; and I will give them glory, and they will not be small.
 
-<sup>20</sup> And their children will be as they were in the old days, and the meeting of the people will have its place before me, and I will send punishment on all who are cruel to them.
+**²⁰** And their children will be as they were in the old days, and the meeting of the people will have its place before me, and I will send punishment on all who are cruel to them.
 
-<sup>21</sup> And their chief will be of their number; their ruler will come from among themselves; and I will let him be present before me, so that he may come near to me: for who may have strength of heart to come near me? says the Lord.
+**²¹** And their chief will be of their number; their ruler will come from among themselves; and I will let him be present before me, so that he may come near to me: for who may have strength of heart to come near me? says the Lord.
 
-<sup>22</sup> And you will be my people, and I will be your God.
+**²²** And you will be my people, and I will be your God.
 
-<sup>23</sup> See, the storm-wind of the Lord, even the heat of his wrath, has gone out, a rolling storm, bursting on the heads of the evil-doers.
+**²³** See, the storm-wind of the Lord, even the heat of his wrath, has gone out, a rolling storm, bursting on the heads of the evil-doers.
 
-<sup>24</sup> The wrath of the Lord will not be turned back till he has done, till he has put into effect, the purposes of his heart: in days to come you will have full knowledge of this.
+**²⁴** The wrath of the Lord will not be turned back till he has done, till he has put into effect, the purposes of his heart: in days to come you will have full knowledge of this.

@@ -4,58 +4,58 @@ weight: 44
 
 # Chapter 44
 
-<sup>1</sup> And now, give ear, O Jacob my servant, and Israel whom I have taken for myself:
+**¹** And now, give ear, O Jacob my servant, and Israel whom I have taken for myself:
 
-<sup>2</sup> The Lord who made you, forming you in your mother's body, the Lord, your helper, says, Have no fear, O Jacob my servant, and you, Jeshurun, whom I have taken for myself.
+**²** The Lord who made you, forming you in your mother's body, the Lord, your helper, says, Have no fear, O Jacob my servant, and you, Jeshurun, whom I have taken for myself.
 
-<sup>3</sup> For I will send water on the land needing it, and streams on the dry earth: I will let my spirit come down on your seed, and my blessing on your offspring.
+**³** For I will send water on the land needing it, and streams on the dry earth: I will let my spirit come down on your seed, and my blessing on your offspring.
 
-<sup>4</sup> And they will come up like grass in a well-watered field, like water-plants by the streams.
+**⁴** And they will come up like grass in a well-watered field, like water-plants by the streams.
 
-<sup>5</sup> One will say, I am the Lord's; and another will give himself the name, Jacob; another will put a mark on his hand, I am the Lord's, and another will take the name of Israel for himself.
+**⁵** One will say, I am the Lord's; and another will give himself the name, Jacob; another will put a mark on his hand, I am the Lord's, and another will take the name of Israel for himself.
 
-<sup>6</sup> The Lord, the King of Israel, even the Lord of armies who has taken up his cause, says, I am the first and the last, and there is no God but me.
+**⁶** The Lord, the King of Israel, even the Lord of armies who has taken up his cause, says, I am the first and the last, and there is no God but me.
 
-<sup>7</sup> If there is one like me, let him come forward and say it, let him make it clear and put it in order before me: who has made clear in the past the things to come? let him make clear the future to me.
+**⁷** If there is one like me, let him come forward and say it, let him make it clear and put it in order before me: who has made clear in the past the things to come? let him make clear the future to me.
 
-<sup>8</sup> Have no fear, be strong in heart; have I not made it clear to you in the past, and let you see it? and you are my witnesses. Is there any God but me, or a Rock of whom I have no knowledge?
+**⁸** Have no fear, be strong in heart; have I not made it clear to you in the past, and let you see it? and you are my witnesses. Is there any God but me, or a Rock of whom I have no knowledge?
 
-<sup>9</sup> Those who make a pictured image are all of them as nothing, and the things of their desire will be of no profit to them: and their servants see not, and have no knowledge; so they will be put to shame.
+**⁹** Those who make a pictured image are all of them as nothing, and the things of their desire will be of no profit to them: and their servants see not, and have no knowledge; so they will be put to shame.
 
-<sup>10</sup> Whoever makes a god, makes nothing but a metal image in which there is no profit.
+**¹⁰** Whoever makes a god, makes nothing but a metal image in which there is no profit.
 
-<sup>11</sup> Truly, all those who make use of secret arts will be put to shame, and their words of power are only words of men: let them all come forward together; they will all be in fear and be put to shame.
+**¹¹** Truly, all those who make use of secret arts will be put to shame, and their words of power are only words of men: let them all come forward together; they will all be in fear and be put to shame.
 
-<sup>12</sup> The iron-worker is heating the metal in the fire, giving it form with his hammers, and working on it with his strong arm: then for need of food his strength gives way, and for need of water he becomes feeble.
+**¹²** The iron-worker is heating the metal in the fire, giving it form with his hammers, and working on it with his strong arm: then for need of food his strength gives way, and for need of water he becomes feeble.
 
-<sup>13</sup> The woodworker is measuring out the wood with his line, marking it out with his pencil: after smoothing it with his plane, and making circles on it with his instrument, he gives it the form and glory of a man, so that it may be placed in the house.
+**¹³** The woodworker is measuring out the wood with his line, marking it out with his pencil: after smoothing it with his plane, and making circles on it with his instrument, he gives it the form and glory of a man, so that it may be placed in the house.
 
-<sup>14</sup> He has cedars cut down for himself, he takes an oak and lets it get strong among the trees of the wood; he has an ash-tree planted, and the rain gives it growth.
+**¹⁴** He has cedars cut down for himself, he takes an oak and lets it get strong among the trees of the wood; he has an ash-tree planted, and the rain gives it growth.
 
-<sup>15</sup> Then it will be used to make a fire, so that a man may get warm; he has the oven heated with it and makes bread: he makes a god with it, to which he gives worship: he makes a pictured image out of it, and goes down on his face before it.
+**¹⁵** Then it will be used to make a fire, so that a man may get warm; he has the oven heated with it and makes bread: he makes a god with it, to which he gives worship: he makes a pictured image out of it, and goes down on his face before it.
 
-<sup>16</sup> With part of it he makes a fire, and on the fire he gets meat cooked and takes a full meal: he makes himself warm, and says, Aha! I am warm, I have seen the fire:
+**¹⁶** With part of it he makes a fire, and on the fire he gets meat cooked and takes a full meal: he makes himself warm, and says, Aha! I am warm, I have seen the fire:
 
-<sup>17</sup> And the rest of it he makes into a god, even his pictured image: he goes down on his face before it, giving worship to it, and making prayer to it, saying, Be my saviour; for you are my god.
+**¹⁷** And the rest of it he makes into a god, even his pictured image: he goes down on his face before it, giving worship to it, and making prayer to it, saying, Be my saviour; for you are my god.
 
-<sup>18</sup> They have no knowledge or wisdom; for he has put a veil over their eyes, so that they may not see; and on their hearts, so that they may not give attention.
+**¹⁸** They have no knowledge or wisdom; for he has put a veil over their eyes, so that they may not see; and on their hearts, so that they may not give attention.
 
-<sup>19</sup> And no one takes note, no one has enough knowledge or wisdom to say, I have put part of it in the fire, and made bread on it; I have had a meal of the flesh cooked with it: and am I now to make the rest of it into a false god? am I to go down on my face before a bit of wood?
+**¹⁹** And no one takes note, no one has enough knowledge or wisdom to say, I have put part of it in the fire, and made bread on it; I have had a meal of the flesh cooked with it: and am I now to make the rest of it into a false god? am I to go down on my face before a bit of wood?
 
-<sup>20</sup> As for him whose food is the dust of a dead fire, he has been turned from the way by a twisted mind, so that he is unable to keep himself safe by saying, What I have here in my hand is false.
+**²⁰** As for him whose food is the dust of a dead fire, he has been turned from the way by a twisted mind, so that he is unable to keep himself safe by saying, What I have here in my hand is false.
 
-<sup>21</sup> Keep these things in mind, O Jacob; and you Israel, for you are my servant: I have made you; you are my servant; O Israel, I will not let you go out of my memory.
+**²¹** Keep these things in mind, O Jacob; and you Israel, for you are my servant: I have made you; you are my servant; O Israel, I will not let you go out of my memory.
 
-<sup>22</sup> I have put your evil doings out of my mind like a thick cloud, and your sins like a mist: come back to me; for I have taken up your cause.
+**²²** I have put your evil doings out of my mind like a thick cloud, and your sins like a mist: come back to me; for I have taken up your cause.
 
-<sup>23</sup> Make a song, O heavens, for the Lord has done it: give a loud cry, you deep parts of the earth: let your voices be loud in song, you mountains, and you woods with all your trees: for the Lord has taken up the cause of Jacob, and will let his glory be seen in Israel.
+**²³** Make a song, O heavens, for the Lord has done it: give a loud cry, you deep parts of the earth: let your voices be loud in song, you mountains, and you woods with all your trees: for the Lord has taken up the cause of Jacob, and will let his glory be seen in Israel.
 
-<sup>24</sup> The Lord, who has taken up your cause, and who gave you life in your mother's body, says, I am the Lord who makes all things; stretching out the heavens by myself, and giving the earth its limits; who was with me?
+**²⁴** The Lord, who has taken up your cause, and who gave you life in your mother's body, says, I am the Lord who makes all things; stretching out the heavens by myself, and giving the earth its limits; who was with me?
 
-<sup>25</sup> Who makes the signs of those who give word of the future come to nothing, so that those who have knowledge of secret arts go off their heads; turning the wise men back, and making their knowledge foolish:
+**²⁵** Who makes the signs of those who give word of the future come to nothing, so that those who have knowledge of secret arts go off their heads; turning the wise men back, and making their knowledge foolish:
 
-<sup>26</sup> Who makes the word of his servants certain, and gives effect to the purposes of his representatives; who says of Jerusalem, Her people will come back to her; and of the towns of Judah, I will give orders for their building, and will make her waste places fertile again:
+**²⁶** Who makes the word of his servants certain, and gives effect to the purposes of his representatives; who says of Jerusalem, Her people will come back to her; and of the towns of Judah, I will give orders for their building, and will make her waste places fertile again:
 
-<sup>27</sup> Who says to the deep, Be dry, and I will make your rivers dry:
+**²⁷** Who says to the deep, Be dry, and I will make your rivers dry:
 
-<sup>28</sup> Who says of Cyrus, He will take care of my sheep, and will do all my pleasure: who says of Jerusalem, I will give the word for your building; and of the Temple, Your bases will be put in place.
+**²⁸** Who says of Cyrus, He will take care of my sheep, and will do all my pleasure: who says of Jerusalem, I will give the word for your building; and of the Temple, Your bases will be put in place.

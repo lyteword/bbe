@@ -4,66 +4,66 @@ weight: 18
 
 # Chapter 18
 
-<sup>1</sup> And the Lord said to Aaron, You and your sons and your father's family are to be responsible for all wrongdoing in relation to the holy place: and you and your sons are to be responsible for the errors which come about in your work as priests.
+**¹** And the Lord said to Aaron, You and your sons and your father's family are to be responsible for all wrongdoing in relation to the holy place: and you and your sons are to be responsible for the errors which come about in your work as priests.
 
-<sup>2</sup> Let your brothers, the family of Levi, come near with you, so that they may be joined with you and be your servants: but you and your sons with you are to go in before the ark of witness.
+**²** Let your brothers, the family of Levi, come near with you, so that they may be joined with you and be your servants: but you and your sons with you are to go in before the ark of witness.
 
-<sup>3</sup> They are to do your orders and be responsible for the work of the Tent; but they may not come near the vessels of the holy place or the altar, so that death may not overtake them or you.
+**³** They are to do your orders and be responsible for the work of the Tent; but they may not come near the vessels of the holy place or the altar, so that death may not overtake them or you.
 
-<sup>4</sup> They are to be joined with you in the care of the Tent of meeting, doing whatever is needed for the Tent: and no one of any other family may come near you.
+**⁴** They are to be joined with you in the care of the Tent of meeting, doing whatever is needed for the Tent: and no one of any other family may come near you.
 
-<sup>5</sup> You are to be responsible for the holy place and the altar, so that wrath may never again come on the children of Israel.
+**⁵** You are to be responsible for the holy place and the altar, so that wrath may never again come on the children of Israel.
 
-<sup>6</sup> Now, see, I have taken your brothers the Levites from among the children of Israel: they are given to you and to the Lord, to do the work of the Tent of meeting.
+**⁶** Now, see, I have taken your brothers the Levites from among the children of Israel: they are given to you and to the Lord, to do the work of the Tent of meeting.
 
-<sup>7</sup> And you and your sons with you are to be responsible as priests for the altar and everything on it, and everything inside the veil; you are to do the work of priests; I have given you your position as priests; and any other man who comes near will be put to death.
+**⁷** And you and your sons with you are to be responsible as priests for the altar and everything on it, and everything inside the veil; you are to do the work of priests; I have given you your position as priests; and any other man who comes near will be put to death.
 
-<sup>8</sup> And the Lord said to Aaron, See, I have given into your care my lifted offerings; even all the holy things of the children of Israel I have given to you and to your sons as your right for ever, because you have been marked with the holy oil.
+**⁸** And the Lord said to Aaron, See, I have given into your care my lifted offerings; even all the holy things of the children of Israel I have given to you and to your sons as your right for ever, because you have been marked with the holy oil.
 
-<sup>9</sup> This is to be yours of the most holy things, out of the fire offerings; every offering of theirs, every meal offering and sin-offering, and every offering which they make on account of error, is to be most holy for you and your sons.
+**⁹** This is to be yours of the most holy things, out of the fire offerings; every offering of theirs, every meal offering and sin-offering, and every offering which they make on account of error, is to be most holy for you and your sons.
 
-<sup>10</sup> As most holy things they are to be your food: let every male have them for food; it is to be holy to you.
+**¹⁰** As most holy things they are to be your food: let every male have them for food; it is to be holy to you.
 
-<sup>11</sup> And this is yours: the lifted offering which they give and all the wave offerings of the children of Israel I have given to you and to your sons and to your daughters as your right for ever: everyone in your house who is clean may have them for food.
+**¹¹** And this is yours: the lifted offering which they give and all the wave offerings of the children of Israel I have given to you and to your sons and to your daughters as your right for ever: everyone in your house who is clean may have them for food.
 
-<sup>12</sup> All the best of the oil and the wine and the grain, the first-fruits of them which they give to the Lord, to you have I given them.
+**¹²** All the best of the oil and the wine and the grain, the first-fruits of them which they give to the Lord, to you have I given them.
 
-<sup>13</sup> The earliest produce from their land which they take to the Lord is to be yours; everyone in your house who is clean may have it for his food.
+**¹³** The earliest produce from their land which they take to the Lord is to be yours; everyone in your house who is clean may have it for his food.
 
-<sup>14</sup> Everything given by oath to the Lord in Israel is to be yours.
+**¹⁴** Everything given by oath to the Lord in Israel is to be yours.
 
-<sup>15</sup> The first birth of every living thing which is offered to the Lord, of man or beast, is to be yours; but for the first sons of man payment is to be made, and for the first young of unclean beasts.
+**¹⁵** The first birth of every living thing which is offered to the Lord, of man or beast, is to be yours; but for the first sons of man payment is to be made, and for the first young of unclean beasts.
 
-<sup>16</sup> Payment is to be made for these when they are a month old, at the value fixed by you, a price of five shekels by the scale of the holy place, that is, twenty gerahs to the shekel.
+**¹⁶** Payment is to be made for these when they are a month old, at the value fixed by you, a price of five shekels by the scale of the holy place, that is, twenty gerahs to the shekel.
 
-<sup>17</sup> But no such payment may be made for the first birth of an ox or a sheep or a goat; these are holy: their blood is to be dropped on the altar, and their fat burned for an offering made by fire, a sweet smell to the Lord.
+**¹⁷** But no such payment may be made for the first birth of an ox or a sheep or a goat; these are holy: their blood is to be dropped on the altar, and their fat burned for an offering made by fire, a sweet smell to the Lord.
 
-<sup>18</sup> Their flesh is to be yours; like the breast of the wave offering and the right leg, it is to be yours.
+**¹⁸** Their flesh is to be yours; like the breast of the wave offering and the right leg, it is to be yours.
 
-<sup>19</sup> All the lifted offerings of the holy things which the children of Israel give to the Lord, I have given to you and to your sons and to your daughters as a right for ever. This is an agreement made with salt before the Lord, to you and to your seed for ever.
+**¹⁹** All the lifted offerings of the holy things which the children of Israel give to the Lord, I have given to you and to your sons and to your daughters as a right for ever. This is an agreement made with salt before the Lord, to you and to your seed for ever.
 
-<sup>20</sup> And the Lord said to Aaron, You will have no heritage in their land, or any part among them; I am your part and your heritage among the children of Israel.
+**²⁰** And the Lord said to Aaron, You will have no heritage in their land, or any part among them; I am your part and your heritage among the children of Israel.
 
-<sup>21</sup> And to the children of Levi I have given as their heritage all the tenths offered in Israel, as payment for the work they do, the work of the Tent of meeting.
+**²¹** And to the children of Levi I have given as their heritage all the tenths offered in Israel, as payment for the work they do, the work of the Tent of meeting.
 
-<sup>22</sup> In future the children of Israel are not to come near the Tent of meeting, so that death may not come to them because of sin.
+**²²** In future the children of Israel are not to come near the Tent of meeting, so that death may not come to them because of sin.
 
-<sup>23</sup> But the Levites are to do the work of the Tent of meeting, and be responsible for errors in connection with it: this is a law for ever through all your generations; and among the children of Israel they will have no heritage.
+**²³** But the Levites are to do the work of the Tent of meeting, and be responsible for errors in connection with it: this is a law for ever through all your generations; and among the children of Israel they will have no heritage.
 
-<sup>24</sup> For the tenths which the children of Israel give as a lifted offering to the Lord I have given to the Levites as their heritage. and so I have said to them, Among the children of Israel they will have no heritage.
+**²⁴** For the tenths which the children of Israel give as a lifted offering to the Lord I have given to the Levites as their heritage. and so I have said to them, Among the children of Israel they will have no heritage.
 
-<sup>25</sup> And the Lord said to Moses,
+**²⁵** And the Lord said to Moses,
 
-<sup>26</sup> Say to the Levites, When you take from the children of Israel the tenth which I have given to you from them as your heritage, a tenth part of that tenth is to be offered as an offering lifted up before the Lord.
+**²⁶** Say to the Levites, When you take from the children of Israel the tenth which I have given to you from them as your heritage, a tenth part of that tenth is to be offered as an offering lifted up before the Lord.
 
-<sup>27</sup> And this lifted offering is to be put to your credit as if it was grain from the grain-floor and wine from the vines.
+**²⁷** And this lifted offering is to be put to your credit as if it was grain from the grain-floor and wine from the vines.
 
-<sup>28</sup> So you are to make an offering lifted up to the Lord from all the tenths which you get from the children of Israel, giving out of it the Lord's lifted offering to Aaron the priest.
+**²⁸** So you are to make an offering lifted up to the Lord from all the tenths which you get from the children of Israel, giving out of it the Lord's lifted offering to Aaron the priest.
 
-<sup>29</sup> From everything given to you, let the best of it, the holy part of it, be offered as a lifted offering to the Lord.
+**²⁹** From everything given to you, let the best of it, the holy part of it, be offered as a lifted offering to the Lord.
 
-<sup>30</sup> Say to them, then, When the best of it is lifted up on high, it is to be put to the account of the Levites as the increase of the grain-floor and of the place where the grapes are crushed.
+**³⁰** Say to them, then, When the best of it is lifted up on high, it is to be put to the account of the Levites as the increase of the grain-floor and of the place where the grapes are crushed.
 
-<sup>31</sup> It is to be your food, for you and your families in every place: it is your reward for your work in the Tent of meeting.
+**³¹** It is to be your food, for you and your families in every place: it is your reward for your work in the Tent of meeting.
 
-<sup>32</sup> And no sin will be yours on account of it, when the best of it has been lifted up on high; you are not to make a wrong use of the holy things of the children of Israel, so that death may not overtake you.
+**³²** And no sin will be yours on account of it, when the best of it has been lifted up on high; you are not to make a wrong use of the holy things of the children of Israel, so that death may not overtake you.

@@ -4,40 +4,40 @@ weight: 22
 
 # Chapter 22
 
-<sup>1</sup> Then David said, This is the house of the Lord God, and this is the altar for Israel's burned offerings.
+**¹** Then David said, This is the house of the Lord God, and this is the altar for Israel's burned offerings.
 
-<sup>2</sup> And David gave orders to get together all the men from strange lands who were in the land of Israel; and he put stone-cutters to work, cutting stones for building the house of God.
+**²** And David gave orders to get together all the men from strange lands who were in the land of Israel; and he put stone-cutters to work, cutting stones for building the house of God.
 
-<sup>3</sup> And he got together a great store of iron, for the nails for the doors and for the joins; and brass, more in weight than might be measured;
+**³** And he got together a great store of iron, for the nails for the doors and for the joins; and brass, more in weight than might be measured;
 
-<sup>4</sup> And cedar-trees without number, for the Zidonians and the men of Tyre came with a great amount of cedar-trees for David.
+**⁴** And cedar-trees without number, for the Zidonians and the men of Tyre came with a great amount of cedar-trees for David.
 
-<sup>5</sup> And David said, Solomon my son is young and untested, and the house which is to be put up for the Lord is to be very great, a thing of wonder and glory through all countries; so I will make ready what is needed for it. So David got ready a great store of material before his death.
+**⁵** And David said, Solomon my son is young and untested, and the house which is to be put up for the Lord is to be very great, a thing of wonder and glory through all countries; so I will make ready what is needed for it. So David got ready a great store of material before his death.
 
-<sup>6</sup> Then he sent for his son Solomon, and gave him orders for the building of a house for the Lord, the God of Israel.
+**⁶** Then he sent for his son Solomon, and gave him orders for the building of a house for the Lord, the God of Israel.
 
-<sup>7</sup> And David said to Solomon, My son, it was my desire to put up a house for the name of the Lord my God.
+**⁷** And David said to Solomon, My son, it was my desire to put up a house for the name of the Lord my God.
 
-<sup>8</sup> But the word of the Lord came to me saying, You have taken lives without number and made great wars; I will not let you be the builder of a house for my name, because of the lives you have taken on the earth before my eyes.
+**⁸** But the word of the Lord came to me saying, You have taken lives without number and made great wars; I will not let you be the builder of a house for my name, because of the lives you have taken on the earth before my eyes.
 
-<sup>9</sup> But you will have a son who will be a man of rest; and I will give him rest from wars on every side. His name will be Solomon, and in his time I will give Israel peace and quiet;
+**⁹** But you will have a son who will be a man of rest; and I will give him rest from wars on every side. His name will be Solomon, and in his time I will give Israel peace and quiet;
 
-<sup>10</sup> He will be the builder of a house for my name; he will be to me a son, and I will be to him a father; and I will make the seat of his rule over Israel certain for ever.
+**¹⁰** He will be the builder of a house for my name; he will be to me a son, and I will be to him a father; and I will make the seat of his rule over Israel certain for ever.
 
-<sup>11</sup> Now, my son, may the Lord be with you; and may you do well, and put up the house of the Lord your God, as he has said of you.
+**¹¹** Now, my son, may the Lord be with you; and may you do well, and put up the house of the Lord your God, as he has said of you.
 
-<sup>12</sup> Only may the Lord give you wisdom, and knowledge of his orders for Israel, so that you may keep the law of the Lord your God.
+**¹²** Only may the Lord give you wisdom, and knowledge of his orders for Israel, so that you may keep the law of the Lord your God.
 
-<sup>13</sup> And all will go well for you, if you take care to keep the laws and the rules which the Lord gave to Moses for Israel: be strong and take heart; have no fear and do not be troubled.
+**¹³** And all will go well for you, if you take care to keep the laws and the rules which the Lord gave to Moses for Israel: be strong and take heart; have no fear and do not be troubled.
 
-<sup>14</sup> Now see, poor though I am, I have got ready for the house of the Lord a hundred thousand talents of gold and a million talents of silver; and a weight of brass and iron greater than may be measured; and wood and stone have I made ready, and you may put more to it.
+**¹⁴** Now see, poor though I am, I have got ready for the house of the Lord a hundred thousand talents of gold and a million talents of silver; and a weight of brass and iron greater than may be measured; and wood and stone have I made ready, and you may put more to it.
 
-<sup>15</sup> And you have a great number of workmen, cutters and workers of stone and wood, and experts in every sort of work,
+**¹⁵** And you have a great number of workmen, cutters and workers of stone and wood, and experts in every sort of work,
 
-<sup>16</sup> In gold and silver and brass and iron more than may be numbered. Up! then, and to work; and may the Lord be with you.
+**¹⁶** In gold and silver and brass and iron more than may be numbered. Up! then, and to work; and may the Lord be with you.
 
-<sup>17</sup> Then David gave orders to all the chiefs of Israel to give their help to Solomon his son, saying,
+**¹⁷** Then David gave orders to all the chiefs of Israel to give their help to Solomon his son, saying,
 
-<sup>18</sup> Is not the Lord your God with you? and has he not given you rest on every side? for the Lord has given the people of the land into my hands, and the land is overcome before the Lord and before his people.
+**¹⁸** Is not the Lord your God with you? and has he not given you rest on every side? for the Lord has given the people of the land into my hands, and the land is overcome before the Lord and before his people.
 
-<sup>19</sup> Now give your heart and soul to the worship of the Lord your God; and get to work on the building of the holy place of the Lord God, so that you may put the ark of the Lord's agreement and the holy vessels of God in the house which is to be made for the name of the Lord.
+**¹⁹** Now give your heart and soul to the worship of the Lord your God; and get to work on the building of the holy place of the Lord God, so that you may put the ark of the Lord's agreement and the holy vessels of God in the house which is to be made for the name of the Lord.

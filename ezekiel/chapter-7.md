@@ -4,56 +4,56 @@ weight: 7
 
 # Chapter 7
 
-<sup>1</sup> And the word of the Lord came to me, saying,
+**¹** And the word of the Lord came to me, saying,
 
-<sup>2</sup> And you, son of man, say, This is what the Lord has said to the land of Israel: An end has come, the end has come on the four quarters of the land.
+**²** And you, son of man, say, This is what the Lord has said to the land of Israel: An end has come, the end has come on the four quarters of the land.
 
-<sup>3</sup> Now the end has come on you, and I will send my wrath on you, judging you for your ways, I will send punishment on you for all your disgusting acts.
+**³** Now the end has come on you, and I will send my wrath on you, judging you for your ways, I will send punishment on you for all your disgusting acts.
 
-<sup>4</sup> My eye will not have mercy on you, and I will have no pity: but I will send the punishment of your ways on you, and your disgusting works will be among you: and you will be certain that I am the Lord.
+**⁴** My eye will not have mercy on you, and I will have no pity: but I will send the punishment of your ways on you, and your disgusting works will be among you: and you will be certain that I am the Lord.
 
-<sup>5</sup> This is what the Lord has said: An evil, even one evil; see, it is coming.
+**⁵** This is what the Lord has said: An evil, even one evil; see, it is coming.
 
-<sup>6</sup> An end has come, the end has come; see, it is coming on you.
+**⁶** An end has come, the end has come; see, it is coming on you.
 
-<sup>7</sup> The crowning time has come on you, O people of the land: the time has come, the day is near; the day will not be slow in coming, it will not keep back.
+**⁷** The crowning time has come on you, O people of the land: the time has come, the day is near; the day will not be slow in coming, it will not keep back.
 
-<sup>8</sup> Now, in a little time, I will let loose my passion on you, and give full effect to my wrath against you, judging you for your ways, and sending punishment on you for all your disgusting works.
+**⁸** Now, in a little time, I will let loose my passion on you, and give full effect to my wrath against you, judging you for your ways, and sending punishment on you for all your disgusting works.
 
-<sup>9</sup> My eye will not have mercy, and I will have no pity: I will send on you the punishment of your ways, and your disgusting works will be among you; and you will see that I am the Lord who gives punishment.
+**⁹** My eye will not have mercy, and I will have no pity: I will send on you the punishment of your ways, and your disgusting works will be among you; and you will see that I am the Lord who gives punishment.
 
-<sup>10</sup> See, the day; see, it is coming: the crowning time has gone out; the twisted way is flowering, pride has put out buds.
+**¹⁰** See, the day; see, it is coming: the crowning time has gone out; the twisted way is flowering, pride has put out buds.
 
-<sup>11</sup> Violent behaviour has been lifted up into a rod of evil; it will not be slow in coming, it will not keep back.
+**¹¹** Violent behaviour has been lifted up into a rod of evil; it will not be slow in coming, it will not keep back.
 
-<sup>12</sup> The time has come, the day is near: let not him who gives a price for goods be glad, or him who gets the price have sorrow:
+**¹²** The time has come, the day is near: let not him who gives a price for goods be glad, or him who gets the price have sorrow:
 
-<sup>13</sup> For the trader will not go back to the things for which he had his price, even while he is still living:
+**¹³** For the trader will not go back to the things for which he had his price, even while he is still living:
 
-<sup>14</sup> And he who has given a price for goods will not get them, for my wrath is on all of them.
+**¹⁴** And he who has given a price for goods will not get them, for my wrath is on all of them.
 
-<sup>15</sup> Outside is the sword, and inside disease and need of food: he who is in the open country will be put to the sword; he who is in the town will come to his end through need of food and disease.
+**¹⁵** Outside is the sword, and inside disease and need of food: he who is in the open country will be put to the sword; he who is in the town will come to his end through need of food and disease.
 
-<sup>16</sup> And those of them who get away safely will go and be in the secret places like the doves of the valleys, all of them will come to death, every one in his sin.
+**¹⁶** And those of them who get away safely will go and be in the secret places like the doves of the valleys, all of them will come to death, every one in his sin.
 
-<sup>17</sup> All hands will be feeble and all knees without strength, like water.
+**¹⁷** All hands will be feeble and all knees without strength, like water.
 
-<sup>18</sup> And they will put haircloth round them, and deep fear will be covering them; and shame will be on all faces, and the hair gone from all their heads.
+**¹⁸** And they will put haircloth round them, and deep fear will be covering them; and shame will be on all faces, and the hair gone from all their heads.
 
-<sup>19</sup> They will put out their silver into the streets, and their gold will be as an unclean thing; their silver and their gold will not be able to keep them safe in the day of the wrath of the Lord; they will not get their desire or have food for their need: because it has been the cause of their falling into sin.
+**¹⁹** They will put out their silver into the streets, and their gold will be as an unclean thing; their silver and their gold will not be able to keep them safe in the day of the wrath of the Lord; they will not get their desire or have food for their need: because it has been the cause of their falling into sin.
 
-<sup>20</sup> As for their beautiful ornament, they had put it on high, and had made the images of their disgusting and hated things in it: for this cause I have made it an unclean thing to them.
+**²⁰** As for their beautiful ornament, they had put it on high, and had made the images of their disgusting and hated things in it: for this cause I have made it an unclean thing to them.
 
-<sup>21</sup> And I will give it into the hands of men from strange lands who will take it by force, and to the evil-doers of the earth to have for themselves; and they will make it unholy.
+**²¹** And I will give it into the hands of men from strange lands who will take it by force, and to the evil-doers of the earth to have for themselves; and they will make it unholy.
 
-<sup>22</sup> And my face will be turned away from them, and they will make my secret place unholy: violent men will go into it and make it unholy.
+**²²** And my face will be turned away from them, and they will make my secret place unholy: violent men will go into it and make it unholy.
 
-<sup>23</sup> Make the chain: for the land is full of crimes of blood, and the town is full of violent acts.
+**²³** Make the chain: for the land is full of crimes of blood, and the town is full of violent acts.
 
-<sup>24</sup> For this reason I will send the worst of the nations and they will take their houses for themselves: I will make the pride of their strength come to an end; and their holy places will be made unclean.
+**²⁴** For this reason I will send the worst of the nations and they will take their houses for themselves: I will make the pride of their strength come to an end; and their holy places will be made unclean.
 
-<sup>25</sup> Shaking fear is coming; and they will be looking for peace, and there will be no peace.
+**²⁵** Shaking fear is coming; and they will be looking for peace, and there will be no peace.
 
-<sup>26</sup> Destruction will come on destruction, and one story after another; and the vision of the prophet will be shamed, and knowledge of the law will come to an end among the priests, and wisdom among the old.
+**²⁶** Destruction will come on destruction, and one story after another; and the vision of the prophet will be shamed, and knowledge of the law will come to an end among the priests, and wisdom among the old.
 
-<sup>27</sup> The king will give himself up to sorrow, and the ruler will be clothed with wonder, and the hands of the people of the land will be troubled: I will give them punishment for their ways, judging them as it is right for them to be judged; and they will be certain that I am the Lord.
+**²⁷** The king will give himself up to sorrow, and the ruler will be clothed with wonder, and the hands of the people of the land will be troubled: I will give them punishment for their ways, judging them as it is right for them to be judged; and they will be certain that I am the Lord.

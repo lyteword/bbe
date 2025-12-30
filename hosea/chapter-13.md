@@ -4,34 +4,34 @@ weight: 13
 
 # Chapter 13
 
-<sup>1</sup> When the words of my law came from Ephraim, he was lifted up in Israel; but when he did evil through the Baal, death overtook him.
+**¹** When the words of my law came from Ephraim, he was lifted up in Israel; but when he did evil through the Baal, death overtook him.
 
-<sup>2</sup> And now their sins are increased; they have made themselves a metal image, false gods from their silver, after their designs, all of them the work of the metal-workers; they say of them, Let them give offerings, let men give kisses to the oxen.
+**²** And now their sins are increased; they have made themselves a metal image, false gods from their silver, after their designs, all of them the work of the metal-workers; they say of them, Let them give offerings, let men give kisses to the oxen.
 
-<sup>3</sup> So they will be like the morning cloud, like the dew which goes early away, like the dust of the grain which the wind is driving out of the crushing-floor, like smoke going up from the fireplace.
+**³** So they will be like the morning cloud, like the dew which goes early away, like the dust of the grain which the wind is driving out of the crushing-floor, like smoke going up from the fireplace.
 
-<sup>4</sup> But I am the Lord your God, from the land of Egypt; you have knowledge of no other God and there is no saviour but me.
+**⁴** But I am the Lord your God, from the land of Egypt; you have knowledge of no other God and there is no saviour but me.
 
-<sup>5</sup> I had knowledge of you in the waste land where no water was.
+**⁵** I had knowledge of you in the waste land where no water was.
 
-<sup>6</sup> When I gave them food they were full, and their hearts were full of pride, and they did not keep me in mind.
+**⁶** When I gave them food they were full, and their hearts were full of pride, and they did not keep me in mind.
 
-<sup>7</sup> So I will be like a lion to them; as a cruel beast I will keep watch by the road;
+**⁷** So I will be like a lion to them; as a cruel beast I will keep watch by the road;
 
-<sup>8</sup> I will come face to face with them like a bear whose young ones have been taken from her, and their inmost hearts will be broken; there the dogs will make a meal of them; they will be wounded by the beasts of the field.
+**⁸** I will come face to face with them like a bear whose young ones have been taken from her, and their inmost hearts will be broken; there the dogs will make a meal of them; they will be wounded by the beasts of the field.
 
-<sup>9</sup> I have sent destruction on you, O Israel; who will be your helper?
+**⁹** I have sent destruction on you, O Israel; who will be your helper?
 
-<sup>10</sup> Where is your king, that he may be your saviour? and all your rulers, that they may take up your cause? of whom you said, Give me a king and rulers.
+**¹⁰** Where is your king, that he may be your saviour? and all your rulers, that they may take up your cause? of whom you said, Give me a king and rulers.
 
-<sup>11</sup> I have given you a king, because I was angry, and have taken him away in my wrath.
+**¹¹** I have given you a king, because I was angry, and have taken him away in my wrath.
 
-<sup>12</sup> The wrongdoing of Ephraim is shut up; his sin is put away in secret.
+**¹²** The wrongdoing of Ephraim is shut up; his sin is put away in secret.
 
-<sup>13</sup> The pains of a woman in childbirth will come on him: he is an unwise son, for at this time it is not right for him to keep his place when children come to birth.
+**¹³** The pains of a woman in childbirth will come on him: he is an unwise son, for at this time it is not right for him to keep his place when children come to birth.
 
-<sup>14</sup> I will give the price to make them free from the power of the underworld, I will be their saviour from death: O death! where are your pains? O underworld! where is your destruction? my eyes will have no pity.
+**¹⁴** I will give the price to make them free from the power of the underworld, I will be their saviour from death: O death! where are your pains? O underworld! where is your destruction? my eyes will have no pity.
 
-<sup>15</sup> Though he gives fruit among his brothers, an east wind will come, the wind of the Lord coming up from the waste land, and his spring will become dry, his fountain will be without water: it will make waste the store of all the vessels of his desire.
+**¹⁵** Though he gives fruit among his brothers, an east wind will come, the wind of the Lord coming up from the waste land, and his spring will become dry, his fountain will be without water: it will make waste the store of all the vessels of his desire.
 
-<sup>16</sup> Samaria will be made waste, for she has gone against her God: they will be cut down by the sword, their little children will be broken on the rocks, their women who are with child will be cut open.
+**¹⁶** Samaria will be made waste, for she has gone against her God: they will be cut down by the sword, their little children will be broken on the rocks, their women who are with child will be cut open.

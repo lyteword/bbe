@@ -4,94 +4,94 @@ weight: 21
 
 # Chapter 21
 
-<sup>1</sup> And when they were near Jerusalem, and had come to Beth-phage, to the Mountain of Olives, Jesus sent two disciples,
+**¹** And when they were near Jerusalem, and had come to Beth-phage, to the Mountain of Olives, Jesus sent two disciples,
 
-<sup>2</sup> Saying to them, Go into the little town in front of you, and straight away you will see an ass with a cord round her neck, and a young one with her; let them loose and come with them to me.
+**²** Saying to them, Go into the little town in front of you, and straight away you will see an ass with a cord round her neck, and a young one with her; let them loose and come with them to me.
 
-<sup>3</sup> And if anyone says anything to you, you will say, The Lord has need of them; and straight away he will send them.
+**³** And if anyone says anything to you, you will say, The Lord has need of them; and straight away he will send them.
 
-<sup>4</sup> Now this took place so that these words of the prophet might come true,
+**⁴** Now this took place so that these words of the prophet might come true,
 
-<sup>5</sup> Say to the daughter of Zion, See, your King comes to you, gentle and seated on an ass, and on a young ass.
+**⁵** Say to the daughter of Zion, See, your King comes to you, gentle and seated on an ass, and on a young ass.
 
-<sup>6</sup> And the disciples went and did as Jesus had given them orders,
+**⁶** And the disciples went and did as Jesus had given them orders,
 
-<sup>7</sup> And got the ass and the young one, and put their clothing on them, and he took his seat on it.
+**⁷** And got the ass and the young one, and put their clothing on them, and he took his seat on it.
 
-<sup>8</sup> And all the people put their clothing down in the way; and others got branches from the trees, and put them down in the way.
+**⁸** And all the people put their clothing down in the way; and others got branches from the trees, and put them down in the way.
 
-<sup>9</sup> And those who went before him, and those who came after, gave loud cries, saying, Glory to the Son of David: A blessing on him who comes in the name of the Lord: Glory in the highest.
+**⁹** And those who went before him, and those who came after, gave loud cries, saying, Glory to the Son of David: A blessing on him who comes in the name of the Lord: Glory in the highest.
 
-<sup>10</sup> And when he came into Jerusalem, all the town was moved, saying, Who is this?
+**¹⁰** And when he came into Jerusalem, all the town was moved, saying, Who is this?
 
-<sup>11</sup> And the people said, This is the prophet Jesus, from Nazareth of Galilee.
+**¹¹** And the people said, This is the prophet Jesus, from Nazareth of Galilee.
 
-<sup>12</sup> And Jesus went into the Temple and sent out all who were trading there, overturning the tables of the money-changers and the seats of those trading in doves.
+**¹²** And Jesus went into the Temple and sent out all who were trading there, overturning the tables of the money-changers and the seats of those trading in doves.
 
-<sup>13</sup> And he said to them, It is in the Writings, My house is to be named a house of prayer, but you are making it a hole of thieves.
+**¹³** And he said to them, It is in the Writings, My house is to be named a house of prayer, but you are making it a hole of thieves.
 
-<sup>14</sup> And the blind and the broken in body came to him in the Temple, and he made them well.
+**¹⁴** And the blind and the broken in body came to him in the Temple, and he made them well.
 
-<sup>15</sup> But when the chief priests and the scribes saw the works of power which he did, and the children crying out in the Temple, Glory to the son of David, they were angry and said to him,
+**¹⁵** But when the chief priests and the scribes saw the works of power which he did, and the children crying out in the Temple, Glory to the son of David, they were angry and said to him,
 
-<sup>16</sup> Have you any idea what these are saying? And Jesus said to them, Yes: have you not seen in the Writings, From the lips of children and babies at the breast you have made your praise complete?
+**¹⁶** Have you any idea what these are saying? And Jesus said to them, Yes: have you not seen in the Writings, From the lips of children and babies at the breast you have made your praise complete?
 
-<sup>17</sup> And he went away from them, and went out of the town to Bethany, and was there for the night.
+**¹⁷** And he went away from them, and went out of the town to Bethany, and was there for the night.
 
-<sup>18</sup> Now in the morning when he was coming back to the town, he had a desire for food.
+**¹⁸** Now in the morning when he was coming back to the town, he had a desire for food.
 
-<sup>19</sup> And seeing a fig-tree by the wayside, he came to it, and saw nothing on it but leaves only; and he said to it, Let there be no fruit from you from this time forward for ever. And straight away the fig-tree became dry and dead.
+**¹⁹** And seeing a fig-tree by the wayside, he came to it, and saw nothing on it but leaves only; and he said to it, Let there be no fruit from you from this time forward for ever. And straight away the fig-tree became dry and dead.
 
-<sup>20</sup> And when the disciples saw it they were surprised, saying, How did the fig-tree become dry in so short a time?
+**²⁰** And when the disciples saw it they were surprised, saying, How did the fig-tree become dry in so short a time?
 
-<sup>21</sup> And Jesus in answer said to them, Truly I say to you, If you have faith, without doubting, not only may you do what has been done to the fig-tree, but even if you say to this mountain, Be taken up and put into the sea, it will be done.
+**²¹** And Jesus in answer said to them, Truly I say to you, If you have faith, without doubting, not only may you do what has been done to the fig-tree, but even if you say to this mountain, Be taken up and put into the sea, it will be done.
 
-<sup>22</sup> And all things, whatever you make request for in prayer, having faith, you will get.
+**²²** And all things, whatever you make request for in prayer, having faith, you will get.
 
-<sup>23</sup> And when he had come into the Temple, the chief priests and those in authority over the people came to him while he was teaching, and said, By what authority do you do these things? and who gave you this authority?
+**²³** And when he had come into the Temple, the chief priests and those in authority over the people came to him while he was teaching, and said, By what authority do you do these things? and who gave you this authority?
 
-<sup>24</sup> And Jesus said to them in answer, I will put one question to you, and if you give me the answer, I will say by what authority I do these things.
+**²⁴** And Jesus said to them in answer, I will put one question to you, and if you give me the answer, I will say by what authority I do these things.
 
-<sup>25</sup> The baptism of John, where did it come from? from heaven or from men? And they were reasoning among themselves, saying, If we say, From heaven; he will say to us, Why then did you not have faith in him?
+**²⁵** The baptism of John, where did it come from? from heaven or from men? And they were reasoning among themselves, saying, If we say, From heaven; he will say to us, Why then did you not have faith in him?
 
-<sup>26</sup> But if we say, From men; we are in fear of the people, because all take John to be a prophet.
+**²⁶** But if we say, From men; we are in fear of the people, because all take John to be a prophet.
 
-<sup>27</sup> And they made answer and said, We have no idea. Then he said to them, And I will not say to you by what authority I do these things.
+**²⁷** And they made answer and said, We have no idea. Then he said to them, And I will not say to you by what authority I do these things.
 
-<sup>28</sup> But how does it seem to you? A man had two sons; and he came to the first, and said, Son, go and do work today in the vine-garden.
+**²⁸** But how does it seem to you? A man had two sons; and he came to the first, and said, Son, go and do work today in the vine-garden.
 
-<sup>29</sup> And he said in answer, I will not: but later, changing his decision, he went.
+**²⁹** And he said in answer, I will not: but later, changing his decision, he went.
 
-<sup>30</sup> And he came to the second and said the same. And he made answer and said, I go, sir: and went not.
+**³⁰** And he came to the second and said the same. And he made answer and said, I go, sir: and went not.
 
-<sup>31</sup> Which of the two did his father's pleasure? They say, The first. Jesus said to them, Truly I say to you, that tax-farmers and loose women are going into the kingdom of God before you.
+**³¹** Which of the two did his father's pleasure? They say, The first. Jesus said to them, Truly I say to you, that tax-farmers and loose women are going into the kingdom of God before you.
 
-<sup>32</sup> For John came to you in the way of righteousness, and you had no faith in him, but the tax-farmers and the loose women had faith in him: and you, when you saw it, did not even have regret for your sins, so as to have faith in him.
+**³²** For John came to you in the way of righteousness, and you had no faith in him, but the tax-farmers and the loose women had faith in him: and you, when you saw it, did not even have regret for your sins, so as to have faith in him.
 
-<sup>33</sup> Give ear to another story. A master of a house made a vine garden, and put a wall round it, and made a place for crushing out the wine, and made a tower, and let it out to field-workers, and went into another country.
+**³³** Give ear to another story. A master of a house made a vine garden, and put a wall round it, and made a place for crushing out the wine, and made a tower, and let it out to field-workers, and went into another country.
 
-<sup>34</sup> And when the time for the fruit came near, he sent his servants to the workmen, to get the fruit.
+**³⁴** And when the time for the fruit came near, he sent his servants to the workmen, to get the fruit.
 
-<sup>35</sup> And the workmen made an attack on his servants, giving blows to one, putting another to death, and stoning another.
+**³⁵** And the workmen made an attack on his servants, giving blows to one, putting another to death, and stoning another.
 
-<sup>36</sup> Again, he sent other servants more in number than the first: and they did the same to them.
+**³⁶** Again, he sent other servants more in number than the first: and they did the same to them.
 
-<sup>37</sup> But after that he sent his son to them, saying, They will have respect for my son.
+**³⁷** But after that he sent his son to them, saying, They will have respect for my son.
 
-<sup>38</sup> But when the workmen saw the son, they said among themselves, This is he who will one day be the owner of the property; come, let us put him to death and take his heritage.
+**³⁸** But when the workmen saw the son, they said among themselves, This is he who will one day be the owner of the property; come, let us put him to death and take his heritage.
 
-<sup>39</sup> And they took him and, driving him out of the vine-garden, put him to death.
+**³⁹** And they took him and, driving him out of the vine-garden, put him to death.
 
-<sup>40</sup> When, then, the lord of the vine-garden comes, what will he do to those workmen?
+**⁴⁰** When, then, the lord of the vine-garden comes, what will he do to those workmen?
 
-<sup>41</sup> They say to him, He will put those cruel men to a cruel death, and will let out the vine-garden to other workmen, who will give him the fruit when it is ready.
+**⁴¹** They say to him, He will put those cruel men to a cruel death, and will let out the vine-garden to other workmen, who will give him the fruit when it is ready.
 
-<sup>42</sup> Jesus says to them, Did you never see in the Writings, The stone which the builders put on one side, the same has been made the chief stone of the building: this was the Lord's doing, and it is a wonder in our eyes?
+**⁴²** Jesus says to them, Did you never see in the Writings, The stone which the builders put on one side, the same has been made the chief stone of the building: this was the Lord's doing, and it is a wonder in our eyes?
 
-<sup>43</sup> For this reason I say to you, The kingdom of God will be taken away from you, and will be given to a nation producing the fruits of it.
+**⁴³** For this reason I say to you, The kingdom of God will be taken away from you, and will be given to a nation producing the fruits of it.
 
-<sup>44</sup> Any man falling on this stone will be broken, but he on whom it comes down will be crushed to dust.
+**⁴⁴** Any man falling on this stone will be broken, but he on whom it comes down will be crushed to dust.
 
-<sup>45</sup> And when his stories came to the ears of the chief priests and the Pharisees, they saw that he was talking of them.
+**⁴⁵** And when his stories came to the ears of the chief priests and the Pharisees, they saw that he was talking of them.
 
-<sup>46</sup> And though they had a desire to take him, they were in fear of the people, because in their eyes he was a prophet.
+**⁴⁶** And though they had a desire to take him, they were in fear of the people, because in their eyes he was a prophet.

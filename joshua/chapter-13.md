@@ -4,68 +4,68 @@ weight: 13
 
 # Chapter 13
 
-<sup>1</sup> Now Joshua was old and full of years; and the Lord said to him, You are old and full of years, and there is still very much land to be taken.
+**¹** Now Joshua was old and full of years; and the Lord said to him, You are old and full of years, and there is still very much land to be taken.
 
-<sup>2</sup> This is the land which is still to be taken: all the country of the Philistines, and all the Geshurites;
+**²** This is the land which is still to be taken: all the country of the Philistines, and all the Geshurites;
 
-<sup>3</sup> From the Shihor, which is before Egypt, to the edge of Ekron to the north, which is taken to be Canaanite property: the five chiefs of the Philistines; the Gazites, and the Ashdodites, the Ashkelonites, the Gittites, and the Ekronites, as well as the Avvim;
+**³** From the Shihor, which is before Egypt, to the edge of Ekron to the north, which is taken to be Canaanite property: the five chiefs of the Philistines; the Gazites, and the Ashdodites, the Ashkelonites, the Gittites, and the Ekronites, as well as the Avvim;
 
-<sup>4</sup> On the south: all the land of the Canaanites, and Mearah which is the property of the Zidonians, to Aphek, as far as the limit of the Amorites:
+**⁴** On the south: all the land of the Canaanites, and Mearah which is the property of the Zidonians, to Aphek, as far as the limit of the Amorites:
 
-<sup>5</sup> And the land of the Gebalites, and all Lebanon, looking east, from Baal-gad under Mount Hermon as far as Hamath:
+**⁵** And the land of the Gebalites, and all Lebanon, looking east, from Baal-gad under Mount Hermon as far as Hamath:
 
-<sup>6</sup> All the people of the hill-country from Lebanon to Misrephoth-maim, all the Zidonians; them will I send out from before the children of Israel: only make division of it to Israel for a heritage, as I have given you orders to do.
+**⁶** All the people of the hill-country from Lebanon to Misrephoth-maim, all the Zidonians; them will I send out from before the children of Israel: only make division of it to Israel for a heritage, as I have given you orders to do.
 
-<sup>7</sup> So now make division of this land for a heritage to the nine tribes, and the half-tribe of Manasseh.
+**⁷** So now make division of this land for a heritage to the nine tribes, and the half-tribe of Manasseh.
 
-<sup>8</sup> With him the Reubenites and the Gadites have been given their heritage, which Moses gave them, on the east side of Jordan, as Moses, the servant of the Lord, gave them;
+**⁸** With him the Reubenites and the Gadites have been given their heritage, which Moses gave them, on the east side of Jordan, as Moses, the servant of the Lord, gave them;
 
-<sup>9</sup> From Aroer, on the edge of the valley of the Arnon, and the town in the middle of the valley, and all the table-land from Medeba to Dibon;
+**⁹** From Aroer, on the edge of the valley of the Arnon, and the town in the middle of the valley, and all the table-land from Medeba to Dibon;
 
-<sup>10</sup> And all the towns of Sihon, king of the Amorites, who was ruling in Heshbon, to the limits of the children of Ammon;
+**¹⁰** And all the towns of Sihon, king of the Amorites, who was ruling in Heshbon, to the limits of the children of Ammon;
 
-<sup>11</sup> And Gilead, and the land of the Geshurites and the Maacathites, and all Mount Hermon, and all Bashan to Salecah;
+**¹¹** And Gilead, and the land of the Geshurites and the Maacathites, and all Mount Hermon, and all Bashan to Salecah;
 
-<sup>12</sup> All the kingdom of Og in Bashan, who was ruling in Ashtaroth and in Edrei (he was one of the last of the Rephaim); these did Moses overcome, driving them out of their country.
+**¹²** All the kingdom of Og in Bashan, who was ruling in Ashtaroth and in Edrei (he was one of the last of the Rephaim); these did Moses overcome, driving them out of their country.
 
-<sup>13</sup> However, the people of Israel did not send out the Geshurites, or the Maacathites: but Geshur and Maacath are living among Israel to this day.
+**¹³** However, the people of Israel did not send out the Geshurites, or the Maacathites: but Geshur and Maacath are living among Israel to this day.
 
-<sup>14</sup> Only to the tribe of Levi he gave no heritage; the offerings of the Lord, the God of Israel, made by fire are his heritage, as he said to him.
+**¹⁴** Only to the tribe of Levi he gave no heritage; the offerings of the Lord, the God of Israel, made by fire are his heritage, as he said to him.
 
-<sup>15</sup> And Moses gave their heritage to the tribe of Reuben by their families.
+**¹⁵** And Moses gave their heritage to the tribe of Reuben by their families.
 
-<sup>16</sup> Their limit was from Aroer, on the edge of the valley of the Arnon, and the town in the middle of the valley, and all the table-land by Medeba;
+**¹⁶** Their limit was from Aroer, on the edge of the valley of the Arnon, and the town in the middle of the valley, and all the table-land by Medeba;
 
-<sup>17</sup> Heshbon and all her towns in the table-land; Dibon, and Bamoth-baal, and Beth-baal-meon;
+**¹⁷** Heshbon and all her towns in the table-land; Dibon, and Bamoth-baal, and Beth-baal-meon;
 
-<sup>18</sup> And Jahaz, and Kedemoth, and Mephaath;
+**¹⁸** And Jahaz, and Kedemoth, and Mephaath;
 
-<sup>19</sup> And Kiriathaim, and Sibmah, and Zereth-shahar in the mountain of the valley;
+**¹⁹** And Kiriathaim, and Sibmah, and Zereth-shahar in the mountain of the valley;
 
-<sup>20</sup> And Beth-peor, and the slopes of Pisgah, and Beth-jeshimoth;
+**²⁰** And Beth-peor, and the slopes of Pisgah, and Beth-jeshimoth;
 
-<sup>21</sup> And all the towns of the table-land, and all the kingdom of Sihon, king of the Amorites, who was ruling in Heshbon, whom Moses overcame, together with the chiefs of Midian, Evi, and Rekem, and Zur, and Hur, and Reba, the chiefs of Sihon, who were living in the land.
+**²¹** And all the towns of the table-land, and all the kingdom of Sihon, king of the Amorites, who was ruling in Heshbon, whom Moses overcame, together with the chiefs of Midian, Evi, and Rekem, and Zur, and Hur, and Reba, the chiefs of Sihon, who were living in the land.
 
-<sup>22</sup> And Balaam, the son of Beor, the prophet, the children of Israel put to death with the sword.
+**²²** And Balaam, the son of Beor, the prophet, the children of Israel put to death with the sword.
 
-<sup>23</sup> And the limit of the children of Reuben was the edge of Jordan. This was the heritage of the children of Reuben by their families, with its towns and its unwalled places.
+**²³** And the limit of the children of Reuben was the edge of Jordan. This was the heritage of the children of Reuben by their families, with its towns and its unwalled places.
 
-<sup>24</sup> And Moses gave their heritage to the tribe of Gad by their families.
+**²⁴** And Moses gave their heritage to the tribe of Gad by their families.
 
-<sup>25</sup> And their limit was Jazer, and all the towns of Gilead, and half the land of the children of Ammon, to Aroer before Rabbah;
+**²⁵** And their limit was Jazer, and all the towns of Gilead, and half the land of the children of Ammon, to Aroer before Rabbah;
 
-<sup>26</sup> And from Heshbon to Ramath-mizpeh, and Betonim; and from Mahanaim to the edge of Debir;
+**²⁶** And from Heshbon to Ramath-mizpeh, and Betonim; and from Mahanaim to the edge of Debir;
 
-<sup>27</sup> And in the valley, Beth-haram, and Beth-nimrah, and Succoth, and Zaphon, the rest of the kingdom of Sihon, king of Heshbon, having Jordan for its limit, to the end of the sea of Chinnereth on the east side of Jordan.
+**²⁷** And in the valley, Beth-haram, and Beth-nimrah, and Succoth, and Zaphon, the rest of the kingdom of Sihon, king of Heshbon, having Jordan for its limit, to the end of the sea of Chinnereth on the east side of Jordan.
 
-<sup>28</sup> This is the heritage of the children of Gad by their families, with its towns and its unwalled places
+**²⁸** This is the heritage of the children of Gad by their families, with its towns and its unwalled places
 
-<sup>29</sup> And Moses gave their heritage to the half-tribe of Manasseh by their families.
+**²⁹** And Moses gave their heritage to the half-tribe of Manasseh by their families.
 
-<sup>30</sup> And their limit was from Mahanaim, all Bashan, all the kingdom of Og, king of Bashan, and all Havvoth-Jair, in Bashan, sixty towns;
+**³⁰** And their limit was from Mahanaim, all Bashan, all the kingdom of Og, king of Bashan, and all Havvoth-Jair, in Bashan, sixty towns;
 
-<sup>31</sup> And half Gilead, and Ashtaroth, and Edrei, towns of the kingdom of Og in Bashan, were for the children of Machir, the son of Manasseh, for half of the children of Machir by their families.
+**³¹** And half Gilead, and Ashtaroth, and Edrei, towns of the kingdom of Og in Bashan, were for the children of Machir, the son of Manasseh, for half of the children of Machir by their families.
 
-<sup>32</sup> These are the heritages of which Moses made distribution in the lowlands of Moab, on the other side of Jordan in Jericho, to the east.
+**³²** These are the heritages of which Moses made distribution in the lowlands of Moab, on the other side of Jordan in Jericho, to the east.
 
-<sup>33</sup> But to the tribe of Levi Moses gave no heritage: the Lord, the God of Israel, is their heritage, as he said to them.
+**³³** But to the tribe of Levi Moses gave no heritage: the Lord, the God of Israel, is their heritage, as he said to them.

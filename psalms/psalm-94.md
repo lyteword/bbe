@@ -4,48 +4,48 @@ weight: 94
 
 # Psalm 94
 
-<sup>1</sup> O God, in whose hands is punishment, O God of punishment, let your shining face be seen.
+**¹** O God, in whose hands is punishment, O God of punishment, let your shining face be seen.
 
-<sup>2</sup> Be lifted up, O judge of the earth; let their reward come to the men of pride.
+**²** Be lifted up, O judge of the earth; let their reward come to the men of pride.
 
-<sup>3</sup> How long will sinners, O Lord, how long will sinners have joy over us?
+**³** How long will sinners, O Lord, how long will sinners have joy over us?
 
-<sup>4</sup> Words of pride come from their lips; all the workers of evil say great things of themselves.
+**⁴** Words of pride come from their lips; all the workers of evil say great things of themselves.
 
-<sup>5</sup> Your people are crushed by them, O Lord, your heritage is troubled,
+**⁵** Your people are crushed by them, O Lord, your heritage is troubled,
 
-<sup>6</sup> They put to death the widow and the guest, they take the lives of children who have no father;
+**⁶** They put to death the widow and the guest, they take the lives of children who have no father;
 
-<sup>7</sup> And they say, Jah will not see it, the God of Jacob will not give thought to it.
+**⁷** And they say, Jah will not see it, the God of Jacob will not give thought to it.
 
-<sup>8</sup> Give your mind to my words, you who are without wisdom among the people; you foolish men, when will you be wise?
+**⁸** Give your mind to my words, you who are without wisdom among the people; you foolish men, when will you be wise?
 
-<sup>9</sup> Has he by whom your ears were planted no hearing? or is he blind by whom your eyes were formed?
+**⁹** Has he by whom your ears were planted no hearing? or is he blind by whom your eyes were formed?
 
-<sup>10</sup> He who is the judge of the nations, will he not give men the reward of their acts, even he who gives knowledge to man?
+**¹⁰** He who is the judge of the nations, will he not give men the reward of their acts, even he who gives knowledge to man?
 
-<sup>11</sup> The Lord has knowledge of the thoughts of man, for they are only a breath.
+**¹¹** The Lord has knowledge of the thoughts of man, for they are only a breath.
 
-<sup>12</sup> Happy is the man who is guided by you, O Jah, and to whom you give teaching out of your law;
+**¹²** Happy is the man who is guided by you, O Jah, and to whom you give teaching out of your law;
 
-<sup>13</sup> So that you may give him rest from the days of evil, till a hole is made ready for the destruction of the sinners.
+**¹³** So that you may give him rest from the days of evil, till a hole is made ready for the destruction of the sinners.
 
-<sup>14</sup> The Lord will not give up his people, or take away his support from his heritage;
+**¹⁴** The Lord will not give up his people, or take away his support from his heritage;
 
-<sup>15</sup> But decisions will again be made in righteousness; and they will be kept by all whose hearts are true.
+**¹⁵** But decisions will again be made in righteousness; and they will be kept by all whose hearts are true.
 
-<sup>16</sup> Who will give me help against the sinners? and who will be my support against the workers of evil?
+**¹⁶** Who will give me help against the sinners? and who will be my support against the workers of evil?
 
-<sup>17</sup> If the Lord had not been my helper, my soul would quickly have gone down into death.
+**¹⁷** If the Lord had not been my helper, my soul would quickly have gone down into death.
 
-<sup>18</sup> If I say, My foot is slipping; your mercy, O Lord, is my support.
+**¹⁸** If I say, My foot is slipping; your mercy, O Lord, is my support.
 
-<sup>19</sup> Among all my troubled thoughts, your comforts are the delight of my soul.
+**¹⁹** Among all my troubled thoughts, your comforts are the delight of my soul.
 
-<sup>20</sup> What part with you has the seat of sin, which makes evil into a law?
+**²⁰** What part with you has the seat of sin, which makes evil into a law?
 
-<sup>21</sup> They are banded together against the soul of the upright, to give decisions against those who have done no wrong.
+**²¹** They are banded together against the soul of the upright, to give decisions against those who have done no wrong.
 
-<sup>22</sup> But the Lord is my safe resting-place; my God is the Rock where I am safe.
+**²²** But the Lord is my safe resting-place; my God is the Rock where I am safe.
 
-<sup>23</sup> And he has made their evil designs come back on themselves, cutting them off in their sin; the Lord our God will put an end to them.
+**²³** And he has made their evil designs come back on themselves, cutting them off in their sin; the Lord our God will put an end to them.

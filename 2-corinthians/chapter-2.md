@@ -4,36 +4,36 @@ weight: 2
 
 # Chapter 2
 
-<sup>1</sup> But it was my decision for myself, not to come again to you with sorrow.
+**¹** But it was my decision for myself, not to come again to you with sorrow.
 
-<sup>2</sup> For if I give you sorrow, who then will make me glad, but he who is made sad by me?
+**²** For if I give you sorrow, who then will make me glad, but he who is made sad by me?
 
-<sup>3</sup> And I said this very thing in my letter, for fear that when I came I might have sorrow from those from whom it was right for me to have joy; being certain of this, that my joy is the joy of you all.
+**³** And I said this very thing in my letter, for fear that when I came I might have sorrow from those from whom it was right for me to have joy; being certain of this, that my joy is the joy of you all.
 
-<sup>4</sup> For out of much trouble and pain of heart and much weeping I sent my letter to you; not to give you sorrow, but so that you might see how great is the love which I have to you.
+**⁴** For out of much trouble and pain of heart and much weeping I sent my letter to you; not to give you sorrow, but so that you might see how great is the love which I have to you.
 
-<sup>5</sup> But if anyone has been a cause of sorrow, he has been so, not to me only, but in some measure to all of you (I say this that I may not be over-hard on you).
+**⁵** But if anyone has been a cause of sorrow, he has been so, not to me only, but in some measure to all of you (I say this that I may not be over-hard on you).
 
-<sup>6</sup> Let it be enough for such a man to have undergone the punishment which the church put on him;
+**⁶** Let it be enough for such a man to have undergone the punishment which the church put on him;
 
-<sup>7</sup> So that now, on the other hand, it is right for him to have forgiveness and comfort from you, for fear that his sorrow may be over-great.
+**⁷** So that now, on the other hand, it is right for him to have forgiveness and comfort from you, for fear that his sorrow may be over-great.
 
-<sup>8</sup> For which cause my desire is that you will make your love to him clear by your acts.
+**⁸** For which cause my desire is that you will make your love to him clear by your acts.
 
-<sup>9</sup> And for the same reason I sent you a letter so that I might be certain of your desire to do my orders in all things.
+**⁹** And for the same reason I sent you a letter so that I might be certain of your desire to do my orders in all things.
 
-<sup>10</sup> But if you give forgiveness to anyone, I do the same: for if I have given forgiveness for anything, I have done it because of you, in the person of Christ;
+**¹⁰** But if you give forgiveness to anyone, I do the same: for if I have given forgiveness for anything, I have done it because of you, in the person of Christ;
 
-<sup>11</sup> So that Satan may not get the better of us: for we are not without knowledge of his designs.
+**¹¹** So that Satan may not get the better of us: for we are not without knowledge of his designs.
 
-<sup>12</sup> Now when I came to Troas for the good news of Christ, and there was an open door for me in the Lord,
+**¹²** Now when I came to Troas for the good news of Christ, and there was an open door for me in the Lord,
 
-<sup>13</sup> I had no rest in my spirit because Titus my brother was not there: so I went away from them, and came into Macedonia.
+**¹³** I had no rest in my spirit because Titus my brother was not there: so I went away from them, and came into Macedonia.
 
-<sup>14</sup> But praise be to God who makes us strong to overcome in Christ, and makes clear through us in every place the value of the knowledge of him.
+**¹⁴** But praise be to God who makes us strong to overcome in Christ, and makes clear through us in every place the value of the knowledge of him.
 
-<sup>15</sup> For we are a sweet perfume of Christ to God in those who are getting salvation and in those who are going to destruction;
+**¹⁵** For we are a sweet perfume of Christ to God in those who are getting salvation and in those who are going to destruction;
 
-<sup>16</sup> To the one it is a perfume of death to death; to the other a perfume of life to life. And who is enough for such things?
+**¹⁶** To the one it is a perfume of death to death; to the other a perfume of life to life. And who is enough for such things?
 
-<sup>17</sup> For we are not like the great number who make use of the word of God for profit: but our words are true, as from God, being said as before God in Christ.
+**¹⁷** For we are not like the great number who make use of the word of God for profit: but our words are true, as from God, being said as before God in Christ.

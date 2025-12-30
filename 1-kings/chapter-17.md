@@ -4,50 +4,50 @@ weight: 17
 
 # Chapter 17
 
-<sup>1</sup> And Elijah the Tishbite, of Tishbe in Gilead, said to Ahab, By the living Lord, the God of Israel, whose servant I am, there will be no dew or rain in these years, but only at my word.
+**¹** And Elijah the Tishbite, of Tishbe in Gilead, said to Ahab, By the living Lord, the God of Israel, whose servant I am, there will be no dew or rain in these years, but only at my word.
 
-<sup>2</sup> Then the word of the Lord came to him, saying,
+**²** Then the word of the Lord came to him, saying,
 
-<sup>3</sup> Go from here in the direction of the east, and keep yourself in a secret place by the stream Cherith, east of Jordan.
+**³** Go from here in the direction of the east, and keep yourself in a secret place by the stream Cherith, east of Jordan.
 
-<sup>4</sup> The water of the stream will be your drink, and by my orders the ravens will give you food there.
+**⁴** The water of the stream will be your drink, and by my orders the ravens will give you food there.
 
-<sup>5</sup> So he went and did as the Lord said, living by the stream Cherith, east of Jordan.
+**⁵** So he went and did as the Lord said, living by the stream Cherith, east of Jordan.
 
-<sup>6</sup> And the ravens took him bread in the morning and meat in the evening; and the water of the stream was his drink.
+**⁶** And the ravens took him bread in the morning and meat in the evening; and the water of the stream was his drink.
 
-<sup>7</sup> Now after a time the stream became dry, because there was no rain in the land.
+**⁷** Now after a time the stream became dry, because there was no rain in the land.
 
-<sup>8</sup> Then the word of the Lord came to him, saying,
+**⁸** Then the word of the Lord came to him, saying,
 
-<sup>9</sup> Up! go now to Zarephath, in Zidon, and make your living-place there; I have given orders to a widow woman there to see that you have food.
+**⁹** Up! go now to Zarephath, in Zidon, and make your living-place there; I have given orders to a widow woman there to see that you have food.
 
-<sup>10</sup> So he got up and went to Zarephath; and when he came to the door of the town, he saw a widow woman getting sticks together; and crying out to her he said, Will you give me a little water in a vessel for my drink?
+**¹⁰** So he got up and went to Zarephath; and when he came to the door of the town, he saw a widow woman getting sticks together; and crying out to her he said, Will you give me a little water in a vessel for my drink?
 
-<sup>11</sup> And when she was going to get it, he said to her, And get me with it a small bit of bread.
+**¹¹** And when she was going to get it, he said to her, And get me with it a small bit of bread.
 
-<sup>12</sup> Then she said, By the life of the Lord your God, I have nothing but a little meal in my store, and a drop of oil in the bottle; and now I am getting two sticks together so that I may go in and make it ready for me and my son, so that we may have a meal before our death.
+**¹²** Then she said, By the life of the Lord your God, I have nothing but a little meal in my store, and a drop of oil in the bottle; and now I am getting two sticks together so that I may go in and make it ready for me and my son, so that we may have a meal before our death.
 
-<sup>13</sup> And Elijah said to her, Have no fear; go and do as you have said, but first make me a little cake of it and come and give it to me, and then make something for yourself and your son.
+**¹³** And Elijah said to her, Have no fear; go and do as you have said, but first make me a little cake of it and come and give it to me, and then make something for yourself and your son.
 
-<sup>14</sup> For this is the word of the Lord, the God of Israel: The store of meal will not come to an end, and the bottle will never be without oil, till the day when the Lord sends rain on the earth.
+**¹⁴** For this is the word of the Lord, the God of Israel: The store of meal will not come to an end, and the bottle will never be without oil, till the day when the Lord sends rain on the earth.
 
-<sup>15</sup> So she went and did as Elijah said; and she and he and her family had food for a long time.
+**¹⁵** So she went and did as Elijah said; and she and he and her family had food for a long time.
 
-<sup>16</sup> The store of meal did not come to an end, and the bottle was never without oil, as the Lord had said by the mouth of Elijah.
+**¹⁶** The store of meal did not come to an end, and the bottle was never without oil, as the Lord had said by the mouth of Elijah.
 
-<sup>17</sup> Now after this, the son of the woman of the house became ill, so ill that there was no breath in him.
+**¹⁷** Now after this, the son of the woman of the house became ill, so ill that there was no breath in him.
 
-<sup>18</sup> And she said to Elijah, What have I to do with you, O man of God? have you come to put God in mind of my sin, and to put my son to death?
+**¹⁸** And she said to Elijah, What have I to do with you, O man of God? have you come to put God in mind of my sin, and to put my son to death?
 
-<sup>19</sup> And he said to her, Give your son to me. And lifting him out of her arms, he took him up to his room and put him down on his bed.
+**¹⁹** And he said to her, Give your son to me. And lifting him out of her arms, he took him up to his room and put him down on his bed.
 
-<sup>20</sup> And crying to the Lord he said, O Lord my God, have you sent evil even on the widow whose guest I am, by causing her son's death?
+**²⁰** And crying to the Lord he said, O Lord my God, have you sent evil even on the widow whose guest I am, by causing her son's death?
 
-<sup>21</sup> And stretching herself out on the child three times, he made his prayer to the Lord, saying, O Lord my God, be pleased to let this child's life come back to him again.
+**²¹** And stretching herself out on the child three times, he made his prayer to the Lord, saying, O Lord my God, be pleased to let this child's life come back to him again.
 
-<sup>22</sup> And the Lord gave ear to the voice of Elijah, and the child's spirit came into him again, and he came back to life.
+**²²** And the Lord gave ear to the voice of Elijah, and the child's spirit came into him again, and he came back to life.
 
-<sup>23</sup> And Elijah took the child down from his room into the house and gave him to his mother and said to her, See, your son is living.
+**²³** And Elijah took the child down from his room into the house and gave him to his mother and said to her, See, your son is living.
 
-<sup>24</sup> Then the woman said to Elijah, Now I am certain that you are a man of God, and that the word of the Lord in your mouth is true.
+**²⁴** Then the woman said to Elijah, Now I am certain that you are a man of God, and that the word of the Lord in your mouth is true.

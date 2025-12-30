@@ -4,74 +4,74 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> Now there was among the Pharisees a man named Nicodemus, who was one of the rulers of the Jews.
+**¹** Now there was among the Pharisees a man named Nicodemus, who was one of the rulers of the Jews.
 
-<sup>2</sup> He came to Jesus by night and said to him, Rabbi, we are certain that you have come from God as a teacher, because no man would be able to do these signs which you do if God was not with him.
+**²** He came to Jesus by night and said to him, Rabbi, we are certain that you have come from God as a teacher, because no man would be able to do these signs which you do if God was not with him.
 
-<sup>3</sup> Jesus said to him, Truly, I say to you, Without a new birth no man is able to see the kingdom of God.
+**³** Jesus said to him, Truly, I say to you, Without a new birth no man is able to see the kingdom of God.
 
-<sup>4</sup> Nicodemus said to him, How is it possible for a man to be given birth when he is old? Is he able to go into his mother's body a second time and come to birth again?
+**⁴** Nicodemus said to him, How is it possible for a man to be given birth when he is old? Is he able to go into his mother's body a second time and come to birth again?
 
-<sup>5</sup> Jesus said in answer, Truly, I say to you, If a man's birth is not from water and from the Spirit, it is not possible for him to go into the kingdom of God.
+**⁵** Jesus said in answer, Truly, I say to you, If a man's birth is not from water and from the Spirit, it is not possible for him to go into the kingdom of God.
 
-<sup>6</sup> That which has birth from the flesh is flesh, and that which has birth from the Spirit is spirit.
+**⁶** That which has birth from the flesh is flesh, and that which has birth from the Spirit is spirit.
 
-<sup>7</sup> Do not be surprised that I say to you, It is necessary for you to have a second birth.
+**⁷** Do not be surprised that I say to you, It is necessary for you to have a second birth.
 
-<sup>8</sup> The wind goes where its pleasure takes it, and the sound of it comes to your ears, but you are unable to say where it comes from and where it goes: so it is with everyone whose birth is from the Spirit.
+**⁸** The wind goes where its pleasure takes it, and the sound of it comes to your ears, but you are unable to say where it comes from and where it goes: so it is with everyone whose birth is from the Spirit.
 
-<sup>9</sup> And Nicodemus said to him, How is it possible for these things to be?
+**⁹** And Nicodemus said to him, How is it possible for these things to be?
 
-<sup>10</sup> And Jesus, answering, said, Are you the teacher of Israel and have no knowledge of these things?
+**¹⁰** And Jesus, answering, said, Are you the teacher of Israel and have no knowledge of these things?
 
-<sup>11</sup> Truly, I say to you, We say that of which we have knowledge; we give witness of what we have seen; and you do not take our witness to be true.
+**¹¹** Truly, I say to you, We say that of which we have knowledge; we give witness of what we have seen; and you do not take our witness to be true.
 
-<sup>12</sup> If you have no belief when my words are about the things of earth, how will you have belief if my words are about the things of heaven?
+**¹²** If you have no belief when my words are about the things of earth, how will you have belief if my words are about the things of heaven?
 
-<sup>13</sup> And no one has ever gone up to heaven but he who came down from heaven, the Son of man.
+**¹³** And no one has ever gone up to heaven but he who came down from heaven, the Son of man.
 
-<sup>14</sup> As the snake was lifted up by Moses in the waste land, even so it is necessary for the Son of man to be lifted up:
+**¹⁴** As the snake was lifted up by Moses in the waste land, even so it is necessary for the Son of man to be lifted up:
 
-<sup>15</sup> So that whoever has faith may have in him eternal life.
+**¹⁵** So that whoever has faith may have in him eternal life.
 
-<sup>16</sup> For God had such love for the world that he gave his only Son, so that whoever has faith in him may not come to destruction but have eternal life.
+**¹⁶** For God had such love for the world that he gave his only Son, so that whoever has faith in him may not come to destruction but have eternal life.
 
-<sup>17</sup> God did not send his Son into the world to be judge of the world; he sent him so that the world might have salvation through him.
+**¹⁷** God did not send his Son into the world to be judge of the world; he sent him so that the world might have salvation through him.
 
-<sup>18</sup> The man who has faith in him does not come up to be judged; but he who has no faith in him has been judged even now, because he has no faith in the name of the only Son of God.
+**¹⁸** The man who has faith in him does not come up to be judged; but he who has no faith in him has been judged even now, because he has no faith in the name of the only Son of God.
 
-<sup>19</sup> And this is the test by which men are judged: the light has come into the world and men have more love for the dark than for the light, because their acts are evil.
+**¹⁹** And this is the test by which men are judged: the light has come into the world and men have more love for the dark than for the light, because their acts are evil.
 
-<sup>20</sup> The light is hated by everyone whose acts are evil and he does not come to the light for fear that his acts will be seen.
+**²⁰** The light is hated by everyone whose acts are evil and he does not come to the light for fear that his acts will be seen.
 
-<sup>21</sup> But he whose life is true comes to the light, so that it may be clearly seen that his acts have been done by the help of God.
+**²¹** But he whose life is true comes to the light, so that it may be clearly seen that his acts have been done by the help of God.
 
-<sup>22</sup> After these things Jesus and his disciples went into the land of Judaea, and there he was with them for some time, giving baptism.
+**²²** After these things Jesus and his disciples went into the land of Judaea, and there he was with them for some time, giving baptism.
 
-<sup>23</sup> Now John was then giving baptism at Aenon near Salim, because there was much water there; and people came and were given baptism.
+**²³** Now John was then giving baptism at Aenon near Salim, because there was much water there; and people came and were given baptism.
 
-<sup>24</sup> For at this time John had not been put into prison.
+**²⁴** For at this time John had not been put into prison.
 
-<sup>25</sup> Then a question came up between John's disciples and a Jew about washing.
+**²⁵** Then a question came up between John's disciples and a Jew about washing.
 
-<sup>26</sup> And they went to John and said to him, Rabbi, the man who was with you on the other side of the Jordan, the man to whom you gave witness, is now giving baptism, and everyone is going to him.
+**²⁶** And they went to John and said to him, Rabbi, the man who was with you on the other side of the Jordan, the man to whom you gave witness, is now giving baptism, and everyone is going to him.
 
-<sup>27</sup> And this was John's answer: A man is unable to have anything if it is not given to him from heaven.
+**²⁷** And this was John's answer: A man is unable to have anything if it is not given to him from heaven.
 
-<sup>28</sup> You yourselves give witness that I said, I am not the Christ. What I said was, I am sent before the Christ.
+**²⁸** You yourselves give witness that I said, I am not the Christ. What I said was, I am sent before the Christ.
 
-<sup>29</sup> He who has the bride is the husband: but the husband's friend, whose place is by his side and whose ears are open to him, is full of joy because of the husband's voice: such is my joy, and it is complete.
+**²⁹** He who has the bride is the husband: but the husband's friend, whose place is by his side and whose ears are open to him, is full of joy because of the husband's voice: such is my joy, and it is complete.
 
-<sup>30</sup> He has to become greater while I become less.
+**³⁰** He has to become greater while I become less.
 
-<sup>31</sup> He who comes from heaven is greater than all others: he who comes from earth is of the earth, and of the earth are his words: he who comes from heaven is over all.
+**³¹** He who comes from heaven is greater than all others: he who comes from earth is of the earth, and of the earth are his words: he who comes from heaven is over all.
 
-<sup>32</sup> He gives witness of what he has seen and of what has come to his ears; and no man takes his witness as true.
+**³²** He gives witness of what he has seen and of what has come to his ears; and no man takes his witness as true.
 
-<sup>33</sup> He who so takes his witness has made clear his faith that God is true.
+**³³** He who so takes his witness has made clear his faith that God is true.
 
-<sup>34</sup> For he whom God has sent says God's words; and God does not give him the Spirit by measure.
+**³⁴** For he whom God has sent says God's words; and God does not give him the Spirit by measure.
 
-<sup>35</sup> The Father has love for the Son and has put all things into his hands.
+**³⁵** The Father has love for the Son and has put all things into his hands.
 
-<sup>36</sup> He who has faith in the Son has eternal life; but he who has not faith in the Son will not see life; God's wrath is resting on him.
+**³⁶** He who has faith in the Son has eternal life; but he who has not faith in the Son will not see life; God's wrath is resting on him.

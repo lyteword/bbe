@@ -4,86 +4,86 @@ weight: 6
 
 # Chapter 6
 
-<sup>1</sup> Then Solomon said, O Lord, to the sun you have given the heaven for a living-place, but your living-place was not seen by men,
+**¹** Then Solomon said, O Lord, to the sun you have given the heaven for a living-place, but your living-place was not seen by men,
 
-<sup>2</sup> So I have made for you a living-place, a house in which you may be for ever present.
+**²** So I have made for you a living-place, a house in which you may be for ever present.
 
-<sup>3</sup> Then, turning his face about, the king gave a blessing to all the men of Israel; and they were all on their feet together.
+**³** Then, turning his face about, the king gave a blessing to all the men of Israel; and they were all on their feet together.
 
-<sup>4</sup> And he said, Praise be to the Lord, the God of Israel, who himself gave his word to my father David, and with his strong hand has made his word come true, saying,
+**⁴** And he said, Praise be to the Lord, the God of Israel, who himself gave his word to my father David, and with his strong hand has made his word come true, saying,
 
-<sup>5</sup> From the day when I took my people out of the land of Egypt, no town in all the tribes of Israel has been marked out by me for the building of a house for the resting-place of my name; and I took no man to be a ruler over my people Israel;
+**⁵** From the day when I took my people out of the land of Egypt, no town in all the tribes of Israel has been marked out by me for the building of a house for the resting-place of my name; and I took no man to be a ruler over my people Israel;
 
-<sup>6</sup> But now I have made selection of Jerusalem, that my name might be there, and of David, to be over my people Israel.
+**⁶** But now I have made selection of Jerusalem, that my name might be there, and of David, to be over my people Israel.
 
-<sup>7</sup> Now it was in the heart of my father David to put up a house for the name of the Lord, the God of Israel.
+**⁷** Now it was in the heart of my father David to put up a house for the name of the Lord, the God of Israel.
 
-<sup>8</sup> But the Lord said to David my father, You did well to have in your heart the desire to make a house for my name:
+**⁸** But the Lord said to David my father, You did well to have in your heart the desire to make a house for my name:
 
-<sup>9</sup> But you yourself will not be the builder of the house; but your son, the offspring of your body, he it is who will put up a house for my name.
+**⁹** But you yourself will not be the builder of the house; but your son, the offspring of your body, he it is who will put up a house for my name.
 
-<sup>10</sup> And the Lord has kept his word; for I have taken my father David's place on the seat of the kingdom of Israel, as the Lord gave his word; and I have made the house for the name of the Lord the God of Israel.
+**¹⁰** And the Lord has kept his word; for I have taken my father David's place on the seat of the kingdom of Israel, as the Lord gave his word; and I have made the house for the name of the Lord the God of Israel.
 
-<sup>11</sup> And there I have put the ark, in which is the agreement of the Lord, which he made with the people of Israel.
+**¹¹** And there I have put the ark, in which is the agreement of the Lord, which he made with the people of Israel.
 
-<sup>12</sup> Then he took his place in front of the altar of the Lord, all the men of Israel being present,
+**¹²** Then he took his place in front of the altar of the Lord, all the men of Israel being present,
 
-<sup>13</sup> (For Solomon had made a brass stage, five cubits long, five cubits wide and three cubits high, and had put it in the middle of the open space; on this he took his place and went down on his knees before all the meeting of Israel, stretching out his hands to heaven.)
+**¹³** (For Solomon had made a brass stage, five cubits long, five cubits wide and three cubits high, and had put it in the middle of the open space; on this he took his place and went down on his knees before all the meeting of Israel, stretching out his hands to heaven.)
 
-<sup>14</sup> And he said, O Lord, the God of Israel, there is no God like you in heaven or on earth; keeping faith and mercy unchanging for your servants, while they go in your ways with all their hearts;
+**¹⁴** And he said, O Lord, the God of Israel, there is no God like you in heaven or on earth; keeping faith and mercy unchanging for your servants, while they go in your ways with all their hearts;
 
-<sup>15</sup> For you have kept the word which you gave to your servant David, my father; with your mouth you said it and with your hand you have made it come true this day.
+**¹⁵** For you have kept the word which you gave to your servant David, my father; with your mouth you said it and with your hand you have made it come true this day.
 
-<sup>16</sup> So now, O Lord, the God of Israel, let your word to your servant David, my father, come true, when you said, You will never be without a man to take his place before me on the seat of the kingdom of Israel; if only your children give attention to their ways, walking in my law, as you have done before me.
+**¹⁶** So now, O Lord, the God of Israel, let your word to your servant David, my father, come true, when you said, You will never be without a man to take his place before me on the seat of the kingdom of Israel; if only your children give attention to their ways, walking in my law, as you have done before me.
 
-<sup>17</sup> So now, O Lord, the God of Israel, make your word come true which you said to your servant David.
+**¹⁷** So now, O Lord, the God of Israel, make your word come true which you said to your servant David.
 
-<sup>18</sup> But is it truly possible that God may be housed with men on earth? see, heaven and the heaven of heavens are not wide enough to be your resting-place: how much less this house which I have made:
+**¹⁸** But is it truly possible that God may be housed with men on earth? see, heaven and the heaven of heavens are not wide enough to be your resting-place: how much less this house which I have made:
 
-<sup>19</sup> Still, let your heart be turned to the prayer of your servant and to his prayer for grace, O Lord my God, and give ear to the cry and the prayer which your servant makes before you;
+**¹⁹** Still, let your heart be turned to the prayer of your servant and to his prayer for grace, O Lord my God, and give ear to the cry and the prayer which your servant makes before you;
 
-<sup>20</sup> That your eyes may be open to this house day and night, to this place of which you have said that you would put your name there; to give ear to the prayer which your servant may make, turning to this place.
+**²⁰** That your eyes may be open to this house day and night, to this place of which you have said that you would put your name there; to give ear to the prayer which your servant may make, turning to this place.
 
-<sup>21</sup> And give ear to the prayers of your servant and of your people Israel, when they make their prayers, turning to this place; give ear from heaven your living-place; and hearing have mercy.
+**²¹** And give ear to the prayers of your servant and of your people Israel, when they make their prayers, turning to this place; give ear from heaven your living-place; and hearing have mercy.
 
-<sup>22</sup> If a man does wrong to his neighbour and has to take an oath, and comes before your altar to take his oath in this house:
+**²²** If a man does wrong to his neighbour and has to take an oath, and comes before your altar to take his oath in this house:
 
-<sup>23</sup> Then let your ear be open in heaven, and be the judge of your servants, giving punishment to the wrongdoer, so that his sin may come on his head; and, by your decision, keeping from evil him who has done no wrong.
+**²³** Then let your ear be open in heaven, and be the judge of your servants, giving punishment to the wrongdoer, so that his sin may come on his head; and, by your decision, keeping from evil him who has done no wrong.
 
-<sup>24</sup> And if your people Israel are overcome in war, because of their sin against you; if they are turned to you again, honouring your name, making prayers and requesting your grace in this house:
+**²⁴** And if your people Israel are overcome in war, because of their sin against you; if they are turned to you again, honouring your name, making prayers and requesting your grace in this house:
 
-<sup>25</sup> Then give ear from heaven, and let the sin of your people Israel have forgiveness, and take them back again to the land which you gave to them and to their fathers.
+**²⁵** Then give ear from heaven, and let the sin of your people Israel have forgiveness, and take them back again to the land which you gave to them and to their fathers.
 
-<sup>26</sup> When heaven is shut up and there is no rain, because of their sin against you: if they make prayers with their faces turned to this place, honouring your name and turning away from their sin when you send trouble on them:
+**²⁶** When heaven is shut up and there is no rain, because of their sin against you: if they make prayers with their faces turned to this place, honouring your name and turning away from their sin when you send trouble on them:
 
-<sup>27</sup> Then give ear from heaven, so that the sin of your servants and the sin of your people Israel may have forgiveness, when you make clear to them the good way in which they are to go; and send rain on your land which you have given to your people for their heritage.
+**²⁷** Then give ear from heaven, so that the sin of your servants and the sin of your people Israel may have forgiveness, when you make clear to them the good way in which they are to go; and send rain on your land which you have given to your people for their heritage.
 
-<sup>28</sup> If there is no food in the land, if there is disease, if the fruits of the earth are damaged by heat or water, locust or worm; if their towns are shut in by their attackers: whatever trouble or whatever disease there may be:
+**²⁸** If there is no food in the land, if there is disease, if the fruits of the earth are damaged by heat or water, locust or worm; if their towns are shut in by their attackers: whatever trouble or whatever disease there may be:
 
-<sup>29</sup> Whatever prayer or request for your grace is made by any man, or by all your people Israel, whatever his trouble may be, whose hands are stretched out to this house:
+**²⁹** Whatever prayer or request for your grace is made by any man, or by all your people Israel, whatever his trouble may be, whose hands are stretched out to this house:
 
-<sup>30</sup> Then give ear from heaven your living-place, answering with forgiveness, and give to every man, whose secret heart is open to you, the reward of all his ways; (for you, and you only, have knowledge of the hearts of the children of men;)
+**³⁰** Then give ear from heaven your living-place, answering with forgiveness, and give to every man, whose secret heart is open to you, the reward of all his ways; (for you, and you only, have knowledge of the hearts of the children of men;)
 
-<sup>31</sup> So that they may give you worship, walking in your ways, as long as they are living in the land which you gave to our fathers.
+**³¹** So that they may give you worship, walking in your ways, as long as they are living in the land which you gave to our fathers.
 
-<sup>32</sup> And as for the man from a strange land, who is not of your people Israel but comes from a far country because of the glory of your name and your strong hand and your outstretched arm; when he comes to make his prayer, turning to this house:
+**³²** And as for the man from a strange land, who is not of your people Israel but comes from a far country because of the glory of your name and your strong hand and your outstretched arm; when he comes to make his prayer, turning to this house:
 
-<sup>33</sup> Then give ear from heaven your living-place, and give him his desire, whatever it may be; so that all the peoples of the earth may have knowledge of your name, worshipping you as do your people Israel, and may see that this house which I have made is truly named by your name.
+**³³** Then give ear from heaven your living-place, and give him his desire, whatever it may be; so that all the peoples of the earth may have knowledge of your name, worshipping you as do your people Israel, and may see that this house which I have made is truly named by your name.
 
-<sup>34</sup> If your people go out to war against their attackers, by whatever way you may send them, if they make their prayers to you turning their faces to this town of yours and to this house which I have put up for your name:
+**³⁴** If your people go out to war against their attackers, by whatever way you may send them, if they make their prayers to you turning their faces to this town of yours and to this house which I have put up for your name:
 
-<sup>35</sup> Then give ear from heaven to their prayer and their cry for grace, and see right done to them.
+**³⁵** Then give ear from heaven to their prayer and their cry for grace, and see right done to them.
 
-<sup>36</sup> If they do wrong against you, (for no man is without sin,) and you are angry with them, and give them up into the power of those who are fighting against them, so that they take them away prisoners to a land far off or near;
+**³⁶** If they do wrong against you, (for no man is without sin,) and you are angry with them, and give them up into the power of those who are fighting against them, so that they take them away prisoners to a land far off or near;
 
-<sup>37</sup> And if they take thought, in the land where they are prisoners, turning again to you, crying out in prayer to you in that land, and saying, We are sinners, we have done wrong, we have done evil;
+**³⁷** And if they take thought, in the land where they are prisoners, turning again to you, crying out in prayer to you in that land, and saying, We are sinners, we have done wrong, we have done evil;
 
-<sup>38</sup> If with all their heart and soul they are turned again to you, in the land where they are prisoners, the land where they have been taken, and make their prayers, turning their eyes to their land which you gave to their fathers, and to the town which you took for yourself, and the house which I have made for your name:
+**³⁸** If with all their heart and soul they are turned again to you, in the land where they are prisoners, the land where they have been taken, and make their prayers, turning their eyes to their land which you gave to their fathers, and to the town which you took for yourself, and the house which I have made for your name:
 
-<sup>39</sup> Then give ear from heaven your living-place to their prayer and their cry, and see right done to them, answering with forgiveness your people who have done wrong against you.
+**³⁹** Then give ear from heaven your living-place to their prayer and their cry, and see right done to them, answering with forgiveness your people who have done wrong against you.
 
-<sup>40</sup> Now, O my God, may your eyes be open and your ears awake to the prayers made in this place.
+**⁴⁰** Now, O my God, may your eyes be open and your ears awake to the prayers made in this place.
 
-<sup>41</sup> Up! now, O Lord God, come back to your resting-place, you and the ark of your strength: let your priests, O Lord God, be clothed with salvation, and let your saints be glad in what is good.
+**⁴¹** Up! now, O Lord God, come back to your resting-place, you and the ark of your strength: let your priests, O Lord God, be clothed with salvation, and let your saints be glad in what is good.
 
-<sup>42</sup> O Lord God, let him whom you have taken for yourself never be given up by you: keep in mind your mercies to David your servant.
+**⁴²** O Lord God, let him whom you have taken for yourself never be given up by you: keep in mind your mercies to David your servant.

@@ -4,28 +4,28 @@ weight: 36
 
 # Chapter 36
 
-<sup>1</sup> Now the heads of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came to Moses, the chiefs and the heads of families of the children of Israel being present,
+**¹** Now the heads of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came to Moses, the chiefs and the heads of families of the children of Israel being present,
 
-<sup>2</sup> And said, The Lord gave orders to my lord to make distribution of the land as their heritage to the children of Israel: and my lord was ordered by the Lord to give the heritage of Zelophehad, our brother, to his daughters.
+**²** And said, The Lord gave orders to my lord to make distribution of the land as their heritage to the children of Israel: and my lord was ordered by the Lord to give the heritage of Zelophehad, our brother, to his daughters.
 
-<sup>3</sup> Now if they get married to any of the sons of other tribes of the children of Israel, then their property will be taken away from the heritage of our fathers, and become part of the heritage of the tribe into which they get married: and their heritage will be taken away from the heritage of our tribe.
+**³** Now if they get married to any of the sons of other tribes of the children of Israel, then their property will be taken away from the heritage of our fathers, and become part of the heritage of the tribe into which they get married: and their heritage will be taken away from the heritage of our tribe.
 
-<sup>4</sup> And at the time of the Jubilee of the children of Israel, their property will be joined to the heritage of the tribe of which they are part and will be taken away from the heritage of the tribe of our fathers.
+**⁴** And at the time of the Jubilee of the children of Israel, their property will be joined to the heritage of the tribe of which they are part and will be taken away from the heritage of the tribe of our fathers.
 
-<sup>5</sup> So by the direction of the Lord, Moses gave orders to the children of Israel, saying, What the tribe of the sons of Joseph have said is right.
+**⁵** So by the direction of the Lord, Moses gave orders to the children of Israel, saying, What the tribe of the sons of Joseph have said is right.
 
-<sup>6</sup> This is the order of the Lord about the daughters of Zelophehad: The Lord says, Let them take as their husbands whoever is most pleasing to them, but only among the family of their father's tribe.
+**⁶** This is the order of the Lord about the daughters of Zelophehad: The Lord says, Let them take as their husbands whoever is most pleasing to them, but only among the family of their father's tribe.
 
-<sup>7</sup> And so no property will be handed from tribe to tribe among the children of Israel; but every one of the children of Israel will keep the heritage of his father's tribe.
+**⁷** And so no property will be handed from tribe to tribe among the children of Israel; but every one of the children of Israel will keep the heritage of his father's tribe.
 
-<sup>8</sup> And every daughter owning property in any tribe of the children of Israel is to be married to one of the family of her father's tribe, so that every man of the children of Israel may keep the heritage of his fathers.
+**⁸** And every daughter owning property in any tribe of the children of Israel is to be married to one of the family of her father's tribe, so that every man of the children of Israel may keep the heritage of his fathers.
 
-<sup>9</sup> And no property will be handed from one tribe to another, but every tribe of the children of Israel will keep its heritage.
+**⁹** And no property will be handed from one tribe to another, but every tribe of the children of Israel will keep its heritage.
 
-<sup>10</sup> So the daughters of Zelophehad did as the Lord gave orders to Moses:
+**¹⁰** So the daughters of Zelophehad did as the Lord gave orders to Moses:
 
-<sup>11</sup> For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, took as their husbands the sons of their father's brothers:
+**¹¹** For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, took as their husbands the sons of their father's brothers:
 
-<sup>12</sup> And were married into the families of the sons of Manasseh, the son of Joseph, and their property was kept in the tribe of their father's family
+**¹²** And were married into the families of the sons of Manasseh, the son of Joseph, and their property was kept in the tribe of their father's family
 
-<sup>13</sup> These are the laws and the orders which the Lord gave to the children of Israel by Moses, in the lowlands of Moab by Jordan at Jericho.
+**¹³** These are the laws and the orders which the Lord gave to the children of Israel by Moses, in the lowlands of Moab by Jordan at Jericho.

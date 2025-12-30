@@ -4,64 +4,64 @@ weight: 44
 
 # Chapter 44
 
-<sup>1</sup> And he took me back to the outer doorway of the holy place, looking to the east; and it was shut.
+**¹** And he took me back to the outer doorway of the holy place, looking to the east; and it was shut.
 
-<sup>2</sup> And the Lord said to me, This doorway is to be shut, it is not to be open, and no man is to go in by it, because the Lord, the God of Israel, has gone in by it; and it is to be shut.
+**²** And the Lord said to me, This doorway is to be shut, it is not to be open, and no man is to go in by it, because the Lord, the God of Israel, has gone in by it; and it is to be shut.
 
-<sup>3</sup> But the ruler will be seated there to take his food before the Lord; he will go in by the covered way to the door, and will come out by the same way.
+**³** But the ruler will be seated there to take his food before the Lord; he will go in by the covered way to the door, and will come out by the same way.
 
-<sup>4</sup> And he took me to the north doorway in front of the house; and, looking, I saw that the house of the Lord was full of the glory of the Lord; and I went down on my face.
+**⁴** And he took me to the north doorway in front of the house; and, looking, I saw that the house of the Lord was full of the glory of the Lord; and I went down on my face.
 
-<sup>5</sup> And the Lord said to me, Son of man, take to heart, and let your eyes see and your ears be open to everything I say to you about all the rules of the house of the Lord and all its laws; and take note of the ways into the house and all the ways out of the holy place.
+**⁵** And the Lord said to me, Son of man, take to heart, and let your eyes see and your ears be open to everything I say to you about all the rules of the house of the Lord and all its laws; and take note of the ways into the house and all the ways out of the holy place.
 
-<sup>6</sup> And say to the uncontrolled children of Israel, This is what the Lord has said: O you children of Israel, let it be enough for you, among the disgusting things which you have done,
+**⁶** And say to the uncontrolled children of Israel, This is what the Lord has said: O you children of Israel, let it be enough for you, among the disgusting things which you have done,
 
-<sup>7</sup> To have let men from strange lands, without circumcision of heart or flesh, come into my holy place, making my house unclean; and to have made the offering of my food, even the fat and the blood; and in addition to all your disgusting ways, you have let my agreement be broken.
+**⁷** To have let men from strange lands, without circumcision of heart or flesh, come into my holy place, making my house unclean; and to have made the offering of my food, even the fat and the blood; and in addition to all your disgusting ways, you have let my agreement be broken.
 
-<sup>8</sup> And you have not taken care of my holy things; but you have put them as keepers to take care of my work in my holy place.
+**⁸** And you have not taken care of my holy things; but you have put them as keepers to take care of my work in my holy place.
 
-<sup>9</sup> For this cause the Lord has said, No man from a strange land, without circumcision of heart and flesh, of all those who are living among the children of Israel, is to come into my holy place.
+**⁹** For this cause the Lord has said, No man from a strange land, without circumcision of heart and flesh, of all those who are living among the children of Israel, is to come into my holy place.
 
-<sup>10</sup> But as for the Levites, who went far from me, when Israel went out of the right way, turning away from me to go after their images; their punishment will come on them.
+**¹⁰** But as for the Levites, who went far from me, when Israel went out of the right way, turning away from me to go after their images; their punishment will come on them.
 
-<sup>11</sup> But they may be caretakers in my holy place, and overseers at the doors of the house, doing the work of the house: they will put to death the burned offering and the beasts offered for the people, and they will take their place before them as their servants.
+**¹¹** But they may be caretakers in my holy place, and overseers at the doors of the house, doing the work of the house: they will put to death the burned offering and the beasts offered for the people, and they will take their place before them as their servants.
 
-<sup>12</sup> Because they did this work for them before their images, and became a cause of sin to the children of Israel; for this cause my hand has been lifted up against them, says the Lord, and their punishment will be on them.
+**¹²** Because they did this work for them before their images, and became a cause of sin to the children of Israel; for this cause my hand has been lifted up against them, says the Lord, and their punishment will be on them.
 
-<sup>13</sup> And they will not come near me to do the work of priests to me, or come near any of my holy things, or the things which are most holy: but their shame will be on them, and the punishment for the disgusting things which they have done.
+**¹³** And they will not come near me to do the work of priests to me, or come near any of my holy things, or the things which are most holy: but their shame will be on them, and the punishment for the disgusting things which they have done.
 
-<sup>14</sup> But I will make them responsible for the care of the house and all its work and everything which is done in it.
+**¹⁴** But I will make them responsible for the care of the house and all its work and everything which is done in it.
 
-<sup>15</sup> But as for the priests, the sons of Zadok, who took care of my holy place when the children of Israel were turned away from me, they are to come near me to do my work, they will take their places before me, offering to me the fat and the blood, says the Lord;
+**¹⁵** But as for the priests, the sons of Zadok, who took care of my holy place when the children of Israel were turned away from me, they are to come near me to do my work, they will take their places before me, offering to me the fat and the blood, says the Lord;
 
-<sup>16</sup> They are to come into my holy place and they are to come near to my table, to do my work and have the care of my house.
+**¹⁶** They are to come into my holy place and they are to come near to my table, to do my work and have the care of my house.
 
-<sup>17</sup> And when they come in by the doorways of the inner square, they are to be clothed in linen robes; there is to be no wool on them while they are doing my work in the doorway of the inner square and inside the house.
+**¹⁷** And when they come in by the doorways of the inner square, they are to be clothed in linen robes; there is to be no wool on them while they are doing my work in the doorway of the inner square and inside the house.
 
-<sup>18</sup> They are to have linen head-dresses on their heads and linen trousers on their legs, and they are to have nothing round them to make their skin wet with heat.
+**¹⁸** They are to have linen head-dresses on their heads and linen trousers on their legs, and they are to have nothing round them to make their skin wet with heat.
 
-<sup>19</sup> And when they go out into the outer square to the people, they are to take off the robes in which they do the work of priests, and put them away in the holy rooms, and put on other clothing, so that the people may not be made holy by their robes.
+**¹⁹** And when they go out into the outer square to the people, they are to take off the robes in which they do the work of priests, and put them away in the holy rooms, and put on other clothing, so that the people may not be made holy by their robes.
 
-<sup>20</sup> They are not to have all the hair cut off their heads, and they are not to let their hair get long, but they are to have the ends of their hair cut.
+**²⁰** They are not to have all the hair cut off their heads, and they are not to let their hair get long, but they are to have the ends of their hair cut.
 
-<sup>21</sup> The priests are not to take wine when they go into the inner square.
+**²¹** The priests are not to take wine when they go into the inner square.
 
-<sup>22</sup> And they are not to take as wives any widow or woman whose husband has put her away: but they may take virgins of the seed of Israel, or a widow who is the widow of a priest.
+**²²** And they are not to take as wives any widow or woman whose husband has put her away: but they may take virgins of the seed of Israel, or a widow who is the widow of a priest.
 
-<sup>23</sup> And they are to make clear to my people the division between what is holy and what is common, and to give them the knowledge of what is clean and what is unclean.
+**²³** And they are to make clear to my people the division between what is holy and what is common, and to give them the knowledge of what is clean and what is unclean.
 
-<sup>24</sup> In any cause, they are to be in the position of judges, judging in harmony with my decisions: they are to keep my laws and my rules in all my fixed feasts; and they are to keep my Sabbaths holy.
+**²⁴** In any cause, they are to be in the position of judges, judging in harmony with my decisions: they are to keep my laws and my rules in all my fixed feasts; and they are to keep my Sabbaths holy.
 
-<sup>25</sup> They are not to come near any dead person so as to become unclean: but for a father or mother or son or daughter or brother or for a sister who has no husband, they may make themselves unclean.
+**²⁵** They are not to come near any dead person so as to become unclean: but for a father or mother or son or daughter or brother or for a sister who has no husband, they may make themselves unclean.
 
-<sup>26</sup> And after he has been made clean, seven days are to be numbered for him.
+**²⁶** And after he has been made clean, seven days are to be numbered for him.
 
-<sup>27</sup> And on the day when he goes into the inner square, to do the work of the holy place, he is to make his sin-offering, says the Lord.
+**²⁷** And on the day when he goes into the inner square, to do the work of the holy place, he is to make his sin-offering, says the Lord.
 
-<sup>28</sup> And they are to have no heritage; I am their heritage: you are to give them no property in Israel; I am their property.
+**²⁸** And they are to have no heritage; I am their heritage: you are to give them no property in Israel; I am their property.
 
-<sup>29</sup> Their food is to be the meal offering and the sin-offering and the offering for error; and everything given specially to the Lord in Israel will be theirs.
+**²⁹** Their food is to be the meal offering and the sin-offering and the offering for error; and everything given specially to the Lord in Israel will be theirs.
 
-<sup>30</sup> And the best of all the first-fruits of everything, and every offering which is lifted up of all your offerings, will be for the priests: and you are to give the priest the first of your bread-making, so causing a blessing to come on your house.
+**³⁰** And the best of all the first-fruits of everything, and every offering which is lifted up of all your offerings, will be for the priests: and you are to give the priest the first of your bread-making, so causing a blessing to come on your house.
 
-<sup>31</sup> The priests may not take for food any bird or beast which has come to a natural death or whose death has been caused by another animal.
+**³¹** The priests may not take for food any bird or beast which has come to a natural death or whose death has been caused by another animal.

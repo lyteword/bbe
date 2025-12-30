@@ -4,50 +4,50 @@ weight: 14
 
 # Chapter 14
 
-<sup>1</sup> Now in the days of Amraphel, king of Shinar, Arioch, king of Ellasar, Chedorlaomer, king of Elam, and Tidal, king of Goiim,
+**¹** Now in the days of Amraphel, king of Shinar, Arioch, king of Ellasar, Chedorlaomer, king of Elam, and Tidal, king of Goiim,
 
-<sup>2</sup> They made war with Bera, king of Sodom, and with Birsha, king of Gomorrah, Shinab, king of Admah, and Shemeber, king of Zeboiim, and the king of Bela (which is Zoar).
+**²** They made war with Bera, king of Sodom, and with Birsha, king of Gomorrah, Shinab, king of Admah, and Shemeber, king of Zeboiim, and the king of Bela (which is Zoar).
 
-<sup>3</sup> All these came together in the valley of Siddim (which is the Salt Sea).
+**³** All these came together in the valley of Siddim (which is the Salt Sea).
 
-<sup>4</sup> For twelve years they were under the rule of Chedorlaomer, but in the thirteenth year they put off his control.
+**⁴** For twelve years they were under the rule of Chedorlaomer, but in the thirteenth year they put off his control.
 
-<sup>5</sup> And in the fourteenth year, Chedorlaomer and the kings who were on his side, overcame the Rephaim in Ashteroth-karnaim, and the Zuzim in Ham, and the Emim in Shaveh-kiriathaim,
+**⁵** And in the fourteenth year, Chedorlaomer and the kings who were on his side, overcame the Rephaim in Ashteroth-karnaim, and the Zuzim in Ham, and the Emim in Shaveh-kiriathaim,
 
-<sup>6</sup> And the Horites in their mountain Seir, driving them as far as El-paran, which is near the waste land.
+**⁶** And the Horites in their mountain Seir, driving them as far as El-paran, which is near the waste land.
 
-<sup>7</sup> Then they came back to En-mishpat (which is Kadesh), making waste all the country of the Amalekites and of the Amorites living in Hazazon-tamar.
+**⁷** Then they came back to En-mishpat (which is Kadesh), making waste all the country of the Amalekites and of the Amorites living in Hazazon-tamar.
 
-<sup>8</sup> And the king of Sodom with the king of Gomorrah and the king of Admah and the king of Zeboiim and the king of Bela (that is Zoar), went out, and put their forces in position in the valley of Siddim,
+**⁸** And the king of Sodom with the king of Gomorrah and the king of Admah and the king of Zeboiim and the king of Bela (that is Zoar), went out, and put their forces in position in the valley of Siddim,
 
-<sup>9</sup> Against Chedorlaomer, king of Elam, and Tidal, king of Goiim, and Amraphel, king of Shinar, and Arioch, king of Ellasar: four kings against the five.
+**⁹** Against Chedorlaomer, king of Elam, and Tidal, king of Goiim, and Amraphel, king of Shinar, and Arioch, king of Ellasar: four kings against the five.
 
-<sup>10</sup> Now the valley of Siddim was full of holes of sticky earth; and the kings of Sodom and Gomorrah were put to flight and came to their end there, but the rest got away to the mountain.
+**¹⁰** Now the valley of Siddim was full of holes of sticky earth; and the kings of Sodom and Gomorrah were put to flight and came to their end there, but the rest got away to the mountain.
 
-<sup>11</sup> And the four kings took all the goods and food from Sodom and Gomorrah and went on their way.
+**¹¹** And the four kings took all the goods and food from Sodom and Gomorrah and went on their way.
 
-<sup>12</sup> And in addition they took Lot, Abram's brother's son, who was living in Sodom, and all his goods.
+**¹²** And in addition they took Lot, Abram's brother's son, who was living in Sodom, and all his goods.
 
-<sup>13</sup> And one who had got away from the fight came and gave word of it to Abram the Hebrew, who was living by the holy tree of Mamre, the Amorite, the brother of Eshcol and Aner, who were friends of Abram.
+**¹³** And one who had got away from the fight came and gave word of it to Abram the Hebrew, who was living by the holy tree of Mamre, the Amorite, the brother of Eshcol and Aner, who were friends of Abram.
 
-<sup>14</sup> And Abram, hearing that his brother's son had been made a prisoner, took a band of his trained men, three hundred and eighteen of them, sons of his house, and went after them as far as Dan.
+**¹⁴** And Abram, hearing that his brother's son had been made a prisoner, took a band of his trained men, three hundred and eighteen of them, sons of his house, and went after them as far as Dan.
 
-<sup>15</sup> And separating his forces by night, he overcame them, putting them to flight and going after them as far as Hobah, which is on the north side of Damascus.
+**¹⁵** And separating his forces by night, he overcame them, putting them to flight and going after them as far as Hobah, which is on the north side of Damascus.
 
-<sup>16</sup> And he got back all the goods, and Lot, his brother's son, with his goods and the women and the people.
+**¹⁶** And he got back all the goods, and Lot, his brother's son, with his goods and the women and the people.
 
-<sup>17</sup> And when he was coming back after putting to flight Chedorlaomer and the other kings, he had a meeting with the king of Sodom in the valley of Shaveh, that is, the King's Valley.
+**¹⁷** And when he was coming back after putting to flight Chedorlaomer and the other kings, he had a meeting with the king of Sodom in the valley of Shaveh, that is, the King's Valley.
 
-<sup>18</sup> And Melchizedek, king of Salem, the priest of the Most High God, took bread and wine,
+**¹⁸** And Melchizedek, king of Salem, the priest of the Most High God, took bread and wine,
 
-<sup>19</sup> And blessing him, said, May the blessing of the Most High God, maker of heaven and earth, be on Abram:
+**¹⁹** And blessing him, said, May the blessing of the Most High God, maker of heaven and earth, be on Abram:
 
-<sup>20</sup> And let the Most High God be praised, who has given into your hands those who were against you. Then Abram gave him a tenth of all the goods he had taken.
+**²⁰** And let the Most High God be praised, who has given into your hands those who were against you. Then Abram gave him a tenth of all the goods he had taken.
 
-<sup>21</sup> And the king of Sodom said to Abram, Give me the prisoners and take the goods for yourself.
+**²¹** And the king of Sodom said to Abram, Give me the prisoners and take the goods for yourself.
 
-<sup>22</sup> But Abram said to the king of Sodom, I have taken an oath to the Lord, the Most High God, maker of heaven and earth,
+**²²** But Abram said to the king of Sodom, I have taken an oath to the Lord, the Most High God, maker of heaven and earth,
 
-<sup>23</sup> That I will not take so much as a thread or the cord of a shoe of yours; so that you may not say, I have given wealth to Abram:
+**²³** That I will not take so much as a thread or the cord of a shoe of yours; so that you may not say, I have given wealth to Abram:
 
-<sup>24</sup> Give me nothing but the food which the fighting-men who went with me have had; but let Aner and Eshcol and Mamre have their part of the goods.
+**²⁴** Give me nothing but the food which the fighting-men who went with me have had; but let Aner and Eshcol and Mamre have their part of the goods.

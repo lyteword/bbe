@@ -4,52 +4,52 @@ weight: 13
 
 # Chapter 13
 
-<sup>1</sup> Go on loving your brothers in the faith.
+**¹** Go on loving your brothers in the faith.
 
-<sup>2</sup> Take care to keep open house: because in this way some have had angels as their guests, without being conscious of it.
+**²** Take care to keep open house: because in this way some have had angels as their guests, without being conscious of it.
 
-<sup>3</sup> Keep in mind those who are in chains, as if you were chained with them, and those who are in trouble, as being yourselves in the body.
+**³** Keep in mind those who are in chains, as if you were chained with them, and those who are in trouble, as being yourselves in the body.
 
-<sup>4</sup> Let married life be honoured among all of you and not made unclean; for men untrue in married life will be judged by God.
+**⁴** Let married life be honoured among all of you and not made unclean; for men untrue in married life will be judged by God.
 
-<sup>5</sup> Be free from the love of money and pleased with the things which you have; for he himself has said, I will be with you at all times.
+**⁵** Be free from the love of money and pleased with the things which you have; for he himself has said, I will be with you at all times.
 
-<sup>6</sup> So that we say with a good heart, The Lord is my helper; I will have no fear: what is man able to do to me?
+**⁶** So that we say with a good heart, The Lord is my helper; I will have no fear: what is man able to do to me?
 
-<sup>7</sup> Keep in mind those who were over you, and who gave you the word of God; seeing the outcome of their way of life, let your faith be like theirs.
+**⁷** Keep in mind those who were over you, and who gave you the word of God; seeing the outcome of their way of life, let your faith be like theirs.
 
-<sup>8</sup> Jesus Christ is the same yesterday and today and for ever.
+**⁸** Jesus Christ is the same yesterday and today and for ever.
 
-<sup>9</sup> Do not be turned away by different strange teachings, because it is good for your hearts to be made strong by grace, and not by meats, which were of no profit to those who took so much trouble over them.
+**⁹** Do not be turned away by different strange teachings, because it is good for your hearts to be made strong by grace, and not by meats, which were of no profit to those who took so much trouble over them.
 
-<sup>10</sup> We have an altar from which those priests who are servants in the Tent may not take food.
+**¹⁰** We have an altar from which those priests who are servants in the Tent may not take food.
 
-<sup>11</sup> For the bodies of the beasts whose blood is taken into the holy place by the high priest as an offering for sin are burned outside the circle of the tents.
+**¹¹** For the bodies of the beasts whose blood is taken into the holy place by the high priest as an offering for sin are burned outside the circle of the tents.
 
-<sup>12</sup> For this reason Jesus was put to death outside the walls, so that he might make the people holy by his blood.
+**¹²** For this reason Jesus was put to death outside the walls, so that he might make the people holy by his blood.
 
-<sup>13</sup> Let us then go out to him outside the circle of the tents, taking his shame on ourselves.
+**¹³** Let us then go out to him outside the circle of the tents, taking his shame on ourselves.
 
-<sup>14</sup> For here we have no fixed resting-place, but our search is for the one which is to come.
+**¹⁴** For here we have no fixed resting-place, but our search is for the one which is to come.
 
-<sup>15</sup> Let us then make offerings of praise to God at all times through him, that is to say, the fruit of lips giving witness to his name.
+**¹⁵** Let us then make offerings of praise to God at all times through him, that is to say, the fruit of lips giving witness to his name.
 
-<sup>16</sup> But go on doing good and giving to others, because God is well-pleased with such offerings.
+**¹⁶** But go on doing good and giving to others, because God is well-pleased with such offerings.
 
-<sup>17</sup> Give ear to those who are rulers over you, and do as they say: for they keep watch over your souls, ready to give an account of them; let them be able to do this with joy and not with grief, because that would be of no profit to you.
+**¹⁷** Give ear to those who are rulers over you, and do as they say: for they keep watch over your souls, ready to give an account of them; let them be able to do this with joy and not with grief, because that would be of no profit to you.
 
-<sup>18</sup> Make prayers for us, for we are certain that our hearts are free from the sense of sin, desiring the right way of life in all things.
+**¹⁸** Make prayers for us, for we are certain that our hearts are free from the sense of sin, desiring the right way of life in all things.
 
-<sup>19</sup> I make this request more strongly, in the hope of coming back to you more quickly.
+**¹⁹** I make this request more strongly, in the hope of coming back to you more quickly.
 
-<sup>20</sup> Now may the God of peace, who made that great keeper of his flock, even our Lord Jesus, come back from the dead through the blood of the eternal agreement,
+**²⁰** Now may the God of peace, who made that great keeper of his flock, even our Lord Jesus, come back from the dead through the blood of the eternal agreement,
 
-<sup>21</sup> Make you full of every good work and ready to do all his desires, working in us whatever is pleasing in his eyes through Jesus Christ; and may the glory be given to him for ever and ever. So be it.
+**²¹** Make you full of every good work and ready to do all his desires, working in us whatever is pleasing in his eyes through Jesus Christ; and may the glory be given to him for ever and ever. So be it.
 
-<sup>22</sup> But, brothers, take kindly the words which I have said for your profit; for I have not sent you a long letter.
+**²²** But, brothers, take kindly the words which I have said for your profit; for I have not sent you a long letter.
 
-<sup>23</sup> Our brother Timothy has been let out of prison; and if he comes here in a short time, he and I will come to you together.
+**²³** Our brother Timothy has been let out of prison; and if he comes here in a short time, he and I will come to you together.
 
-<sup>24</sup> Give words of love from me to those who are rulers over you, and to all the saints. Those who are in Italy send you their love.
+**²⁴** Give words of love from me to those who are rulers over you, and to all the saints. Those who are in Italy send you their love.
 
-<sup>25</sup> May grace be with you all.
+**²⁵** May grace be with you all.

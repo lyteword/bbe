@@ -4,32 +4,32 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> After these things, by the order of the king, Haman, the son of Hammedatha the Agagite, was lifted up and given a position of honour and a higher place than all the other captains who were with him.
+**¹** After these things, by the order of the king, Haman, the son of Hammedatha the Agagite, was lifted up and given a position of honour and a higher place than all the other captains who were with him.
 
-<sup>2</sup> And all the king's servants who were in the king's house went down to the earth before Haman and gave him honour: for so the king had given orders. But Mordecai did not go down before him or give him honour.
+**²** And all the king's servants who were in the king's house went down to the earth before Haman and gave him honour: for so the king had given orders. But Mordecai did not go down before him or give him honour.
 
-<sup>3</sup> Then the king's servants who were in the king's house said to Mordecai, Why do you go against the king's order?
+**³** Then the king's servants who were in the king's house said to Mordecai, Why do you go against the king's order?
 
-<sup>4</sup> Now when they had said this to him day after day and he gave no attention, they let Haman have news of it, to see if Mordecai's behaviour would be overlooked: for he had said to them that he was a Jew.
+**⁴** Now when they had said this to him day after day and he gave no attention, they let Haman have news of it, to see if Mordecai's behaviour would be overlooked: for he had said to them that he was a Jew.
 
-<sup>5</sup> And when Haman saw that Mordecai did not go down before him and give him honour, Haman was full of wrath.
+**⁵** And when Haman saw that Mordecai did not go down before him and give him honour, Haman was full of wrath.
 
-<sup>6</sup> But it was not enough for him to make an attack on Mordecai only; for they had made clear to him who Mordecai's people were; so Haman made it his purpose to put an end to all the Jews, even Mordecai's people, through all the kingdom of Ahasuerus.
+**⁶** But it was not enough for him to make an attack on Mordecai only; for they had made clear to him who Mordecai's people were; so Haman made it his purpose to put an end to all the Jews, even Mordecai's people, through all the kingdom of Ahasuerus.
 
-<sup>7</sup> In the first month, the month Nisan, in the twelfth year of King Ahasuerus, from day to day and from month to month they went on looking for a sign given by Pur (that is chance) before Haman, till the sign came out for the thirteenth day of the twelfth month, the month Adar.
+**⁷** In the first month, the month Nisan, in the twelfth year of King Ahasuerus, from day to day and from month to month they went on looking for a sign given by Pur (that is chance) before Haman, till the sign came out for the thirteenth day of the twelfth month, the month Adar.
 
-<sup>8</sup> And Haman said to King Ahasuerus, There is a certain nation living here and there in small groups among the people in all the divisions of your kingdom; their laws are different from those of any other nation, and they do not keep the king's laws: for this reason it is not right for the king to let them be.
+**⁸** And Haman said to King Ahasuerus, There is a certain nation living here and there in small groups among the people in all the divisions of your kingdom; their laws are different from those of any other nation, and they do not keep the king's laws: for this reason it is not right for the king to let them be.
 
-<sup>9</sup> If it is the king's pleasure, let a statement ordering their destruction be put in writing: and I will give to those responsible for the king's business, ten thousand talents of silver for the king's store-house.
+**⁹** If it is the king's pleasure, let a statement ordering their destruction be put in writing: and I will give to those responsible for the king's business, ten thousand talents of silver for the king's store-house.
 
-<sup>10</sup> And the king took his ring from his hand and gave it to Haman, the son of Hammedatha the Agagite, the hater of the Jews.
+**¹⁰** And the king took his ring from his hand and gave it to Haman, the son of Hammedatha the Agagite, the hater of the Jews.
 
-<sup>11</sup> And the king said to Haman, The money is yours, and the people, to do with them whatever seems right to you.
+**¹¹** And the king said to Haman, The money is yours, and the people, to do with them whatever seems right to you.
 
-<sup>12</sup> Then on the thirteenth day of the first month, the king's scribes were sent for, and they put in writing Haman's orders to all the king's captains and the rulers of every division of his kingdom and the chiefs of every people: for every division of the kingdom in the writing commonly used there, and to every people in the language which was theirs; it was signed in the name of King Ahasuerus and stamped with the king's ring.
+**¹²** Then on the thirteenth day of the first month, the king's scribes were sent for, and they put in writing Haman's orders to all the king's captains and the rulers of every division of his kingdom and the chiefs of every people: for every division of the kingdom in the writing commonly used there, and to every people in the language which was theirs; it was signed in the name of King Ahasuerus and stamped with the king's ring.
 
-<sup>13</sup> And letters were sent by the runners into every division of the kingdom ordering the death and destruction of all Jews, young and old, little children and women, on the same day, even the thirteenth day of the twelfth month, the month Adar, and the taking of all their goods by force.
+**¹³** And letters were sent by the runners into every division of the kingdom ordering the death and destruction of all Jews, young and old, little children and women, on the same day, even the thirteenth day of the twelfth month, the month Adar, and the taking of all their goods by force.
 
-<sup>14</sup> A copy of the writing, to be made public in every part of the kingdom, was sent out to all the peoples, so that they might be ready when that day came.
+**¹⁴** A copy of the writing, to be made public in every part of the kingdom, was sent out to all the peoples, so that they might be ready when that day came.
 
-<sup>15</sup> The runners went out quickly by the king's order, and a public statement was made in Shushan: and the king and Haman took wine together: but the town of Shushan was troubled.
+**¹⁵** The runners went out quickly by the king's order, and a public statement was made in Shushan: and the king and Haman took wine together: but the town of Shushan was troubled.

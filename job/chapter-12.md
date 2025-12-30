@@ -4,52 +4,52 @@ weight: 12
 
 # Chapter 12
 
-<sup>1</sup> And Job made answer and said,
+**¹** And Job made answer and said,
 
-<sup>2</sup> No doubt you have knowledge, and wisdom will come to an end with you.
+**²** No doubt you have knowledge, and wisdom will come to an end with you.
 
-<sup>3</sup> But I have a mind as well as you; I am equal to you: yes, who has not knowledge of such things as these?
+**³** But I have a mind as well as you; I am equal to you: yes, who has not knowledge of such things as these?
 
-<sup>4</sup> It seems that I am to be as one who is a cause of laughing to his neighbour, one who makes his prayer to God and is answered! the upright man who has done no wrong is to be made sport of!
+**⁴** It seems that I am to be as one who is a cause of laughing to his neighbour, one who makes his prayer to God and is answered! the upright man who has done no wrong is to be made sport of!
 
-<sup>5</sup> In the thought of him who is in comfort there is no respect for one who is in trouble; such is the fate of those whose feet are slipping.
+**⁵** In the thought of him who is in comfort there is no respect for one who is in trouble; such is the fate of those whose feet are slipping.
 
-<sup>6</sup> There is wealth in the tents of those who make destruction, and those by whom God is moved to wrath are safe; even those whose god is their strength.
+**⁶** There is wealth in the tents of those who make destruction, and those by whom God is moved to wrath are safe; even those whose god is their strength.
 
-<sup>7</sup> But put now a question to the beasts, and get teaching from them; or to the birds of the heaven, and they will make it clear to you;
+**⁷** But put now a question to the beasts, and get teaching from them; or to the birds of the heaven, and they will make it clear to you;
 
-<sup>8</sup> Or to the things which go flat on the earth, and they will give you wisdom; and the fishes of the sea will give you news of it.
+**⁸** Or to the things which go flat on the earth, and they will give you wisdom; and the fishes of the sea will give you news of it.
 
-<sup>9</sup> Who does not see by all these that the hand of the Lord has done this?
+**⁹** Who does not see by all these that the hand of the Lord has done this?
 
-<sup>10</sup> In whose hand is the soul of every living thing, and the breath of all flesh of man.
+**¹⁰** In whose hand is the soul of every living thing, and the breath of all flesh of man.
 
-<sup>11</sup> Are not words tested by the ear, even as food is tasted by the mouth?
+**¹¹** Are not words tested by the ear, even as food is tasted by the mouth?
 
-<sup>12</sup> Old men have wisdom, and a long life gives knowledge.
+**¹²** Old men have wisdom, and a long life gives knowledge.
 
-<sup>13</sup> With him there is wisdom and strength; power and knowledge are his.
+**¹³** With him there is wisdom and strength; power and knowledge are his.
 
-<sup>14</sup> Truly, there is no building up of what is pulled down by him; when a man is shut up by him, no one may let him loose.
+**¹⁴** Truly, there is no building up of what is pulled down by him; when a man is shut up by him, no one may let him loose.
 
-<sup>15</sup> Truly, he keeps back the waters and they are dry; he sends them out and the earth is overturned.
+**¹⁵** Truly, he keeps back the waters and they are dry; he sends them out and the earth is overturned.
 
-<sup>16</sup> With him are strength and wise designs; he who is guided into error, together with his guide, are in his hands;
+**¹⁶** With him are strength and wise designs; he who is guided into error, together with his guide, are in his hands;
 
-<sup>17</sup> He takes away the wisdom of the wise guides, and makes judges foolish;
+**¹⁷** He takes away the wisdom of the wise guides, and makes judges foolish;
 
-<sup>18</sup> He undoes the chains of kings, and puts his band on them;
+**¹⁸** He undoes the chains of kings, and puts his band on them;
 
-<sup>19</sup> He makes priests prisoners, overturning those in safe positions;
+**¹⁹** He makes priests prisoners, overturning those in safe positions;
 
-<sup>20</sup> He makes the words of responsible persons without effect, and takes away the good sense of the old;
+**²⁰** He makes the words of responsible persons without effect, and takes away the good sense of the old;
 
-<sup>21</sup> He puts shame on chiefs, and takes away the power of the strong;
+**²¹** He puts shame on chiefs, and takes away the power of the strong;
 
-<sup>22</sup> Uncovering deep things out of the dark, and making the deep shade bright;
+**²²** Uncovering deep things out of the dark, and making the deep shade bright;
 
-<sup>23</sup> Increasing nations, and sending destruction on them; making wide the lands of peoples, and then giving them up.
+**²³** Increasing nations, and sending destruction on them; making wide the lands of peoples, and then giving them up.
 
-<sup>24</sup> He takes away the wisdom of the rulers of the earth, and sends them wandering in a waste where there is no way.
+**²⁴** He takes away the wisdom of the rulers of the earth, and sends them wandering in a waste where there is no way.
 
-<sup>25</sup> They go feeling about in the dark without light, wandering without help like those overcome with wine.
+**²⁵** They go feeling about in the dark without light, wandering without help like those overcome with wine.

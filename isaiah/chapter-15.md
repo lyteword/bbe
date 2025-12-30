@@ -4,20 +4,20 @@ weight: 15
 
 # Chapter 15
 
-<sup>1</sup> The word about Moab. For in a night Ar of Moab has become waste, and is seen no longer; for in a night Kir of Moab has become waste, and is seen no longer.
+**¹** The word about Moab. For in a night Ar of Moab has become waste, and is seen no longer; for in a night Kir of Moab has become waste, and is seen no longer.
 
-<sup>2</sup> The daughter of Dibon has gone up to the high places, weeping: Moab is sounding her cry of sorrow over Nebo, and over Medeba: everywhere the hair of the head and of the face is cut off.
+**²** The daughter of Dibon has gone up to the high places, weeping: Moab is sounding her cry of sorrow over Nebo, and over Medeba: everywhere the hair of the head and of the face is cut off.
 
-<sup>3</sup> In their streets they are covering themselves with haircloth: on the tops of their houses, and in their public places, there is crying and bitter weeping.
+**³** In their streets they are covering themselves with haircloth: on the tops of their houses, and in their public places, there is crying and bitter weeping.
 
-<sup>4</sup> Heshbon is crying out, and Elealeh; their voice is sounding even to Jahaz: for this cause the heart of Moab is shaking; his soul is shaking with fear.
+**⁴** Heshbon is crying out, and Elealeh; their voice is sounding even to Jahaz: for this cause the heart of Moab is shaking; his soul is shaking with fear.
 
-<sup>5</sup> My heart is crying out for Moab; her people go in flight to Zoar, and to Eglath-shelishiyah: for they go up with weeping by the slope of Luhith; on the way to Horonaim they send up a cry of destruction.
+**⁵** My heart is crying out for Moab; her people go in flight to Zoar, and to Eglath-shelishiyah: for they go up with weeping by the slope of Luhith; on the way to Horonaim they send up a cry of destruction.
 
-<sup>6</sup> The waters of Nimrim will become dry: for the grass is burned up, the young grass is coming to an end, every green thing is dead.
+**⁶** The waters of Nimrim will become dry: for the grass is burned up, the young grass is coming to an end, every green thing is dead.
 
-<sup>7</sup> For this cause they will take away their wealth, and the stores they have got together, over the stream of the water-plants.
+**⁷** For this cause they will take away their wealth, and the stores they have got together, over the stream of the water-plants.
 
-<sup>8</sup> For the cry has gone round the limits of Moab; as far as to Eglaim and Beer-elim.
+**⁸** For the cry has gone round the limits of Moab; as far as to Eglaim and Beer-elim.
 
-<sup>9</sup> For the waters of Dimon are full of blood: and I'm sending even more on Moab, a lion on those of Moab who go in flight, and on the rest of the land.
+**⁹** For the waters of Dimon are full of blood: and I'm sending even more on Moab, a lion on those of Moab who go in flight, and on the rest of the land.

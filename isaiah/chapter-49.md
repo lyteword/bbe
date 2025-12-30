@@ -4,54 +4,54 @@ weight: 49
 
 # Chapter 49
 
-<sup>1</sup> Give ear, O sea-lands, to me; and take note, you peoples from far: I have been marked out by the Lord from the first; when I was still in my mother's body, he had my name in mind:
+**¹** Give ear, O sea-lands, to me; and take note, you peoples from far: I have been marked out by the Lord from the first; when I was still in my mother's body, he had my name in mind:
 
-<sup>2</sup> And he has made my mouth like a sharp sword, in the shade of his hand he has kept me; and he has made me like a polished arrow, keeping me in his secret place;
+**²** And he has made my mouth like a sharp sword, in the shade of his hand he has kept me; and he has made me like a polished arrow, keeping me in his secret place;
 
-<sup>3</sup> And he said to me, You are my servant, Israel, in whom my glory will be seen;
+**³** And he said to me, You are my servant, Israel, in whom my glory will be seen;
 
-<sup>4</sup> And I said, I have undergone weariness for nothing, I have given my strength for no purpose or profit: but still the Lord will take up my cause, and my God will give me my reward.
+**⁴** And I said, I have undergone weariness for nothing, I have given my strength for no purpose or profit: but still the Lord will take up my cause, and my God will give me my reward.
 
-<sup>5</sup> And now, says the Lord, who made me his servant when I was still in my mother's body, so that I might make Jacob come back to him, and so that Israel might come together to him: and I was honoured in the eyes of the Lord, and my God became my strength.
+**⁵** And now, says the Lord, who made me his servant when I was still in my mother's body, so that I might make Jacob come back to him, and so that Israel might come together to him: and I was honoured in the eyes of the Lord, and my God became my strength.
 
-<sup>6</sup> It is not enough for one who is my servant to put the tribes of Jacob again in their place, and to get back those of Israel who have been sent away: my purpose is to give you as a light to the nations, so that you may be my salvation to the end of the earth.
+**⁶** It is not enough for one who is my servant to put the tribes of Jacob again in their place, and to get back those of Israel who have been sent away: my purpose is to give you as a light to the nations, so that you may be my salvation to the end of the earth.
 
-<sup>7</sup> The Lord who takes up Israel's cause, even his Holy One, says to him whom men make sport of, who is hated by the nations, a servant of rulers: Kings will see and get up from their places, and chiefs will give worship: because of the Lord who keeps faith; even the Holy One of Israel who has taken you for himself.
+**⁷** The Lord who takes up Israel's cause, even his Holy One, says to him whom men make sport of, who is hated by the nations, a servant of rulers: Kings will see and get up from their places, and chiefs will give worship: because of the Lord who keeps faith; even the Holy One of Israel who has taken you for himself.
 
-<sup>8</sup> This is the word of the Lord: I have given ear to you at a good time, and I have been your helper in a day of salvation: and I will keep you safe, and will make you a glory for the people, putting the land in order, and giving them the heritages which now are waste;
+**⁸** This is the word of the Lord: I have given ear to you at a good time, and I have been your helper in a day of salvation: and I will keep you safe, and will make you a glory for the people, putting the land in order, and giving them the heritages which now are waste;
 
-<sup>9</sup> Saying to those who are in chains, Go free; to those who are in the dark, Come out into the light. They will get food by the way wherever they go, and have grass-lands on all the dry mountain-tops.
+**⁹** Saying to those who are in chains, Go free; to those who are in the dark, Come out into the light. They will get food by the way wherever they go, and have grass-lands on all the dry mountain-tops.
 
-<sup>10</sup> They will not be in need of food or drink, or be troubled by the heat or the sun: for he who has mercy on them will be their guide, taking them by the springs of water.
+**¹⁰** They will not be in need of food or drink, or be troubled by the heat or the sun: for he who has mercy on them will be their guide, taking them by the springs of water.
 
-<sup>11</sup> And I will make all my mountains a way, and my highways will be lifted up.
+**¹¹** And I will make all my mountains a way, and my highways will be lifted up.
 
-<sup>12</sup> See, these are coming from far; and these from the north and the west; and these from the land of Sinim.
+**¹²** See, these are coming from far; and these from the north and the west; and these from the land of Sinim.
 
-<sup>13</sup> Let your voice be loud in song, O heavens; and be glad, O earth; make sounds of joy, O mountains, for the Lord has given comfort to his people, and will have mercy on his crushed ones.
+**¹³** Let your voice be loud in song, O heavens; and be glad, O earth; make sounds of joy, O mountains, for the Lord has given comfort to his people, and will have mercy on his crushed ones.
 
-<sup>14</sup> But Zion said, The Lord has given me up, I have gone from his memory.
+**¹⁴** But Zion said, The Lord has given me up, I have gone from his memory.
 
-<sup>15</sup> Will a woman give up the child at her breast, will she be without pity for the fruit of her body? yes, these may, but I will not let you go out of my memory.
+**¹⁵** Will a woman give up the child at her breast, will she be without pity for the fruit of her body? yes, these may, but I will not let you go out of my memory.
 
-<sup>16</sup> See, your name is marked on my hands; your walls are ever before me.
+**¹⁶** See, your name is marked on my hands; your walls are ever before me.
 
-<sup>17</sup> Your builders are coming quickly; your haters and those who made you waste will go out of you.
+**¹⁷** Your builders are coming quickly; your haters and those who made you waste will go out of you.
 
-<sup>18</sup> Let your eyes be lifted up round about, and see: they are all coming together to you. By my life, says the Lord, truly you will put them all on you as an ornament, and be clothed with them like a bride.
+**¹⁸** Let your eyes be lifted up round about, and see: they are all coming together to you. By my life, says the Lord, truly you will put them all on you as an ornament, and be clothed with them like a bride.
 
-<sup>19</sup> For though the waste places of your land have been given to destruction, now you will not be wide enough for your people, and those who made you waste will be far away.
+**¹⁹** For though the waste places of your land have been given to destruction, now you will not be wide enough for your people, and those who made you waste will be far away.
 
-<sup>20</sup> The children to whom you gave birth in other lands will say in your ears, The place is not wide enough for me: make room for me to have a resting-place.
+**²⁰** The children to whom you gave birth in other lands will say in your ears, The place is not wide enough for me: make room for me to have a resting-place.
 
-<sup>21</sup> Then you will say in your heart, Who has given me all these children? when my children had been taken from me, and I was no longer able to have others, who took care of these? when I was by myself, where then were these?
+**²¹** Then you will say in your heart, Who has given me all these children? when my children had been taken from me, and I was no longer able to have others, who took care of these? when I was by myself, where then were these?
 
-<sup>22</sup> This is the word of the Lord God: See, I will make a sign with my hand to the nations, and put up my flag for the peoples; and they will take up your sons on their beasts, and your daughters on their backs.
+**²²** This is the word of the Lord God: See, I will make a sign with my hand to the nations, and put up my flag for the peoples; and they will take up your sons on their beasts, and your daughters on their backs.
 
-<sup>23</sup> And kings will take care of you, and queens will give you their milk: they will go down on their faces before you, kissing the dust of your feet; and you will be certain that I am the Lord, and that those who put their hope in me will not be shamed.
+**²³** And kings will take care of you, and queens will give you their milk: they will go down on their faces before you, kissing the dust of your feet; and you will be certain that I am the Lord, and that those who put their hope in me will not be shamed.
 
-<sup>24</sup> Will the goods of war be taken from the strong man, or the prisoners of the cruel one be let go?
+**²⁴** Will the goods of war be taken from the strong man, or the prisoners of the cruel one be let go?
 
-<sup>25</sup> But the Lord says, Even the prisoners of the strong will be taken from him, and the cruel made to let go his goods: for I will take up your cause against your haters, and I will keep your children safe.
+**²⁵** But the Lord says, Even the prisoners of the strong will be taken from him, and the cruel made to let go his goods: for I will take up your cause against your haters, and I will keep your children safe.
 
-<sup>26</sup> And the flesh of your attackers will be taken by themselves for food; and they will take their blood for drink, as if it was sweet wine: and all men will see that I the Lord am your saviour, even he who takes up your cause, the Strong One of Jacob.
+**²⁶** And the flesh of your attackers will be taken by themselves for food; and they will take their blood for drink, as if it was sweet wine: and all men will see that I the Lord am your saviour, even he who takes up your cause, the Strong One of Jacob.

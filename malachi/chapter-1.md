@@ -4,30 +4,30 @@ weight: 1
 
 # Chapter 1
 
-<sup>1</sup> The word of the Lord to Israel by Malachi.
+**¹** The word of the Lord to Israel by Malachi.
 
-<sup>2</sup> You have been loved by me, says the Lord. But you say, Where was your love for us? Was not Esau Jacob's brother? says the Lord: but Jacob was loved by me,
+**²** You have been loved by me, says the Lord. But you say, Where was your love for us? Was not Esau Jacob's brother? says the Lord: but Jacob was loved by me,
 
-<sup>3</sup> And Esau was hated, and I sent destruction on his mountains, and gave his heritage to the beasts of the waste land.
+**³** And Esau was hated, and I sent destruction on his mountains, and gave his heritage to the beasts of the waste land.
 
-<sup>4</sup> Though Edom says, We are crushed down but we will come back, building up the waste places; this is what the Lord of armies has said: They may put up buildings, but I will have them pulled down; and they will be named The land of evil-doing, and The people against whom the Lord keeps his wrath for ever.
+**⁴** Though Edom says, We are crushed down but we will come back, building up the waste places; this is what the Lord of armies has said: They may put up buildings, but I will have them pulled down; and they will be named The land of evil-doing, and The people against whom the Lord keeps his wrath for ever.
 
-<sup>5</sup> And your eyes will see it; and you will say, The Lord is great even outside the limits of Israel.
+**⁵** And your eyes will see it; and you will say, The Lord is great even outside the limits of Israel.
 
-<sup>6</sup> A son gives honour to his father, and a servant has fear of his master: if then I am a father, where is my honour? and if I am a master, where is the fear of me? says the Lord of armies to you, O priests, who give no value to my name. And you say, How have we not given value to your name?
+**⁶** A son gives honour to his father, and a servant has fear of his master: if then I am a father, where is my honour? and if I am a master, where is the fear of me? says the Lord of armies to you, O priests, who give no value to my name. And you say, How have we not given value to your name?
 
-<sup>7</sup> You put unclean bread on my altar. And you say, How have we made it unclean? By your saying, The table of the Lord is of no value.
+**⁷** You put unclean bread on my altar. And you say, How have we made it unclean? By your saying, The table of the Lord is of no value.
 
-<sup>8</sup> And when you give what is blind for an offering, it is no evil! and when you give what is damaged and ill, it is no evil! Give it now to your ruler; will he be pleased with you, or will you have his approval? says the Lord of armies.
+**⁸** And when you give what is blind for an offering, it is no evil! and when you give what is damaged and ill, it is no evil! Give it now to your ruler; will he be pleased with you, or will you have his approval? says the Lord of armies.
 
-<sup>9</sup> And now, make request for the grace of God so that he may have mercy on us: this has been your doing: will he give his approval to any of you? says the Lord of armies.
+**⁹** And now, make request for the grace of God so that he may have mercy on us: this has been your doing: will he give his approval to any of you? says the Lord of armies.
 
-<sup>10</sup> If only there was one among you who would see that the doors were shut, so that you might not put a light to the fire on my altar for nothing! I have no pleasure in you, says the Lord of armies, and I will not take an offering from your hands.
+**¹⁰** If only there was one among you who would see that the doors were shut, so that you might not put a light to the fire on my altar for nothing! I have no pleasure in you, says the Lord of armies, and I will not take an offering from your hands.
 
-<sup>11</sup> For, from the coming up of the sun till its going down, my name is great among the Gentiles; and in every place the smell of burning flesh is offered to my name, and a clean offering: for my name is great among the Gentiles, says the Lord of armies.
+**¹¹** For, from the coming up of the sun till its going down, my name is great among the Gentiles; and in every place the smell of burning flesh is offered to my name, and a clean offering: for my name is great among the Gentiles, says the Lord of armies.
 
-<sup>12</sup> But you make it unholy by saying, The Lord's table has become unclean, and his food is of no value.
+**¹²** But you make it unholy by saying, The Lord's table has become unclean, and his food is of no value.
 
-<sup>13</sup> And you say, See, what a weariness it is! and you let out your breath at it, says the Lord of armies; and you have given what has been cut about by beasts, and what is damaged in its feet and ill; this is the offering you give: will this be pleasing to me from your hands? says the Lord.
+**¹³** And you say, See, what a weariness it is! and you let out your breath at it, says the Lord of armies; and you have given what has been cut about by beasts, and what is damaged in its feet and ill; this is the offering you give: will this be pleasing to me from your hands? says the Lord.
 
-<sup>14</sup> A curse on the false man who has a male in his flock, and takes his oath, and gives to the Lord a damaged thing: for I am a great King, says the Lord of armies, and my name is to be feared among the Gentiles.
+**¹⁴** A curse on the false man who has a male in his flock, and takes his oath, and gives to the Lord a damaged thing: for I am a great King, says the Lord of armies, and my name is to be feared among the Gentiles.

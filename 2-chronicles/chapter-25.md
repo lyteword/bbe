@@ -4,58 +4,58 @@ weight: 25
 
 # Chapter 25
 
-<sup>1</sup> Amaziah was twenty-five years old when he became king, and he was ruling in Jerusalem for twenty-nine years; his mother's name was Jehoaddan of Jerusalem.
+**¹** Amaziah was twenty-five years old when he became king, and he was ruling in Jerusalem for twenty-nine years; his mother's name was Jehoaddan of Jerusalem.
 
-<sup>2</sup> He did what was right in the eyes of the Lord, but his heart was not completely true to the Lord.
+**²** He did what was right in the eyes of the Lord, but his heart was not completely true to the Lord.
 
-<sup>3</sup> Now when he became strong in the kingdom, he put to death those men who had taken the life of the king his father.
+**³** Now when he became strong in the kingdom, he put to death those men who had taken the life of the king his father.
 
-<sup>4</sup> But he did not put their children to death, for he kept the orders of the Lord recorded in the book of the law of Moses, saying, The fathers are not to be put to death for their children or the children for their fathers, but a man is to be put to death for the sin which he himself has done.
+**⁴** But he did not put their children to death, for he kept the orders of the Lord recorded in the book of the law of Moses, saying, The fathers are not to be put to death for their children or the children for their fathers, but a man is to be put to death for the sin which he himself has done.
 
-<sup>5</sup> Then Amaziah got all Judah together and put them in order by their families, even all Judah and Benjamin, under captains of thousands and captains of hundreds: and he had those of twenty years old and over numbered, and they came to three hundred thousand of the best fighting-men, trained for war and in the use of the spear and the body-cover.
+**⁵** Then Amaziah got all Judah together and put them in order by their families, even all Judah and Benjamin, under captains of thousands and captains of hundreds: and he had those of twenty years old and over numbered, and they came to three hundred thousand of the best fighting-men, trained for war and in the use of the spear and the body-cover.
 
-<sup>6</sup> And for a hundred talents of silver, he got a hundred thousand fighting-men from Israel.
+**⁶** And for a hundred talents of silver, he got a hundred thousand fighting-men from Israel.
 
-<sup>7</sup> But a man of God came to him, saying, O king, let not the army of Israel go with you; for the Lord is not with Israel, that is, the children of Ephraim.
+**⁷** But a man of God came to him, saying, O king, let not the army of Israel go with you; for the Lord is not with Israel, that is, the children of Ephraim.
 
-<sup>8</sup> But go yourself, and be strong in war; God will not let you go down before those who are fighting against you; for God has power to give help or to send you down before your attackers.
+**⁸** But go yourself, and be strong in war; God will not let you go down before those who are fighting against you; for God has power to give help or to send you down before your attackers.
 
-<sup>9</sup> Then Amaziah said to the man of God, But what is to be done about the hundred talents which I have given for the armed band of Israel? And the man of God in answer said, God is able to give you much more than this.
+**⁹** Then Amaziah said to the man of God, But what is to be done about the hundred talents which I have given for the armed band of Israel? And the man of God in answer said, God is able to give you much more than this.
 
-<sup>10</sup> So Amaziah, separating the armed band which had come to him from Ephraim, sent them back again; which made them very angry with Judah, and they went back burning with wrath.
+**¹⁰** So Amaziah, separating the armed band which had come to him from Ephraim, sent them back again; which made them very angry with Judah, and they went back burning with wrath.
 
-<sup>11</sup> Then Amaziah took heart, and went out at the head of his people and came to the Valley of Salt, where he put to death ten thousand of the children of Seir;
+**¹¹** Then Amaziah took heart, and went out at the head of his people and came to the Valley of Salt, where he put to death ten thousand of the children of Seir;
 
-<sup>12</sup> And ten thousand more the children of Israel took living, and made them go up to the top of the rock, pushing them down from the top of the rock so that their bodies were broken by the fall.
+**¹²** And ten thousand more the children of Israel took living, and made them go up to the top of the rock, pushing them down from the top of the rock so that their bodies were broken by the fall.
 
-<sup>13</sup> But the men of the band which Amaziah sent back and did not take with him to the fight, made attacks on the towns of Judah from Samaria to Beth-horon, putting to death three thousand of their people and taking away a great store of their goods.
+**¹³** But the men of the band which Amaziah sent back and did not take with him to the fight, made attacks on the towns of Judah from Samaria to Beth-horon, putting to death three thousand of their people and taking away a great store of their goods.
 
-<sup>14</sup> Now when Amaziah came back from the destruction of the Edomites, he took the gods of the children of Seir and made them his gods, worshipping them and burning offerings before them.
+**¹⁴** Now when Amaziah came back from the destruction of the Edomites, he took the gods of the children of Seir and made them his gods, worshipping them and burning offerings before them.
 
-<sup>15</sup> And so the wrath of the Lord was moved against Amaziah, and he sent a prophet to him, who said, Why have you gone after the gods of the people who have not given their people salvation from your hands?
+**¹⁵** And so the wrath of the Lord was moved against Amaziah, and he sent a prophet to him, who said, Why have you gone after the gods of the people who have not given their people salvation from your hands?
 
-<sup>16</sup> But while he was talking to him the king said to him, Have we made you one of the king's government? say no more, or it will be the cause of your death. Then the prophet gave up protesting, and said, It is clear to me that God's purpose is your destruction, because you have done this and have not given ear to my words.
+**¹⁶** But while he was talking to him the king said to him, Have we made you one of the king's government? say no more, or it will be the cause of your death. Then the prophet gave up protesting, and said, It is clear to me that God's purpose is your destruction, because you have done this and have not given ear to my words.
 
-<sup>17</sup> Then Amaziah, king of Judah, acting on the suggestion of his servants, sent to Joash, the son of Jehoahaz, the son of Jehu, king of Israel, saying, Come, let us have a meeting face to face.
+**¹⁷** Then Amaziah, king of Judah, acting on the suggestion of his servants, sent to Joash, the son of Jehoahaz, the son of Jehu, king of Israel, saying, Come, let us have a meeting face to face.
 
-<sup>18</sup> And Joash, king of Israel, sent to Amaziah, king of Judah, saying, The thorn-tree in Lebanon sent to the cedar in Lebanon, saying, Give your daughter to my son for a wife: and a beast from the woodland in Lebanon went by, crushing the thorn under his feet.
+**¹⁸** And Joash, king of Israel, sent to Amaziah, king of Judah, saying, The thorn-tree in Lebanon sent to the cedar in Lebanon, saying, Give your daughter to my son for a wife: and a beast from the woodland in Lebanon went by, crushing the thorn under his feet.
 
-<sup>19</sup> You say, See, I have overcome Edom; and your heart is lifted up with pride: now keep in your country; why do you make causes of trouble, putting yourself, and Judah with you, in danger of downfall?
+**¹⁹** You say, See, I have overcome Edom; and your heart is lifted up with pride: now keep in your country; why do you make causes of trouble, putting yourself, and Judah with you, in danger of downfall?
 
-<sup>20</sup> But Amaziah gave no attention; and this was the purpose of God, so that he might give them up into the hands of Joash, because they had gone after the gods of Edom.
+**²⁰** But Amaziah gave no attention; and this was the purpose of God, so that he might give them up into the hands of Joash, because they had gone after the gods of Edom.
 
-<sup>21</sup> And so Joash, king of Israel, went up; and he and Amaziah, king of Judah, came face to face at Beth-shemesh in Judah.
+**²¹** And so Joash, king of Israel, went up; and he and Amaziah, king of Judah, came face to face at Beth-shemesh in Judah.
 
-<sup>22</sup> And Judah was overcome before Israel, and they went in flight, every man to his tent.
+**²²** And Judah was overcome before Israel, and they went in flight, every man to his tent.
 
-<sup>23</sup> And Joash, king of Israel, made Amaziah, king of Judah, the son of Joash, the son of Jehoahaz, prisoner at Beth-shemesh, and took him to Jerusalem; and he had the wall of Jerusalem pulled down from the doorway of Ephraim to the doorway in the angle, four hundred cubits.
+**²³** And Joash, king of Israel, made Amaziah, king of Judah, the son of Joash, the son of Jehoahaz, prisoner at Beth-shemesh, and took him to Jerusalem; and he had the wall of Jerusalem pulled down from the doorway of Ephraim to the doorway in the angle, four hundred cubits.
 
-<sup>24</sup> And he took all the gold and silver and all the vessels which were in the house of the Lord, under the care of Obed-edom, and all the wealth from the king's house, as well as those whose lives would be the price of broken faith, and went back to Samaria.
+**²⁴** And he took all the gold and silver and all the vessels which were in the house of the Lord, under the care of Obed-edom, and all the wealth from the king's house, as well as those whose lives would be the price of broken faith, and went back to Samaria.
 
-<sup>25</sup> Amaziah, son of Joash, king of Judah, went on living for fifteen years after the death of Joash, the son of Jehoahaz, king of Israel.
+**²⁵** Amaziah, son of Joash, king of Judah, went on living for fifteen years after the death of Joash, the son of Jehoahaz, king of Israel.
 
-<sup>26</sup> Now the rest of the acts of Amaziah, first and last, are they not recorded in the book of the kings of Judah and Israel?
+**²⁶** Now the rest of the acts of Amaziah, first and last, are they not recorded in the book of the kings of Judah and Israel?
 
-<sup>27</sup> Now from the time when Amaziah gave up worshipping the Lord, they made secret designs against him in Jerusalem; and he went in flight to Lachish: but they sent to Lachish after him and put him to death there.
+**²⁷** Now from the time when Amaziah gave up worshipping the Lord, they made secret designs against him in Jerusalem; and he went in flight to Lachish: but they sent to Lachish after him and put him to death there.
 
-<sup>28</sup> And they took his body on horseback and put it into the earth with his fathers in the town of David.
+**²⁸** And they took his body on horseback and put it into the earth with his fathers in the town of David.

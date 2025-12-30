@@ -4,48 +4,48 @@ weight: 16
 
 # Chapter 16
 
-<sup>1</sup> And when David had gone a little way past the top of the slope, Ziba, the servant of Mephibosheth, came to him, with two asses on which were two hundred cakes of bread and a hundred stems of dry grapes and a hundred summer fruits and a skin of wine.
+**¹** And when David had gone a little way past the top of the slope, Ziba, the servant of Mephibosheth, came to him, with two asses on which were two hundred cakes of bread and a hundred stems of dry grapes and a hundred summer fruits and a skin of wine.
 
-<sup>2</sup> And David said to Ziba, What is your reason for this? And Ziba said, The asses are for the use of the king's people, and the bread and the fruit are food for the young men; and the wine is for drink for those who are overcome by weariness in the waste land.
+**²** And David said to Ziba, What is your reason for this? And Ziba said, The asses are for the use of the king's people, and the bread and the fruit are food for the young men; and the wine is for drink for those who are overcome by weariness in the waste land.
 
-<sup>3</sup> And the king said, And where is your master's son? And Ziba said, He is still at Jerusalem: for he said, Today Israel will give back to me the kingdom of my father.
+**³** And the king said, And where is your master's son? And Ziba said, He is still at Jerusalem: for he said, Today Israel will give back to me the kingdom of my father.
 
-<sup>4</sup> Then the king said to Ziba, Truly everything which was Mephibosheth's is yours. And Ziba said, I give honour to my lord, may I have grace in your eyes, my lord, O king!
+**⁴** Then the king said to Ziba, Truly everything which was Mephibosheth's is yours. And Ziba said, I give honour to my lord, may I have grace in your eyes, my lord, O king!
 
-<sup>5</sup> And when King David came to Bahurim, a man of Saul's family named Shimei, the son of Gera, came out from there, calling curses after him.
+**⁵** And when King David came to Bahurim, a man of Saul's family named Shimei, the son of Gera, came out from there, calling curses after him.
 
-<sup>6</sup> And he sent stones at David and at all the king's servants and at all the people and at all the men of war by his side, on the right hand and on the left.
+**⁶** And he sent stones at David and at all the king's servants and at all the people and at all the men of war by his side, on the right hand and on the left.
 
-<sup>7</sup> And Shimei said, with curses, Be gone, be gone, you man of blood, you good-for-nothing:
+**⁷** And Shimei said, with curses, Be gone, be gone, you man of blood, you good-for-nothing:
 
-<sup>8</sup> The Lord has sent punishment on you for all the blood of the family of Saul, whose kingdom you have taken; and the Lord has given the kingdom to Absalom, your son: now you yourself are taken in your evil, because you are a man of blood.
+**⁸** The Lord has sent punishment on you for all the blood of the family of Saul, whose kingdom you have taken; and the Lord has given the kingdom to Absalom, your son: now you yourself are taken in your evil, because you are a man of blood.
 
-<sup>9</sup> Then Abishai, the son of Zeruiah, said to the king, Is this dead dog to go on cursing my lord the king? let me go over and take off his head.
+**⁹** Then Abishai, the son of Zeruiah, said to the king, Is this dead dog to go on cursing my lord the king? let me go over and take off his head.
 
-<sup>10</sup> And the king said, What have I to do with you, you sons of Zeruiah? Let him go on cursing, for the Lord has said, Put a curse on David, and who then may say, Why have you done so?
+**¹⁰** And the king said, What have I to do with you, you sons of Zeruiah? Let him go on cursing, for the Lord has said, Put a curse on David, and who then may say, Why have you done so?
 
-<sup>11</sup> And David said to Abishai and to all his servants, You see how my son, the offspring of my body, has made designs against my life: how much more then may this Benjamite do so? Let him be, and let him go on cursing; for the Lord has given him orders.
+**¹¹** And David said to Abishai and to all his servants, You see how my son, the offspring of my body, has made designs against my life: how much more then may this Benjamite do so? Let him be, and let him go on cursing; for the Lord has given him orders.
 
-<sup>12</sup> It may be that the Lord will take note of my wrongs, and give me back good in answer to his cursing of me today.
+**¹²** It may be that the Lord will take note of my wrongs, and give me back good in answer to his cursing of me today.
 
-<sup>13</sup> So David and his men went on their way: and Shimei went by the hillside parallel with them, cursing and sending stones and dust at him.
+**¹³** So David and his men went on their way: and Shimei went by the hillside parallel with them, cursing and sending stones and dust at him.
 
-<sup>14</sup> And the king and his people came tired to Jordan, and took their rest there.
+**¹⁴** And the king and his people came tired to Jordan, and took their rest there.
 
-<sup>15</sup> And Absalom and the men of Israel came to Jerusalem, and Ahithophel was with him.
+**¹⁵** And Absalom and the men of Israel came to Jerusalem, and Ahithophel was with him.
 
-<sup>16</sup> Then Hushai the Archite, David's friend, came to Absalom and said, Long life to the king, long life to the king!
+**¹⁶** Then Hushai the Archite, David's friend, came to Absalom and said, Long life to the king, long life to the king!
 
-<sup>17</sup> And Absalom said, Is this your love for your friend? why did you not go with your friend?
+**¹⁷** And Absalom said, Is this your love for your friend? why did you not go with your friend?
 
-<sup>18</sup> And Hushai said to Absalom, Not so; I am for that man whom the Lord and this people and all the men of Israel have taken as king, and I will take my place with him.
+**¹⁸** And Hushai said to Absalom, Not so; I am for that man whom the Lord and this people and all the men of Israel have taken as king, and I will take my place with him.
 
-<sup>19</sup> And more than this! where is my place as a servant? is it not before his son? as I have been your father's servant, so will I be yours.
+**¹⁹** And more than this! where is my place as a servant? is it not before his son? as I have been your father's servant, so will I be yours.
 
-<sup>20</sup> Then Absalom said to Ahithophel, Give your opinion now, what are we to do?
+**²⁰** Then Absalom said to Ahithophel, Give your opinion now, what are we to do?
 
-<sup>21</sup> And Ahithophel said to Absalom, Go in to your father's women who are here looking after his house; then all Israel will have the news that you are hated by your father, and the hands of your supporters will be strong.
+**²¹** And Ahithophel said to Absalom, Go in to your father's women who are here looking after his house; then all Israel will have the news that you are hated by your father, and the hands of your supporters will be strong.
 
-<sup>22</sup> So they put up the tent for Absalom on the top of the house, and Absalom went in to his father's women before the eyes of all Israel.
+**²²** So they put up the tent for Absalom on the top of the house, and Absalom went in to his father's women before the eyes of all Israel.
 
-<sup>23</sup> In those days the opinions of Ahithophel were valued as highly as if through him a man might get direction from God; so were they valued by David as much as by Absalom.
+**²³** In those days the opinions of Ahithophel were valued as highly as if through him a man might get direction from God; so were they valued by David as much as by Absalom.

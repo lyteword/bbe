@@ -4,46 +4,46 @@ weight: 2
 
 # Chapter 2
 
-<sup>1</sup> The word which Isaiah, the son of Amoz, saw about Judah and Jerusalem.
+**¹** The word which Isaiah, the son of Amoz, saw about Judah and Jerusalem.
 
-<sup>2</sup> And it will come about in the last days, that the mountain of the Lord will be placed on the top of the mountains, and be lifted up over the hills; and all nations will come to it.
+**²** And it will come about in the last days, that the mountain of the Lord will be placed on the top of the mountains, and be lifted up over the hills; and all nations will come to it.
 
-<sup>3</sup> And the peoples will say, Come, and let us go up to the mountain of the Lord, to the house of the God of Jacob: and he will give us knowledge of his ways, and we will be guided by his word; for out of Zion the law will go out, and the word of the Lord from Jerusalem.
+**³** And the peoples will say, Come, and let us go up to the mountain of the Lord, to the house of the God of Jacob: and he will give us knowledge of his ways, and we will be guided by his word; for out of Zion the law will go out, and the word of the Lord from Jerusalem.
 
-<sup>4</sup> And he will be the judge between the nations, and the peoples will be ruled by his decisions: and their swords will be turned into plough-blades, and their spears into vine-knives: no longer will the nations be turning their swords against one another, and the knowledge of war will be gone for ever.
+**⁴** And he will be the judge between the nations, and the peoples will be ruled by his decisions: and their swords will be turned into plough-blades, and their spears into vine-knives: no longer will the nations be turning their swords against one another, and the knowledge of war will be gone for ever.
 
-<sup>5</sup> O family of Jacob, come, and let us go in the light of the Lord.
+**⁵** O family of Jacob, come, and let us go in the light of the Lord.
 
-<sup>6</sup> For you, O Lord, have given up your people, the family of Jacob, because they are full of the evil ways of the east, and make use of secret arts like the Philistines, and are friends with the children of strange countries.
+**⁶** For you, O Lord, have given up your people, the family of Jacob, because they are full of the evil ways of the east, and make use of secret arts like the Philistines, and are friends with the children of strange countries.
 
-<sup>7</sup> And their land is full of silver and gold, and there is no end to their stores; their land is full of horses, and there is no end to their carriages.
+**⁷** And their land is full of silver and gold, and there is no end to their stores; their land is full of horses, and there is no end to their carriages.
 
-<sup>8</sup> Their land is full of images; they give worship to the work of their hands, even to that which their fingers have made.
+**⁸** Their land is full of images; they give worship to the work of their hands, even to that which their fingers have made.
 
-<sup>9</sup> And the poor man's head is bent, and the great man goes down on his face: for this cause there will be no forgiveness for their sin.
+**⁹** And the poor man's head is bent, and the great man goes down on his face: for this cause there will be no forgiveness for their sin.
 
-<sup>10</sup> Go into a hole in the rock, covering yourselves with dust, in fear of the Lord, before the glory of his power.
+**¹⁰** Go into a hole in the rock, covering yourselves with dust, in fear of the Lord, before the glory of his power.
 
-<sup>11</sup> The high looks of man will be put to shame, and the pride of men will be made low, and only the Lord will be lifted up in that day.
+**¹¹** The high looks of man will be put to shame, and the pride of men will be made low, and only the Lord will be lifted up in that day.
 
-<sup>12</sup> For the day of the Lord of armies is coming on all the pride of men, and on all who are high and lifted up;
+**¹²** For the day of the Lord of armies is coming on all the pride of men, and on all who are high and lifted up;
 
-<sup>13</sup> And on all the high trees of Lebanon, and on all the strong trees of Bashan;
+**¹³** And on all the high trees of Lebanon, and on all the strong trees of Bashan;
 
-<sup>14</sup> And on all the high mountains, and on all the hills which are lifted up;
+**¹⁴** And on all the high mountains, and on all the hills which are lifted up;
 
-<sup>15</sup> And on every high tower, and on every strong wall;
+**¹⁵** And on every high tower, and on every strong wall;
 
-<sup>16</sup> And on all the ships of Tarshish, and on all the fair boats.
+**¹⁶** And on all the ships of Tarshish, and on all the fair boats.
 
-<sup>17</sup> And the high looks of man will be put to shame, and the pride of men will be made low: and only the Lord will be lifted up in that day.
+**¹⁷** And the high looks of man will be put to shame, and the pride of men will be made low: and only the Lord will be lifted up in that day.
 
-<sup>18</sup> And the images will never be seen again.
+**¹⁸** And the images will never be seen again.
 
-<sup>19</sup> And men will go into cracks of the rocks, and into holes of the earth, for fear of the Lord, and before the glory of his power, when he comes out of his place, shaking the earth with his strength.
+**¹⁹** And men will go into cracks of the rocks, and into holes of the earth, for fear of the Lord, and before the glory of his power, when he comes out of his place, shaking the earth with his strength.
 
-<sup>20</sup> In that day men will put their images of silver and of gold, which they made for worship, in the keeping of the beasts of the dark places;
+**²⁰** In that day men will put their images of silver and of gold, which they made for worship, in the keeping of the beasts of the dark places;
 
-<sup>21</sup> To take cover in the cracks of the rocks, and in the holes of the hills, for fear of the Lord, and before the glory of his power, when he comes out of his place, shaking the earth with his strength.
+**²¹** To take cover in the cracks of the rocks, and in the holes of the hills, for fear of the Lord, and before the glory of his power, when he comes out of his place, shaking the earth with his strength.
 
-<sup>22</sup> Have no more to do with man, whose life is only a breath, for he is of no value.
+**²²** Have no more to do with man, whose life is only a breath, for he is of no value.

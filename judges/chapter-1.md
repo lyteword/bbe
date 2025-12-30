@@ -4,74 +4,74 @@ weight: 1
 
 # Chapter 1
 
-<sup>1</sup> Now after the death of Joshua, the children of Israel made request to the Lord, saying, Who is to go up first to make war for us against the Canaanites?
+**¹** Now after the death of Joshua, the children of Israel made request to the Lord, saying, Who is to go up first to make war for us against the Canaanites?
 
-<sup>2</sup> And the Lord said, Judah is to go up: see, I have given the land into his hands.
+**²** And the Lord said, Judah is to go up: see, I have given the land into his hands.
 
-<sup>3</sup> Then Judah said to Simeon his brother, Come up with me into my heritage, so that we may make war against the Canaanites; and I will then go with you into your heritage. So Simeon went with him.
+**³** Then Judah said to Simeon his brother, Come up with me into my heritage, so that we may make war against the Canaanites; and I will then go with you into your heritage. So Simeon went with him.
 
-<sup>4</sup> And Judah went up; and the Lord gave the Canaanites and the Perizzites into their hands; and they overcame ten thousand of them in Bezek.
+**⁴** And Judah went up; and the Lord gave the Canaanites and the Perizzites into their hands; and they overcame ten thousand of them in Bezek.
 
-<sup>5</sup> And they came across Adoni-zedek, and made war on him; and they overcame the Canaanites and the Perizzites.
+**⁵** And they came across Adoni-zedek, and made war on him; and they overcame the Canaanites and the Perizzites.
 
-<sup>6</sup> But Adoni-zedek went in flight; and they went after him and overtook him, and had his thumbs and his great toes cut off.
+**⁶** But Adoni-zedek went in flight; and they went after him and overtook him, and had his thumbs and his great toes cut off.
 
-<sup>7</sup> And Adoni-zedek said, Seventy kings, whose thumbs and great toes had been cut off, got broken meat under my table: as I have done, so has God done to me in full. And they took him to Jerusalem, and he came to his end there.
+**⁷** And Adoni-zedek said, Seventy kings, whose thumbs and great toes had been cut off, got broken meat under my table: as I have done, so has God done to me in full. And they took him to Jerusalem, and he came to his end there.
 
-<sup>8</sup> Then the children of Judah made an attack on Jerusalem, and took it, burning down the town after they had put its people to the sword without mercy.
+**⁸** Then the children of Judah made an attack on Jerusalem, and took it, burning down the town after they had put its people to the sword without mercy.
 
-<sup>9</sup> After that the children of Judah went down to make war on the Canaanites living in the hill-country and in the south and in the lowlands.
+**⁹** After that the children of Judah went down to make war on the Canaanites living in the hill-country and in the south and in the lowlands.
 
-<sup>10</sup> And Caleb went against the Canaanites of Hebron: (now in earlier times Hebron was named Kiriath-arba:) and he put Sheshai and Ahiman and Talmai to the sword.
+**¹⁰** And Caleb went against the Canaanites of Hebron: (now in earlier times Hebron was named Kiriath-arba:) and he put Sheshai and Ahiman and Talmai to the sword.
 
-<sup>11</sup> And from there he went up against the people of Debir. (Now the name of Debir in earlier times was Kiriath-sepher.)
+**¹¹** And from there he went up against the people of Debir. (Now the name of Debir in earlier times was Kiriath-sepher.)
 
-<sup>12</sup> And Caleb said, I will give Achsah, my daughter, as wife to the man who overcomes Kiriath-sepher and takes it.
+**¹²** And Caleb said, I will give Achsah, my daughter, as wife to the man who overcomes Kiriath-sepher and takes it.
 
-<sup>13</sup> And Othniel, the son of Kenaz, Caleb's younger brother, took it; so he gave him his daughter Achsah for his wife.
+**¹³** And Othniel, the son of Kenaz, Caleb's younger brother, took it; so he gave him his daughter Achsah for his wife.
 
-<sup>14</sup> Now when she came to him, he put into her mind the idea of requesting a field from her father: and she got down from her ass; and Caleb said to her, What is it?
+**¹⁴** Now when she came to him, he put into her mind the idea of requesting a field from her father: and she got down from her ass; and Caleb said to her, What is it?
 
-<sup>15</sup> And she said to him, Give me a blessing; because you have put me in a dry south-land, now give me springs of water. So Caleb gave her the higher spring and the lower spring.
+**¹⁵** And she said to him, Give me a blessing; because you have put me in a dry south-land, now give me springs of water. So Caleb gave her the higher spring and the lower spring.
 
-<sup>16</sup> Now Hobab the Kenite, Moses' father-in-law, had come up out of the town of palm-trees, with the children of Judah, into the waste land of Arad; and he went and was living among the Amalekites;
+**¹⁶** Now Hobab the Kenite, Moses' father-in-law, had come up out of the town of palm-trees, with the children of Judah, into the waste land of Arad; and he went and was living among the Amalekites;
 
-<sup>17</sup> And Judah went with Simeon, his brother, and overcame the Canaanites living in Zephath, and put it under the curse; and he gave the town the name of Hormah.
+**¹⁷** And Judah went with Simeon, his brother, and overcame the Canaanites living in Zephath, and put it under the curse; and he gave the town the name of Hormah.
 
-<sup>18</sup> Then Judah took Gaza and its limit, and Ashkelon and its limit, and Ekron and its limit.
+**¹⁸** Then Judah took Gaza and its limit, and Ashkelon and its limit, and Ekron and its limit.
 
-<sup>19</sup> And the Lord was with Judah; and he took the hill-country for his heritage; but he was unable to make the people of the valley go out, for they had war-carriages of iron.
+**¹⁹** And the Lord was with Judah; and he took the hill-country for his heritage; but he was unable to make the people of the valley go out, for they had war-carriages of iron.
 
-<sup>20</sup> And they gave Hebron to Caleb, as Moses had said; and he took the land of the three sons of Anak, driving them out from there.
+**²⁰** And they gave Hebron to Caleb, as Moses had said; and he took the land of the three sons of Anak, driving them out from there.
 
-<sup>21</sup> And the children of Judah did not make the Jebusites who were living in Jerusalem go out; the Jebusites are still living with the children of Benjamin in Jerusalem.
+**²¹** And the children of Judah did not make the Jebusites who were living in Jerusalem go out; the Jebusites are still living with the children of Benjamin in Jerusalem.
 
-<sup>22</sup> And the family of Joseph went up against Beth-el, and the Lord was with them.
+**²²** And the family of Joseph went up against Beth-el, and the Lord was with them.
 
-<sup>23</sup> So they sent men to make a search round Beth-el. (Now the name of the town in earlier times was Luz.)
+**²³** So they sent men to make a search round Beth-el. (Now the name of the town in earlier times was Luz.)
 
-<sup>24</sup> And the watchers saw a man coming out of the town, and said to him, If you will make clear to us the way into the town, we will be kind to you.
+**²⁴** And the watchers saw a man coming out of the town, and said to him, If you will make clear to us the way into the town, we will be kind to you.
 
-<sup>25</sup> So he made clear to them the way into the town, and they put it to the sword; but they let the man and all his family get away safe.
+**²⁵** So he made clear to them the way into the town, and they put it to the sword; but they let the man and all his family get away safe.
 
-<sup>26</sup> And he went into the land of the Hittites, building a town there and naming it Luz: which is its name to this day.
+**²⁶** And he went into the land of the Hittites, building a town there and naming it Luz: which is its name to this day.
 
-<sup>27</sup> And Manasseh did not take away the land of the people of Beth-shean and its daughter-towns, or of Taanach and its daughter-towns, or of the people of Dor and its daughter-towns, or of the people of Ibleam and its daughter-towns, or of the people of Megiddo and its daughter-towns, driving them out; but the Canaanites would go on living in that land.
+**²⁷** And Manasseh did not take away the land of the people of Beth-shean and its daughter-towns, or of Taanach and its daughter-towns, or of the people of Dor and its daughter-towns, or of the people of Ibleam and its daughter-towns, or of the people of Megiddo and its daughter-towns, driving them out; but the Canaanites would go on living in that land.
 
-<sup>28</sup> And whenever Israel became strong, they put the Canaanites to forced work, without driving them out completely.
+**²⁸** And whenever Israel became strong, they put the Canaanites to forced work, without driving them out completely.
 
-<sup>29</sup> And Ephraim did not make the Canaanites who were living in Gezer go out; but the Canaanites went on living in Gezer among them.
+**²⁹** And Ephraim did not make the Canaanites who were living in Gezer go out; but the Canaanites went on living in Gezer among them.
 
-<sup>30</sup> Zebulun did not make the people of Kitron or the people of Nahalol go out; but the Canaanites went on living among them and were put to forced work.
+**³⁰** Zebulun did not make the people of Kitron or the people of Nahalol go out; but the Canaanites went on living among them and were put to forced work.
 
-<sup>31</sup> And Asher did not take the land of the people of Acco, or Zidon, or Ahlab, or Achzib, or Helbah, or Aphik, or Rehob, driving them out;
+**³¹** And Asher did not take the land of the people of Acco, or Zidon, or Ahlab, or Achzib, or Helbah, or Aphik, or Rehob, driving them out;
 
-<sup>32</sup> But the Asherites went on living among the Canaanites, the people of the land, without driving them out.
+**³²** But the Asherites went on living among the Canaanites, the people of the land, without driving them out.
 
-<sup>33</sup> Naphtali did not take the land of the people of Beth-shemesh or of Beth-anath, driving them out; but he was living among the Canaanites in the land; however, the people of Beth-shemesh and Beth-anath were put to forced work.
+**³³** Naphtali did not take the land of the people of Beth-shemesh or of Beth-anath, driving them out; but he was living among the Canaanites in the land; however, the people of Beth-shemesh and Beth-anath were put to forced work.
 
-<sup>34</sup> And the children of Dan were forced into the hill-country by the Amorites, who would not let them come down into the valley;
+**³⁴** And the children of Dan were forced into the hill-country by the Amorites, who would not let them come down into the valley;
 
-<sup>35</sup> For the Amorites would go on living in Mount Heres, in Aijalon, and in Shaalbim; but the children of Joseph became stronger than they, and put them to forced work.
+**³⁵** For the Amorites would go on living in Mount Heres, in Aijalon, and in Shaalbim; but the children of Joseph became stronger than they, and put them to forced work.
 
-<sup>36</sup> And the limit of the Edomites went from the slope of Akrabbim from Sela and up.
+**³⁶** And the limit of the Edomites went from the slope of Akrabbim from Sela and up.

@@ -4,26 +4,26 @@ weight: 62
 
 # Chapter 62
 
-<sup>1</sup> Because of Zion I will not keep quiet, and because of Jerusalem I will take no rest, till her righteousness goes out like the shining of the sun, and her salvation like a burning light.
+**¹** Because of Zion I will not keep quiet, and because of Jerusalem I will take no rest, till her righteousness goes out like the shining of the sun, and her salvation like a burning light.
 
-<sup>2</sup> And the nations will see your righteousness, and all kings your glory: and you will have a new name, given by the mouth of the Lord.
+**²** And the nations will see your righteousness, and all kings your glory: and you will have a new name, given by the mouth of the Lord.
 
-<sup>3</sup> And you will be a fair crown in the hand of the Lord, and a king's head-dress in the hand of your God.
+**³** And you will be a fair crown in the hand of the Lord, and a king's head-dress in the hand of your God.
 
-<sup>4</sup> You will not now be named, She who is given up; and your land will no longer be named, The waste land: but you will have the name, My pleasure is in her, and your land will be named, Married: for the Lord has pleasure in you, and your land will be married.
+**⁴** You will not now be named, She who is given up; and your land will no longer be named, The waste land: but you will have the name, My pleasure is in her, and your land will be named, Married: for the Lord has pleasure in you, and your land will be married.
 
-<sup>5</sup> For as a young man takes a virgin for his wife, so will your maker be married to you: and as a husband has joy in his bride, so will the Lord your God be glad over you.
+**⁵** For as a young man takes a virgin for his wife, so will your maker be married to you: and as a husband has joy in his bride, so will the Lord your God be glad over you.
 
-<sup>6</sup> I have put watchmen on your walls, O Jerusalem; they will not keep quiet day or night: you who are the Lord's recorders, take no rest,
+**⁶** I have put watchmen on your walls, O Jerusalem; they will not keep quiet day or night: you who are the Lord's recorders, take no rest,
 
-<sup>7</sup> And give him no rest, till he puts Jerusalem in her place to be praised in the earth.
+**⁷** And give him no rest, till he puts Jerusalem in her place to be praised in the earth.
 
-<sup>8</sup> The Lord has taken an oath by his right hand, and by the arm of his strength, Truly, I will no longer give your grain to be food for your haters; and men of strange countries will not take the wine for which your work has been done:
+**⁸** The Lord has taken an oath by his right hand, and by the arm of his strength, Truly, I will no longer give your grain to be food for your haters; and men of strange countries will not take the wine for which your work has been done:
 
-<sup>9</sup> But those who have got in the grain will have it for their food, and will give praise to the Lord; and those who have got in the grapes will take the wine of them in the open places of my holy house.
+**⁹** But those who have got in the grain will have it for their food, and will give praise to the Lord; and those who have got in the grapes will take the wine of them in the open places of my holy house.
 
-<sup>10</sup> Go through, go through the doors; make ready the way of the people; let the highway be lifted up; let the stones be taken away; let a flag be lifted up over the peoples.
+**¹⁰** Go through, go through the doors; make ready the way of the people; let the highway be lifted up; let the stones be taken away; let a flag be lifted up over the peoples.
 
-<sup>11</sup> The Lord has sent out word to the end of the earth, Say to the daughter of Zion, See, your saviour comes; those whom he has made free are with him, and those to whom he has given salvation go before him.
+**¹¹** The Lord has sent out word to the end of the earth, Say to the daughter of Zion, See, your saviour comes; those whom he has made free are with him, and those to whom he has given salvation go before him.
 
-<sup>12</sup> And they will be named, The holy people, Those whose cause has been taken up by the Lord: and you will be named, Desired, A town not given up.
+**¹²** And they will be named, The holy people, Those whose cause has been taken up by the Lord: and you will be named, Desired, A town not given up.

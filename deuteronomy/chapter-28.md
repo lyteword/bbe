@@ -4,138 +4,138 @@ weight: 28
 
 # Chapter 28
 
-<sup>1</sup> Now if you give ear to the voice of the Lord your God, and keep with care all these orders which I have given you today, then the Lord your God will put you high over all the nations of the earth:
+**¹** Now if you give ear to the voice of the Lord your God, and keep with care all these orders which I have given you today, then the Lord your God will put you high over all the nations of the earth:
 
-<sup>2</sup> And all these blessings will come on you and overtake you, if your ears are open to the voice of the Lord your God.
+**²** And all these blessings will come on you and overtake you, if your ears are open to the voice of the Lord your God.
 
-<sup>3</sup> A blessing will be on you in the town, and a blessing in the field.
+**³** A blessing will be on you in the town, and a blessing in the field.
 
-<sup>4</sup> A blessing will be on the fruit of your body, and on the fruit of your land, on the fruit of your cattle, the increase of your herd, and the young of your flock.
+**⁴** A blessing will be on the fruit of your body, and on the fruit of your land, on the fruit of your cattle, the increase of your herd, and the young of your flock.
 
-<sup>5</sup> A blessing will be on your basket and on your bread-basin.
+**⁵** A blessing will be on your basket and on your bread-basin.
 
-<sup>6</sup> A blessing will be on your coming in and on your going out.
+**⁶** A blessing will be on your coming in and on your going out.
 
-<sup>7</sup> By the power of the Lord, those who take arms against you will be overcome before you: they will come out against you one way, and will go in flight from you seven ways.
+**⁷** By the power of the Lord, those who take arms against you will be overcome before you: they will come out against you one way, and will go in flight from you seven ways.
 
-<sup>8</sup> The Lord will send his blessing on your store-houses and on everything to which you put your hand: his blessing will be on you in the land which the Lord your God is giving you.
+**⁸** The Lord will send his blessing on your store-houses and on everything to which you put your hand: his blessing will be on you in the land which the Lord your God is giving you.
 
-<sup>9</sup> The Lord will keep you as a people holy to himself, as he has said to you in his oath, if you keep the orders of the Lord your God and go on walking in his ways.
+**⁹** The Lord will keep you as a people holy to himself, as he has said to you in his oath, if you keep the orders of the Lord your God and go on walking in his ways.
 
-<sup>10</sup> And all the peoples of the earth will see that the name of the Lord is on you, and they will go in fear of you.
+**¹⁰** And all the peoples of the earth will see that the name of the Lord is on you, and they will go in fear of you.
 
-<sup>11</sup> And the Lord will make you fertile in every good thing, in the fruit of your body, and the fruit of your cattle, and the fruit of your fields, in the land which the Lord, by his oath to your fathers, said he would give you.
+**¹¹** And the Lord will make you fertile in every good thing, in the fruit of your body, and the fruit of your cattle, and the fruit of your fields, in the land which the Lord, by his oath to your fathers, said he would give you.
 
-<sup>12</sup> Opening his store-house in heaven, the Lord will send rain on your land at the right time, blessing all the work of your hands: other nations will make use of your wealth, and you will have no need of theirs.
+**¹²** Opening his store-house in heaven, the Lord will send rain on your land at the right time, blessing all the work of your hands: other nations will make use of your wealth, and you will have no need of theirs.
 
-<sup>13</sup> The Lord will make you the head and not the tail; and you will ever have the highest place, if you give ear to the orders of the Lord your God which I give you today, to keep and to do them;
+**¹³** The Lord will make you the head and not the tail; and you will ever have the highest place, if you give ear to the orders of the Lord your God which I give you today, to keep and to do them;
 
-<sup>14</sup> Not turning away from any of the orders which I give you today, to the right hand or to the left, or going after any other gods to give them worship.
+**¹⁴** Not turning away from any of the orders which I give you today, to the right hand or to the left, or going after any other gods to give them worship.
 
-<sup>15</sup> But if you do not give ear to the voice of the Lord your God, and take care to do all his orders and his laws which I give you today, then all these curses will come on you and overtake you:
+**¹⁵** But if you do not give ear to the voice of the Lord your God, and take care to do all his orders and his laws which I give you today, then all these curses will come on you and overtake you:
 
-<sup>16</sup> You will be cursed in the town and cursed in the field.
+**¹⁶** You will be cursed in the town and cursed in the field.
 
-<sup>17</sup> A curse will be on your basket and on your bread-basin.
+**¹⁷** A curse will be on your basket and on your bread-basin.
 
-<sup>18</sup> A curse will be on the fruit of your body, and on the fruit of your land, on the increase of your cattle, and the young of your flock.
+**¹⁸** A curse will be on the fruit of your body, and on the fruit of your land, on the increase of your cattle, and the young of your flock.
 
-<sup>19</sup> You will be cursed when you come in and cursed when you go out.
+**¹⁹** You will be cursed when you come in and cursed when you go out.
 
-<sup>20</sup> The Lord will send on you cursing and trouble and punishment in everything to which you put your hand, till sudden destruction overtakes you; because of your evil ways in which you have been false to me.
+**²⁰** The Lord will send on you cursing and trouble and punishment in everything to which you put your hand, till sudden destruction overtakes you; because of your evil ways in which you have been false to me.
 
-<sup>21</sup> The Lord will send disease after disease on you, till you have been cut off by death from the land to which you are going.
+**²¹** The Lord will send disease after disease on you, till you have been cut off by death from the land to which you are going.
 
-<sup>22</sup> The Lord will send wasting disease, and burning pain, and flaming heat against you, keeping back the rain till your land is waste and dead; so will it be till your destruction is complete.
+**²²** The Lord will send wasting disease, and burning pain, and flaming heat against you, keeping back the rain till your land is waste and dead; so will it be till your destruction is complete.
 
-<sup>23</sup> And the heaven over your heads will be brass, and the earth under you hard as iron.
+**²³** And the heaven over your heads will be brass, and the earth under you hard as iron.
 
-<sup>24</sup> The Lord will make the rain of your land powder and dust, sending it down on you from heaven till your destruction is complete.
+**²⁴** The Lord will make the rain of your land powder and dust, sending it down on you from heaven till your destruction is complete.
 
-<sup>25</sup> The Lord will let you be overcome by your haters: you will go out against them one way, and you will go in flight before them seven ways: you will be the cause of fear among all the kingdoms of the earth.
+**²⁵** The Lord will let you be overcome by your haters: you will go out against them one way, and you will go in flight before them seven ways: you will be the cause of fear among all the kingdoms of the earth.
 
-<sup>26</sup> Your bodies will be meat for all the birds of the air and the beasts of the earth; there will be no one to send them away.
+**²⁶** Your bodies will be meat for all the birds of the air and the beasts of the earth; there will be no one to send them away.
 
-<sup>27</sup> The Lord will send on you the disease of Egypt, and other sorts of skin diseases which nothing will make well.
+**²⁷** The Lord will send on you the disease of Egypt, and other sorts of skin diseases which nothing will make well.
 
-<sup>28</sup> He will make your minds diseased, and your eyes blind, and your hearts wasted with fear:
+**²⁸** He will make your minds diseased, and your eyes blind, and your hearts wasted with fear:
 
-<sup>29</sup> You will go feeling your way when the sun is high, like a blind man for whom all is dark, and nothing will go well for you: you will be crushed and made poor for ever, and you will have no saviour.
+**²⁹** You will go feeling your way when the sun is high, like a blind man for whom all is dark, and nothing will go well for you: you will be crushed and made poor for ever, and you will have no saviour.
 
-<sup>30</sup> You will take a wife, but another man will have the use of her: the house which your hands have made will never be your resting-place: you will make a vine-garden, and never take the fruit of it.
+**³⁰** You will take a wife, but another man will have the use of her: the house which your hands have made will never be your resting-place: you will make a vine-garden, and never take the fruit of it.
 
-<sup>31</sup> Your ox will be put to death before your eyes, but its flesh will not be your food: your ass will be violently taken away before your face, and will not be given back to you: your sheep will be given to your haters, and there will be no saviour for you.
+**³¹** Your ox will be put to death before your eyes, but its flesh will not be your food: your ass will be violently taken away before your face, and will not be given back to you: your sheep will be given to your haters, and there will be no saviour for you.
 
-<sup>32</sup> Your sons and your daughters will be given to another people, and your eyes will be wasted away with looking and weeping for them all the day: and you will have no power to do anything.
+**³²** Your sons and your daughters will be given to another people, and your eyes will be wasted away with looking and weeping for them all the day: and you will have no power to do anything.
 
-<sup>33</sup> The fruit of your land and all the work of your hands will be food for a nation which is strange to you and to your fathers; you will only be crushed down and kept under for ever:
+**³³** The fruit of your land and all the work of your hands will be food for a nation which is strange to you and to your fathers; you will only be crushed down and kept under for ever:
 
-<sup>34</sup> So that the things which your eyes have to see will send you out of your minds.
+**³⁴** So that the things which your eyes have to see will send you out of your minds.
 
-<sup>35</sup> The Lord will send a skin disease, attacking your knees and your legs, bursting out from your feet to the top of your head, so that nothing will make you well.
+**³⁵** The Lord will send a skin disease, attacking your knees and your legs, bursting out from your feet to the top of your head, so that nothing will make you well.
 
-<sup>36</sup> And you, and the king whom you have put over you, will the Lord take away to a nation strange to you and to your fathers; there you will be servants to other gods of wood and stone.
+**³⁶** And you, and the king whom you have put over you, will the Lord take away to a nation strange to you and to your fathers; there you will be servants to other gods of wood and stone.
 
-<sup>37</sup> And you will become a wonder and a name of shame among all the nations where the Lord will take you.
+**³⁷** And you will become a wonder and a name of shame among all the nations where the Lord will take you.
 
-<sup>38</sup> You will take much seed out into the field, and get little in; for the locust will get it.
+**³⁸** You will take much seed out into the field, and get little in; for the locust will get it.
 
-<sup>39</sup> You will put in vines and take care of them, but you will get no wine or grapes from them; for they will be food for worms.
+**³⁹** You will put in vines and take care of them, but you will get no wine or grapes from them; for they will be food for worms.
 
-<sup>40</sup> Your land will be full of olive-trees, but there will be no oil for the comfort of your body; for your olive-tree will give no fruit.
+**⁴⁰** Your land will be full of olive-trees, but there will be no oil for the comfort of your body; for your olive-tree will give no fruit.
 
-<sup>41</sup> You will have sons and daughters, but they will not be yours; for they will go away prisoners into a strange land.
+**⁴¹** You will have sons and daughters, but they will not be yours; for they will go away prisoners into a strange land.
 
-<sup>42</sup> All your trees and the fruit of your land will be the locust's.
+**⁴²** All your trees and the fruit of your land will be the locust's.
 
-<sup>43</sup> The man from a strange land who is living among you will be lifted up higher and higher over you, while you go down lower and lower.
+**⁴³** The man from a strange land who is living among you will be lifted up higher and higher over you, while you go down lower and lower.
 
-<sup>44</sup> He will let you have his wealth at interest, and will have no need of yours: he will be the head and you the tail.
+**⁴⁴** He will let you have his wealth at interest, and will have no need of yours: he will be the head and you the tail.
 
-<sup>45</sup> And all these curses will come after you and overtake you, till your destruction is complete; because you did not give ear to the voice of the Lord your God, or keep his laws and his orders which he gave you:
+**⁴⁵** And all these curses will come after you and overtake you, till your destruction is complete; because you did not give ear to the voice of the Lord your God, or keep his laws and his orders which he gave you:
 
-<sup>46</sup> These things will come on you and on your seed, to be a sign and a wonder for ever;
+**⁴⁶** These things will come on you and on your seed, to be a sign and a wonder for ever;
 
-<sup>47</sup> Because you did not give honour to the Lord your God, worshipping him gladly, with joy in your hearts on account of all your wealth of good things;
+**⁴⁷** Because you did not give honour to the Lord your God, worshipping him gladly, with joy in your hearts on account of all your wealth of good things;
 
-<sup>48</sup> For this cause you will become servants to those whom the Lord your God will send against you, without food and drink and clothing, and in need of all things: and he will put a yoke of iron on your neck till he has put an end to you.
+**⁴⁸** For this cause you will become servants to those whom the Lord your God will send against you, without food and drink and clothing, and in need of all things: and he will put a yoke of iron on your neck till he has put an end to you.
 
-<sup>49</sup> The Lord will send a nation against you from the farthest ends of the earth, coming with the flight of an eagle; a nation whose language is strange to you;
+**⁴⁹** The Lord will send a nation against you from the farthest ends of the earth, coming with the flight of an eagle; a nation whose language is strange to you;
 
-<sup>50</sup> A hard-faced nation, who will have no respect for the old or mercy for the young:
+**⁵⁰** A hard-faced nation, who will have no respect for the old or mercy for the young:
 
-<sup>51</sup> He will take the fruit of your cattle and of your land till death puts an end to you: he will let you have nothing of your grain or wine or oil or any of the increase of your cattle or the young of your flock, till he has made your destruction complete.
+**⁵¹** He will take the fruit of your cattle and of your land till death puts an end to you: he will let you have nothing of your grain or wine or oil or any of the increase of your cattle or the young of your flock, till he has made your destruction complete.
 
-<sup>52</sup> Your towns will be shut in by his armies, till your high walls, in which you put your faith, have come down: his armies will be round your towns, through all your land which the Lord your God has given you.
+**⁵²** Your towns will be shut in by his armies, till your high walls, in which you put your faith, have come down: his armies will be round your towns, through all your land which the Lord your God has given you.
 
-<sup>53</sup> And your food will be the fruit of your body, the flesh of the sons and daughters which the Lord your God has given you; because of your bitter need and the cruel grip of your haters.
+**⁵³** And your food will be the fruit of your body, the flesh of the sons and daughters which the Lord your God has given you; because of your bitter need and the cruel grip of your haters.
 
-<sup>54</sup> That man among you who is soft and used to comfort will be hard and cruel to his brother, and to his dear wife, and to of those his children who are still living;
+**⁵⁴** That man among you who is soft and used to comfort will be hard and cruel to his brother, and to his dear wife, and to of those his children who are still living;
 
-<sup>55</sup> And will not give to any of them the flesh of his children which will be his food because he has no other; in the cruel grip of your haters on all your towns.
+**⁵⁵** And will not give to any of them the flesh of his children which will be his food because he has no other; in the cruel grip of your haters on all your towns.
 
-<sup>56</sup> The most soft and delicate of your women, who would not so much as put her foot on the earth, so delicate is she, will be hard-hearted to her husband and to her son and to her daughter;
+**⁵⁶** The most soft and delicate of your women, who would not so much as put her foot on the earth, so delicate is she, will be hard-hearted to her husband and to her son and to her daughter;
 
-<sup>57</sup> And to her baby newly come to birth, and to the children of her body; for having no other food, she will make a meal of them secretly, because of her bitter need and the cruel grip of your haters on all your towns.
+**⁵⁷** And to her baby newly come to birth, and to the children of her body; for having no other food, she will make a meal of them secretly, because of her bitter need and the cruel grip of your haters on all your towns.
 
-<sup>58</sup> If you will not take care to do all the words of this law, recorded in this book, honouring that name of glory and of fear, THE LORD YOUR GOD;
+**⁵⁸** If you will not take care to do all the words of this law, recorded in this book, honouring that name of glory and of fear, THE LORD YOUR GOD;
 
-<sup>59</sup> Then the Lord your God will make your punishment, and the punishment of your seed, a thing to be wondered at; great punishments and cruel diseases stretching on through long years.
+**⁵⁹** Then the Lord your God will make your punishment, and the punishment of your seed, a thing to be wondered at; great punishments and cruel diseases stretching on through long years.
 
-<sup>60</sup> He will send on you again all the diseases of Egypt, which were a cause of fear to you, and they will take you in their grip.
+**⁶⁰** He will send on you again all the diseases of Egypt, which were a cause of fear to you, and they will take you in their grip.
 
-<sup>61</sup> And all the diseases and the pains not recorded in the book of this law will the Lord send on you till your destruction is complete.
+**⁶¹** And all the diseases and the pains not recorded in the book of this law will the Lord send on you till your destruction is complete.
 
-<sup>62</sup> And you will become a very small band, though your numbers were like the stars of heaven; because you did not give ear to the voice of the Lord your God.
+**⁶²** And you will become a very small band, though your numbers were like the stars of heaven; because you did not give ear to the voice of the Lord your God.
 
-<sup>63</sup> And as the Lord took delight in doing you good and increasing you, so the Lord will take pleasure in cutting you off and causing your destruction, and you will be uprooted from the land which you are about to take as your heritage.
+**⁶³** And as the Lord took delight in doing you good and increasing you, so the Lord will take pleasure in cutting you off and causing your destruction, and you will be uprooted from the land which you are about to take as your heritage.
 
-<sup>64</sup> And the Lord will send you wandering among all peoples, from one end of the earth to the other: there you will be servants to other gods, of wood and stone, gods of which you and your fathers had no knowledge.
+**⁶⁴** And the Lord will send you wandering among all peoples, from one end of the earth to the other: there you will be servants to other gods, of wood and stone, gods of which you and your fathers had no knowledge.
 
-<sup>65</sup> And even among these nations there will be no peace for you, and no rest for your feet: but the Lord will give you there a shaking heart and wasting eyes and weariness of soul:
+**⁶⁵** And even among these nations there will be no peace for you, and no rest for your feet: but the Lord will give you there a shaking heart and wasting eyes and weariness of soul:
 
-<sup>66</sup> Your very life will be hanging in doubt before you, and day and night will be dark with fears, and nothing in life will be certain:
+**⁶⁶** Your very life will be hanging in doubt before you, and day and night will be dark with fears, and nothing in life will be certain:
 
-<sup>67</sup> In the morning you will say, If only it was evening! And at evening you will say, If only morning would come! Because of the fear in your hearts and the things which your eyes will see.
+**⁶⁷** In the morning you will say, If only it was evening! And at evening you will say, If only morning would come! Because of the fear in your hearts and the things which your eyes will see.
 
-<sup>68</sup> And the Lord will take you back to Egypt again in ships, by the way of which I said to you, You will never see it again: there you will be offering yourselves as men-servants and women-servants to your haters for a price, and no man will take you.
+**⁶⁸** And the Lord will take you back to Egypt again in ships, by the way of which I said to you, You will never see it again: there you will be offering yourselves as men-servants and women-servants to your haters for a price, and no man will take you.

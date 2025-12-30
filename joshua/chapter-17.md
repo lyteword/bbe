@@ -4,38 +4,38 @@ weight: 17
 
 # Chapter 17
 
-<sup>1</sup> And this was the part marked out for the tribe of Manasseh, because he was the oldest son of Joseph. As for Machir, the oldest son of Manasseh, the father of Gilead, because he was a man of war he had Gilead and Bashan.
+**¹** And this was the part marked out for the tribe of Manasseh, because he was the oldest son of Joseph. As for Machir, the oldest son of Manasseh, the father of Gilead, because he was a man of war he had Gilead and Bashan.
 
-<sup>2</sup> And as for the rest of the children of Manasseh, their heritage was given to them by families; for the children of Abiezer, and for the children of Helek, and for the children of Asriel, and for the children of Shechem, and for the children of Hepher, and for the children of Shemida: these were the male children of Manasseh, the son of Joseph, by their families.
+**²** And as for the rest of the children of Manasseh, their heritage was given to them by families; for the children of Abiezer, and for the children of Helek, and for the children of Asriel, and for the children of Shechem, and for the children of Hepher, and for the children of Shemida: these were the male children of Manasseh, the son of Joseph, by their families.
 
-<sup>3</sup> But Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, had no sons, but only daughters; and these are the names of his daughters: Mahlah, and Noah, Hoglah, Milcah, and Tirzah.
+**³** But Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, had no sons, but only daughters; and these are the names of his daughters: Mahlah, and Noah, Hoglah, Milcah, and Tirzah.
 
-<sup>4</sup> And they came before Eleazar the priest, and Joshua, the son of Nun, and before the chiefs, saying, The Lord gave orders to Moses to give us a heritage among our brothers: so in agreement with the orders of the Lord he gave them a heritage among their father's brothers.
+**⁴** And they came before Eleazar the priest, and Joshua, the son of Nun, and before the chiefs, saying, The Lord gave orders to Moses to give us a heritage among our brothers: so in agreement with the orders of the Lord he gave them a heritage among their father's brothers.
 
-<sup>5</sup> And ten parts were given to Manasseh, in addition to the land of Gilead and Bashan, which is on the other side of Jordan;
+**⁵** And ten parts were given to Manasseh, in addition to the land of Gilead and Bashan, which is on the other side of Jordan;
 
-<sup>6</sup> Because the daughters of Manasseh had a heritage among his sons, and the land of Gilead was the property of the other sons of Manasseh.
+**⁶** Because the daughters of Manasseh had a heritage among his sons, and the land of Gilead was the property of the other sons of Manasseh.
 
-<sup>7</sup> And the limit of Manasseh's land was from Asher to Michmethath, which is before Shechem; the line goes on to the right hand, to the people of En-tappuah.
+**⁷** And the limit of Manasseh's land was from Asher to Michmethath, which is before Shechem; the line goes on to the right hand, to the people of En-tappuah.
 
-<sup>8</sup> The land of Tappuah was the property of Manasseh; but Tappuah on the edge of Manasseh was the property of the children of Ephraim.
+**⁸** The land of Tappuah was the property of Manasseh; but Tappuah on the edge of Manasseh was the property of the children of Ephraim.
 
-<sup>9</sup> And the limit goes down to the stream Kanah, to the south of the stream: these towns were Ephraim's among the towns of Manasseh; Manasseh's limit was on the north side of the stream, ending at the sea:
+**⁹** And the limit goes down to the stream Kanah, to the south of the stream: these towns were Ephraim's among the towns of Manasseh; Manasseh's limit was on the north side of the stream, ending at the sea:
 
-<sup>10</sup> To the south it is Ephraim's, and to the north it is Manasseh's, and the sea is his limit; and they are touching Asher on the north, and Issachar on the east.
+**¹⁰** To the south it is Ephraim's, and to the north it is Manasseh's, and the sea is his limit; and they are touching Asher on the north, and Issachar on the east.
 
-<sup>11</sup> In Issachar and Asher, Manasseh had Beth-shean and its daughter-towns, and Ibleam and its daughter-towns, and the people of Dor and its daughter-towns, and the people of En-dor and its daughter-towns, and the people of Taanach and its daughter-towns, and the people of Megiddo and its daughter-towns, that is, the three hills.
+**¹¹** In Issachar and Asher, Manasseh had Beth-shean and its daughter-towns, and Ibleam and its daughter-towns, and the people of Dor and its daughter-towns, and the people of En-dor and its daughter-towns, and the people of Taanach and its daughter-towns, and the people of Megiddo and its daughter-towns, that is, the three hills.
 
-<sup>12</sup> But the children of Manasseh were not able to make the people of those towns go out; but the Canaanites would go on living in that land.
+**¹²** But the children of Manasseh were not able to make the people of those towns go out; but the Canaanites would go on living in that land.
 
-<sup>13</sup> And when the children of Israel had become strong, they put the Canaanites to forced work, in place of driving them out.
+**¹³** And when the children of Israel had become strong, they put the Canaanites to forced work, in place of driving them out.
 
-<sup>14</sup> Then the children of Joseph said to Joshua, Why have you given me only one part and one stretch of land for my heritage? For through the blessing given to me by the Lord up to now, I am a great people.
+**¹⁴** Then the children of Joseph said to Joshua, Why have you given me only one part and one stretch of land for my heritage? For through the blessing given to me by the Lord up to now, I am a great people.
 
-<sup>15</sup> Then Joshua said to them, If you are such a great people, go up into the woodlands, clearing a place there for yourselves in the land of the Perizzites and the Rephaim, if the hill-country of Ephraim is not wide enough for you.
+**¹⁵** Then Joshua said to them, If you are such a great people, go up into the woodlands, clearing a place there for yourselves in the land of the Perizzites and the Rephaim, if the hill-country of Ephraim is not wide enough for you.
 
-<sup>16</sup> And the children of Joseph said, The hill-country is not enough for us: and all the Canaanites living in the valley have iron war-carriages, those in Beth-shean and its towns as well as those in the valley of Jezreel.
+**¹⁶** And the children of Joseph said, The hill-country is not enough for us: and all the Canaanites living in the valley have iron war-carriages, those in Beth-shean and its towns as well as those in the valley of Jezreel.
 
-<sup>17</sup> Then Joshua said to the children of Joseph, to Ephraim and Manasseh, You are a great people, and have great power: you are not to have one property only,
+**¹⁷** Then Joshua said to the children of Joseph, to Ephraim and Manasseh, You are a great people, and have great power: you are not to have one property only,
 
-<sup>18</sup> For the hill-country of Gilead will be yours ... the woodland and cut down ... its outskirts will be yours ... get the Canaanites out, for they have iron war-carriages ... strong.
+**¹⁸** For the hill-country of Gilead will be yours ... the woodland and cut down ... its outskirts will be yours ... get the Canaanites out, for they have iron war-carriages ... strong.

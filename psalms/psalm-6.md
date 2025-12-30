@@ -6,22 +6,22 @@ weight: 6
 
 To the chief music-maker on corded instruments, on the Sheminith. A Psalm. Of David.
 
-<sup>1</sup> O Lord, do not be bitter with me in your wrath; do not send punishment on me in the heat of your passion.
+**¹** O Lord, do not be bitter with me in your wrath; do not send punishment on me in the heat of your passion.
 
-<sup>2</sup> Have mercy on me, O Lord, for I am wasted away: make me well, for even my bones are troubled.
+**²** Have mercy on me, O Lord, for I am wasted away: make me well, for even my bones are troubled.
 
-<sup>3</sup> My soul is in bitter trouble; and you, O Lord, how long?
+**³** My soul is in bitter trouble; and you, O Lord, how long?
 
-<sup>4</sup> Come back, O Lord, make my soul free; O give me salvation because of your mercy.
+**⁴** Come back, O Lord, make my soul free; O give me salvation because of your mercy.
 
-<sup>5</sup> For in death there is no memory of you; in the underworld who will give you praise?
+**⁵** For in death there is no memory of you; in the underworld who will give you praise?
 
-<sup>6</sup> The voice of my sorrow is a weariness to me; all the night I make my bed wet with weeping; it is watered by the drops flowing from my eyes.
+**⁶** The voice of my sorrow is a weariness to me; all the night I make my bed wet with weeping; it is watered by the drops flowing from my eyes.
 
-<sup>7</sup> My eyes are wasting away with trouble; they are becoming old because of all those who are against me.
+**⁷** My eyes are wasting away with trouble; they are becoming old because of all those who are against me.
 
-<sup>8</sup> Go from me, all you workers of evil; for the Lord has given ear to the voice of my weeping.
+**⁸** Go from me, all you workers of evil; for the Lord has given ear to the voice of my weeping.
 
-<sup>9</sup> The Lord has given ear to my request; the Lord has let my prayer come before him.
+**⁹** The Lord has given ear to my request; the Lord has let my prayer come before him.
 
-<sup>10</sup> Let all those who are against me be shamed and deeply troubled; let them be turned back and suddenly put to shame.
+**¹⁰** Let all those who are against me be shamed and deeply troubled; let them be turned back and suddenly put to shame.

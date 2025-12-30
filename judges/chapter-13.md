@@ -4,52 +4,52 @@ weight: 13
 
 # Chapter 13
 
-<sup>1</sup> And the children of Israel again did evil in the eyes of the Lord; and the Lord gave them into the hands of the Philistines for forty years.
+**¹** And the children of Israel again did evil in the eyes of the Lord; and the Lord gave them into the hands of the Philistines for forty years.
 
-<sup>2</sup> Now there was a certain man of Zorah of the family of the Danites, and his name was Manoah; and his wife had never given birth to a child.
+**²** Now there was a certain man of Zorah of the family of the Danites, and his name was Manoah; and his wife had never given birth to a child.
 
-<sup>3</sup> And the angel of the Lord came to the woman, and said to her, See now! though you have never given birth to children, you will be with child and give birth to a son.
+**³** And the angel of the Lord came to the woman, and said to her, See now! though you have never given birth to children, you will be with child and give birth to a son.
 
-<sup>4</sup> Now then take care to have no wine or strong drink and to take no unclean thing for food;
+**⁴** Now then take care to have no wine or strong drink and to take no unclean thing for food;
 
-<sup>5</sup> For you are with child and will give birth to a son; his hair is never to be cut, for the child is to be separate to God from his birth; and he will take up the work of freeing Israel from the hands of the Philistines.
+**⁵** For you are with child and will give birth to a son; his hair is never to be cut, for the child is to be separate to God from his birth; and he will take up the work of freeing Israel from the hands of the Philistines.
 
-<sup>6</sup> Then the woman came in, and said to her husband, A man came to me, and his form was like the form of a god, causing great fear; I put no question to him about where he came from, and he did not give me his name;
+**⁶** Then the woman came in, and said to her husband, A man came to me, and his form was like the form of a god, causing great fear; I put no question to him about where he came from, and he did not give me his name;
 
-<sup>7</sup> But he said to me, You are with child and will give birth to a son; and now do not take any wine or strong drink or let anything unclean be your food; for the child will be separate to God from his birth to the day of his death.
+**⁷** But he said to me, You are with child and will give birth to a son; and now do not take any wine or strong drink or let anything unclean be your food; for the child will be separate to God from his birth to the day of his death.
 
-<sup>8</sup> Then Manoah made prayer to the Lord, and said, O Lord, let the man of God whom you sent come to us again and make clear to us what we are to do for the child who is to come.
+**⁸** Then Manoah made prayer to the Lord, and said, O Lord, let the man of God whom you sent come to us again and make clear to us what we are to do for the child who is to come.
 
-<sup>9</sup> And God gave ear to the voice of Manoah; and the angel of God came to the woman again when she was seated in the field; but her husband Manoah was not with her.
+**⁹** And God gave ear to the voice of Manoah; and the angel of God came to the woman again when she was seated in the field; but her husband Manoah was not with her.
 
-<sup>10</sup> So the woman, running quickly, gave her husband the news, saying, I have seen the man who came to me the other day.
+**¹⁰** So the woman, running quickly, gave her husband the news, saying, I have seen the man who came to me the other day.
 
-<sup>11</sup> And Manoah got up and went after his wife, and came up to the man and said to him, Are you the man who was talking to this woman? And he said, I am.
+**¹¹** And Manoah got up and went after his wife, and came up to the man and said to him, Are you the man who was talking to this woman? And he said, I am.
 
-<sup>12</sup> And Manoah said, Now when your words come true, what is to be the rule for the child and what will be his work?
+**¹²** And Manoah said, Now when your words come true, what is to be the rule for the child and what will be his work?
 
-<sup>13</sup> And the angel of the Lord said to Manoah, Let the woman take note of what I have said to her.
+**¹³** And the angel of the Lord said to Manoah, Let the woman take note of what I have said to her.
 
-<sup>14</sup> She is to have nothing which comes from the vine for her food, and let her take no wine or strong drink or anything which is unclean; let her take care to do all I have given her orders to do.
+**¹⁴** She is to have nothing which comes from the vine for her food, and let her take no wine or strong drink or anything which is unclean; let her take care to do all I have given her orders to do.
 
-<sup>15</sup> And Manoah said to the angel of the Lord, Now let us keep you while we make ready a young goat for you.
+**¹⁵** And Manoah said to the angel of the Lord, Now let us keep you while we make ready a young goat for you.
 
-<sup>16</sup> And the angel of the Lord said to Manoah, Though you keep me I will not take of your food; but if you will make a burned offering, let it be offered to the Lord. For it had not come into Manoah's mind that he was the angel of the Lord.
+**¹⁶** And the angel of the Lord said to Manoah, Though you keep me I will not take of your food; but if you will make a burned offering, let it be offered to the Lord. For it had not come into Manoah's mind that he was the angel of the Lord.
 
-<sup>17</sup> Then Manoah said to the angel of the Lord, What is your name, so that when your words come true we may give you honour?
+**¹⁷** Then Manoah said to the angel of the Lord, What is your name, so that when your words come true we may give you honour?
 
-<sup>18</sup> But the angel of the Lord said to him, Why are you questioning me about my name, seeing that it is a wonder?
+**¹⁸** But the angel of the Lord said to him, Why are you questioning me about my name, seeing that it is a wonder?
 
-<sup>19</sup> So Manoah took the young goat with its meal offering, offering it on the rock to the Lord, who did strange things.
+**¹⁹** So Manoah took the young goat with its meal offering, offering it on the rock to the Lord, who did strange things.
 
-<sup>20</sup> And when the flame went up to heaven from the altar, the angel of the Lord went up in the flame of the altar, while Manoah and his wife were looking on; and they went down on their faces to the earth.
+**²⁰** And when the flame went up to heaven from the altar, the angel of the Lord went up in the flame of the altar, while Manoah and his wife were looking on; and they went down on their faces to the earth.
 
-<sup>21</sup> But the angel of the Lord was seen no more by Manoah and his wife. Then it was clear to Manoah that he was the angel of the Lord.
+**²¹** But the angel of the Lord was seen no more by Manoah and his wife. Then it was clear to Manoah that he was the angel of the Lord.
 
-<sup>22</sup> And Manoah said to his wife, Death will certainly be our fate, for it is a god whom we have seen.
+**²²** And Manoah said to his wife, Death will certainly be our fate, for it is a god whom we have seen.
 
-<sup>23</sup> But his wife said to him, If the Lord was purposing our death, he would not have taken our burned offering and our meal offering, or have given us such orders about the child.
+**²³** But his wife said to him, If the Lord was purposing our death, he would not have taken our burned offering and our meal offering, or have given us such orders about the child.
 
-<sup>24</sup> So the woman gave birth to a son, and gave him the name Samson; and he became a man and the blessing of the Lord was on him.
+**²⁴** So the woman gave birth to a son, and gave him the name Samson; and he became a man and the blessing of the Lord was on him.
 
-<sup>25</sup> And the spirit of the Lord first came on him in Mahaneh-dan, between Zorah and Eshtaol.
+**²⁵** And the spirit of the Lord first came on him in Mahaneh-dan, between Zorah and Eshtaol.

@@ -4,44 +4,44 @@ weight: 19
 
 # Chapter 19
 
-<sup>1</sup> After these things there came to my ears a sound like the voice of a great band of people in heaven, saying, Praise to the Lord; salvation and glory and power be to our God:
+**¹** After these things there came to my ears a sound like the voice of a great band of people in heaven, saying, Praise to the Lord; salvation and glory and power be to our God:
 
-<sup>2</sup> For true and upright are his decisions; for by him has the evil woman been judged, who made the earth unclean with the sins of her body; and he has given her punishment for the blood of his servants.
+**²** For true and upright are his decisions; for by him has the evil woman been judged, who made the earth unclean with the sins of her body; and he has given her punishment for the blood of his servants.
 
-<sup>3</sup> And again they said, Praise to the Lord. And her smoke went up for ever and ever.
+**³** And again they said, Praise to the Lord. And her smoke went up for ever and ever.
 
-<sup>4</sup> And the four and twenty rulers and the four beasts went down on their faces and gave worship to God who was seated on the high seat, saying, Even so, praise to the Lord.
+**⁴** And the four and twenty rulers and the four beasts went down on their faces and gave worship to God who was seated on the high seat, saying, Even so, praise to the Lord.
 
-<sup>5</sup> And a voice came from the high seat, saying, Give praise to our God, all you his servants, small and great, in whom is the fear of him.
+**⁵** And a voice came from the high seat, saying, Give praise to our God, all you his servants, small and great, in whom is the fear of him.
 
-<sup>6</sup> And there came to my ears the voice of a great army, like the sound of waters, and the sound of loud thunders, saying, Praise to the Lord: for the Lord our God, Ruler of all, is King.
+**⁶** And there came to my ears the voice of a great army, like the sound of waters, and the sound of loud thunders, saying, Praise to the Lord: for the Lord our God, Ruler of all, is King.
 
-<sup>7</sup> Let us be glad with delight, and let us give glory to him: because the time is come for the Lamb to be married, and his wife has made herself ready.
+**⁷** Let us be glad with delight, and let us give glory to him: because the time is come for the Lamb to be married, and his wife has made herself ready.
 
-<sup>8</sup> And to her it was given to be clothed in delicate linen, clean and shining: for the clean linen is the righteousness of the saints.
+**⁸** And to her it was given to be clothed in delicate linen, clean and shining: for the clean linen is the righteousness of the saints.
 
-<sup>9</sup> And he said to me, Put in the book, Happy are the guests at the bride-feast of the Lamb. And he said to me, These are the true words of God.
+**⁹** And he said to me, Put in the book, Happy are the guests at the bride-feast of the Lamb. And he said to me, These are the true words of God.
 
-<sup>10</sup> And I went on my face before his feet to give him worship. And he said to me, See you do it not: I am a brother-servant with you and with your brothers who keep the witness of Jesus: give worship to God: for the witness of Jesus is the spirit of the prophet's word.
+**¹⁰** And I went on my face before his feet to give him worship. And he said to me, See you do it not: I am a brother-servant with you and with your brothers who keep the witness of Jesus: give worship to God: for the witness of Jesus is the spirit of the prophet's word.
 
-<sup>11</sup> And the heaven was open; and I saw a white horse, and he who was seated on it was named Certain and True; and he is judging and making war in righteousness.
+**¹¹** And the heaven was open; and I saw a white horse, and he who was seated on it was named Certain and True; and he is judging and making war in righteousness.
 
-<sup>12</sup> And his eyes are a flame of fire, and crowns are on his head; and he has a name in writing, of which no man has knowledge but himself.
+**¹²** And his eyes are a flame of fire, and crowns are on his head; and he has a name in writing, of which no man has knowledge but himself.
 
-<sup>13</sup> And he is clothed in a robe washed with blood: and his name is The Word of God.
+**¹³** And he is clothed in a robe washed with blood: and his name is The Word of God.
 
-<sup>14</sup> And the armies which are in heaven went after him on white horses, clothed in delicate linen, white and clean.
+**¹⁴** And the armies which are in heaven went after him on white horses, clothed in delicate linen, white and clean.
 
-<sup>15</sup> And out of his mouth comes a sharp sword, with which he overcomes the nations: and he has rule over them with a rod of iron: and he is crushing with his feet the grapes of the strong wrath of God the Ruler of all.
+**¹⁵** And out of his mouth comes a sharp sword, with which he overcomes the nations: and he has rule over them with a rod of iron: and he is crushing with his feet the grapes of the strong wrath of God the Ruler of all.
 
-<sup>16</sup> And on his robe and on his leg is a name, KING OF KINGS, AND LORD OF LORDS.
+**¹⁶** And on his robe and on his leg is a name, KING OF KINGS, AND LORD OF LORDS.
 
-<sup>17</sup> And I saw an angel taking his place in the sun; and he was crying with a loud voice, saying to all the birds in flight in the heavens, Come together to the great feast of God;
+**¹⁷** And I saw an angel taking his place in the sun; and he was crying with a loud voice, saying to all the birds in flight in the heavens, Come together to the great feast of God;
 
-<sup>18</sup> So that you may take for your food the flesh of kings, and of captains, and of strong men, and of horses and of those who are seated on them, and the flesh of all men, free and unfree, small and great.
+**¹⁸** So that you may take for your food the flesh of kings, and of captains, and of strong men, and of horses and of those who are seated on them, and the flesh of all men, free and unfree, small and great.
 
-<sup>19</sup> And I saw the beast, and the kings of the earth, and their armies, come together to make war against him who was seated on the horse and against his army.
+**¹⁹** And I saw the beast, and the kings of the earth, and their armies, come together to make war against him who was seated on the horse and against his army.
 
-<sup>20</sup> And the beast was taken, and with him the false prophet who did the signs before him, by which they were turned from the true way who had the mark of the beast, and who gave worship to his image: these two were put living into the sea of ever-burning fire.
+**²⁰** And the beast was taken, and with him the false prophet who did the signs before him, by which they were turned from the true way who had the mark of the beast, and who gave worship to his image: these two were put living into the sea of ever-burning fire.
 
-<sup>21</sup> And the rest were put to death with the sword of him who was on the horse, even the sword which came out of his mouth: and all the birds were made full with their flesh.
+**²¹** And the rest were put to death with the sword of him who was on the horse, even the sword which came out of his mouth: and all the birds were made full with their flesh.

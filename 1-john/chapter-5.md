@@ -4,44 +4,44 @@ weight: 5
 
 # Chapter 5
 
-<sup>1</sup> Everyone who has faith that Jesus is the Christ is a child of God: and everyone who has love for the Father has love for his child.
+**¹** Everyone who has faith that Jesus is the Christ is a child of God: and everyone who has love for the Father has love for his child.
 
-<sup>2</sup> In this way, we are certain that we have love for the children of God, when we have love for God and keep his laws.
+**²** In this way, we are certain that we have love for the children of God, when we have love for God and keep his laws.
 
-<sup>3</sup> For loving God is keeping his laws: and his laws are not hard.
+**³** For loving God is keeping his laws: and his laws are not hard.
 
-<sup>4</sup> Anything which comes from God is able to overcome the world: and the power by which we have overcome the world is our faith.
+**⁴** Anything which comes from God is able to overcome the world: and the power by which we have overcome the world is our faith.
 
-<sup>5</sup> Who is able to overcome the world but the man who has faith that Jesus is the Son of God?
+**⁵** Who is able to overcome the world but the man who has faith that Jesus is the Son of God?
 
-<sup>6</sup> This is he who came by water and by blood, Jesus Christ; not by water only but by water and by blood.
+**⁶** This is he who came by water and by blood, Jesus Christ; not by water only but by water and by blood.
 
-<sup>7</sup> And the Spirit is the witness, because the Spirit is true.
+**⁷** And the Spirit is the witness, because the Spirit is true.
 
-<sup>8</sup> There are three witnesses, the Spirit, the water, and the blood: and all three are in agreement.
+**⁸** There are three witnesses, the Spirit, the water, and the blood: and all three are in agreement.
 
-<sup>9</sup> If we take the witness of men to be true, the witness of God is greater: because this is the witness which God has given about his Son.
+**⁹** If we take the witness of men to be true, the witness of God is greater: because this is the witness which God has given about his Son.
 
-<sup>10</sup> He who has faith in the Son of God has the witness in himself: he who has not faith in God makes him false, because he has not faith in the witness which God has given about his Son.
+**¹⁰** He who has faith in the Son of God has the witness in himself: he who has not faith in God makes him false, because he has not faith in the witness which God has given about his Son.
 
-<sup>11</sup> And his witness is this, that God has given us eternal life, and this life is in his Son.
+**¹¹** And his witness is this, that God has given us eternal life, and this life is in his Son.
 
-<sup>12</sup> He who has the Son has the life; he who has not the Son of God has not the life.
+**¹²** He who has the Son has the life; he who has not the Son of God has not the life.
 
-<sup>13</sup> I have put these things in writing for you who have faith in the name of the Son of God, so that you may be certain that you have eternal life.
+**¹³** I have put these things in writing for you who have faith in the name of the Son of God, so that you may be certain that you have eternal life.
 
-<sup>14</sup> And we are certain that if we make any request to him which is right in his eyes, he will give ear to us:
+**¹⁴** And we are certain that if we make any request to him which is right in his eyes, he will give ear to us:
 
-<sup>15</sup> And if we are certain that he gives ear to all our requests, we are equally certain that we will get our requests.
+**¹⁵** And if we are certain that he gives ear to all our requests, we are equally certain that we will get our requests.
 
-<sup>16</sup> If a man sees his brother doing a sin which is not bad enough for death, let him make a prayer to God, and God will give life to him whose sin was not bad enough for death. There is a sin whose punishment is death: I do not say that he may make such a request then.
+**¹⁶** If a man sees his brother doing a sin which is not bad enough for death, let him make a prayer to God, and God will give life to him whose sin was not bad enough for death. There is a sin whose punishment is death: I do not say that he may make such a request then.
 
-<sup>17</sup> All evil-doing is sin: but death is not the punishment for every sort of sin.
+**¹⁷** All evil-doing is sin: but death is not the punishment for every sort of sin.
 
-<sup>18</sup> We are certain that one who is a child of God will do no sin, but the Son of God keeps him so that he is not touched by the Evil One.
+**¹⁸** We are certain that one who is a child of God will do no sin, but the Son of God keeps him so that he is not touched by the Evil One.
 
-<sup>19</sup> We are certain that we are of God, but all the world is in the power of the Evil One.
+**¹⁹** We are certain that we are of God, but all the world is in the power of the Evil One.
 
-<sup>20</sup> And we are certain that the Son of God has come, and has given us a clear vision, so that we may see him who is true, and we are in him who is true, in his Son Jesus Christ. He is the true God and eternal life.
+**²⁰** And we are certain that the Son of God has come, and has given us a clear vision, so that we may see him who is true, and we are in him who is true, in his Son Jesus Christ. He is the true God and eternal life.
 
-<sup>21</sup> My little children, keep yourselves from false gods.
+**²¹** My little children, keep yourselves from false gods.

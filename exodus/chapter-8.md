@@ -4,66 +4,66 @@ weight: 8
 
 # Chapter 8
 
-<sup>1</sup> And this is what the Lord said to Moses: Go to Pharaoh and say to him, The Lord says, Let my people go so that they may give me worship.
+**¹** And this is what the Lord said to Moses: Go to Pharaoh and say to him, The Lord says, Let my people go so that they may give me worship.
 
-<sup>2</sup> And if you will not let them go, see, I will send frogs into every part of your land:
+**²** And if you will not let them go, see, I will send frogs into every part of your land:
 
-<sup>3</sup> The Nile will be full of frogs, and they will come up into your house and into your bedrooms and on your bed, and into the houses of your servants and your people, and into your ovens and into your bread-basins.
+**³** The Nile will be full of frogs, and they will come up into your house and into your bedrooms and on your bed, and into the houses of your servants and your people, and into your ovens and into your bread-basins.
 
-<sup>4</sup> The frogs will come up over you and your people and all your servants.
+**⁴** The frogs will come up over you and your people and all your servants.
 
-<sup>5</sup> And the Lord said to Moses, Say to Aaron, Let the rod in your hand be stretched out over the streams and the waterways and the pools, causing frogs to come up on the land of Egypt.
+**⁵** And the Lord said to Moses, Say to Aaron, Let the rod in your hand be stretched out over the streams and the waterways and the pools, causing frogs to come up on the land of Egypt.
 
-<sup>6</sup> And when Aaron put out his hand over the waters of Egypt, the frogs came up and all the land of Egypt was covered with them.
+**⁶** And when Aaron put out his hand over the waters of Egypt, the frogs came up and all the land of Egypt was covered with them.
 
-<sup>7</sup> And the wonder-workers did the same with their secret arts, making frogs come up over the land of Egypt.
+**⁷** And the wonder-workers did the same with their secret arts, making frogs come up over the land of Egypt.
 
-<sup>8</sup> Then Pharaoh sent for Moses and Aaron and said, Make prayer to the Lord that he will take away these frogs from me and my people; and I will let the people go and make their offering to the Lord.
+**⁸** Then Pharaoh sent for Moses and Aaron and said, Make prayer to the Lord that he will take away these frogs from me and my people; and I will let the people go and make their offering to the Lord.
 
-<sup>9</sup> And Moses said, I will let you have the honour of saying when I am to make prayer for you and your servants and your people, that the frogs may be sent away from you and your houses, and be only in the Nile.
+**⁹** And Moses said, I will let you have the honour of saying when I am to make prayer for you and your servants and your people, that the frogs may be sent away from you and your houses, and be only in the Nile.
 
-<sup>10</sup> And he said, By tomorrow. And he said, Let it be as you say: so that you may see that there is no other like the Lord our God.
+**¹⁰** And he said, By tomorrow. And he said, Let it be as you say: so that you may see that there is no other like the Lord our God.
 
-<sup>11</sup> And the frogs will be gone from you and from your houses and from your servants and from your people and will be only in the Nile.
+**¹¹** And the frogs will be gone from you and from your houses and from your servants and from your people and will be only in the Nile.
 
-<sup>12</sup> Then Moses and Aaron went out from Pharaoh; and Moses made prayer to the Lord about the frogs which he had sent on Pharaoh.
+**¹²** Then Moses and Aaron went out from Pharaoh; and Moses made prayer to the Lord about the frogs which he had sent on Pharaoh.
 
-<sup>13</sup> And the Lord did as Moses said; and there was an end of all the frogs in the houses and in the open spaces and in the fields.
+**¹³** And the Lord did as Moses said; and there was an end of all the frogs in the houses and in the open spaces and in the fields.
 
-<sup>14</sup> And they put them together in masses, and a bad smell went up from the land.
+**¹⁴** And they put them together in masses, and a bad smell went up from the land.
 
-<sup>15</sup> But when Pharaoh saw that there was peace for a time, he made his heart hard and did not give ear to them, as the Lord had said.
+**¹⁵** But when Pharaoh saw that there was peace for a time, he made his heart hard and did not give ear to them, as the Lord had said.
 
-<sup>16</sup> And the Lord said to Moses, Say to Aaron, Let your rod be stretched out over the dust of the earth so that it may become insects through all the land of Egypt.
+**¹⁶** And the Lord said to Moses, Say to Aaron, Let your rod be stretched out over the dust of the earth so that it may become insects through all the land of Egypt.
 
-<sup>17</sup> And they did so; and Aaron, stretching out the rod in his hand, gave a touch to the dust of the earth, and insects came on man and on beast; all the dust of the earth was changed into insects through all the land of Egypt.
+**¹⁷** And they did so; and Aaron, stretching out the rod in his hand, gave a touch to the dust of the earth, and insects came on man and on beast; all the dust of the earth was changed into insects through all the land of Egypt.
 
-<sup>18</sup> And the wonder-workers with their secret arts, attempting to make insects, were unable to do so: and there were insects on man and on beast.
+**¹⁸** And the wonder-workers with their secret arts, attempting to make insects, were unable to do so: and there were insects on man and on beast.
 
-<sup>19</sup> Then the wonder-workers said to Pharaoh, This is the finger of God: but Pharaoh's heart was hard, and he did not give ear to them, as the Lord had said.
+**¹⁹** Then the wonder-workers said to Pharaoh, This is the finger of God: but Pharaoh's heart was hard, and he did not give ear to them, as the Lord had said.
 
-<sup>20</sup> And the Lord said to Moses, Get up early in the morning and take your place before Pharaoh when he comes out to the water; and say to him, This is what the Lord says: Let my people go to give me worship.
+**²⁰** And the Lord said to Moses, Get up early in the morning and take your place before Pharaoh when he comes out to the water; and say to him, This is what the Lord says: Let my people go to give me worship.
 
-<sup>21</sup> For if you do not let my people go, see, I will send clouds of flies on you and on your servants and on your people and into their houses; and the houses of the Egyptians and the land where they are will be full of flies.
+**²¹** For if you do not let my people go, see, I will send clouds of flies on you and on your servants and on your people and into their houses; and the houses of the Egyptians and the land where they are will be full of flies.
 
-<sup>22</sup> And at that time I will make a division between your land and the land of Goshen where my people are, and no flies will be there; so that you may see that I am the Lord over all the earth.
+**²²** And at that time I will make a division between your land and the land of Goshen where my people are, and no flies will be there; so that you may see that I am the Lord over all the earth.
 
-<sup>23</sup> And I will put a division between my people and your people; tomorrow this sign will be seen.
+**²³** And I will put a division between my people and your people; tomorrow this sign will be seen.
 
-<sup>24</sup> And the Lord did so; and great clouds of flies came into the house of Pharaoh and into his servants' houses, and all the land of Egypt was made waste because of the flies.
+**²⁴** And the Lord did so; and great clouds of flies came into the house of Pharaoh and into his servants' houses, and all the land of Egypt was made waste because of the flies.
 
-<sup>25</sup> And Pharaoh sent for Moses and Aaron and said, Go and make your offering to your God here in the land.
+**²⁵** And Pharaoh sent for Moses and Aaron and said, Go and make your offering to your God here in the land.
 
-<sup>26</sup> And Moses said, It is not right to do so; for we make our offerings of that to which the Egyptians give worship; and if we do so before their eyes, certainly we will be stoned.
+**²⁶** And Moses said, It is not right to do so; for we make our offerings of that to which the Egyptians give worship; and if we do so before their eyes, certainly we will be stoned.
 
-<sup>27</sup> But we will go three days' journey into the waste land and make an offering to the Lord our God as he may give us orders.
+**²⁷** But we will go three days' journey into the waste land and make an offering to the Lord our God as he may give us orders.
 
-<sup>28</sup> Then Pharaoh said, I will let you go to make an offering to the Lord your God in the waste land; but do not go very far away, and make prayer for me.
+**²⁸** Then Pharaoh said, I will let you go to make an offering to the Lord your God in the waste land; but do not go very far away, and make prayer for me.
 
-<sup>29</sup> And Moses said, When I go out from you I will make prayer to the Lord that the cloud of flies may go away from Pharaoh and from his people and from his servants tomorrow: only let Pharaoh no longer by deceit keep back the people from making their offering to the Lord.
+**²⁹** And Moses said, When I go out from you I will make prayer to the Lord that the cloud of flies may go away from Pharaoh and from his people and from his servants tomorrow: only let Pharaoh no longer by deceit keep back the people from making their offering to the Lord.
 
-<sup>30</sup> Then Moses went out from Pharaoh and made prayer to the Lord.
+**³⁰** Then Moses went out from Pharaoh and made prayer to the Lord.
 
-<sup>31</sup> And the Lord did as Moses said, and took away the cloud of flies from Pharaoh and from his servants and from his people; not one was to be seen.
+**³¹** And the Lord did as Moses said, and took away the cloud of flies from Pharaoh and from his servants and from his people; not one was to be seen.
 
-<sup>32</sup> But again Pharaoh made his heart hard and did not let the people go.
+**³²** But again Pharaoh made his heart hard and did not let the people go.

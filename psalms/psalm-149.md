@@ -4,20 +4,20 @@ weight: 149
 
 # Psalm 149
 
-<sup>1</sup> Let the Lord be praised. Make a new song to the Lord, let his praise be in the meeting of his saints.
+**¹** Let the Lord be praised. Make a new song to the Lord, let his praise be in the meeting of his saints.
 
-<sup>2</sup> Let Israel have joy in his maker; let the children of Zion be glad in their King.
+**²** Let Israel have joy in his maker; let the children of Zion be glad in their King.
 
-<sup>3</sup> Let them give praise to his name in the dance: let them make melody to him with instruments of brass and corded instruments of music.
+**³** Let them give praise to his name in the dance: let them make melody to him with instruments of brass and corded instruments of music.
 
-<sup>4</sup> For the Lord has pleasure in his people: he gives the poor in spirit a crown of salvation.
+**⁴** For the Lord has pleasure in his people: he gives the poor in spirit a crown of salvation.
 
-<sup>5</sup> Let the saints have joy and glory: let them give cries of joy on their beds.
+**⁵** Let the saints have joy and glory: let them give cries of joy on their beds.
 
-<sup>6</sup> Let the high praises of God be in their mouths, and a two-edged sword in their hands;
+**⁶** Let the high praises of God be in their mouths, and a two-edged sword in their hands;
 
-<sup>7</sup> To give the nations the reward of their sins, and the peoples their punishment;
+**⁷** To give the nations the reward of their sins, and the peoples their punishment;
 
-<sup>8</sup> To put their kings in chains, and their rulers in bands of iron;
+**⁸** To put their kings in chains, and their rulers in bands of iron;
 
-<sup>9</sup> To give them the punishment which is in the holy writings: this honour is given to all his saints. Praise be to the Lord.
+**⁹** To give them the punishment which is in the holy writings: this honour is given to all his saints. Praise be to the Lord.

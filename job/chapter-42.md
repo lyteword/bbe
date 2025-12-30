@@ -4,36 +4,36 @@ weight: 42
 
 # Chapter 42
 
-<sup>1</sup> And Job said in answer to the Lord,
+**¹** And Job said in answer to the Lord,
 
-<sup>2</sup> I see that you are able to do every thing, and to give effect to all your designs.
+**²** I see that you are able to do every thing, and to give effect to all your designs.
 
-<sup>3</sup> Who is this who makes dark the purpose of God by words without knowledge? For I have been talking without knowledge about wonders not to be searched out.
+**³** Who is this who makes dark the purpose of God by words without knowledge? For I have been talking without knowledge about wonders not to be searched out.
 
-<sup>4</sup> Give ear to me, and I will say what is in my mind; I will put questions to you, and you will give me the answers.
+**⁴** Give ear to me, and I will say what is in my mind; I will put questions to you, and you will give me the answers.
 
-<sup>5</sup> Word of you had come to my ears, but now my eye has seen you.
+**⁵** Word of you had come to my ears, but now my eye has seen you.
 
-<sup>6</sup> For this cause I give witness that what I said is false, and in sorrow I take my seat in the dust.
+**⁶** For this cause I give witness that what I said is false, and in sorrow I take my seat in the dust.
 
-<sup>7</sup> And it came about, after he had said these words to Job, that the Lord said to Eliphaz the Temanite, I am very angry with you and your two friends, because you have not said what is right about me, as my servant Job has.
+**⁷** And it came about, after he had said these words to Job, that the Lord said to Eliphaz the Temanite, I am very angry with you and your two friends, because you have not said what is right about me, as my servant Job has.
 
-<sup>8</sup> And now, take seven oxen and seven sheep, and go to my servant Job, and give a burned offering for yourselves, and my servant Job will make prayer for you, that I may not send punishment on you; because you have not said what is right about me, as my servant Job has.
+**⁸** And now, take seven oxen and seven sheep, and go to my servant Job, and give a burned offering for yourselves, and my servant Job will make prayer for you, that I may not send punishment on you; because you have not said what is right about me, as my servant Job has.
 
-<sup>9</sup> And Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite, went and did as the Lord had said. And the Lord gave ear to Job.
+**⁹** And Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite, went and did as the Lord had said. And the Lord gave ear to Job.
 
-<sup>10</sup> And the Lord made up to Job for all his losses, after he had made prayer for his friends: and all Job had before was increased by the Lord twice as much.
+**¹⁰** And the Lord made up to Job for all his losses, after he had made prayer for his friends: and all Job had before was increased by the Lord twice as much.
 
-<sup>11</sup> And all his brothers and sisters, and his friends of earlier days, came and took food with him in his house; and made clear their grief for him, and gave him comfort for all the evil which the Lord had sent on him; and they all gave him a bit of money and a gold ring.
+**¹¹** And all his brothers and sisters, and his friends of earlier days, came and took food with him in his house; and made clear their grief for him, and gave him comfort for all the evil which the Lord had sent on him; and they all gave him a bit of money and a gold ring.
 
-<sup>12</sup> And the Lord's blessing was greater on the end of Job's life than on its start: and so he came to have fourteen thousand sheep and goats, and six thousand camels, and two thousand oxen, and a thousand she-asses.
+**¹²** And the Lord's blessing was greater on the end of Job's life than on its start: and so he came to have fourteen thousand sheep and goats, and six thousand camels, and two thousand oxen, and a thousand she-asses.
 
-<sup>13</sup> And he had seven sons and three daughters.
+**¹³** And he had seven sons and three daughters.
 
-<sup>14</sup> And he gave the first the name of Jemimah, the second Keziah, and the third Keren-happuch;
+**¹⁴** And he gave the first the name of Jemimah, the second Keziah, and the third Keren-happuch;
 
-<sup>15</sup> And there were no women so beautiful as the daughters of Job in all the earth: and their father gave them a heritage among their brothers.
+**¹⁵** And there were no women so beautiful as the daughters of Job in all the earth: and their father gave them a heritage among their brothers.
 
-<sup>16</sup> And after this Job had a hundred and forty years of life, and saw his sons, and his sons' sons, even four generations.
+**¹⁶** And after this Job had a hundred and forty years of life, and saw his sons, and his sons' sons, even four generations.
 
-<sup>17</sup> And Job came to his end, old and full of days.
+**¹⁷** And Job came to his end, old and full of days.

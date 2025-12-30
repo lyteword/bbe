@@ -4,56 +4,56 @@ weight: 9
 
 # Chapter 9
 
-<sup>1</sup> In the first year of Darius, the son of Ahasuerus, of the seed of the Medes, who was made king over the kingdom of the Chaldaeans;
+**¹** In the first year of Darius, the son of Ahasuerus, of the seed of the Medes, who was made king over the kingdom of the Chaldaeans;
 
-<sup>2</sup> In the first year of his rule, I, Daniel, saw clearly from the books the number of years given by the word of the Lord to the prophet Jeremiah, in which the making waste of Jerusalem was to be complete, that is, seventy years.
+**²** In the first year of his rule, I, Daniel, saw clearly from the books the number of years given by the word of the Lord to the prophet Jeremiah, in which the making waste of Jerusalem was to be complete, that is, seventy years.
 
-<sup>3</sup> And turning my face to the Lord God, I gave myself up to prayer, requesting his grace, going without food, in haircloth and dust.
+**³** And turning my face to the Lord God, I gave myself up to prayer, requesting his grace, going without food, in haircloth and dust.
 
-<sup>4</sup> And I made prayer to the Lord my God, putting our sins before him, and said, O Lord, the great God, greatly to be feared. keeping your agreement and mercy with those who have love for you and do your orders;
+**⁴** And I made prayer to the Lord my God, putting our sins before him, and said, O Lord, the great God, greatly to be feared. keeping your agreement and mercy with those who have love for you and do your orders;
 
-<sup>5</sup> We are sinners, acting wrongly and doing evil; we have gone against you, turning away from your orders and from your laws:
+**⁵** We are sinners, acting wrongly and doing evil; we have gone against you, turning away from your orders and from your laws:
 
-<sup>6</sup> We have not given ear to your servants the prophets, who said words in your name to our kings and our rulers and our fathers and all the people of the land.
+**⁶** We have not given ear to your servants the prophets, who said words in your name to our kings and our rulers and our fathers and all the people of the land.
 
-<sup>7</sup> O Lord, righteousness is yours, but shame is on us, even to this day; and on the men of Judah and the people of Jerusalem, and on all Israel, those who are near and those who are far off, in all the countries where you have sent them because of the sin which they have done against you.
+**⁷** O Lord, righteousness is yours, but shame is on us, even to this day; and on the men of Judah and the people of Jerusalem, and on all Israel, those who are near and those who are far off, in all the countries where you have sent them because of the sin which they have done against you.
 
-<sup>8</sup> O Lord, shame is on us, on our kings and our rulers and our fathers, because of our sin against you.
+**⁸** O Lord, shame is on us, on our kings and our rulers and our fathers, because of our sin against you.
 
-<sup>9</sup> With the Lord our God are mercies and forgiveness, for we have gone against him;
+**⁹** With the Lord our God are mercies and forgiveness, for we have gone against him;
 
-<sup>10</sup> And have not given ear to the voice of the Lord our God to go in the way of his laws which he put before us by the mouth of his servants the prophets.
+**¹⁰** And have not given ear to the voice of the Lord our God to go in the way of his laws which he put before us by the mouth of his servants the prophets.
 
-<sup>11</sup> And all Israel have been sinners against your law, turning away so as not to give ear to your voice: and the curse has been let loose on us, and the oath recorded in the law of Moses, the servant of God, for we have done evil against him.
+**¹¹** And all Israel have been sinners against your law, turning away so as not to give ear to your voice: and the curse has been let loose on us, and the oath recorded in the law of Moses, the servant of God, for we have done evil against him.
 
-<sup>12</sup> And he has given effect to his words which he said against us and against those who were our judges, by sending a great evil on us: for under all heaven there has not been done what has been done to Jerusalem.
+**¹²** And he has given effect to his words which he said against us and against those who were our judges, by sending a great evil on us: for under all heaven there has not been done what has been done to Jerusalem.
 
-<sup>13</sup> As it was recorded in the law of Moses, all this evil has come on us: but we have made no prayer for grace from the Lord our God that we might be turned from our evil doings and come to true wisdom.
+**¹³** As it was recorded in the law of Moses, all this evil has come on us: but we have made no prayer for grace from the Lord our God that we might be turned from our evil doings and come to true wisdom.
 
-<sup>14</sup> So the Lord has been watching over this evil and has made it come on us: for the Lord our God is upright in all his acts which he has done, and we have not given ear to his voice.
+**¹⁴** So the Lord has been watching over this evil and has made it come on us: for the Lord our God is upright in all his acts which he has done, and we have not given ear to his voice.
 
-<sup>15</sup> And now, O Lord our God, who took your people out of the land of Egypt with a strong hand and made a great name for yourself even to this day; we are sinners, we have done evil.
+**¹⁵** And now, O Lord our God, who took your people out of the land of Egypt with a strong hand and made a great name for yourself even to this day; we are sinners, we have done evil.
 
-<sup>16</sup> O Lord, because of your righteousness, let your wrath and your passion be turned away from your town Jerusalem, your holy mountain: because, through our sins and the evil-doing of our fathers, Jerusalem and your people have become a cause of shame to all who are round about us.
+**¹⁶** O Lord, because of your righteousness, let your wrath and your passion be turned away from your town Jerusalem, your holy mountain: because, through our sins and the evil-doing of our fathers, Jerusalem and your people have become a cause of shame to all who are round about us.
 
-<sup>17</sup> And now, give ear, O our God, to the prayer of your servant and to his request for grace, and let your face be shining on your holy place which is made waste, because of your servants, O Lord.
+**¹⁷** And now, give ear, O our God, to the prayer of your servant and to his request for grace, and let your face be shining on your holy place which is made waste, because of your servants, O Lord.
 
-<sup>18</sup> O my God, let your ear be turned and give hearing; let your eyes be open and see how we have been made waste and the town which is named by your name: for we are not offering our prayers before you because of our righteousness, but because of your great mercies.
+**¹⁸** O my God, let your ear be turned and give hearing; let your eyes be open and see how we have been made waste and the town which is named by your name: for we are not offering our prayers before you because of our righteousness, but because of your great mercies.
 
-<sup>19</sup> O Lord, give ear; O Lord, have forgiveness; O Lord, take note and do; let there be no more waiting; for the honour of your name, O my God, because your town and your people are named by your name.
+**¹⁹** O Lord, give ear; O Lord, have forgiveness; O Lord, take note and do; let there be no more waiting; for the honour of your name, O my God, because your town and your people are named by your name.
 
-<sup>20</sup> And while I was still saying these words in prayer, and putting my sins and the sins of my people Israel before the Lord, and requesting grace from the Lord my God for the holy mountain of my God;
+**²⁰** And while I was still saying these words in prayer, and putting my sins and the sins of my people Israel before the Lord, and requesting grace from the Lord my God for the holy mountain of my God;
 
-<sup>21</sup> Even while I was still in prayer, the man Gabriel, whom I had seen in the vision at first when my weariness was great, put his hand on me about the time of the evening offering.
+**²¹** Even while I was still in prayer, the man Gabriel, whom I had seen in the vision at first when my weariness was great, put his hand on me about the time of the evening offering.
 
-<sup>22</sup> And teaching me and talking to me he said, O Daniel, I have come now to give you wisdom.
+**²²** And teaching me and talking to me he said, O Daniel, I have come now to give you wisdom.
 
-<sup>23</sup> At the first word of your prayer a word went out, and I have come to give you knowledge; for you are a man dearly loved: so give thought to the word and let the vision be clear to you.
+**²³** At the first word of your prayer a word went out, and I have come to give you knowledge; for you are a man dearly loved: so give thought to the word and let the vision be clear to you.
 
-<sup>24</sup> Seventy weeks have been fixed for your people and your holy town, to let wrongdoing be complete and sin come to its full limit, and for the clearing away of evil-doing and the coming in of eternal righteousness: so that the vision and the word of the prophet may be stamped as true, and to put the holy oil on a most holy place.
+**²⁴** Seventy weeks have been fixed for your people and your holy town, to let wrongdoing be complete and sin come to its full limit, and for the clearing away of evil-doing and the coming in of eternal righteousness: so that the vision and the word of the prophet may be stamped as true, and to put the holy oil on a most holy place.
 
-<sup>25</sup> Have then the certain knowledge that from the going out of the word for the building again of Jerusalem till the coming of a prince, on whom the holy oil has been put, will be seven weeks: in sixty-two weeks its building will be complete, with square and earthwork.
+**²⁵** Have then the certain knowledge that from the going out of the word for the building again of Jerusalem till the coming of a prince, on whom the holy oil has been put, will be seven weeks: in sixty-two weeks its building will be complete, with square and earthwork.
 
-<sup>26</sup> And at the end of the times, even after the sixty-two weeks, one on whom the holy oil has been put will be cut off and have no...; and the town and the holy place will be made waste together with a prince; and the end will come with an overflowing of waters, and even to the end there will be war; the making waste which has been fixed.
+**²⁶** And at the end of the times, even after the sixty-two weeks, one on whom the holy oil has been put will be cut off and have no...; and the town and the holy place will be made waste together with a prince; and the end will come with an overflowing of waters, and even to the end there will be war; the making waste which has been fixed.
 
-<sup>27</sup> And a strong order will be sent out against the great number for one week; and so for half of the week the offering and the meal offering will come to an end; and in its place will be an unclean thing causing fear; till the destruction which has been fixed is let loose on him who has made waste.
+**²⁷** And a strong order will be sent out against the great number for one week; and so for half of the week the offering and the meal offering will come to an end; and in its place will be an unclean thing causing fear; till the destruction which has been fixed is let loose on him who has made waste.

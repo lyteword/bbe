@@ -4,104 +4,104 @@ weight: 24
 
 # Chapter 24
 
-<sup>1</sup> And Jesus went out of the Temple, and on the way his disciples came to him, pointing out the buildings of the Temple.
+**¹** And Jesus went out of the Temple, and on the way his disciples came to him, pointing out the buildings of the Temple.
 
-<sup>2</sup> But he, answering, said to them, See you not all these things? truly I say to you that here there will not be one stone resting on another, which will not be pulled down.
+**²** But he, answering, said to them, See you not all these things? truly I say to you that here there will not be one stone resting on another, which will not be pulled down.
 
-<sup>3</sup> And while he was seated on the Mountain of Olives, the disciples came to him privately, saying, Make clear to us, when will these things be? and what will be the sign of your coming and of the end of the world?
+**³** And while he was seated on the Mountain of Olives, the disciples came to him privately, saying, Make clear to us, when will these things be? and what will be the sign of your coming and of the end of the world?
 
-<sup>4</sup> And Jesus said to them in answer, Take care that you are not tricked.
+**⁴** And Jesus said to them in answer, Take care that you are not tricked.
 
-<sup>5</sup> For people will come in my name, saying, I am the Christ; and a number will be turned from the true way through them.
+**⁵** For people will come in my name, saying, I am the Christ; and a number will be turned from the true way through them.
 
-<sup>6</sup> And news will come to you of wars and talk of wars: do not be troubled, for these things have to be; but it is still not the end.
+**⁶** And news will come to you of wars and talk of wars: do not be troubled, for these things have to be; but it is still not the end.
 
-<sup>7</sup> For nation will be moved against nation, and kingdom against kingdom, and men will be without food, and the earth will be shaking in different places;
+**⁷** For nation will be moved against nation, and kingdom against kingdom, and men will be without food, and the earth will be shaking in different places;
 
-<sup>8</sup> But all these things are the first of the troubles.
+**⁸** But all these things are the first of the troubles.
 
-<sup>9</sup> Then they will be cruel to you, and will put you to death: and you will be hated by all nations because of my name.
+**⁹** Then they will be cruel to you, and will put you to death: and you will be hated by all nations because of my name.
 
-<sup>10</sup> And numbers of people will be turned from the right way, and will give one another up and have hate for one another.
+**¹⁰** And numbers of people will be turned from the right way, and will give one another up and have hate for one another.
 
-<sup>11</sup> And a number of false prophets will come, causing error.
+**¹¹** And a number of false prophets will come, causing error.
 
-<sup>12</sup> And because wrongdoing will be increased, the love of most people will become cold.
+**¹²** And because wrongdoing will be increased, the love of most people will become cold.
 
-<sup>13</sup> But he who goes through to the end will get salvation.
+**¹³** But he who goes through to the end will get salvation.
 
-<sup>14</sup> And this good news of the kingdom will be given through all the world for a witness to all nations; and then the end will come.
+**¹⁴** And this good news of the kingdom will be given through all the world for a witness to all nations; and then the end will come.
 
-<sup>15</sup> When, then, you see in the holy place the unclean thing which makes destruction, of which word was given by Daniel the prophet (let this be clear to the reader),
+**¹⁵** When, then, you see in the holy place the unclean thing which makes destruction, of which word was given by Daniel the prophet (let this be clear to the reader),
 
-<sup>16</sup> Then let those who are in Judaea go in flight to the mountains:
+**¹⁶** Then let those who are in Judaea go in flight to the mountains:
 
-<sup>17</sup> Let not him who is on the house-top go down to take anything out of his house:
+**¹⁷** Let not him who is on the house-top go down to take anything out of his house:
 
-<sup>18</sup> And let not him who is in the field go back to get his coat.
+**¹⁸** And let not him who is in the field go back to get his coat.
 
-<sup>19</sup> But it will be hard for women who are with child and for those with babies at the breast in those days.
+**¹⁹** But it will be hard for women who are with child and for those with babies at the breast in those days.
 
-<sup>20</sup> And say a prayer that your flight may not be in the winter, or on a Sabbath.
+**²⁰** And say a prayer that your flight may not be in the winter, or on a Sabbath.
 
-<sup>21</sup> Because in those days there will be great sorrow, such as there has not been from the start of the world till now, or ever will be.
+**²¹** Because in those days there will be great sorrow, such as there has not been from the start of the world till now, or ever will be.
 
-<sup>22</sup> And if those days had not been made short there would have been no salvation for any, but because of the saints those days will be made short.
+**²²** And if those days had not been made short there would have been no salvation for any, but because of the saints those days will be made short.
 
-<sup>23</sup> Then if any man says to you, See, here is the Christ, or, Here; do not put faith in him;
+**²³** Then if any man says to you, See, here is the Christ, or, Here; do not put faith in him;
 
-<sup>24</sup> For there will come up false Christs, and false prophets, who will do great signs and wonders; so that if possible even the saints might be tricked.
+**²⁴** For there will come up false Christs, and false prophets, who will do great signs and wonders; so that if possible even the saints might be tricked.
 
-<sup>25</sup> See, I have made it clear to you before it comes about.
+**²⁵** See, I have made it clear to you before it comes about.
 
-<sup>26</sup> If, then, they say to you, See, he is in the waste land; go not out: See, he is in the inner rooms; put no faith in it.
+**²⁶** If, then, they say to you, See, he is in the waste land; go not out: See, he is in the inner rooms; put no faith in it.
 
-<sup>27</sup> Because as in a thunderstorm the bright light coming from the east is seen even in the west; so will be the coming of the Son of man.
+**²⁷** Because as in a thunderstorm the bright light coming from the east is seen even in the west; so will be the coming of the Son of man.
 
-<sup>28</sup> Wherever the dead body is, there will the eagles come together.
+**²⁸** Wherever the dead body is, there will the eagles come together.
 
-<sup>29</sup> But straight away, after the trouble of those days, the sun will be made dark and the moon will not give her light and the stars will come down from heaven and the powers of heaven will be moved:
+**²⁹** But straight away, after the trouble of those days, the sun will be made dark and the moon will not give her light and the stars will come down from heaven and the powers of heaven will be moved:
 
-<sup>30</sup> And then the sign of the Son of man will be seen in heaven: and then all the nations of the earth will have sorrow, and they will see the Son of man coming on the clouds of heaven with power and great glory.
+**³⁰** And then the sign of the Son of man will be seen in heaven: and then all the nations of the earth will have sorrow, and they will see the Son of man coming on the clouds of heaven with power and great glory.
 
-<sup>31</sup> And he will send out his angels with a great sound of a horn, and they will get his saints together from the four winds, from one end of heaven to the other.
+**³¹** And he will send out his angels with a great sound of a horn, and they will get his saints together from the four winds, from one end of heaven to the other.
 
-<sup>32</sup> Now take an example from the fig-tree: when her branch has become soft and puts out its leaves, you are certain that the summer is near;
+**³²** Now take an example from the fig-tree: when her branch has become soft and puts out its leaves, you are certain that the summer is near;
 
-<sup>33</sup> Even so, when you see all these things, you may be certain that he is near, even at the doors.
+**³³** Even so, when you see all these things, you may be certain that he is near, even at the doors.
 
-<sup>34</sup> Truly I say to you, This generation will not come to an end till all these things are complete.
+**³⁴** Truly I say to you, This generation will not come to an end till all these things are complete.
 
-<sup>35</sup> Heaven and earth will come to an end, but my words will not come to an end.
+**³⁵** Heaven and earth will come to an end, but my words will not come to an end.
 
-<sup>36</sup> But of that day and hour no one has knowledge, not even the angels in heaven, or the Son, but the Father only.
+**³⁶** But of that day and hour no one has knowledge, not even the angels in heaven, or the Son, but the Father only.
 
-<sup>37</sup> And as were the days of Noah, so will be the coming of the Son of man.
+**³⁷** And as were the days of Noah, so will be the coming of the Son of man.
 
-<sup>38</sup> Because as in those days before the overflowing of the waters, they were feasting and taking wives and getting married, till the day when Noah went into the ark,
+**³⁸** Because as in those days before the overflowing of the waters, they were feasting and taking wives and getting married, till the day when Noah went into the ark,
 
-<sup>39</sup> And they had no care till the waters came and took them all away; so will be the coming of the Son of man.
+**³⁹** And they had no care till the waters came and took them all away; so will be the coming of the Son of man.
 
-<sup>40</sup> Then two men will be in the field; one is taken, and one let go;
+**⁴⁰** Then two men will be in the field; one is taken, and one let go;
 
-<sup>41</sup> Two women will be crushing grain; one is taken, and one let go.
+**⁴¹** Two women will be crushing grain; one is taken, and one let go.
 
-<sup>42</sup> Be watching, then! for you have no knowledge on what day your Lord will come.
+**⁴²** Be watching, then! for you have no knowledge on what day your Lord will come.
 
-<sup>43</sup> But be certain of this, that if the master of the house had had knowledge of the time when the thief was coming, he would have been watching, and would not have let his house be broken into.
+**⁴³** But be certain of this, that if the master of the house had had knowledge of the time when the thief was coming, he would have been watching, and would not have let his house be broken into.
 
-<sup>44</sup> Be ready then; for at a time which you have no thought of the Son of man will come.
+**⁴⁴** Be ready then; for at a time which you have no thought of the Son of man will come.
 
-<sup>45</sup> Who is the true and wise servant, whom his lord has put over those in his house, to give them their food at the right time?
+**⁴⁵** Who is the true and wise servant, whom his lord has put over those in his house, to give them their food at the right time?
 
-<sup>46</sup> A blessing on that servant, who will be doing so when his lord comes.
+**⁴⁶** A blessing on that servant, who will be doing so when his lord comes.
 
-<sup>47</sup> Truly, I say to you, he will put him over all he has.
+**⁴⁷** Truly, I say to you, he will put him over all he has.
 
-<sup>48</sup> But if that evil servant says in his heart, My lord is a long time in coming;
+**⁴⁸** But if that evil servant says in his heart, My lord is a long time in coming;
 
-<sup>49</sup> And is cruel to the other servants, taking his pleasure with those who are overcome with wine;
+**⁴⁹** And is cruel to the other servants, taking his pleasure with those who are overcome with wine;
 
-<sup>50</sup> The lord of that servant will come in a day when he is not looking for him, and in an hour of which he has no knowledge,
+**⁵⁰** The lord of that servant will come in a day when he is not looking for him, and in an hour of which he has no knowledge,
 
-<sup>51</sup> And will have him cut in two, and will give him a part in the fate of the false ones: there will be weeping and cries of sorrow.
+**⁵¹** And will have him cut in two, and will give him a part in the fate of the false ones: there will be weeping and cries of sorrow.

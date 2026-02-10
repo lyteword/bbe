@@ -1,8 +1,11 @@
 ---
+title: "Lamentations 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Lamentations 2 Online | How has the daughter of Zion been covered with a cloud by the Lord in his wrath! he has sent down from heaven to earth the glory of Israel, and has not kept in memory the resting-place of his feet in the day of his wrath..."
 weight: 2
 ---
 
-# Chapter 2
+# Lamentations 2 
 
 **¹** How has the daughter of Zion been covered with a cloud by the Lord in his wrath! he has sent down from heaven to earth the glory of Israel, and has not kept in memory the resting-place of his feet in the day of his wrath.
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 51 BBE | Read the Bible Online"
+linkTitle: "51"
+description: "Read Psalm 51 Online | Have pity on me, O God, in your mercy; out of a full heart, take away my sin..."
 weight: 51
 ---
 
-# Psalm 51
+# Psalm 51 
 
 To the chief music-maker. A Psalm. Of David. When Nathan the prophet came to him, after he had gone in to Bath-sheba.
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 95 BBE | Read the Bible Online"
+linkTitle: "95"
+description: "Read Psalm 95 Online | O come, let us make songs to the Lord; sending up glad voices to the Rock of our salvation..."
 weight: 95
 ---
 
-# Psalm 95
+# Psalm 95 
 
 **¹** O come, let us make songs to the Lord; sending up glad voices to the Rock of our salvation.
 

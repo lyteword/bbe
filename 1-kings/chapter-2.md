@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read 1 Kings 2 Online | Now the time of David's death came near; and he gave orders to Solomon his son, saying..."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Kings 2 
 
 **¹** Now the time of David's death came near; and he gave orders to Solomon his son, saying,
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 11 BBE | Read the Bible Online"
+linkTitle: "11"
+description: "Read Isaiah 11 Online | And there will come a rod out of the broken tree of Jesse, and a branch out of his roots will give fruit..."
 weight: 11
 ---
 
-# Chapter 11
+# Isaiah 11 
 
 **¹** And there will come a rod out of the broken tree of Jesse, and a branch out of his roots will give fruit.
 

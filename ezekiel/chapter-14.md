@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 14 BBE | Read the Bible Online"
+linkTitle: "14"
+description: "Read Ezekiel 14 Online | Then certain of the responsible men of Israel came to me and took their seats before me..."
 weight: 14
 ---
 
-# Chapter 14
+# Ezekiel 14 
 
 **¹** Then certain of the responsible men of Israel came to me and took their seats before me.
 

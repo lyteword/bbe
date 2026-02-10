@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 23 BBE | Read the Bible Online"
+linkTitle: "23"
+description: "Read Deuteronomy 23 Online | No man whose private parts have been wounded or cut off may come into the meeting of the Lord's people..."
 weight: 23
 ---
 
-# Chapter 23
+# Deuteronomy 23 
 
 **¹** No man whose private parts have been wounded or cut off may come into the meeting of the Lord's people.
 

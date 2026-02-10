@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 40 BBE | Read the Bible Online"
+linkTitle: "40"
+description: "Read Ezekiel 40 Online | In the twenty-fifth year after we had been taken away prisoners, in the first month of the year, on the tenth day of the month, in the fourteenth year after the town was taken, on the very same day, the hand of the Lord was on me, and he took me there..."
 weight: 40
 ---
 
-# Chapter 40
+# Ezekiel 40 
 
 **¹** In the twenty-fifth year after we had been taken away prisoners, in the first month of the year, on the tenth day of the month, in the fourteenth year after the town was taken, on the very same day, the hand of the Lord was on me, and he took me there.
 

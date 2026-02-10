@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read 2 Kings 4 Online | Now a certain woman, the wife of one of the sons of the prophets, came crying to Elisha and said, Your servant my husband is dead; and to your knowledge he was a worshipper of the Lord; but now, the creditor has come to take my two children as servants in payment of his debt..."
 weight: 4
 ---
 
-# Chapter 4
+# 2 Kings 4 
 
 **¹** Now a certain woman, the wife of one of the sons of the prophets, came crying to Elisha and said, Your servant my husband is dead; and to your knowledge he was a worshipper of the Lord; but now, the creditor has come to take my two children as servants in payment of his debt.
 

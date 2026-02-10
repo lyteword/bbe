@@ -1,8 +1,11 @@
 ---
+title: "Psalm 120 BBE | Read the Bible Online"
+linkTitle: "120"
+description: "Read Psalm 120 Online | In my trouble my cry went up to the Lord, and he gave me an answer..."
 weight: 120
 ---
 
-# Psalm 120
+# Psalm 120 
 
 A Song of the going up.
 

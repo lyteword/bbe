@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 18 BBE | Read the Bible Online"
+linkTitle: "18"
+description: "Read 2 Samuel 18 Online | And David had the people who were with him numbered, and he put over them captains of thousands and captains of hundreds..."
 weight: 18
 ---
 
-# Chapter 18
+# 2 Samuel 18 
 
 **¹** And David had the people who were with him numbered, and he put over them captains of thousands and captains of hundreds.
 

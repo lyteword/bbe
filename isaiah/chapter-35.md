@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 35 BBE | Read the Bible Online"
+linkTitle: "35"
+description: "Read Isaiah 35 Online | The waste land and the dry places will be glad; the lowland will have joy and be full of flowers..."
 weight: 35
 ---
 
-# Chapter 35
+# Isaiah 35 
 
 **¹** The waste land and the dry places will be glad; the lowland will have joy and be full of flowers.
 

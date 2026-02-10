@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 5 BBE | Read the Bible Online"
+linkTitle: "5"
+description: "Read 1 Corinthians 5 Online | It is said, in fact, that there is among you a sin of the flesh, such as is not seen even among the Gentiles, that one of you has his father's wife..."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Corinthians 5 
 
 **¹** It is said, in fact, that there is among you a sin of the flesh, such as is not seen even among the Gentiles, that one of you has his father's wife.
 

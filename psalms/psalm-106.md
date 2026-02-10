@@ -1,8 +1,11 @@
 ---
+title: "Psalm 106 BBE | Read the Bible Online"
+linkTitle: "106"
+description: "Read Psalm 106 Online | Let the Lord be praised. O give praise to the Lord, for he is good: for his mercy is unchanging for ever..."
 weight: 106
 ---
 
-# Psalm 106
+# Psalm 106 
 
 **¹** Let the Lord be praised. O give praise to the Lord, for he is good: for his mercy is unchanging for ever.
 

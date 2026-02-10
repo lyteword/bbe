@@ -1,8 +1,11 @@
 ---
+title: "Genesis 12 BBE | Read the Bible Online"
+linkTitle: "12"
+description: "Read Genesis 12 Online | Now the Lord said to Abram, Go out from your country and from your family and from your father's house, into the land to which I will be your guide..."
 weight: 12
 ---
 
-# Chapter 12
+# Genesis 12 
 
 **¹** Now the Lord said to Abram, Go out from your country and from your family and from your father's house, into the land to which I will be your guide:
 

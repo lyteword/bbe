@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 24 BBE | Read the Bible Online"
+linkTitle: "24"
+description: "Read Deuteronomy 24 Online | If a man takes a wife, and after they are married she is unpleasing to him because of some bad quality in her, let him give her a statement in writing and send her away from his house..."
 weight: 24
 ---
 
-# Chapter 24
+# Deuteronomy 24 
 
 **¹** If a man takes a wife, and after they are married she is unpleasing to him because of some bad quality in her, let him give her a statement in writing and send her away from his house.
 

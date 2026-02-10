@@ -1,8 +1,11 @@
 ---
+title: "Job 13 BBE | Read the Bible Online"
+linkTitle: "13"
+description: "Read Job 13 Online | Truly, my eye has seen all this, word of it has come to my ear, and I have knowledge of it..."
 weight: 13
 ---
 
-# Chapter 13
+# Job 13 
 
 **¹** Truly, my eye has seen all this, word of it has come to my ear, and I have knowledge of it.
 

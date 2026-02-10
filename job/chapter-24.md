@@ -1,8 +1,11 @@
 ---
+title: "Job 24 BBE | Read the Bible Online"
+linkTitle: "24"
+description: "Read Job 24 Online | Why are times not stored up by the Ruler of all, and why do those who have knowledge of him not see his days..."
 weight: 24
 ---
 
-# Chapter 24
+# Job 24 
 
 **¹** Why are times not stored up by the Ruler of all, and why do those who have knowledge of him not see his days?
 

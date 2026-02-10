@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 17 BBE | Read the Bible Online"
+linkTitle: "17"
+description: "Read 1 Chronicles 17 Online | Now when David was living in his house, he said to Nathan the prophet, See, I am living in a house of cedar-wood, but the ark of the Lord's agreement is under the curtains of a tent..."
 weight: 17
 ---
 
-# Chapter 17
+# 1 Chronicles 17 
 
 **¹** Now when David was living in his house, he said to Nathan the prophet, See, I am living in a house of cedar-wood, but the ark of the Lord's agreement is under the curtains of a tent.
 

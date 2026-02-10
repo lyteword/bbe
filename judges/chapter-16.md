@@ -1,8 +1,11 @@
 ---
+title: "Judges 16 BBE | Read the Bible Online"
+linkTitle: "16"
+description: "Read Judges 16 Online | Now Samson went to Gaza, and there he saw a loose woman and went in to her..."
 weight: 16
 ---
 
-# Chapter 16
+# Judges 16 
 
 **¹** Now Samson went to Gaza, and there he saw a loose woman and went in to her.
 

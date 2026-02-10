@@ -1,8 +1,11 @@
 ---
+title: "Psalm 56 BBE | Read the Bible Online"
+linkTitle: "56"
+description: "Read Psalm 56 Online | Have mercy on me, O God, for man is attempting my destruction; every day he makes cruel attacks against me..."
 weight: 56
 ---
 
-# Psalm 56
+# Psalm 56 
 
 To the chief music-maker; put to Jonath elem rehokim. Of David. Michtam. When the Philistines took him in Gath.
 

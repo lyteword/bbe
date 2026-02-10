@@ -1,8 +1,11 @@
 ---
+title: "Psalm 98 BBE | Read the Bible Online"
+linkTitle: "98"
+description: "Read Psalm 98 Online | O make a new song to the Lord, because he has done works of wonder; with his right hand, and with his holy arm, he has overcome..."
 weight: 98
 ---
 
-# Psalm 98
+# Psalm 98 
 
 A Psalm.
 

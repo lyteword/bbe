@@ -1,8 +1,11 @@
 ---
+title: "Job 36 BBE | Read the Bible Online"
+linkTitle: "36"
+description: "Read Job 36 Online | And Elihu went on to say..."
 weight: 36
 ---
 
-# Chapter 36
+# Job 36 
 
 **¹** And Elihu went on to say,
 

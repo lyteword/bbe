@@ -1,8 +1,11 @@
 ---
+title: "Colossians 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read Colossians 4 Online | Masters, give your servants what is right and equal, conscious that you have a Master in heaven..."
 weight: 4
 ---
 
-# Chapter 4
+# Colossians 4 
 
 **¹** Masters, give your servants what is right and equal, conscious that you have a Master in heaven.
 

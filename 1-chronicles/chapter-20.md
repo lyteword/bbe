@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 20 BBE | Read the Bible Online"
+linkTitle: "20"
+description: "Read 1 Chronicles 20 Online | Now in the spring, at the time when kings go out to war, Joab went out at the head of the armed forces and made waste all the land of the Ammonites and put his men in position before Rabbah, shutting it in. But David was still at Jerusalem. And Joab took Rabbah and made it waste..."
 weight: 20
 ---
 
-# Chapter 20
+# 1 Chronicles 20 
 
 **¹** Now in the spring, at the time when kings go out to war, Joab went out at the head of the armed forces and made waste all the land of the Ammonites and put his men in position before Rabbah, shutting it in. But David was still at Jerusalem. And Joab took Rabbah and made it waste.
 

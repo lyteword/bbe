@@ -1,8 +1,11 @@
 ---
+title: "Philippians 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Philippians 3 Online | For the rest, my brothers, be glad in the Lord. Writing the same things to you is no trouble to me, and for you it is safe..."
 weight: 3
 ---
 
-# Chapter 3
+# Philippians 3 
 
 **¹** For the rest, my brothers, be glad in the Lord. Writing the same things to you is no trouble to me, and for you it is safe.
 

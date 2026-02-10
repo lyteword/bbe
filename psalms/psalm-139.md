@@ -1,8 +1,11 @@
 ---
+title: "Psalm 139 BBE | Read the Bible Online"
+linkTitle: "139"
+description: "Read Psalm 139 Online | O Lord, you have knowledge of me, searching out all my secrets..."
 weight: 139
 ---
 
-# Psalm 139
+# Psalm 139 
 
 To the chief music-maker. A Psalm. Of David.
 

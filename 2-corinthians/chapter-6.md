@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 6 BBE | Read the Bible Online"
+linkTitle: "6"
+description: "Read 2 Corinthians 6 Online | We then, working together with God, make our request to you not to take the grace of God to no purpose..."
 weight: 6
 ---
 
-# Chapter 6
+# 2 Corinthians 6 
 
 **¹** We then, working together with God, make our request to you not to take the grace of God to no purpose.
 

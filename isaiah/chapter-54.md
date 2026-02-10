@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 54 BBE | Read the Bible Online"
+linkTitle: "54"
+description: "Read Isaiah 54 Online | Let your voice be loud in song, O woman without children; make melody and sounds of joy, you who did not give birth: for the children of her who had no husband are more than those of the married wife, says the Lord..."
 weight: 54
 ---
 
-# Chapter 54
+# Isaiah 54 
 
 **¹** Let your voice be loud in song, O woman without children; make melody and sounds of joy, you who did not give birth: for the children of her who had no husband are more than those of the married wife, says the Lord.
 

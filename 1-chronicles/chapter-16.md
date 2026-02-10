@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 16 BBE | Read the Bible Online"
+linkTitle: "16"
+description: "Read 1 Chronicles 16 Online | Then they took in the ark of God and put it inside the tent which David had put up for it; and they made offerings, burned offerings and peace-offerings before God..."
 weight: 16
 ---
 
-# Chapter 16
+# 1 Chronicles 16 
 
 **¹** Then they took in the ark of God and put it inside the tent which David had put up for it; and they made offerings, burned offerings and peace-offerings before God.
 

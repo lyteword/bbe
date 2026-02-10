@@ -1,8 +1,11 @@
 ---
+title: "Exodus 22 BBE | Read the Bible Online"
+linkTitle: "22"
+description: "Read Exodus 22 Online | If a man takes without right another man's ox or his sheep, and puts it to death or gets a price for it, he is to give five oxen for an ox, or four sheep for a sheep, in payment: the thief will have to make payment for what he has taken; if he has no money, he himself will have to be exchanged for money, so that payment may be made..."
 weight: 22
 ---
 
-# Chapter 22
+# Exodus 22 
 
 **¹** If a man takes without right another man's ox or his sheep, and puts it to death or gets a price for it, he is to give five oxen for an ox, or four sheep for a sheep, in payment: the thief will have to make payment for what he has taken; if he has no money, he himself will have to be exchanged for money, so that payment may be made.
 

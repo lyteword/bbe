@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 23 BBE | Read the Bible Online"
+linkTitle: "23"
+description: "Read 2 Kings 23 Online | Then the king sent and got together all the responsible men of Judah and of Jerusalem..."
 weight: 23
 ---
 
-# Chapter 23
+# 2 Kings 23 
 
 **¹** Then the king sent and got together all the responsible men of Judah and of Jerusalem.
 

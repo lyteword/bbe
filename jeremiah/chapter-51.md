@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 51 BBE | Read the Bible Online"
+linkTitle: "51"
+description: "Read Jeremiah 51 Online | The Lord has said: See, I will make a wind of destruction come up against Babylon and against those who are living in Chaldaea..."
 weight: 51
 ---
 
-# Chapter 51
+# Jeremiah 51 
 
 **¹** The Lord has said: See, I will make a wind of destruction come up against Babylon and against those who are living in Chaldaea;
 

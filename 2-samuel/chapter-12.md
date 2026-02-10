@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 12 BBE | Read the Bible Online"
+linkTitle: "12"
+description: "Read 2 Samuel 12 Online | And the Lord sent Nathan to David. And Nathan came to him and said, There were two men in the same town: one a man of great wealth, and the other a poor man..."
 weight: 12
 ---
 
-# Chapter 12
+# 2 Samuel 12 
 
 **¹** And the Lord sent Nathan to David. And Nathan came to him and said, There were two men in the same town: one a man of great wealth, and the other a poor man.
 

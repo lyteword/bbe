@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 6 BBE | Read the Bible Online"
+linkTitle: "6"
+description: "Read Proverbs 6 Online | My son, if you have made yourself responsible for your neighbour, or given your word for another..."
 weight: 6
 ---
 
-# Chapter 6
+# Proverbs 6 
 
 **¹** My son, if you have made yourself responsible for your neighbour, or given your word for another,
 

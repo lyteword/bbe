@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 11 BBE | Read the Bible Online"
+linkTitle: "11"
+description: "Read Zechariah 11 Online | Let your doors be open, O Lebanon, so that fire may be burning among your cedars..."
 weight: 11
 ---
 
-# Chapter 11
+# Zechariah 11 
 
 **¹** Let your doors be open, O Lebanon, so that fire may be burning among your cedars.
 

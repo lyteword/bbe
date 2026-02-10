@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 9 BBE | Read the Bible Online"
+linkTitle: "9"
+description: "Read 2 Kings 9 Online | And Elisha the prophet sent for one of the sons of the prophets, and said to him, Make yourself ready for a journey, and take this bottle of oil in your hand, and go to Ramoth-gilead..."
 weight: 9
 ---
 
-# Chapter 9
+# 2 Kings 9 
 
 **¹** And Elisha the prophet sent for one of the sons of the prophets, and said to him, Make yourself ready for a journey, and take this bottle of oil in your hand, and go to Ramoth-gilead.
 

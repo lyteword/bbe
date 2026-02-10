@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Ecclesiastes 2 Online | I said in my heart, I will give you joy for a test; so take your pleasure — but it was to no purpose..."
 weight: 2
 ---
 
-# Chapter 2
+# Ecclesiastes 2 
 
 **¹** I said in my heart, I will give you joy for a test; so take your pleasure — but it was to no purpose.
 

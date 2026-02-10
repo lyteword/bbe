@@ -1,8 +1,11 @@
 ---
+title: "James 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read James 4 Online | What is the cause of wars and fighting among you? is it not in your desires which are at war in your bodies..."
 weight: 4
 ---
 
-# Chapter 4
+# James 4 
 
 **¹** What is the cause of wars and fighting among you? is it not in your desires which are at war in your bodies?
 

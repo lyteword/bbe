@@ -1,8 +1,11 @@
 ---
+title: "Numbers 28 BBE | Read the Bible Online"
+linkTitle: "28"
+description: "Read Numbers 28 Online | And the Lord said to Moses..."
 weight: 28
 ---
 
-# Chapter 28
+# Numbers 28 
 
 **¹** And the Lord said to Moses,
 

@@ -1,8 +1,11 @@
 ---
+title: "Romans 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Romans 3 Online | How then is the Jew better off? or what profit is there in circumcision..."
 weight: 3
 ---
 
-# Chapter 3
+# Romans 3 
 
 **¹** How then is the Jew better off? or what profit is there in circumcision?
 

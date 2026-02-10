@@ -1,8 +1,11 @@
 ---
+title: "Job 14 BBE | Read the Bible Online"
+linkTitle: "14"
+description: "Read Job 14 Online | As for man, the son of woman, his days are short and full of trouble..."
 weight: 14
 ---
 
-# Chapter 14
+# Job 14 
 
 **¹** As for man, the son of woman, his days are short and full of trouble.
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 74 BBE | Read the Bible Online"
+linkTitle: "74"
+description: "Read Psalm 74 Online | Of God, why have you put us away from you for ever? why is the fire of your wrath smoking against the sheep who are your care..."
 weight: 74
 ---
 
-# Psalm 74
+# Psalm 74 
 
 Maschil. Of Asaph.
 

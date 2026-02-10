@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 21 BBE | Read the Bible Online"
+linkTitle: "21"
+description: "Read Ezekiel 21 Online | And the word of the Lord came to me, saying..."
 weight: 21
 ---
 
-# Chapter 21
+# Ezekiel 21 
 
 **¹** And the word of the Lord came to me, saying,
 

@@ -1,8 +1,11 @@
 ---
+title: "Jude 1 BBE | Read the Bible Online"
+linkTitle: "1"
+description: "Read Jude 1 Online | Jude, a servant of Jesus Christ and the brother of James, to those of God's selection who have been made holy by God the Father and are kept safe for Jesus Christ..."
 weight: 1
 ---
 
-# Chapter 1
+# Jude 1 
 
 **¹** Jude, a servant of Jesus Christ and the brother of James, to those of God's selection who have been made holy by God the Father and are kept safe for Jesus Christ:
 

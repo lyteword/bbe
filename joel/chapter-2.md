@@ -1,8 +1,11 @@
 ---
+title: "Joel 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Joel 2 Online | Let the horn be sounded in Zion, and a war-cry in my holy mountain; let all the people of the land be troubled: for the day of the Lord is coming..."
 weight: 2
 ---
 
-# Chapter 2
+# Joel 2 
 
 **¹** Let the horn be sounded in Zion, and a war-cry in my holy mountain; let all the people of the land be troubled: for the day of the Lord is coming;
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 1 BBE | Read the Bible Online"
+linkTitle: "1"
+description: "Read 2 Corinthians 1 Online | Paul, an Apostle of Jesus Christ by the purpose of God, and Timothy the brother, to the church of God which is in Corinth, with all the saints who are in all Achaia..."
 weight: 1
 ---
 
-# Chapter 1
+# 2 Corinthians 1 
 
 **¹** Paul, an Apostle of Jesus Christ by the purpose of God, and Timothy the brother, to the church of God which is in Corinth, with all the saints who are in all Achaia:
 

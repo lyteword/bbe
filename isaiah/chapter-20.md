@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 20 BBE | Read the Bible Online"
+linkTitle: "20"
+description: "Read Isaiah 20 Online | In the year when the Tartan came to Ashdod, sent by Sargon, king of Assyria, and made war against it and took it..."
 weight: 20
 ---
 
-# Chapter 20
+# Isaiah 20 
 
 **¹** In the year when the Tartan came to Ashdod, sent by Sargon, king of Assyria, and made war against it and took it;
 

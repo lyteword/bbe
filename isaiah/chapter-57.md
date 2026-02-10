@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 57 BBE | Read the Bible Online"
+linkTitle: "57"
+description: "Read Isaiah 57 Online | The upright man goes to his death, and no one gives a thought to it; and god-fearing men are taken away, and no one is troubled by it; for the upright man is taken away because of evil-doing, and goes into peace..."
 weight: 57
 ---
 
-# Chapter 57
+# Isaiah 57 
 
 **¹** The upright man goes to his death, and no one gives a thought to it; and god-fearing men are taken away, and no one is troubled by it; for the upright man is taken away because of evil-doing, and goes into peace.
 

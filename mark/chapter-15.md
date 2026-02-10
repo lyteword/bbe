@@ -1,8 +1,11 @@
 ---
+title: "Mark 15 BBE | Read the Bible Online"
+linkTitle: "15"
+description: "Read Mark 15 Online | And the first thing in the morning the chief priests, with those in authority and the scribes and all the Sanhedrin, had a meeting, and put cords round Jesus, and took him away, and gave him up to Pilate..."
 weight: 15
 ---
 
-# Chapter 15
+# Mark 15 
 
 **¹** And the first thing in the morning the chief priests, with those in authority and the scribes and all the Sanhedrin, had a meeting, and put cords round Jesus, and took him away, and gave him up to Pilate.
 

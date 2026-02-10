@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read 2 Chronicles 4 Online | Then he made a brass altar, twenty cubits long, twenty cubits wide and ten cubits high..."
 weight: 4
 ---
 
-# Chapter 4
+# 2 Chronicles 4 
 
 **¹** Then he made a brass altar, twenty cubits long, twenty cubits wide and ten cubits high.
 

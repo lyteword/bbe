@@ -1,8 +1,11 @@
 ---
+title: "Numbers 15 BBE | Read the Bible Online"
+linkTitle: "15"
+description: "Read Numbers 15 Online | And the Lord said to Moses..."
 weight: 15
 ---
 
-# Chapter 15
+# Numbers 15 
 
 **¹** And the Lord said to Moses,
 

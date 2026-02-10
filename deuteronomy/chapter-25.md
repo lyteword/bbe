@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 25 BBE | Read the Bible Online"
+linkTitle: "25"
+description: "Read Deuteronomy 25 Online | If there is an argument between men and they go to law with one another, let the judges give their decision for the upright, and against the wrongdoer..."
 weight: 25
 ---
 
-# Chapter 25
+# Deuteronomy 25 
 
 **¹** If there is an argument between men and they go to law with one another, let the judges give their decision for the upright, and against the wrongdoer.
 

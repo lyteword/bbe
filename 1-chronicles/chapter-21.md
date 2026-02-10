@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 21 BBE | Read the Bible Online"
+linkTitle: "21"
+description: "Read 1 Chronicles 21 Online | Now Satan, designing evil against Israel, put into David's mind the impulse to take the number of Israel..."
 weight: 21
 ---
 
-# Chapter 21
+# 1 Chronicles 21 
 
 **¹** Now Satan, designing evil against Israel, put into David's mind the impulse to take the number of Israel.
 

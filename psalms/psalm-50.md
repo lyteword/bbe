@@ -1,8 +1,11 @@
 ---
+title: "Psalm 50 BBE | Read the Bible Online"
+linkTitle: "50"
+description: "Read Psalm 50 Online | The God of gods, even the Lord, has sent out his voice, and the earth is full of fear; from the coming up of the sun to its going down..."
 weight: 50
 ---
 
-# Psalm 50
+# Psalm 50 
 
 A Psalm. Of Asaph.
 

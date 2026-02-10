@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 9 BBE | Read the Bible Online"
+linkTitle: "9"
+description: "Read 1 Chronicles 9 Online | So all Israel was listed by their families; and, truly, they are recorded in the book of the kings of Israel. And Judah was taken away as prisoners to Babylon because of their sin..."
 weight: 9
 ---
 
-# Chapter 9
+# 1 Chronicles 9 
 
 **¹** So all Israel was listed by their families; and, truly, they are recorded in the book of the kings of Israel. And Judah was taken away as prisoners to Babylon because of their sin.
 

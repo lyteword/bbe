@@ -1,8 +1,11 @@
 ---
+title: "Psalm 89 BBE | Read the Bible Online"
+linkTitle: "89"
+description: "Read Psalm 89 Online | My song will be of the mercies of the Lord for ever: with my mouth will I make his faith clear to all generations..."
 weight: 89
 ---
 
-# Psalm 89
+# Psalm 89 
 
 Maschil. Of Ethan the Ezrahite.
 

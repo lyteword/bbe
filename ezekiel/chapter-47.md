@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 47 BBE | Read the Bible Online"
+linkTitle: "47"
+description: "Read Ezekiel 47 Online | And he took me back to the door of the house; and I saw that waters were flowing out from under the doorstep of the house on the east, for the house was facing east: and the waters came down from under, from the right side of the house, on the south side of the altar..."
 weight: 47
 ---
 
-# Chapter 47
+# Ezekiel 47 
 
 **¹** And he took me back to the door of the house; and I saw that waters were flowing out from under the doorstep of the house on the east, for the house was facing east: and the waters came down from under, from the right side of the house, on the south side of the altar.
 

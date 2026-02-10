@@ -1,8 +1,11 @@
 ---
+title: "Psalm 109 BBE | Read the Bible Online"
+linkTitle: "109"
+description: "Read Psalm 109 Online | God of my praise, let my prayer be answered..."
 weight: 109
 ---
 
-# Psalm 109
+# Psalm 109 
 
 To the chief music-maker. Of David. A Psalm.
 

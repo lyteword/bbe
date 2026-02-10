@@ -1,8 +1,11 @@
 ---
+title: "Psalm 69 BBE | Read the Bible Online"
+linkTitle: "69"
+description: "Read Psalm 69 Online | Be my saviour, O God; because the waters have come in, even to my neck..."
 weight: 69
 ---
 
-# Psalm 69
+# Psalm 69 
 
 To the chief music-maker; put to Shoshannim. Of David.
 

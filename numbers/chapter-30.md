@@ -1,8 +1,11 @@
 ---
+title: "Numbers 30 BBE | Read the Bible Online"
+linkTitle: "30"
+description: "Read Numbers 30 Online | And Moses said to the heads of the tribes of the children of Israel, This is the order of the Lord..."
 weight: 30
 ---
 
-# Chapter 30
+# Numbers 30 
 
 **¹** And Moses said to the heads of the tribes of the children of Israel, This is the order of the Lord.
 

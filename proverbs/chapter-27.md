@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 27 BBE | Read the Bible Online"
+linkTitle: "27"
+description: "Read Proverbs 27 Online | Do not make a noise about tomorrow, for you are not certain what a day's outcome may be..."
 weight: 27
 ---
 
-# Chapter 27
+# Proverbs 27 
 
 **¹** Do not make a noise about tomorrow, for you are not certain what a day's outcome may be.
 

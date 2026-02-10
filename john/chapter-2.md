@@ -1,8 +1,11 @@
 ---
+title: "John 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read John 2 Online | On the third day two people were going to be married at Cana in Galilee. The mother of Jesus was there..."
 weight: 2
 ---
 
-# Chapter 2
+# John 2 
 
 **¹** On the third day two people were going to be married at Cana in Galilee. The mother of Jesus was there:
 

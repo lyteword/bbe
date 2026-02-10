@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read 1 Kings 4 Online | Now Solomon was king over all Israel..."
 weight: 4
 ---
 
-# Chapter 4
+# 1 Kings 4 
 
 **¹** Now Solomon was king over all Israel.
 

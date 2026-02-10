@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 24 BBE | Read the Bible Online"
+linkTitle: "24"
+description: "Read 2 Chronicles 24 Online | Joash was seven years old when he became king, and he was ruling for forty years in Jerusalem: his mother's name was Zibiah of Beer-sheba..."
 weight: 24
 ---
 
-# Chapter 24
+# 2 Chronicles 24 
 
 **¹** Joash was seven years old when he became king, and he was ruling for forty years in Jerusalem: his mother's name was Zibiah of Beer-sheba.
 

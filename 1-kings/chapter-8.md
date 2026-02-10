@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 8 BBE | Read the Bible Online"
+linkTitle: "8"
+description: "Read 1 Kings 8 Online | Then Solomon sent for all the responsible men of Israel, and all the chiefs of the tribes, and the heads of families of the children of Israel, to come to him in Jerusalem to take the ark of the Lord's agreement up out of the town of David, which is Zion..."
 weight: 8
 ---
 
-# Chapter 8
+# 1 Kings 8 
 
 **¹** Then Solomon sent for all the responsible men of Israel, and all the chiefs of the tribes, and the heads of families of the children of Israel, to come to him in Jerusalem to take the ark of the Lord's agreement up out of the town of David, which is Zion.
 

@@ -1,8 +1,11 @@
 ---
+title: "Matthew 5 BBE | Read the Bible Online"
+linkTitle: "5"
+description: "Read Matthew 5 Online | And seeing great masses of people he went up into the mountain; and when he was seated his disciples came to him..."
 weight: 5
 ---
 
-# Chapter 5
+# Matthew 5 
 
 **¹** And seeing great masses of people he went up into the mountain; and when he was seated his disciples came to him.
 

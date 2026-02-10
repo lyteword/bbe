@@ -1,8 +1,11 @@
 ---
+title: "Psalm 132 BBE | Read the Bible Online"
+linkTitle: "132"
+description: "Read Psalm 132 Online | Lord, give thought to David, and to all his troubles..."
 weight: 132
 ---
 
-# Psalm 132
+# Psalm 132 
 
 A Song of the going up.
 

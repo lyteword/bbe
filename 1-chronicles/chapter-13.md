@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 13 BBE | Read the Bible Online"
+linkTitle: "13"
+description: "Read 1 Chronicles 13 Online | Then David had discussions with the captains of thousands and the captains of hundreds and with every chief..."
 weight: 13
 ---
 
-# Chapter 13
+# 1 Chronicles 13 
 
 **¹** Then David had discussions with the captains of thousands and the captains of hundreds and with every chief.
 

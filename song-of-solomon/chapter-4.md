@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read Song Of Solomon 4 Online | See, you are fair, my love, you are fair; you have the eyes of a dove; your hair is as a flock of goats, which take their rest on the side of Gilead..."
 weight: 4
 ---
 
-# Chapter 4
+# Song Of Solomon 4 
 
 **¹** See, you are fair, my love, you are fair; you have the eyes of a dove; your hair is as a flock of goats, which take their rest on the side of Gilead.
 

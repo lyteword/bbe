@@ -1,8 +1,11 @@
 ---
+title: "Exodus 7 BBE | Read the Bible Online"
+linkTitle: "7"
+description: "Read Exodus 7 Online | And the Lord said to Moses, See I have made you a god to Pharaoh, and Aaron your brother will be your prophet..."
 weight: 7
 ---
 
-# Chapter 7
+# Exodus 7 
 
 **¹** And the Lord said to Moses, See I have made you a god to Pharaoh, and Aaron your brother will be your prophet.
 

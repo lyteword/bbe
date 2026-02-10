@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 5 BBE | Read the Bible Online"
+linkTitle: "5"
+description: "Read Isaiah 5 Online | Let me make a song about my loved one, a song of love for his vine-garden. My loved one had a vine-garden on a fertile hill..."
 weight: 5
 ---
 
-# Chapter 5
+# Isaiah 5 
 
 **¹** Let me make a song about my loved one, a song of love for his vine-garden. My loved one had a vine-garden on a fertile hill:
 

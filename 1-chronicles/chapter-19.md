@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 19 BBE | Read the Bible Online"
+linkTitle: "19"
+description: "Read 1 Chronicles 19 Online | Now it came about after this that death came to Nahash, the king of the children of Ammon, and his son became king in his place..."
 weight: 19
 ---
 
-# Chapter 19
+# 1 Chronicles 19 
 
 **¹** Now it came about after this that death came to Nahash, the king of the children of Ammon, and his son became king in his place.
 

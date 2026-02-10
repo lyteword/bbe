@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 16 BBE | Read the Bible Online"
+linkTitle: "16"
+description: "Read 1 Samuel 16 Online | And the Lord said to Samuel, How long will you go on sorrowing for Saul, seeing that I have put him from his place as king over Israel? Take oil in your vessel and go; I will send you to Jesse, the Beth-lehemite: for I have got a king for myself among his sons..."
 weight: 16
 ---
 
-# Chapter 16
+# 1 Samuel 16 
 
 **¹** And the Lord said to Samuel, How long will you go on sorrowing for Saul, seeing that I have put him from his place as king over Israel? Take oil in your vessel and go; I will send you to Jesse, the Beth-lehemite: for I have got a king for myself among his sons.
 

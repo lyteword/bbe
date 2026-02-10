@@ -1,8 +1,11 @@
 ---
+title: "Exodus 34 BBE | Read the Bible Online"
+linkTitle: "34"
+description: "Read Exodus 34 Online | And the Lord said to Moses, Make two other stones like the first two; and I will put on them the words which were on the first stones, which were broken by you..."
 weight: 34
 ---
 
-# Chapter 34
+# Exodus 34 
 
 **¹** And the Lord said to Moses, Make two other stones like the first two; and I will put on them the words which were on the first stones, which were broken by you.
 

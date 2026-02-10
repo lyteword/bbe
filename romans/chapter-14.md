@@ -1,8 +1,11 @@
 ---
+title: "Romans 14 BBE | Read the Bible Online"
+linkTitle: "14"
+description: "Read Romans 14 Online | Do not put on one side him who is feeble in faith, and do not put him in doubt by your reasonings..."
 weight: 14
 ---
 
-# Chapter 14
+# Romans 14 
 
 **¹** Do not put on one side him who is feeble in faith, and do not put him in doubt by your reasonings.
 

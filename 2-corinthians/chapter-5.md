@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 5 BBE | Read the Bible Online"
+linkTitle: "5"
+description: "Read 2 Corinthians 5 Online | For we are conscious that if this our tent of flesh is taken down, we have a building from God, a house not made with hands, eternal, in heaven..."
 weight: 5
 ---
 
-# Chapter 5
+# 2 Corinthians 5 
 
 **¹** For we are conscious that if this our tent of flesh is taken down, we have a building from God, a house not made with hands, eternal, in heaven.
 

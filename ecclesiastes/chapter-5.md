@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 5 BBE | Read the Bible Online"
+linkTitle: "5"
+description: "Read Ecclesiastes 5 Online | Put your feet down with care when you go to the house of God, for it is better to give ear than to make the burned offerings of the foolish, whose knowledge is only of doing evil..."
 weight: 5
 ---
 
-# Chapter 5
+# Ecclesiastes 5 
 
 **¹** Put your feet down with care when you go to the house of God, for it is better to give ear than to make the burned offerings of the foolish, whose knowledge is only of doing evil.
 

@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 30 BBE | Read the Bible Online"
+linkTitle: "30"
+description: "Read Deuteronomy 30 Online | Now when all these things have come on you, the blessing and the curse which I have put before you, if the thought of them comes back to your minds, when you are living among the nations where the Lord your God has sent you..."
 weight: 30
 ---
 
-# Chapter 30
+# Deuteronomy 30 
 
 **¹** Now when all these things have come on you, the blessing and the curse which I have put before you, if the thought of them comes back to your minds, when you are living among the nations where the Lord your God has sent you,
 

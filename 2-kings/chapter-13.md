@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 13 BBE | Read the Bible Online"
+linkTitle: "13"
+description: "Read 2 Kings 13 Online | In the twenty-third year of Joash, the son of Ahaziah, king of Judah, Jehoahaz, the son of Jehu, became king over Israel in Samaria, ruling for seventeen years..."
 weight: 13
 ---
 
-# Chapter 13
+# 2 Kings 13 
 
 **¹** In the twenty-third year of Joash, the son of Ahaziah, king of Judah, Jehoahaz, the son of Jehu, became king over Israel in Samaria, ruling for seventeen years.
 

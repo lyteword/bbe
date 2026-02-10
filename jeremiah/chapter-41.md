@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 41 BBE | Read the Bible Online"
+linkTitle: "41"
+description: "Read Jeremiah 41 Online | Now it came about in the seventh month that Ishmael, the son of Nethaniah, the son of Elishama, of the king's seed, having with him ten men, came to Gedaliah, the son of Ahikam, in Mizpah; and they had a meal together in Mizpah..."
 weight: 41
 ---
 
-# Chapter 41
+# Jeremiah 41 
 
 **¹** Now it came about in the seventh month that Ishmael, the son of Nethaniah, the son of Elishama, of the king's seed, having with him ten men, came to Gedaliah, the son of Ahikam, in Mizpah; and they had a meal together in Mizpah.
 

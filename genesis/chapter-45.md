@@ -1,8 +1,11 @@
 ---
+title: "Genesis 45 BBE | Read the Bible Online"
+linkTitle: "45"
+description: "Read Genesis 45 Online | Then Joseph, unable to keep back his feelings before those who were with him, gave orders for everyone to be sent away, and no one was present when he made clear to his brothers who he was..."
 weight: 45
 ---
 
-# Chapter 45
+# Genesis 45 
 
 **¹** Then Joseph, unable to keep back his feelings before those who were with him, gave orders for everyone to be sent away, and no one was present when he made clear to his brothers who he was.
 

@@ -1,8 +1,11 @@
 ---
+title: "Job 42 BBE | Read the Bible Online"
+linkTitle: "42"
+description: "Read Job 42 Online | And Job said in answer to the Lord..."
 weight: 42
 ---
 
-# Chapter 42
+# Job 42 
 
 **¹** And Job said in answer to the Lord,
 

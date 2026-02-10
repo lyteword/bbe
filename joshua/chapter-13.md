@@ -1,8 +1,11 @@
 ---
+title: "Joshua 13 BBE | Read the Bible Online"
+linkTitle: "13"
+description: "Read Joshua 13 Online | Now Joshua was old and full of years; and the Lord said to him, You are old and full of years, and there is still very much land to be taken..."
 weight: 13
 ---
 
-# Chapter 13
+# Joshua 13 
 
 **¹** Now Joshua was old and full of years; and the Lord said to him, You are old and full of years, and there is still very much land to be taken.
 

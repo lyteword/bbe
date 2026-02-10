@@ -1,8 +1,11 @@
 ---
+title: "Psalm 26 BBE | Read the Bible Online"
+linkTitle: "26"
+description: "Read Psalm 26 Online | O Lord, be my judge, for my behaviour has been upright: I have put my faith in the Lord, I am not in danger of slipping..."
 weight: 26
 ---
 
-# Psalm 26
+# Psalm 26 
 
 Of David.
 

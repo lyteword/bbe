@@ -1,8 +1,11 @@
 ---
+title: "Ezra 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read Ezra 4 Online | Now news came to the haters of Judah and Benjamin that the people who had come back were building a Temple to the Lord, the God of Israel..."
 weight: 4
 ---
 
-# Chapter 4
+# Ezra 4 
 
 **¹** Now news came to the haters of Judah and Benjamin that the people who had come back were building a Temple to the Lord, the God of Israel;
 

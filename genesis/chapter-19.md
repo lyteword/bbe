@@ -1,8 +1,11 @@
 ---
+title: "Genesis 19 BBE | Read the Bible Online"
+linkTitle: "19"
+description: "Read Genesis 19 Online | And at nightfall the two angels came to Sodom; and Lot was seated at the way into the town: and when he saw them he got up and came before them, falling down on his face to the earth..."
 weight: 19
 ---
 
-# Chapter 19
+# Genesis 19 
 
 **¹** And at nightfall the two angels came to Sodom; and Lot was seated at the way into the town: and when he saw them he got up and came before them, falling down on his face to the earth.
 

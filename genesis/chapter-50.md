@@ -1,8 +1,11 @@
 ---
+title: "Genesis 50 BBE | Read the Bible Online"
+linkTitle: "50"
+description: "Read Genesis 50 Online | And Joseph put his head down on his father's face, weeping and kissing him..."
 weight: 50
 ---
 
-# Chapter 50
+# Genesis 50 
 
 **¹** And Joseph put his head down on his father's face, weeping and kissing him.
 

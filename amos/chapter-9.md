@@ -1,8 +1,11 @@
 ---
+title: "Amos 9 BBE | Read the Bible Online"
+linkTitle: "9"
+description: "Read Amos 9 Online | I saw the Lord stationed by the side of the altar, giving blows to the tops of the pillars so that the doorsteps were shaking: and he said, I will let all of them be broken with earth-shocks; I will put the last of them to the sword: if any one of them goes in flight he will not get away, not one of them will be safe..."
 weight: 9
 ---
 
-# Chapter 9
+# Amos 9 
 
 **¹** I saw the Lord stationed by the side of the altar, giving blows to the tops of the pillars so that the doorsteps were shaking: and he said, I will let all of them be broken with earth-shocks; I will put the last of them to the sword: if any one of them goes in flight he will not get away, not one of them will be safe.
 

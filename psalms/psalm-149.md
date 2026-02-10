@@ -1,8 +1,11 @@
 ---
+title: "Psalm 149 BBE | Read the Bible Online"
+linkTitle: "149"
+description: "Read Psalm 149 Online | Let the Lord be praised. Make a new song to the Lord, let his praise be in the meeting of his saints..."
 weight: 149
 ---
 
-# Psalm 149
+# Psalm 149 
 
 **¹** Let the Lord be praised. Make a new song to the Lord, let his praise be in the meeting of his saints.
 

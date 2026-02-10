@@ -1,8 +1,11 @@
 ---
+title: "Micah 7 BBE | Read the Bible Online"
+linkTitle: "7"
+description: "Read Micah 7 Online | Sorrow is mine! for I am as when they have got in the summer fruits, like the last of the grapes: there is nothing for food, not even an early fig for my desire..."
 weight: 7
 ---
 
-# Chapter 7
+# Micah 7 
 
 **¹** Sorrow is mine! for I am as when they have got in the summer fruits, like the last of the grapes: there is nothing for food, not even an early fig for my desire.
 

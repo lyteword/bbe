@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 8 BBE | Read the Bible Online"
+linkTitle: "8"
+description: "Read Deuteronomy 8 Online | Take care to keep all the orders which I give you today, so that you may have life and be increased and go in and take as a heritage the land which the Lord, by his oath to your fathers, undertook to give you..."
 weight: 8
 ---
 
-# Chapter 8
+# Deuteronomy 8 
 
 **¹** Take care to keep all the orders which I give you today, so that you may have life and be increased and go in and take as a heritage the land which the Lord, by his oath to your fathers, undertook to give you.
 

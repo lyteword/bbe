@@ -1,8 +1,11 @@
 ---
+title: "Psalm 30 BBE | Read the Bible Online"
+linkTitle: "30"
+description: "Read Psalm 30 Online | I will give you praise and honour, O Lord, because through you I have been lifted up; you have not given my haters cause to be glad over me..."
 weight: 30
 ---
 
-# Psalm 30
+# Psalm 30 
 
 A Psalm. A Song at the blessing of the House. Of David.
 

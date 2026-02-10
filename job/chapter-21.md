@@ -1,8 +1,11 @@
 ---
+title: "Job 21 BBE | Read the Bible Online"
+linkTitle: "21"
+description: "Read Job 21 Online | Then Job made answer and said..."
 weight: 21
 ---
 
-# Chapter 21
+# Job 21 
 
 **¹** Then Job made answer and said,
 

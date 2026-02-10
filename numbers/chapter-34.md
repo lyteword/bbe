@@ -1,8 +1,11 @@
 ---
+title: "Numbers 34 BBE | Read the Bible Online"
+linkTitle: "34"
+description: "Read Numbers 34 Online | And the Lord said to Moses..."
 weight: 34
 ---
 
-# Chapter 34
+# Numbers 34 
 
 **¹** And the Lord said to Moses,
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 31 BBE | Read the Bible Online"
+linkTitle: "31"
+description: "Read Ezekiel 31 Online | Now in the eleventh year, in the third month, on the first day of the month, the word of the Lord came to me, saying..."
 weight: 31
 ---
 
-# Chapter 31
+# Ezekiel 31 
 
 **¹** Now in the eleventh year, in the third month, on the first day of the month, the word of the Lord came to me, saying,
 

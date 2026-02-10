@@ -1,8 +1,11 @@
 ---
+title: "James 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read James 3 Online | Do not all be teachers, my brothers, because we teachers will be judged more hardly than others..."
 weight: 3
 ---
 
-# Chapter 3
+# James 3 
 
 **¹** Do not all be teachers, my brothers, because we teachers will be judged more hardly than others.
 

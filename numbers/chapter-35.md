@@ -1,8 +1,11 @@
 ---
+title: "Numbers 35 BBE | Read the Bible Online"
+linkTitle: "35"
+description: "Read Numbers 35 Online | And the Lord said to Moses in the lowlands of Moab by Jordan at Jericho..."
 weight: 35
 ---
 
-# Chapter 35
+# Numbers 35 
 
 **¹** And the Lord said to Moses in the lowlands of Moab by Jordan at Jericho,
 

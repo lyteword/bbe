@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 50 BBE | Read the Bible Online"
+linkTitle: "50"
+description: "Read Jeremiah 50 Online | The word which the Lord said about Babylon, about the land of the Chaldaeans, by Jeremiah the prophet..."
 weight: 50
 ---
 
-# Chapter 50
+# Jeremiah 50 
 
 **¹** The word which the Lord said about Babylon, about the land of the Chaldaeans, by Jeremiah the prophet.
 

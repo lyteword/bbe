@@ -1,8 +1,11 @@
 ---
+title: "Luke 15 BBE | Read the Bible Online"
+linkTitle: "15"
+description: "Read Luke 15 Online | Now all the tax-farmers and sinners came near to give ear to him..."
 weight: 15
 ---
 
-# Chapter 15
+# Luke 15 
 
 **¹** Now all the tax-farmers and sinners came near to give ear to him.
 

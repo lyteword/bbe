@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 22 BBE | Read the Bible Online"
+linkTitle: "22"
+description: "Read 2 Samuel 22 Online | And David made a song to the Lord in these words, on the day when the Lord made him free from the hands of all his haters, and from the hand of Saul..."
 weight: 22
 ---
 
-# Chapter 22
+# 2 Samuel 22 
 
 **¹** And David made a song to the Lord in these words, on the day when the Lord made him free from the hands of all his haters, and from the hand of Saul:
 

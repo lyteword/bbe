@@ -1,8 +1,11 @@
 ---
+title: "Galatians 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Galatians 2 Online | Then after the space of fourteen years I went up again to Jerusalem with Barnabas, taking Titus with me..."
 weight: 2
 ---
 
-# Chapter 2
+# Galatians 2 
 
 **¹** Then after the space of fourteen years I went up again to Jerusalem with Barnabas, taking Titus with me.
 

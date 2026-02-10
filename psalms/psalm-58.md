@@ -1,8 +1,11 @@
 ---
+title: "Psalm 58 BBE | Read the Bible Online"
+linkTitle: "58"
+description: "Read Psalm 58 Online | Is there righteousness in your mouths, O you gods? are you upright judges, O you sons of men..."
 weight: 58
 ---
 
-# Psalm 58
+# Psalm 58 
 
 To the chief music-maker; put to Al-tashheth. Michtam. Of David.
 

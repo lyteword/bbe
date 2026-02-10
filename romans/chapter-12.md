@@ -1,8 +1,11 @@
 ---
+title: "Romans 12 BBE | Read the Bible Online"
+linkTitle: "12"
+description: "Read Romans 12 Online | For this reason I make request to you, brothers, by the mercies of God, that you will give your bodies as a living offering, holy, pleasing to God, which is the worship it is right for you to give him..."
 weight: 12
 ---
 
-# Chapter 12
+# Romans 12 
 
 **¹** For this reason I make request to you, brothers, by the mercies of God, that you will give your bodies as a living offering, holy, pleasing to God, which is the worship it is right for you to give him.
 

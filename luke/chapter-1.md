@@ -1,8 +1,11 @@
 ---
+title: "Luke 1 BBE | Read the Bible Online"
+linkTitle: "1"
+description: "Read Luke 1 Online | As a number of attempts have been made to put together in order an account of those events which took place among us..."
 weight: 1
 ---
 
-# Chapter 1
+# Luke 1 
 
 **¹** As a number of attempts have been made to put together in order an account of those events which took place among us,
 

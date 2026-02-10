@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 25 BBE | Read the Bible Online"
+linkTitle: "25"
+description: "Read 1 Samuel 25 Online | And death came to Samuel; and all Israel came together, weeping for him, and put his body in its resting-place in his house at Ramah. Then David went down to the waste land of Maon..."
 weight: 25
 ---
 
-# Chapter 25
+# 1 Samuel 25 
 
 **¹** And death came to Samuel; and all Israel came together, weeping for him, and put his body in its resting-place in his house at Ramah. Then David went down to the waste land of Maon.
 

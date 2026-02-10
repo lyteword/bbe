@@ -1,8 +1,11 @@
 ---
+title: "Genesis 22 BBE | Read the Bible Online"
+linkTitle: "22"
+description: "Read Genesis 22 Online | Now after these things, God put Abraham to the test, and said to him, Abraham; and he said, Here am I..."
 weight: 22
 ---
 
-# Chapter 22
+# Genesis 22 
 
 **¹** Now after these things, God put Abraham to the test, and said to him, Abraham; and he said, Here am I.
 

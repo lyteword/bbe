@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 37 BBE | Read the Bible Online"
+linkTitle: "37"
+description: "Read Ezekiel 37 Online | The hand of the Lord had been on me, and he took me out in the spirit of the Lord and put me down in the middle of the valley; and it was full of bones..."
 weight: 37
 ---
 
-# Chapter 37
+# Ezekiel 37 
 
 **¹** The hand of the Lord had been on me, and he took me out in the spirit of the Lord and put me down in the middle of the valley; and it was full of bones;
 

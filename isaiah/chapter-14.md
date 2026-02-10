@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 14 BBE | Read the Bible Online"
+linkTitle: "14"
+description: "Read Isaiah 14 Online | For the Lord will have mercy on Jacob, and will again make Israel his special people, and will put them in their land; and the man from a strange country will take his place among them and be joined to the family of Jacob..."
 weight: 14
 ---
 
-# Chapter 14
+# Isaiah 14 
 
 **¹** For the Lord will have mercy on Jacob, and will again make Israel his special people, and will put them in their land; and the man from a strange country will take his place among them and be joined to the family of Jacob.
 

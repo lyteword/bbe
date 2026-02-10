@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 11 BBE | Read the Bible Online"
+linkTitle: "11"
+description: "Read Ezekiel 11 Online | And the wind, lifting me up, took me to the east doorway of the Lord's house, looking to the east: and at the door I saw twenty-five men; and among them I saw Jaazaniah, the son of Azzur, and Pelatiah, the son of Benaiah, rulers of the people..."
 weight: 11
 ---
 
-# Chapter 11
+# Ezekiel 11 
 
 **¹** And the wind, lifting me up, took me to the east doorway of the Lord's house, looking to the east: and at the door I saw twenty-five men; and among them I saw Jaazaniah, the son of Azzur, and Pelatiah, the son of Benaiah, rulers of the people.
 

@@ -1,8 +1,11 @@
 ---
+title: "Acts 15 BBE | Read the Bible Online"
+linkTitle: "15"
+description: "Read Acts 15 Online | Now certain men came down from Judaea, teaching the brothers and saying that without circumcision, after the rule of Moses, there is no salvation..."
 weight: 15
 ---
 
-# Chapter 15
+# Acts 15 
 
 **¹** Now certain men came down from Judaea, teaching the brothers and saying that without circumcision, after the rule of Moses, there is no salvation.
 

@@ -1,8 +1,11 @@
 ---
+title: "Joshua 8 BBE | Read the Bible Online"
+linkTitle: "8"
+description: "Read Joshua 8 Online | Then the Lord said to Joshua, Have no fear and do not be troubled: take with you all the fighting-men and go up against Ai: for I have given into your hands the king of Ai and his people and his town and his land..."
 weight: 8
 ---
 
-# Chapter 8
+# Joshua 8 
 
 **¹** Then the Lord said to Joshua, Have no fear and do not be troubled: take with you all the fighting-men and go up against Ai: for I have given into your hands the king of Ai and his people and his town and his land:
 

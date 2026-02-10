@@ -1,8 +1,11 @@
 ---
+title: "Exodus 28 BBE | Read the Bible Online"
+linkTitle: "28"
+description: "Read Exodus 28 Online | Now let Aaron your brother, and his sons with him, come near from among the children of Israel, so that they may be my priests, even Aaron, and Nadab, Abihu, Eleazar, and Ithamar, his sons..."
 weight: 28
 ---
 
-# Chapter 28
+# Exodus 28 
 
 **¹** Now let Aaron your brother, and his sons with him, come near from among the children of Israel, so that they may be my priests, even Aaron, and Nadab, Abihu, Eleazar, and Ithamar, his sons.
 

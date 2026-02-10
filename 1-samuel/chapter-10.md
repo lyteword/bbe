@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 10 BBE | Read the Bible Online"
+linkTitle: "10"
+description: "Read 1 Samuel 10 Online | Then Samuel took the bottle of oil, and put the oil on his head and gave him a kiss and said, Is not the Lord with the holy oil making you ruler over Israel, his people? and you will have authority over the people of the Lord, and you will make them safe from the hands of their attackers round about them, and this will be the sign for you..."
 weight: 10
 ---
 
-# Chapter 10
+# 1 Samuel 10 
 
 **¹** Then Samuel took the bottle of oil, and put the oil on his head and gave him a kiss and said, Is not the Lord with the holy oil making you ruler over Israel, his people? and you will have authority over the people of the Lord, and you will make them safe from the hands of their attackers round about them, and this will be the sign for you:
 

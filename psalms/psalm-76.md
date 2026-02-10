@@ -1,8 +1,11 @@
 ---
+title: "Psalm 76 BBE | Read the Bible Online"
+linkTitle: "76"
+description: "Read Psalm 76 Online | In Judah is the knowledge of God; his name is great in Israel..."
 weight: 76
 ---
 
-# Psalm 76
+# Psalm 76 
 
 To the chief music-maker; put to Neginoth. A Psalm. Of Asaph. A Song.
 

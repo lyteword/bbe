@@ -1,8 +1,11 @@
 ---
+title: "Acts 11 BBE | Read the Bible Online"
+linkTitle: "11"
+description: "Read Acts 11 Online | Now the Apostles and the brothers who were in Judaea had news that the word of God had been given to the Gentiles..."
 weight: 11
 ---
 
-# Chapter 11
+# Acts 11 
 
 **¹** Now the Apostles and the brothers who were in Judaea had news that the word of God had been given to the Gentiles.
 

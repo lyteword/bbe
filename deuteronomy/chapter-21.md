@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 21 BBE | Read the Bible Online"
+linkTitle: "21"
+description: "Read Deuteronomy 21 Online | If, in the land which the Lord your God is giving you, you come across the dead body of a man in the open country, and you have no idea who has put him to death..."
 weight: 21
 ---
 
-# Chapter 21
+# Deuteronomy 21 
 
 **¹** If, in the land which the Lord your God is giving you, you come across the dead body of a man in the open country, and you have no idea who has put him to death:
 

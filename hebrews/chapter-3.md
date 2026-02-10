@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Hebrews 3 Online | For this reason, holy brothers, marked out to have a part in heaven, give thought to Jesus the representative and high priest of our faith..."
 weight: 3
 ---
 
-# Chapter 3
+# Hebrews 3 
 
 **¹** For this reason, holy brothers, marked out to have a part in heaven, give thought to Jesus the representative and high priest of our faith;
 

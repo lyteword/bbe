@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read 1 Kings 3 Online | Solomon became the son-in-law of Pharaoh, king of Egypt, and took Pharaoh's daughter as his wife, keeping her in the town of David, till the house he was building for himself, and the house of the Lord and the wall round Jerusalem, were complete..."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Kings 3 
 
 **¹** Solomon became the son-in-law of Pharaoh, king of Egypt, and took Pharaoh's daughter as his wife, keeping her in the town of David, till the house he was building for himself, and the house of the Lord and the wall round Jerusalem, were complete.
 

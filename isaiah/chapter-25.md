@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 25 BBE | Read the Bible Online"
+linkTitle: "25"
+description: "Read Isaiah 25 Online | O Lord, you are my God; I will give praise to you, I will give honour to your name; for you have done great acts of power; your purposes in the past have been made true and certain in effect..."
 weight: 25
 ---
 
-# Chapter 25
+# Isaiah 25 
 
 **¹** O Lord, you are my God; I will give praise to you, I will give honour to your name; for you have done great acts of power; your purposes in the past have been made true and certain in effect.
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 34 BBE | Read the Bible Online"
+linkTitle: "34"
+description: "Read Isaiah 34 Online | Come near, you nations, and give ear; take note, you peoples: let the earth and everything in it give ear; the world and all those living in it..."
 weight: 34
 ---
 
-# Chapter 34
+# Isaiah 34 
 
 **¹** Come near, you nations, and give ear; take note, you peoples: let the earth and everything in it give ear; the world and all those living in it.
 

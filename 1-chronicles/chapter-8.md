@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 8 BBE | Read the Bible Online"
+linkTitle: "8"
+description: "Read 1 Chronicles 8 Online | And Benjamin was the father of Bela his oldest son, Ashbel the second, and Aharah the third..."
 weight: 8
 ---
 
-# Chapter 8
+# 1 Chronicles 8 
 
 **¹** And Benjamin was the father of Bela his oldest son, Ashbel the second, and Aharah the third,
 

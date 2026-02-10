@@ -1,8 +1,11 @@
 ---
+title: "Exodus 32 BBE | Read the Bible Online"
+linkTitle: "32"
+description: "Read Exodus 32 Online | And when the people saw that Moses was a long time coming down from the mountain, they all came to Aaron and said to him, Come, make us a god to go before us: as for this Moses, who took us up out of the land of Egypt, we have no idea what has become of him..."
 weight: 32
 ---
 
-# Chapter 32
+# Exodus 32 
 
 **¹** And when the people saw that Moses was a long time coming down from the mountain, they all came to Aaron and said to him, Come, make us a god to go before us: as for this Moses, who took us up out of the land of Egypt, we have no idea what has become of him.
 

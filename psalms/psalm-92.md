@@ -1,8 +1,11 @@
 ---
+title: "Psalm 92 BBE | Read the Bible Online"
+linkTitle: "92"
+description: "Read Psalm 92 Online | It is a good thing to give praise to the Lord, and to make melody to your name, O Most High..."
 weight: 92
 ---
 
-# Psalm 92
+# Psalm 92 
 
 A Psalm. A Song for the Sabbath.
 

@@ -1,8 +1,11 @@
 ---
+title: "Titus 1 BBE | Read the Bible Online"
+linkTitle: "1"
+description: "Read Titus 1 Online | Paul, a servant of God, and an Apostle of Jesus Christ, in agreement with the faith of the saints of God and the full knowledge of what is true in harmony with religion..."
 weight: 1
 ---
 
-# Chapter 1
+# Titus 1 
 
 **¹** Paul, a servant of God, and an Apostle of Jesus Christ, in agreement with the faith of the saints of God and the full knowledge of what is true in harmony with religion,
 

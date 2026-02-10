@@ -1,8 +1,11 @@
 ---
+title: "Luke 22 BBE | Read the Bible Online"
+linkTitle: "22"
+description: "Read Luke 22 Online | Now the feast of unleavened bread was near, which is called the Passover..."
 weight: 22
 ---
 
-# Chapter 22
+# Luke 22 
 
 **¹** Now the feast of unleavened bread was near, which is called the Passover.
 

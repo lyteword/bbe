@@ -1,8 +1,11 @@
 ---
+title: "Exodus 9 BBE | Read the Bible Online"
+linkTitle: "9"
+description: "Read Exodus 9 Online | Then the Lord said to Moses, Go in to Pharaoh and say to him, This is what the Lord, the God of the Hebrews, says: Let my people go so that they may give me worship..."
 weight: 9
 ---
 
-# Chapter 9
+# Exodus 9 
 
 **¹** Then the Lord said to Moses, Go in to Pharaoh and say to him, This is what the Lord, the God of the Hebrews, says: Let my people go so that they may give me worship.
 

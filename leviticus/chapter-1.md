@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 1 BBE | Read the Bible Online"
+linkTitle: "1"
+description: "Read Leviticus 1 Online | And the voice of the Lord came to Moses out of the Tent of meeting, saying..."
 weight: 1
 ---
 
-# Chapter 1
+# Leviticus 1 
 
 **¹** And the voice of the Lord came to Moses out of the Tent of meeting, saying,
 

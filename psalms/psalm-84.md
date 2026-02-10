@@ -1,8 +1,11 @@
 ---
+title: "Psalm 84 BBE | Read the Bible Online"
+linkTitle: "84"
+description: "Read Psalm 84 Online | How dear are your tents, O Lord of armies..."
 weight: 84
 ---
 
-# Psalm 84
+# Psalm 84 
 
 To the chief music-maker; put to the Gittith A Psalm. Of the sons of Korah.
 

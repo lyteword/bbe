@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 6 BBE | Read the Bible Online"
+linkTitle: "6"
+description: "Read 2 Chronicles 6 Online | Then Solomon said, O Lord, to the sun you have given the heaven for a living-place, but your living-place was not seen by men..."
 weight: 6
 ---
 
-# Chapter 6
+# 2 Chronicles 6 
 
 **¹** Then Solomon said, O Lord, to the sun you have given the heaven for a living-place, but your living-place was not seen by men,
 

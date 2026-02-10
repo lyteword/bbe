@@ -1,8 +1,11 @@
 ---
+title: "Psalm 44 BBE | Read the Bible Online"
+linkTitle: "44"
+description: "Read Psalm 44 Online | It has come to our ears, O God, our fathers have given us the story, of the works which you did in their days, in the old times..."
 weight: 44
 ---
 
-# Psalm 44
+# Psalm 44 
 
 To the chief music-maker. Of the sons of Korah Maschil.
 

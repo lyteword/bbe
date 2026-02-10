@@ -1,8 +1,11 @@
 ---
+title: "Revelation 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Revelation 3 Online | And to the angel of the church in Sardis say: These things says he who has the seven Spirits of God and the seven stars: I have knowledge of your works, that you seem to be living but are dead..."
 weight: 3
 ---
 
-# Chapter 3
+# Revelation 3 
 
 **¹** And to the angel of the church in Sardis say: These things says he who has the seven Spirits of God and the seven stars: I have knowledge of your works, that you seem to be living but are dead.
 

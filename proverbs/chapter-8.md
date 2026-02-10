@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 8 BBE | Read the Bible Online"
+linkTitle: "8"
+description: "Read Proverbs 8 Online | Is not wisdom crying out, and the voice of knowledge sounding..."
 weight: 8
 ---
 
-# Chapter 8
+# Proverbs 8 
 
 **¹** Is not wisdom crying out, and the voice of knowledge sounding?
 

@@ -1,8 +1,11 @@
 ---
+title: "Romans 8 BBE | Read the Bible Online"
+linkTitle: "8"
+description: "Read Romans 8 Online | For this cause those who are in Christ Jesus will not be judged as sinners..."
 weight: 8
 ---
 
-# Chapter 8
+# Romans 8 
 
 **¹** For this cause those who are in Christ Jesus will not be judged as sinners.
 

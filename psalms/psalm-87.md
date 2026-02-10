@@ -1,8 +1,11 @@
 ---
+title: "Psalm 87 BBE | Read the Bible Online"
+linkTitle: "87"
+description: "Read Psalm 87 Online | This house is resting on the holy mountain..."
 weight: 87
 ---
 
-# Psalm 87
+# Psalm 87 
 
 Of the sons of Korah. A Psalm. A Song.
 

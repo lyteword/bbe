@@ -1,8 +1,11 @@
 ---
+title: "Psalm 129 BBE | Read the Bible Online"
+linkTitle: "129"
+description: "Read Psalm 129 Online | Great have been my troubles from the time when I was young (let Israel now say)..."
 weight: 129
 ---
 
-# Psalm 129
+# Psalm 129 
 
 A Song of the going up.
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezra 10 BBE | Read the Bible Online"
+linkTitle: "10"
+description: "Read Ezra 10 Online | Now while Ezra was making his prayer and his statement of wrongdoing, weeping and falling down before the house of God, a very great number of men and women and children out of Israel came together round him: for the people were weeping bitterly..."
 weight: 10
 ---
 
-# Chapter 10
+# Ezra 10 
 
 **¹** Now while Ezra was making his prayer and his statement of wrongdoing, weeping and falling down before the house of God, a very great number of men and women and children out of Israel came together round him: for the people were weeping bitterly.
 

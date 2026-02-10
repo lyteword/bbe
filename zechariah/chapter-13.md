@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 13 BBE | Read the Bible Online"
+linkTitle: "13"
+description: "Read Zechariah 13 Online | In that day there will be a fountain open to the family of David and to the people of Jerusalem, for sin and for that which is unclean..."
 weight: 13
 ---
 
-# Chapter 13
+# Zechariah 13 
 
 **¹** In that day there will be a fountain open to the family of David and to the people of Jerusalem, for sin and for that which is unclean.
 

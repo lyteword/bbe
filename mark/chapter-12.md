@@ -1,8 +1,11 @@
 ---
+title: "Mark 12 BBE | Read the Bible Online"
+linkTitle: "12"
+description: "Read Mark 12 Online | And he gave them teaching in the form of stories. A man had a vine-garden planted, and put a wall about it, and made a place for crushing out the wine, and put up a tower, and let it out to field-workers, and went into another country..."
 weight: 12
 ---
 
-# Chapter 12
+# Mark 12 
 
 **¹** And he gave them teaching in the form of stories. A man had a vine-garden planted, and put a wall about it, and made a place for crushing out the wine, and put up a tower, and let it out to field-workers, and went into another country.
 

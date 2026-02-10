@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 45 BBE | Read the Bible Online"
+linkTitle: "45"
+description: "Read Isaiah 45 Online | The Lord says to the man of his selection, to Cyrus, whom I have taken by the right hand, putting down nations before him, and taking away the arms of kings; making the doors open before him, so that the ways into the towns may not be shut..."
 weight: 45
 ---
 
-# Chapter 45
+# Isaiah 45 
 
 **¹** The Lord says to the man of his selection, to Cyrus, whom I have taken by the right hand, putting down nations before him, and taking away the arms of kings; making the doors open before him, so that the ways into the towns may not be shut;
 

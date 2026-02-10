@@ -1,8 +1,11 @@
 ---
+title: "Daniel 10 BBE | Read the Bible Online"
+linkTitle: "10"
+description: "Read Daniel 10 Online | In the third year of Cyrus, king of Persia, a secret was unfolded to Daniel, whose name was Belteshazzar; and the thing was true, even a hard work: and he had knowledge of it, and the vision was clear to him..."
 weight: 10
 ---
 
-# Chapter 10
+# Daniel 10 
 
 **¹** In the third year of Cyrus, king of Persia, a secret was unfolded to Daniel, whose name was Belteshazzar; and the thing was true, even a hard work: and he had knowledge of it, and the vision was clear to him.
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 127 BBE | Read the Bible Online"
+linkTitle: "127"
+description: "Read Psalm 127 Online | If the Lord is not helping the builders, then the building of a house is to no purpose: if the Lord does not keep the town, the watchman keeps his watch for nothing..."
 weight: 127
 ---
 
-# Psalm 127
+# Psalm 127 
 
 A Song of the going up. Of Solomon.
 

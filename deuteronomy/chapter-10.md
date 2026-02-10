@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 10 BBE | Read the Bible Online"
+linkTitle: "10"
+description: "Read Deuteronomy 10 Online | At that time the Lord said to me, Make two other stones, cut like the first two, and come up to me on the mountain, and make an ark of wood..."
 weight: 10
 ---
 
-# Chapter 10
+# Deuteronomy 10 
 
 **¹** At that time the Lord said to me, Make two other stones, cut like the first two, and come up to me on the mountain, and make an ark of wood.
 

@@ -1,8 +1,11 @@
 ---
+title: "Genesis 41 BBE | Read the Bible Online"
+linkTitle: "41"
+description: "Read Genesis 41 Online | Now after two years had gone by, Pharaoh had a dream; and in his dream he was by the side of the Nile..."
 weight: 41
 ---
 
-# Chapter 41
+# Genesis 41 
 
 **¹** Now after two years had gone by, Pharaoh had a dream; and in his dream he was by the side of the Nile;
 

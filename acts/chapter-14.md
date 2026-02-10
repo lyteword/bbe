@@ -1,8 +1,11 @@
 ---
+title: "Acts 14 BBE | Read the Bible Online"
+linkTitle: "14"
+description: "Read Acts 14 Online | Now in Iconium they went together to the Synagogue of the Jews and gave such teaching that a great number of Jews and Greeks had faith..."
 weight: 14
 ---
 
-# Chapter 14
+# Acts 14 
 
 **¹** Now in Iconium they went together to the Synagogue of the Jews and gave such teaching that a great number of Jews and Greeks had faith.
 

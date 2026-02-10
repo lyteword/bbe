@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 15 BBE | Read the Bible Online"
+linkTitle: "15"
+description: "Read Deuteronomy 15 Online | At the end of every seven years there is to be a general forgiveness of debt..."
 weight: 15
 ---
 
-# Chapter 15
+# Deuteronomy 15 
 
 **¹** At the end of every seven years there is to be a general forgiveness of debt.
 

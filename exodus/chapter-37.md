@@ -1,8 +1,11 @@
 ---
+title: "Exodus 37 BBE | Read the Bible Online"
+linkTitle: "37"
+description: "Read Exodus 37 Online | And Bezalel made the ark of hard wood, two and a half cubits long, a cubit and a half wide and a cubit and a half high..."
 weight: 37
 ---
 
-# Chapter 37
+# Exodus 37 
 
 **¹** And Bezalel made the ark of hard wood, two and a half cubits long, a cubit and a half wide and a cubit and a half high;
 

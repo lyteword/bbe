@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 30 BBE | Read the Bible Online"
+linkTitle: "30"
+description: "Read Jeremiah 30 Online | The word which came to Jeremiah from the Lord, saying..."
 weight: 30
 ---
 
-# Chapter 30
+# Jeremiah 30 
 
 **¹** The word which came to Jeremiah from the Lord, saying,
 

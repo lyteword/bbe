@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 22 BBE | Read the Bible Online"
+linkTitle: "22"
+description: "Read 1 Kings 22 Online | Now for three years there was no war between Aram and Israel..."
 weight: 22
 ---
 
-# Chapter 22
+# 1 Kings 22 
 
 **¹** Now for three years there was no war between Aram and Israel.
 

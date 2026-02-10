@@ -1,8 +1,11 @@
 ---
+title: "Exodus 16 BBE | Read the Bible Online"
+linkTitle: "16"
+description: "Read Exodus 16 Online | And they went on their way from Elim, and all the children of Israel came into the waste land of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after they went out of the land of Egypt..."
 weight: 16
 ---
 
-# Chapter 16
+# Exodus 16 
 
 **¹** And they went on their way from Elim, and all the children of Israel came into the waste land of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after they went out of the land of Egypt.
 

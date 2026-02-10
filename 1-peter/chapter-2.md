@@ -1,8 +1,11 @@
 ---
+title: "1 Peter 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read 1 Peter 2 Online | So putting away all wrongdoing, and all tricks and deceits and envies and evil talk..."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Peter 2 
 
 **¹** So putting away all wrongdoing, and all tricks and deceits and envies and evil talk,
 

@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 29 BBE | Read the Bible Online"
+linkTitle: "29"
+description: "Read Proverbs 29 Online | A man hating sharp words and making his heart hard, will suddenly be broken and will not be made well again..."
 weight: 29
 ---
 
-# Chapter 29
+# Proverbs 29 
 
 **¹** A man hating sharp words and making his heart hard, will suddenly be broken and will not be made well again.
 

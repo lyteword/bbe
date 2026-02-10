@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read 1 Corinthians 3 Online | And the teaching I gave you, my brothers, was such as I was able to give, not to those who have the Spirit, but to those who are still in the flesh, even to children in Christ..."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Corinthians 3 
 
 **¹** And the teaching I gave you, my brothers, was such as I was able to give, not to those who have the Spirit, but to those who are still in the flesh, even to children in Christ.
 

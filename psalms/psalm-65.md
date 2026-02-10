@@ -1,8 +1,11 @@
 ---
+title: "Psalm 65 BBE | Read the Bible Online"
+linkTitle: "65"
+description: "Read Psalm 65 Online | It is right for you, O God, to have praise in Zion: to you let the offering be made..."
 weight: 65
 ---
 
-# Psalm 65
+# Psalm 65 
 
 To the chief music-maker. A Psalm. Of David. A Song.
 

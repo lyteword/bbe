@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 18 BBE | Read the Bible Online"
+linkTitle: "18"
+description: "Read 1 Chronicles 18 Online | And it came about after this that David made an attack on the Philistines and overcame them, and took Gath with its daughter-towns out of the hands of the Philistines..."
 weight: 18
 ---
 
-# Chapter 18
+# 1 Chronicles 18 
 
 **¹** And it came about after this that David made an attack on the Philistines and overcame them, and took Gath with its daughter-towns out of the hands of the Philistines.
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 33 BBE | Read the Bible Online"
+linkTitle: "33"
+description: "Read Isaiah 33 Online | Ho! you who make waste those who did not make you waste; acting falsely to those who were not false to you. When you have come to an end of wasting, you will be made waste, and after your false acts, they will do the same to you..."
 weight: 33
 ---
 
-# Chapter 33
+# Isaiah 33 
 
 **¹** Ho! you who make waste those who did not make you waste; acting falsely to those who were not false to you. When you have come to an end of wasting, you will be made waste, and after your false acts, they will do the same to you.
 

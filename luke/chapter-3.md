@@ -1,8 +1,11 @@
 ---
+title: "Luke 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Luke 3 Online | Now in the fifteenth year of the rule of Tiberius Caesar, Pontius Pilate being ruler of Judaea, and Herod being king of Galilee, his brother Philip king of the country of Ituraea and Trachonitis, and Lysanias king of Abilene..."
 weight: 3
 ---
 
-# Chapter 3
+# Luke 3 
 
 **¹** Now in the fifteenth year of the rule of Tiberius Caesar, Pontius Pilate being ruler of Judaea, and Herod being king of Galilee, his brother Philip king of the country of Ituraea and Trachonitis, and Lysanias king of Abilene,
 

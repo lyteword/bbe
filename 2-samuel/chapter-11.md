@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 11 BBE | Read the Bible Online"
+linkTitle: "11"
+description: "Read 2 Samuel 11 Online | Now in the spring, at the time when kings go out to war, David sent Joab and his servants and all Israel with him; and they made waste the land of the children of Ammon, and took up their position before Rabbah, shutting it in. But David was still at Jerusalem..."
 weight: 11
 ---
 
-# Chapter 11
+# 2 Samuel 11 
 
 **¹** Now in the spring, at the time when kings go out to war, David sent Joab and his servants and all Israel with him; and they made waste the land of the children of Ammon, and took up their position before Rabbah, shutting it in. But David was still at Jerusalem.
 

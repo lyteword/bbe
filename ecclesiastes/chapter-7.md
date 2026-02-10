@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 7 BBE | Read the Bible Online"
+linkTitle: "7"
+description: "Read Ecclesiastes 7 Online | A good name is better than oil of great price, and the day of death than the day of birth..."
 weight: 7
 ---
 
-# Chapter 7
+# Ecclesiastes 7 
 
 **¹** A good name is better than oil of great price, and the day of death than the day of birth.
 

@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 7 BBE | Read the Bible Online"
+linkTitle: "7"
+description: "Read Hebrews 7 Online | For this Melchizedek, the king of Salem, a priest of the Most High God, who gave Abraham his blessing, meeting him when he came back after putting the kings to death..."
 weight: 7
 ---
 
-# Chapter 7
+# Hebrews 7 
 
 **¹** For this Melchizedek, the king of Salem, a priest of the Most High God, who gave Abraham his blessing, meeting him when he came back after putting the kings to death,
 

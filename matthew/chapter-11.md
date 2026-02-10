@@ -1,8 +1,11 @@
 ---
+title: "Matthew 11 BBE | Read the Bible Online"
+linkTitle: "11"
+description: "Read Matthew 11 Online | And it came about that when Jesus had come to the end of giving these orders to his twelve disciples, he went away from there, teaching and preaching in their towns..."
 weight: 11
 ---
 
-# Chapter 11
+# Matthew 11 
 
 **¹** And it came about that when Jesus had come to the end of giving these orders to his twelve disciples, he went away from there, teaching and preaching in their towns.
 

@@ -1,8 +1,11 @@
 ---
+title: "Hosea 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Hosea 3 Online | And the Lord said to me, Give your love again to a woman who has a lover and is false to her husband, even as the Lord has love for the children of Israel, though they are turned to other gods and are lovers of grape-cakes..."
 weight: 3
 ---
 
-# Chapter 3
+# Hosea 3 
 
 **¹** And the Lord said to me, Give your love again to a woman who has a lover and is false to her husband, even as the Lord has love for the children of Israel, though they are turned to other gods and are lovers of grape-cakes.
 

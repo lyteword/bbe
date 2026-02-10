@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Song Of Solomon 3 Online | By night on my bed I was looking for him who is the love of my soul: I was looking for him, but I did not see him..."
 weight: 3
 ---
 
-# Chapter 3
+# Song Of Solomon 3 
 
 **¹** By night on my bed I was looking for him who is the love of my soul: I was looking for him, but I did not see him.
 

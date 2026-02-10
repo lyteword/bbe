@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 29 BBE | Read the Bible Online"
+linkTitle: "29"
+description: "Read 2 Chronicles 29 Online | Hezekiah became king when he was twenty-five years old; and he was king in Jerusalem for twenty-nine years; and his mother's name was Abijah, the daughter of Zechariah..."
 weight: 29
 ---
 
-# Chapter 29
+# 2 Chronicles 29 
 
 **¹** Hezekiah became king when he was twenty-five years old; and he was king in Jerusalem for twenty-nine years; and his mother's name was Abijah, the daughter of Zechariah.
 

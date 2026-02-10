@@ -1,8 +1,11 @@
 ---
+title: "Psalm 6 BBE | Read the Bible Online"
+linkTitle: "6"
+description: "Read Psalm 6 Online | O Lord, do not be bitter with me in your wrath; do not send punishment on me in the heat of your passion..."
 weight: 6
 ---
 
-# Psalm 6
+# Psalm 6 
 
 To the chief music-maker on corded instruments, on the Sheminith. A Psalm. Of David.
 

@@ -1,8 +1,11 @@
 ---
+title: "Numbers 24 BBE | Read the Bible Online"
+linkTitle: "24"
+description: "Read Numbers 24 Online | Now when Balaam saw that it was the Lord's pleasure to give his blessing to Israel, he did not, as at other times, make use of secret arts, but turning his face to the waste land..."
 weight: 24
 ---
 
-# Chapter 24
+# Numbers 24 
 
 **¹** Now when Balaam saw that it was the Lord's pleasure to give his blessing to Israel, he did not, as at other times, make use of secret arts, but turning his face to the waste land,
 

@@ -1,8 +1,11 @@
 ---
+title: "Esther 9 BBE | Read the Bible Online"
+linkTitle: "9"
+description: "Read Esther 9 Online | Now on the thirteenth day of the twelfth month, which is the month Adar, when the time came for the king's order to be put into effect, on the very day when the haters of the Jews had been hoping to have rule over them; though the opposite had come about, and the Jews had rule over their haters..."
 weight: 9
 ---
 
-# Chapter 9
+# Esther 9 
 
 **¹** Now on the thirteenth day of the twelfth month, which is the month Adar, when the time came for the king's order to be put into effect, on the very day when the haters of the Jews had been hoping to have rule over them; though the opposite had come about, and the Jews had rule over their haters;
 

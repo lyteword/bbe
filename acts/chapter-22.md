@@ -1,8 +1,11 @@
 ---
+title: "Acts 22 BBE | Read the Bible Online"
+linkTitle: "22"
+description: "Read Acts 22 Online | My brothers and fathers, give ear to the story of my life which I now put before you..."
 weight: 22
 ---
 
-# Chapter 22
+# Acts 22 
 
 **¹** My brothers and fathers, give ear to the story of my life which I now put before you.
 

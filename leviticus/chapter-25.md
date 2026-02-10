@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 25 BBE | Read the Bible Online"
+linkTitle: "25"
+description: "Read Leviticus 25 Online | And the Lord said to Moses on Mount Sinai..."
 weight: 25
 ---
 
-# Chapter 25
+# Leviticus 25 
 
 **¹** And the Lord said to Moses on Mount Sinai,
 

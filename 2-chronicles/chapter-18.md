@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 18 BBE | Read the Bible Online"
+linkTitle: "18"
+description: "Read 2 Chronicles 18 Online | Now Jehoshaphat had great wealth and honour, and his son was married to Ahab's daughter..."
 weight: 18
 ---
 
-# Chapter 18
+# 2 Chronicles 18 
 
 **¹** Now Jehoshaphat had great wealth and honour, and his son was married to Ahab's daughter.
 

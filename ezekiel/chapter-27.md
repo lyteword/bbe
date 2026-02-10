@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 27 BBE | Read the Bible Online"
+linkTitle: "27"
+description: "Read Ezekiel 27 Online | The word of the Lord came to me again, saying..."
 weight: 27
 ---
 
-# Chapter 27
+# Ezekiel 27 
 
 **¹** The word of the Lord came to me again, saying,
 

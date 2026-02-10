@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 62 BBE | Read the Bible Online"
+linkTitle: "62"
+description: "Read Isaiah 62 Online | Because of Zion I will not keep quiet, and because of Jerusalem I will take no rest, till her righteousness goes out like the shining of the sun, and her salvation like a burning light..."
 weight: 62
 ---
 
-# Chapter 62
+# Isaiah 62 
 
 **¹** Because of Zion I will not keep quiet, and because of Jerusalem I will take no rest, till her righteousness goes out like the shining of the sun, and her salvation like a burning light.
 

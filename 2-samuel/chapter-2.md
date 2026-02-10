@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read 2 Samuel 2 Online | Now after this, David, questioning the Lord, said, Am I to go up into any of the towns of Judah? And the Lord said to him, Go up. And David said, Where am I to go? And he said, To Hebron..."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Samuel 2 
 
 **¹** Now after this, David, questioning the Lord, said, Am I to go up into any of the towns of Judah? And the Lord said to him, Go up. And David said, Where am I to go? And he said, To Hebron.
 

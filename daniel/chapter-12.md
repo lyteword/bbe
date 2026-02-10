@@ -1,8 +1,11 @@
 ---
+title: "Daniel 12 BBE | Read the Bible Online"
+linkTitle: "12"
+description: "Read Daniel 12 Online | And at that time Michael will take up his place, the great angel, who is the supporter of the children of your people: and there will be a time of trouble, such as there never was from the time there was a nation even till that same time: and at that time your people will be kept safe, everyone who is recorded in the book..."
 weight: 12
 ---
 
-# Chapter 12
+# Daniel 12 
 
 **¹** And at that time Michael will take up his place, the great angel, who is the supporter of the children of your people: and there will be a time of trouble, such as there never was from the time there was a nation even till that same time: and at that time your people will be kept safe, everyone who is recorded in the book.
 

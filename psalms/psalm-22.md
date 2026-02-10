@@ -1,8 +1,11 @@
 ---
+title: "Psalm 22 BBE | Read the Bible Online"
+linkTitle: "22"
+description: "Read Psalm 22 Online | My God, my God, why are you turned away from me? why are you so far from helping me, and from the words of my crying..."
 weight: 22
 ---
 
-# Psalm 22
+# Psalm 22 
 
 To the chief music-maker on Aijeleth-hash-shahar. A Psalm. Of David.
 

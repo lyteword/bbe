@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 34 BBE | Read the Bible Online"
+linkTitle: "34"
+description: "Read Deuteronomy 34 Online | And Moses went up from the table-lands of Moab to Mount Nebo, to the top of Pisgah which is facing Jericho. And the Lord let him see all the land, the land of Gilead as far as Dan..."
 weight: 34
 ---
 
-# Chapter 34
+# Deuteronomy 34 
 
 **¹** And Moses went up from the table-lands of Moab to Mount Nebo, to the top of Pisgah which is facing Jericho. And the Lord let him see all the land, the land of Gilead as far as Dan;
 

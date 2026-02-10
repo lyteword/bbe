@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 26 BBE | Read the Bible Online"
+linkTitle: "26"
+description: "Read Isaiah 26 Online | In that day will this song be made in the land of Judah: We have a strong town; he will make salvation our walls and towers..."
 weight: 26
 ---
 
-# Chapter 26
+# Isaiah 26 
 
 **¹** In that day will this song be made in the land of Judah: We have a strong town; he will make salvation our walls and towers.
 

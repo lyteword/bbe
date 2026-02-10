@@ -1,8 +1,11 @@
 ---
+title: "Hosea 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Hosea 2 Online | Say to your brothers, Ammi; and to your sisters, Ruhamah..."
 weight: 2
 ---
 
-# Chapter 2
+# Hosea 2 
 
 **¹** Say to your brothers, Ammi; and to your sisters, Ruhamah.
 

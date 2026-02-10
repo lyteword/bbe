@@ -1,8 +1,11 @@
 ---
+title: "Psalm 147 BBE | Read the Bible Online"
+linkTitle: "147"
+description: "Read Psalm 147 Online | Give praise to the Lord; for it is good to make melody to our God; praise is pleasing and beautiful..."
 weight: 147
 ---
 
-# Psalm 147
+# Psalm 147 
 
 **¹** Give praise to the Lord; for it is good to make melody to our God; praise is pleasing and beautiful.
 

@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 48 BBE | Read the Bible Online"
+linkTitle: "48"
+description: "Read Jeremiah 48 Online | Of Moab. The Lord of armies, the God of Israel, has said: Sorrow on Nebo, for it has been made waste; Kiriathaim has been put to shame and is taken: the strong place is put to shame and broken down..."
 weight: 48
 ---
 
-# Chapter 48
+# Jeremiah 48 
 
 **¹** Of Moab. The Lord of armies, the God of Israel, has said: Sorrow on Nebo, for it has been made waste; Kiriathaim has been put to shame and is taken: the strong place is put to shame and broken down.
 

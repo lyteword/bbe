@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 17 BBE | Read the Bible Online"
+linkTitle: "17"
+description: "Read 2 Samuel 17 Online | Then Ahithophel said to Absalom, Let me take out twelve thousand men and this very night I will go after David..."
 weight: 17
 ---
 
-# Chapter 17
+# 2 Samuel 17 
 
 **¹** Then Ahithophel said to Absalom, Let me take out twelve thousand men and this very night I will go after David:
 

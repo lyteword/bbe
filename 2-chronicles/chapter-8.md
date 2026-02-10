@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 8 BBE | Read the Bible Online"
+linkTitle: "8"
+description: "Read 2 Chronicles 8 Online | Now at the end of twenty years, in which time Solomon had put up the house of the Lord and a house for himself..."
 weight: 8
 ---
 
-# Chapter 8
+# 2 Chronicles 8 
 
 **¹** Now at the end of twenty years, in which time Solomon had put up the house of the Lord and a house for himself,
 

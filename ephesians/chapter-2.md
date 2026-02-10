@@ -1,8 +1,11 @@
 ---
+title: "Ephesians 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Ephesians 2 Online | And to you did he give life, when you were dead through your wrongdoing and sins..."
 weight: 2
 ---
 
-# Chapter 2
+# Ephesians 2 
 
 **¹** And to you did he give life, when you were dead through your wrongdoing and sins,
 

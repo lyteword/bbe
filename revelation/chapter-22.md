@@ -1,8 +1,11 @@
 ---
+title: "Revelation 22 BBE | Read the Bible Online"
+linkTitle: "22"
+description: "Read Revelation 22 Online | And I saw a river of water of life, clear as glass, coming out of the high seat of God and of the Lamb..."
 weight: 22
 ---
 
-# Chapter 22
+# Revelation 22 
 
 **¹** And I saw a river of water of life, clear as glass, coming out of the high seat of God and of the Lamb,
 

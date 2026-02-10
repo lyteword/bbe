@@ -1,8 +1,11 @@
 ---
+title: "Matthew 27 BBE | Read the Bible Online"
+linkTitle: "27"
+description: "Read Matthew 27 Online | Now when it was morning, all the chief priests and those in authority took thought together with the purpose of putting Jesus to death..."
 weight: 27
 ---
 
-# Chapter 27
+# Matthew 27 
 
 **¹** Now when it was morning, all the chief priests and those in authority took thought together with the purpose of putting Jesus to death.
 

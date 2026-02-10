@@ -1,8 +1,11 @@
 ---
+title: "Psalm 45 BBE | Read the Bible Online"
+linkTitle: "45"
+description: "Read Psalm 45 Online | My heart is flowing over with good things; my words are of that which I have made for a king; my tongue is the pen of a ready writer..."
 weight: 45
 ---
 
-# Psalm 45
+# Psalm 45 
 
 To the chief music-maker; put to Shoshannim. Of the sons of Korah. Maschil. A Song of loves.
 

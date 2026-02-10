@@ -1,8 +1,11 @@
 ---
+title: "Psalm 137 BBE | Read the Bible Online"
+linkTitle: "137"
+description: "Read Psalm 137 Online | By the rivers of Babylon we were seated, weeping at the memory of Zion..."
 weight: 137
 ---
 
-# Psalm 137
+# Psalm 137 
 
 **¹** By the rivers of Babylon we were seated, weeping at the memory of Zion,
 

@@ -1,8 +1,11 @@
 ---
+title: "1 John 1 BBE | Read the Bible Online"
+linkTitle: "1"
+description: "Read 1 John 1 Online | That which was from the first, which has come to our ears, and which we have seen with our eyes, looking on it and touching it with our hands, about the Word of life..."
 weight: 1
 ---
 
-# Chapter 1
+# 1 John 1 
 
 **¹** That which was from the first, which has come to our ears, and which we have seen with our eyes, looking on it and touching it with our hands, about the Word of life
 

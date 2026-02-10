@@ -1,8 +1,11 @@
 ---
+title: "Psalm 40 BBE | Read the Bible Online"
+linkTitle: "40"
+description: "Read Psalm 40 Online | When I was waiting quietly for the Lord, his heart was turned to me, and he gave ear to my cry..."
 weight: 40
 ---
 
-# Psalm 40
+# Psalm 40 
 
 To the chief music-maker. Of David. A Psalm.
 

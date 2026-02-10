@@ -1,8 +1,11 @@
 ---
+title: "Judges 19 BBE | Read the Bible Online"
+linkTitle: "19"
+description: "Read Judges 19 Online | Now in those days, when there was no king in Israel, a certain Levite was living in the inmost parts of the hill-country of Ephraim, and he got for himself a servant-wife from Beth-lehem-judah..."
 weight: 19
 ---
 
-# Chapter 19
+# Judges 19 
 
 **¹** Now in those days, when there was no king in Israel, a certain Levite was living in the inmost parts of the hill-country of Ephraim, and he got for himself a servant-wife from Beth-lehem-judah.
 

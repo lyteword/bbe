@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 30 BBE | Read the Bible Online"
+linkTitle: "30"
+description: "Read Proverbs 30 Online | The words of Agur, the son of Jakeh, from Massa. The man says: I am full of weariness, O God, I am full of weariness; O God, I have come to an end..."
 weight: 30
 ---
 
-# Chapter 30
+# Proverbs 30 
 
 **¹** The words of Agur, the son of Jakeh, from Massa. The man says: I am full of weariness, O God, I am full of weariness; O God, I have come to an end:
 

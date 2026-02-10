@@ -1,8 +1,11 @@
 ---
+title: "Judges 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Judges 3 Online | Now these are the nations which the Lord kept in the land for the purpose of testing Israel by them, all those who had had no experience of all the wars of Canaan..."
 weight: 3
 ---
 
-# Chapter 3
+# Judges 3 
 
 **¹** Now these are the nations which the Lord kept in the land for the purpose of testing Israel by them, all those who had had no experience of all the wars of Canaan;
 

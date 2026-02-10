@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 8 BBE | Read the Bible Online"
+linkTitle: "8"
+description: "Read Isaiah 8 Online | And the Lord said to me, Take a great writing-board, and on it put down in common letters, Maher-shalal-hash-baz..."
 weight: 8
 ---
 
-# Chapter 8
+# Isaiah 8 
 
 **¹** And the Lord said to me, Take a great writing-board, and on it put down in common letters, Maher-shalal-hash-baz;
 

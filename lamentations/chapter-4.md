@@ -1,8 +1,11 @@
 ---
+title: "Lamentations 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read Lamentations 4 Online | How dark has the gold become! how changed the best gold! the stones of the holy place are dropping out at the top of every street..."
 weight: 4
 ---
 
-# Chapter 4
+# Lamentations 4 
 
 **¹** How dark has the gold become! how changed the best gold! the stones of the holy place are dropping out at the top of every street.
 

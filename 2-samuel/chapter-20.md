@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 20 BBE | Read the Bible Online"
+linkTitle: "20"
+description: "Read 2 Samuel 20 Online | Now by chance there was present a good-for-nothing person named Sheba, the son of Bichri, a Benjamite: and he, sounding the horn, said, We have no part in David, or any interest in the son of Jesse: let every man go to his tent, O Israel..."
 weight: 20
 ---
 
-# Chapter 20
+# 2 Samuel 20 
 
 **¹** Now by chance there was present a good-for-nothing person named Sheba, the son of Bichri, a Benjamite: and he, sounding the horn, said, We have no part in David, or any interest in the son of Jesse: let every man go to his tent, O Israel.
 

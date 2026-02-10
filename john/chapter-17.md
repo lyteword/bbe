@@ -1,8 +1,11 @@
 ---
+title: "John 17 BBE | Read the Bible Online"
+linkTitle: "17"
+description: "Read John 17 Online | Jesus said these things; then, lifting his eyes to heaven, he said, Father, the time has now come; give glory to your Son, so that the Son may give glory to you..."
 weight: 17
 ---
 
-# Chapter 17
+# John 17 
 
 **¹** Jesus said these things; then, lifting his eyes to heaven, he said, Father, the time has now come; give glory to your Son, so that the Son may give glory to you:
 

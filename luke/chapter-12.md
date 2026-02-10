@@ -1,8 +1,11 @@
 ---
+title: "Luke 12 BBE | Read the Bible Online"
+linkTitle: "12"
+description: "Read Luke 12 Online | At that time, when thousands of the people had come together, in such numbers that they were crushing one another, he said first to his disciples, Have nothing to do with the leaven of the Pharisees, which is deceit..."
 weight: 12
 ---
 
-# Chapter 12
+# Luke 12 
 
 **¹** At that time, when thousands of the people had come together, in such numbers that they were crushing one another, he said first to his disciples, Have nothing to do with the leaven of the Pharisees, which is deceit.
 

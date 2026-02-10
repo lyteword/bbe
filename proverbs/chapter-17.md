@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 17 BBE | Read the Bible Online"
+linkTitle: "17"
+description: "Read Proverbs 17 Online | Better a bit of dry bread in peace, than a house full of feasting and violent behaviour..."
 weight: 17
 ---
 
-# Chapter 17
+# Proverbs 17 
 
 **¹** Better a bit of dry bread in peace, than a house full of feasting and violent behaviour.
 

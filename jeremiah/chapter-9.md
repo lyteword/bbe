@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 9 BBE | Read the Bible Online"
+linkTitle: "9"
+description: "Read Jeremiah 9 Online | If only my head was a stream of waters and my eyes fountains of weeping, so that I might go on weeping day and night for the dead of the daughter of my people..."
 weight: 9
 ---
 
-# Chapter 9
+# Jeremiah 9 
 
 **¹** If only my head was a stream of waters and my eyes fountains of weeping, so that I might go on weeping day and night for the dead of the daughter of my people!
 

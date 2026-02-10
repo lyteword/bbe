@@ -1,8 +1,11 @@
 ---
+title: "Numbers 36 BBE | Read the Bible Online"
+linkTitle: "36"
+description: "Read Numbers 36 Online | Now the heads of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came to Moses, the chiefs and the heads of families of the children of Israel being present..."
 weight: 36
 ---
 
-# Chapter 36
+# Numbers 36 
 
 **¹** Now the heads of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came to Moses, the chiefs and the heads of families of the children of Israel being present,
 

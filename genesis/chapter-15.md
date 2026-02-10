@@ -1,8 +1,11 @@
 ---
+title: "Genesis 15 BBE | Read the Bible Online"
+linkTitle: "15"
+description: "Read Genesis 15 Online | After these things, the word of the Lord came to Abram in a vision, saying, Have no fear, Abram: I will keep you safe, and great will be your reward..."
 weight: 15
 ---
 
-# Chapter 15
+# Genesis 15 
 
 **¹** After these things, the word of the Lord came to Abram in a vision, saying, Have no fear, Abram: I will keep you safe, and great will be your reward.
 

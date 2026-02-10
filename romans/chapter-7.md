@@ -1,8 +1,11 @@
 ---
+title: "Romans 7 BBE | Read the Bible Online"
+linkTitle: "7"
+description: "Read Romans 7 Online | Is it not clear, my brothers (I am using an argument to those who have knowledge of the law), that the law has power over a man as long as he is living..."
 weight: 7
 ---
 
-# Chapter 7
+# Romans 7 
 
 **¹** Is it not clear, my brothers (I am using an argument to those who have knowledge of the law), that the law has power over a man as long as he is living?
 

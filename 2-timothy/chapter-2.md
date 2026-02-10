@@ -1,8 +1,11 @@
 ---
+title: "2 Timothy 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read 2 Timothy 2 Online | So then, my child, be strong in the grace which is in Christ Jesus..."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Timothy 2 
 
 **¹** So then, my child, be strong in the grace which is in Christ Jesus.
 

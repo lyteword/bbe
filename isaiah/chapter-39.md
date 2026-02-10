@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 39 BBE | Read the Bible Online"
+linkTitle: "39"
+description: "Read Isaiah 39 Online | At that time Merodach-baladan, the son of Baladan, king of Babylon, sent letters with an offering to Hezekiah, because he had news that Hezekiah had been ill, and was well again..."
 weight: 39
 ---
 
-# Chapter 39
+# Isaiah 39 
 
 **¹** At that time Merodach-baladan, the son of Baladan, king of Babylon, sent letters with an offering to Hezekiah, because he had news that Hezekiah had been ill, and was well again.
 

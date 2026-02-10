@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 29 BBE | Read the Bible Online"
+linkTitle: "29"
+description: "Read Ezekiel 29 Online | In the tenth year, in the tenth month, on the twelfth day of the month, the word of the Lord came to me, saying..."
 weight: 29
 ---
 
-# Chapter 29
+# Ezekiel 29 
 
 **¹** In the tenth year, in the tenth month, on the twelfth day of the month, the word of the Lord came to me, saying,
 

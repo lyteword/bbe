@@ -1,8 +1,11 @@
 ---
+title: "Psalm 148 BBE | Read the Bible Online"
+linkTitle: "148"
+description: "Read Psalm 148 Online | Give praise to the Lord. Let the Lord be praised from the heavens: give him praise in the skies..."
 weight: 148
 ---
 
-# Psalm 148
+# Psalm 148 
 
 **¹** Give praise to the Lord. Let the Lord be praised from the heavens: give him praise in the skies.
 

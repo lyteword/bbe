@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 24 BBE | Read the Bible Online"
+linkTitle: "24"
+description: "Read 2 Kings 24 Online | In his days, Nebuchadnezzar, king of Babylon, came up and Jehoiakim was his servant for three years; then he took up arms against him..."
 weight: 24
 ---
 
-# Chapter 24
+# 2 Kings 24 
 
 **¹** In his days, Nebuchadnezzar, king of Babylon, came up and Jehoiakim was his servant for three years; then he took up arms against him.
 

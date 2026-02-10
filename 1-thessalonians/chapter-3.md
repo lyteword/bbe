@@ -1,8 +1,11 @@
 ---
+title: "1 Thessalonians 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read 1 Thessalonians 3 Online | At last our desire to have news of you was so strong that, while we ourselves were waiting at Athens..."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Thessalonians 3 
 
 **¹** At last our desire to have news of you was so strong that, while we ourselves were waiting at Athens,
 

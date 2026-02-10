@@ -1,8 +1,11 @@
 ---
+title: "Revelation 1 BBE | Read the Bible Online"
+linkTitle: "1"
+description: "Read Revelation 1 Online | The Revelation of Jesus Christ which God gave him so that his servants might have knowledge of the things which will quickly take place: and he sent and made it clear by his angel to his servant John..."
 weight: 1
 ---
 
-# Chapter 1
+# Revelation 1 
 
 **¹** The Revelation of Jesus Christ which God gave him so that his servants might have knowledge of the things which will quickly take place: and he sent and made it clear by his angel to his servant John;
 

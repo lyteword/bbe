@@ -1,8 +1,11 @@
 ---
+title: "Job 30 BBE | Read the Bible Online"
+linkTitle: "30"
+description: "Read Job 30 Online | But now those who are younger than I make sport of me; those whose fathers I would not have put with the dogs of my flocks..."
 weight: 30
 ---
 
-# Chapter 30
+# Job 30 
 
 **¹** But now those who are younger than I make sport of me; those whose fathers I would not have put with the dogs of my flocks.
 

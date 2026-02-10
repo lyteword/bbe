@@ -1,8 +1,11 @@
 ---
+title: "Acts 13 BBE | Read the Bible Online"
+linkTitle: "13"
+description: "Read Acts 13 Online | Now there were at Antioch, in the church there, prophets and teachers, Barnabas, and Symeon who was named Niger, and Lucius of Cyrene, and Manaen, a relation of Herod the king, and Saul..."
 weight: 13
 ---
 
-# Chapter 13
+# Acts 13 
 
 **¹** Now there were at Antioch, in the church there, prophets and teachers, Barnabas, and Symeon who was named Niger, and Lucius of Cyrene, and Manaen, a relation of Herod the king, and Saul.
 

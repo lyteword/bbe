@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 18 BBE | Read the Bible Online"
+linkTitle: "18"
+description: "Read Leviticus 18 Online | And the Lord said to Moses..."
 weight: 18
 ---
 
-# Chapter 18
+# Leviticus 18 
 
 **¹** And the Lord said to Moses,
 

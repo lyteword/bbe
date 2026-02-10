@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 5 BBE | Read the Bible Online"
+linkTitle: "5"
+description: "Read Hebrews 5 Online | Every high priest who is taken from among men is given his position to take care of the interests of men in those things which have to do with God, so that he may make offerings for sins..."
 weight: 5
 ---
 
-# Chapter 5
+# Hebrews 5 
 
 **¹** Every high priest who is taken from among men is given his position to take care of the interests of men in those things which have to do with God, so that he may make offerings for sins.
 

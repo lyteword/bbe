@@ -1,8 +1,11 @@
 ---
+title: "Amos 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Amos 2 Online | These are the words of the Lord: For three crimes of Moab, and for four, I will not let its fate be changed; because he had the bones of the king of Edom burned to dust..."
 weight: 2
 ---
 
-# Chapter 2
+# Amos 2 
 
 **¹** These are the words of the Lord: For three crimes of Moab, and for four, I will not let its fate be changed; because he had the bones of the king of Edom burned to dust.
 

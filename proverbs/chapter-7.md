@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 7 BBE | Read the Bible Online"
+linkTitle: "7"
+description: "Read Proverbs 7 Online | My son, keep my sayings, and let my rules be stored up with you..."
 weight: 7
 ---
 
-# Chapter 7
+# Proverbs 7 
 
 **¹** My son, keep my sayings, and let my rules be stored up with you.
 

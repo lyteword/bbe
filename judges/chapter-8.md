@@ -1,8 +1,11 @@
 ---
+title: "Judges 8 BBE | Read the Bible Online"
+linkTitle: "8"
+description: "Read Judges 8 Online | And the men of Ephraim came and said to him, Why did you not send for us when you went to war against Midian? And they said sharp and angry words to him..."
 weight: 8
 ---
 
-# Chapter 8
+# Judges 8 
 
 **¹** And the men of Ephraim came and said to him, Why did you not send for us when you went to war against Midian? And they said sharp and angry words to him.
 

@@ -1,8 +1,11 @@
 ---
+title: "Joshua 10 BBE | Read the Bible Online"
+linkTitle: "10"
+description: "Read Joshua 10 Online | Now when it came to the ears of Adoni-zedek, king of Jerusalem, that Joshua had taken Ai, and had given it up to the curse (for as he had done to Jericho and its king, so he had done to Ai and its king); and that the people of Gibeon had made peace with Israel and were living among them..."
 weight: 10
 ---
 
-# Chapter 10
+# Joshua 10 
 
 **¹** Now when it came to the ears of Adoni-zedek, king of Jerusalem, that Joshua had taken Ai, and had given it up to the curse (for as he had done to Jericho and its king, so he had done to Ai and its king); and that the people of Gibeon had made peace with Israel and were living among them;
 

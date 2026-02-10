@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 14 BBE | Read the Bible Online"
+linkTitle: "14"
+description: "Read Zechariah 14 Online | See, a day of the Lord is coming when they will make division of your goods taken by force before your eyes..."
 weight: 14
 ---
 
-# Chapter 14
+# Zechariah 14 
 
 **¹** See, a day of the Lord is coming when they will make division of your goods taken by force before your eyes.
 

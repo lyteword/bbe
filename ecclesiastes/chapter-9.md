@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 9 BBE | Read the Bible Online"
+linkTitle: "9"
+description: "Read Ecclesiastes 9 Online | All this I took to heart, and my heart saw it all: that the upright and the wise and their works are in the hand of God; and men may not be certain if it will be love or hate; all is to no purpose before them..."
 weight: 9
 ---
 
-# Chapter 9
+# Ecclesiastes 9 
 
 **¹** All this I took to heart, and my heart saw it all: that the upright and the wise and their works are in the hand of God; and men may not be certain if it will be love or hate; all is to no purpose before them.
 

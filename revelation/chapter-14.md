@@ -1,8 +1,11 @@
 ---
+title: "Revelation 14 BBE | Read the Bible Online"
+linkTitle: "14"
+description: "Read Revelation 14 Online | And I saw the Lamb on the mountain of Zion, and with him a hundred and forty-four thousand, marked on their brows with his name and the name of his Father..."
 weight: 14
 ---
 
-# Chapter 14
+# Revelation 14 
 
 **¹** And I saw the Lamb on the mountain of Zion, and with him a hundred and forty-four thousand, marked on their brows with his name and the name of his Father.
 

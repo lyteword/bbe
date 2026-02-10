@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 12 BBE | Read the Bible Online"
+linkTitle: "12"
+description: "Read 1 Corinthians 12 Online | But about the things of the spirit, my brothers, it is not right for you to be without teaching..."
 weight: 12
 ---
 
-# Chapter 12
+# 1 Corinthians 12 
 
 **¹** But about the things of the spirit, my brothers, it is not right for you to be without teaching.
 

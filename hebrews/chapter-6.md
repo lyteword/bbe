@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 6 BBE | Read the Bible Online"
+linkTitle: "6"
+description: "Read Hebrews 6 Online | For this reason let us go on from the first things about Christ to full growth; not building again that on which it is based, that is, the turning of the heart from dead works, and faith in God..."
 weight: 6
 ---
 
-# Chapter 6
+# Hebrews 6 
 
 **¹** For this reason let us go on from the first things about Christ to full growth; not building again that on which it is based, that is, the turning of the heart from dead works, and faith in God,
 

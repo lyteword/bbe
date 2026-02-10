@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 1 BBE | Read the Bible Online"
+linkTitle: "1"
+description: "Read Nehemiah 1 Online | The history of Nehemiah, the son of Hacaliah. Now it came about, in the month Chislev, in the twentieth year, when I was in Shushan, the king's town..."
 weight: 1
 ---
 
-# Chapter 1
+# Nehemiah 1 
 
 **¹** The history of Nehemiah, the son of Hacaliah. Now it came about, in the month Chislev, in the twentieth year, when I was in Shushan, the king's town,
 

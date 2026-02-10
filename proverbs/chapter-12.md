@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 12 BBE | Read the Bible Online"
+linkTitle: "12"
+description: "Read Proverbs 12 Online | A lover of training is a lover of knowledge; but a hater of teaching is like a beast..."
 weight: 12
 ---
 
-# Chapter 12
+# Proverbs 12 
 
 **¹** A lover of training is a lover of knowledge; but a hater of teaching is like a beast.
 

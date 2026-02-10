@@ -1,8 +1,11 @@
 ---
+title: "Psalm 134 BBE | Read the Bible Online"
+linkTitle: "134"
+description: "Read Psalm 134 Online | Give praise to the Lord, all you servants of the Lord, who take your places in the house of the Lord by night..."
 weight: 134
 ---
 
-# Psalm 134
+# Psalm 134 
 
 A Song of the going up.
 

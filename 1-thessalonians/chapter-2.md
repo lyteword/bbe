@@ -1,8 +1,11 @@
 ---
+title: "1 Thessalonians 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read 1 Thessalonians 2 Online | For you yourselves, brothers, are conscious that our coming among you was not without effect..."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Thessalonians 2 
 
 **¹** For you yourselves, brothers, are conscious that our coming among you was not without effect:
 

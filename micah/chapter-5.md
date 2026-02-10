@@ -1,8 +1,11 @@
 ---
+title: "Micah 5 BBE | Read the Bible Online"
+linkTitle: "5"
+description: "Read Micah 5 Online | Now you will give yourselves deep wounds for grief; they will put up a wall round us: they will give the judge of Israel a blow on the face with a rod..."
 weight: 5
 ---
 
-# Chapter 5
+# Micah 5 
 
 **¹** Now you will give yourselves deep wounds for grief; they will put up a wall round us: they will give the judge of Israel a blow on the face with a rod.
 

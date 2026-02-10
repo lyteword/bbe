@@ -1,8 +1,11 @@
 ---
+title: "Luke 14 BBE | Read the Bible Online"
+linkTitle: "14"
+description: "Read Luke 14 Online | And it came about that when he went into the house of one of the chief Pharisees on the Sabbath, to have a meal, they were watching him..."
 weight: 14
 ---
 
-# Chapter 14
+# Luke 14 
 
 **¹** And it came about that when he went into the house of one of the chief Pharisees on the Sabbath, to have a meal, they were watching him.
 

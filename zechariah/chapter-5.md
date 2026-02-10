@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 5 BBE | Read the Bible Online"
+linkTitle: "5"
+description: "Read Zechariah 5 Online | Then again lifting up my eyes I saw a roll in flight through the air..."
 weight: 5
 ---
 
-# Chapter 5
+# Zechariah 5 
 
 **¹** Then again lifting up my eyes I saw a roll in flight through the air.
 

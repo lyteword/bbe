@@ -1,8 +1,11 @@
 ---
+title: "Exodus 30 BBE | Read the Bible Online"
+linkTitle: "30"
+description: "Read Exodus 30 Online | And you are to make an altar for the burning of perfume; of hard wood let it be made..."
 weight: 30
 ---
 
-# Chapter 30
+# Exodus 30 
 
 **¹** And you are to make an altar for the burning of perfume; of hard wood let it be made.
 

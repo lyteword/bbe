@@ -1,8 +1,11 @@
 ---
+title: "Exodus 25 BBE | Read the Bible Online"
+linkTitle: "25"
+description: "Read Exodus 25 Online | And the Lord said to Moses..."
 weight: 25
 ---
 
-# Chapter 25
+# Exodus 25 
 
 **¹** And the Lord said to Moses,
 

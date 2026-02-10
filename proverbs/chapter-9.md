@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 9 BBE | Read the Bible Online"
+linkTitle: "9"
+description: "Read Proverbs 9 Online | Wisdom has made her house, putting up her seven pillars..."
 weight: 9
 ---
 
-# Chapter 9
+# Proverbs 9 
 
 **¹** Wisdom has made her house, putting up her seven pillars.
 

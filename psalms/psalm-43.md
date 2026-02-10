@@ -1,8 +1,11 @@
 ---
+title: "Psalm 43 BBE | Read the Bible Online"
+linkTitle: "43"
+description: "Read Psalm 43 Online | Be my judge, O God, supporting my cause against a nation without religion; O keep me from the false and evil man..."
 weight: 43
 ---
 
-# Psalm 43
+# Psalm 43 
 
 **¹** Be my judge, O God, supporting my cause against a nation without religion; O keep me from the false and evil man.
 

@@ -1,8 +1,11 @@
 ---
+title: "Numbers 31 BBE | Read the Bible Online"
+linkTitle: "31"
+description: "Read Numbers 31 Online | Then the Lord said to Moses..."
 weight: 31
 ---
 
-# Chapter 31
+# Numbers 31 
 
 **¹** Then the Lord said to Moses,
 

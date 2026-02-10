@@ -1,8 +1,11 @@
 ---
+title: "Titus 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Titus 2 Online | But let your words be in agreement with true and right teaching..."
 weight: 2
 ---
 
-# Chapter 2
+# Titus 2 
 
 **¹** But let your words be in agreement with true and right teaching:
 

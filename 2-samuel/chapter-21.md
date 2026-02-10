@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 21 BBE | Read the Bible Online"
+linkTitle: "21"
+description: "Read 2 Samuel 21 Online | In the days of David they were short of food for three years, year after year; and David went before the Lord for directions. And the Lord said, On Saul and on his family there is blood, because he put the Gibeonites to death..."
 weight: 21
 ---
 
-# Chapter 21
+# 2 Samuel 21 
 
 **¹** In the days of David they were short of food for three years, year after year; and David went before the Lord for directions. And the Lord said, On Saul and on his family there is blood, because he put the Gibeonites to death.
 

@@ -1,8 +1,11 @@
 ---
+title: "Malachi 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Malachi 3 Online | See, I am sending my servant, and he will make ready the way before me; and the Lord, whom you are looking for, will suddenly come to his Temple; and the angel of the agreement, in whom you have delight, see, he is coming, says the Lord of armies..."
 weight: 3
 ---
 
-# Chapter 3
+# Malachi 3 
 
 **¹** See, I am sending my servant, and he will make ready the way before me; and the Lord, whom you are looking for, will suddenly come to his Temple; and the angel of the agreement, in whom you have delight, see, he is coming, says the Lord of armies.
 

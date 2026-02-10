@@ -1,8 +1,11 @@
 ---
+title: "Romans 15 BBE | Read the Bible Online"
+linkTitle: "15"
+description: "Read Romans 15 Online | We who are strong have to be a support to the feeble, and not give pleasure to ourselves..."
 weight: 15
 ---
 
-# Chapter 15
+# Romans 15 
 
 **¹** We who are strong have to be a support to the feeble, and not give pleasure to ourselves.
 

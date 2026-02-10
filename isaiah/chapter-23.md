@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 23 BBE | Read the Bible Online"
+linkTitle: "23"
+description: "Read Isaiah 23 Online | The word about Tyre. Let a cry of sorrow go up, O ships of Tarshish, because your strong place is made waste; on the way back from the land of Kittim the news is given to them..."
 weight: 23
 ---
 
-# Chapter 23
+# Isaiah 23 
 
 **¹** The word about Tyre. Let a cry of sorrow go up, O ships of Tarshish, because your strong place is made waste; on the way back from the land of Kittim the news is given to them.
 

@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 9 BBE | Read the Bible Online"
+linkTitle: "9"
+description: "Read Deuteronomy 9 Online | Give ear, O Israel: today you are to go over Jordan, to take the heritage of nations greater and stronger than yourselves, and towns of great size with walls as high as heaven..."
 weight: 9
 ---
 
-# Chapter 9
+# Deuteronomy 9 
 
 **¹** Give ear, O Israel: today you are to go over Jordan, to take the heritage of nations greater and stronger than yourselves, and towns of great size with walls as high as heaven;
 

@@ -1,8 +1,11 @@
 ---
+title: "Joshua 1 BBE | Read the Bible Online"
+linkTitle: "1"
+description: "Read Joshua 1 Online | Now after the death of Moses, the servant of the Lord, the word of the Lord came to Joshua, the son of Nun, Moses' helper, saying..."
 weight: 1
 ---
 
-# Chapter 1
+# Joshua 1 
 
 **¹** Now after the death of Moses, the servant of the Lord, the word of the Lord came to Joshua, the son of Nun, Moses' helper, saying,
 

@@ -1,8 +1,11 @@
 ---
+title: "Judges 6 BBE | Read the Bible Online"
+linkTitle: "6"
+description: "Read Judges 6 Online | And the children of Israel did evil in the eyes of the Lord; and the Lord gave them up into the hand of Midian for seven years..."
 weight: 6
 ---
 
-# Chapter 6
+# Judges 6 
 
 **¹** And the children of Israel did evil in the eyes of the Lord; and the Lord gave them up into the hand of Midian for seven years.
 

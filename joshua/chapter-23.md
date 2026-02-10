@@ -1,8 +1,11 @@
 ---
+title: "Joshua 23 BBE | Read the Bible Online"
+linkTitle: "23"
+description: "Read Joshua 23 Online | Now after a long time, when the Lord had given Israel rest from wars on every side, and Joshua was old and full of years..."
 weight: 23
 ---
 
-# Chapter 23
+# Joshua 23 
 
 **¹** Now after a long time, when the Lord had given Israel rest from wars on every side, and Joshua was old and full of years,
 

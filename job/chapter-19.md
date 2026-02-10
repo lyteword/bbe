@@ -1,8 +1,11 @@
 ---
+title: "Job 19 BBE | Read the Bible Online"
+linkTitle: "19"
+description: "Read Job 19 Online | And Job made answer and said..."
 weight: 19
 ---
 
-# Chapter 19
+# Job 19 
 
 **¹** And Job made answer and said,
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 22 BBE | Read the Bible Online"
+linkTitle: "22"
+description: "Read Ezekiel 22 Online | And the word of the Lord came to me, saying..."
 weight: 22
 ---
 
-# Chapter 22
+# Ezekiel 22 
 
 **¹** And the word of the Lord came to me, saying,
 

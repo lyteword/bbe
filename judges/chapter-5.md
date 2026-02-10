@@ -1,8 +1,11 @@
 ---
+title: "Judges 5 BBE | Read the Bible Online"
+linkTitle: "5"
+description: "Read Judges 5 Online | At that time Deborah and Barak, the son of Abinoam, made this song, saying..."
 weight: 5
 ---
 
-# Chapter 5
+# Judges 5 
 
 **¹** At that time Deborah and Barak, the son of Abinoam, made this song, saying:
 

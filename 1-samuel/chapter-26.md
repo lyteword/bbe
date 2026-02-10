@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 26 BBE | Read the Bible Online"
+linkTitle: "26"
+description: "Read 1 Samuel 26 Online | And the Ziphites came to Saul at Gibeah, and said, Is not David waiting secretly near us in the hill of Hachilah, before the waste land..."
 weight: 26
 ---
 
-# Chapter 26
+# 1 Samuel 26 
 
 **¹** And the Ziphites came to Saul at Gibeah, and said, Is not David waiting secretly near us in the hill of Hachilah, before the waste land?
 

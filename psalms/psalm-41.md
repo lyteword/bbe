@@ -1,8 +1,11 @@
 ---
+title: "Psalm 41 BBE | Read the Bible Online"
+linkTitle: "41"
+description: "Read Psalm 41 Online | Happy is the man who gives thought to the poor; the Lord will be his saviour in the time of trouble..."
 weight: 41
 ---
 
-# Psalm 41
+# Psalm 41 
 
 To the chief music-maker. A Psalm. Of David.
 

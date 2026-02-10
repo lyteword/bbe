@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 14 BBE | Read the Bible Online"
+linkTitle: "14"
+description: "Read 1 Corinthians 14 Online | Go after love; still desiring to have the things which the Spirit gives, but most of all that you may have the prophet's power..."
 weight: 14
 ---
 
-# Chapter 14
+# 1 Corinthians 14 
 
 **¹** Go after love; still desiring to have the things which the Spirit gives, but most of all that you may have the prophet's power.
 

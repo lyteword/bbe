@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 26 BBE | Read the Bible Online"
+linkTitle: "26"
+description: "Read Deuteronomy 26 Online | Now when you have come into the land which the Lord is giving you for your heritage, and you have made it yours and are living in it..."
 weight: 26
 ---
 
-# Chapter 26
+# Deuteronomy 26 
 
 **¹** Now when you have come into the land which the Lord is giving you for your heritage, and you have made it yours and are living in it;
 

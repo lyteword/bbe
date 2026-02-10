@@ -1,8 +1,11 @@
 ---
+title: "Psalm 36 BBE | Read the Bible Online"
+linkTitle: "36"
+description: "Read Psalm 36 Online | The sin of the evil-doer says in his heart, There is no fear of the Lord before his eyes..."
 weight: 36
 ---
 
-# Psalm 36
+# Psalm 36 
 
 To the chief music-maker. Of the servant of the Lord. Of David.
 

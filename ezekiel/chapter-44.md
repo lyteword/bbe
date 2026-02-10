@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 44 BBE | Read the Bible Online"
+linkTitle: "44"
+description: "Read Ezekiel 44 Online | And he took me back to the outer doorway of the holy place, looking to the east; and it was shut..."
 weight: 44
 ---
 
-# Chapter 44
+# Ezekiel 44 
 
 **¹** And he took me back to the outer doorway of the holy place, looking to the east; and it was shut.
 

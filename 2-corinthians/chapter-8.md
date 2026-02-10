@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 8 BBE | Read the Bible Online"
+linkTitle: "8"
+description: "Read 2 Corinthians 8 Online | And now we give you news, brothers, about the grace of God which has been given to the churches of Macedonia..."
 weight: 8
 ---
 
-# Chapter 8
+# 2 Corinthians 8 
 
 **¹** And now we give you news, brothers, about the grace of God which has been given to the churches of Macedonia;
 

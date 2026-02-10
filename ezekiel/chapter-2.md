@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Ezekiel 2 Online | And he said to me, Son of man, get up on your feet, so that I may say words to you..."
 weight: 2
 ---
 
-# Chapter 2
+# Ezekiel 2 
 
 **¹** And he said to me, Son of man, get up on your feet, so that I may say words to you.
 

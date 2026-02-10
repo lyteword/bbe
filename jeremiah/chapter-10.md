@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 10 BBE | Read the Bible Online"
+linkTitle: "10"
+description: "Read Jeremiah 10 Online | Give ear to the word which the Lord says to you, O people of Israel..."
 weight: 10
 ---
 
-# Chapter 10
+# Jeremiah 10 
 
 **¹** Give ear to the word which the Lord says to you, O people of Israel:
 

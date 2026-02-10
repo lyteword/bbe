@@ -1,8 +1,11 @@
 ---
+title: "1 Peter 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read 1 Peter 3 Online | Wives, be ruled by your husbands; so that even if some of them give no attention to the word, their hearts may be changed by the behaviour of their wives..."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Peter 3 
 
 **¹** Wives, be ruled by your husbands; so that even if some of them give no attention to the word, their hearts may be changed by the behaviour of their wives,
 

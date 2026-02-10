@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 38 BBE | Read the Bible Online"
+linkTitle: "38"
+description: "Read Jeremiah 38 Online | Now it came to the ears of Shephatiah, the son of Mattan, and Gedaliah, the son of Pashhur, and Jucal, the son of Shelemiah, and Pashhur, the son of Malchiah, that Jeremiah had said to all the people..."
 weight: 38
 ---
 
-# Chapter 38
+# Jeremiah 38 
 
 **¹** Now it came to the ears of Shephatiah, the son of Mattan, and Gedaliah, the son of Pashhur, and Jucal, the son of Shelemiah, and Pashhur, the son of Malchiah, that Jeremiah had said to all the people,
 

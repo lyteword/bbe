@@ -1,8 +1,11 @@
 ---
+title: "Psalm 53 BBE | Read the Bible Online"
+linkTitle: "53"
+description: "Read Psalm 53 Online | The foolish man has said in his heart, God will not do anything. They are unclean, they have done evil works; there is not one who does good..."
 weight: 53
 ---
 
-# Psalm 53
+# Psalm 53 
 
 To the chief music-maker; put to Mahalath. Maschil. Of David.
 

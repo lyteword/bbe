@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 15 BBE | Read the Bible Online"
+linkTitle: "15"
+description: "Read Isaiah 15 Online | The word about Moab. For in a night Ar of Moab has become waste, and is seen no longer; for in a night Kir of Moab has become waste, and is seen no longer..."
 weight: 15
 ---
 
-# Chapter 15
+# Isaiah 15 
 
 **¹** The word about Moab. For in a night Ar of Moab has become waste, and is seen no longer; for in a night Kir of Moab has become waste, and is seen no longer.
 

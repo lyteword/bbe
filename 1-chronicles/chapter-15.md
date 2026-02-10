@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 15 BBE | Read the Bible Online"
+linkTitle: "15"
+description: "Read 1 Chronicles 15 Online | And David made houses for himself in the town of David; and he got ready a place for the ark of God, and put up a tent for it..."
 weight: 15
 ---
 
-# Chapter 15
+# 1 Chronicles 15 
 
 **¹** And David made houses for himself in the town of David; and he got ready a place for the ark of God, and put up a tent for it.
 

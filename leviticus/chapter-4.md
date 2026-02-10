@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read Leviticus 4 Online | And the Lord said to Moses..."
 weight: 4
 ---
 
-# Chapter 4
+# Leviticus 4 
 
 **¹** And the Lord said to Moses,
 

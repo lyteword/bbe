@@ -1,8 +1,11 @@
 ---
+title: "Amos 8 BBE | Read the Bible Online"
+linkTitle: "8"
+description: "Read Amos 8 Online | This is what the Lord God let me see: and I saw a basket of summer fruit..."
 weight: 8
 ---
 
-# Chapter 8
+# Amos 8 
 
 **¹** This is what the Lord God let me see: and I saw a basket of summer fruit.
 

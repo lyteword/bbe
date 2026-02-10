@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 9 BBE | Read the Bible Online"
+linkTitle: "9"
+description: "Read Leviticus 9 Online | And on the eighth day Moses sent for Aaron and his sons and the responsible men of Israel..."
 weight: 9
 ---
 
-# Chapter 9
+# Leviticus 9 
 
 **¹** And on the eighth day Moses sent for Aaron and his sons and the responsible men of Israel;
 

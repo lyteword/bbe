@@ -1,8 +1,11 @@
 ---
+title: "Esther 8 BBE | Read the Bible Online"
+linkTitle: "8"
+description: "Read Esther 8 Online | That day the king gave all the family of Haman, the hater of the Jews, to Esther the queen. And Mordecai came before the king, for Esther had made clear what he was to her..."
 weight: 8
 ---
 
-# Chapter 8
+# Esther 8 
 
 **¹** That day the king gave all the family of Haman, the hater of the Jews, to Esther the queen. And Mordecai came before the king, for Esther had made clear what he was to her.
 

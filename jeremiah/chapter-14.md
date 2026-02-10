@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 14 BBE | Read the Bible Online"
+linkTitle: "14"
+description: "Read Jeremiah 14 Online | The word of the Lord came to Jeremiah when there was no water..."
 weight: 14
 ---
 
-# Chapter 14
+# Jeremiah 14 
 
 **¹** The word of the Lord came to Jeremiah when there was no water.
 

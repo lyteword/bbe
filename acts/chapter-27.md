@@ -1,8 +1,11 @@
 ---
+title: "Acts 27 BBE | Read the Bible Online"
+linkTitle: "27"
+description: "Read Acts 27 Online | And when the decision had been made that we were to go by sea to Italy, they gave Paul and certain other prisoners into the care of a captain named Julius, of the Augustan band..."
 weight: 27
 ---
 
-# Chapter 27
+# Acts 27 
 
 **¹** And when the decision had been made that we were to go by sea to Italy, they gave Paul and certain other prisoners into the care of a captain named Julius, of the Augustan band.
 

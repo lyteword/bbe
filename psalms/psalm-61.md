@@ -1,8 +1,11 @@
 ---
+title: "Psalm 61 BBE | Read the Bible Online"
+linkTitle: "61"
+description: "Read Psalm 61 Online | Let my cry come to you, O God; let your ears be open to my prayer..."
 weight: 61
 ---
 
-# Psalm 61
+# Psalm 61 
 
 To the chief music-maker. On a corded instrument. Of David.
 

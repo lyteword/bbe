@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 10 BBE | Read the Bible Online"
+linkTitle: "10"
+description: "Read 1 Chronicles 10 Online | Now the Philistines were fighting against Israel; and the men of Israel went in flight before the Philistines, falling down wounded in Mount Gilboa..."
 weight: 10
 ---
 
-# Chapter 10
+# 1 Chronicles 10 
 
 **¹** Now the Philistines were fighting against Israel; and the men of Israel went in flight before the Philistines, falling down wounded in Mount Gilboa.
 

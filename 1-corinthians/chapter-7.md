@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 7 BBE | Read the Bible Online"
+linkTitle: "7"
+description: "Read 1 Corinthians 7 Online | Now, as to the things in your letter to me: It is good for a man to have nothing to do with a woman..."
 weight: 7
 ---
 
-# Chapter 7
+# 1 Corinthians 7 
 
 **¹** Now, as to the things in your letter to me: It is good for a man to have nothing to do with a woman.
 

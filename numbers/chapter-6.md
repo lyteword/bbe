@@ -1,8 +1,11 @@
 ---
+title: "Numbers 6 BBE | Read the Bible Online"
+linkTitle: "6"
+description: "Read Numbers 6 Online | And the Lord said to Moses..."
 weight: 6
 ---
 
-# Chapter 6
+# Numbers 6 
 
 **¹** And the Lord said to Moses,
 

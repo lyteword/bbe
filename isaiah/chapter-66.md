@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 66 BBE | Read the Bible Online"
+linkTitle: "66"
+description: "Read Isaiah 66 Online | The Lord says, Heaven is the seat of my power, and earth is the resting-place for my feet: what sort of house will you make for me, and what place will be my resting-place..."
 weight: 66
 ---
 
-# Chapter 66
+# Isaiah 66 
 
 **¹** The Lord says, Heaven is the seat of my power, and earth is the resting-place for my feet: what sort of house will you make for me, and what place will be my resting-place?
 

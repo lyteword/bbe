@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 5 BBE | Read the Bible Online"
+linkTitle: "5"
+description: "Read 2 Chronicles 5 Online | So all the work which Solomon did for the house of the Lord was complete. And Solomon took the holy things which David his father had given, the silver and the gold and all the vessels, and put them in the store-houses of the house of God..."
 weight: 5
 ---
 
-# Chapter 5
+# 2 Chronicles 5 
 
 **¹** So all the work which Solomon did for the house of the Lord was complete. And Solomon took the holy things which David his father had given, the silver and the gold and all the vessels, and put them in the store-houses of the house of God.
 

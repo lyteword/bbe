@@ -1,8 +1,11 @@
 ---
+title: "Job 7 BBE | Read the Bible Online"
+linkTitle: "7"
+description: "Read Job 7 Online | Has not man his ordered time of trouble on the earth? and are not his days like the days of a servant working for payment..."
 weight: 7
 ---
 
-# Chapter 7
+# Job 7 
 
 **¹** Has not man his ordered time of trouble on the earth? and are not his days like the days of a servant working for payment?
 

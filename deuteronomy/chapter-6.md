@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 6 BBE | Read the Bible Online"
+linkTitle: "6"
+description: "Read Deuteronomy 6 Online | Now these are the orders and the laws and the decisions which the Lord your God gave me for your teaching, so that you might do them in the land of your heritage to which you are going..."
 weight: 6
 ---
 
-# Chapter 6
+# Deuteronomy 6 
 
 **¹** Now these are the orders and the laws and the decisions which the Lord your God gave me for your teaching, so that you might do them in the land of your heritage to which you are going:
 

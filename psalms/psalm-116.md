@@ -1,8 +1,11 @@
 ---
+title: "Psalm 116 BBE | Read the Bible Online"
+linkTitle: "116"
+description: "Read Psalm 116 Online | I have given my love to the Lord, because he has given ear to the voice of my cry and my prayer..."
 weight: 116
 ---
 
-# Psalm 116
+# Psalm 116 
 
 **¹** I have given my love to the Lord, because he has given ear to the voice of my cry and my prayer.
 

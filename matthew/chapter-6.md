@@ -1,8 +1,11 @@
 ---
+title: "Matthew 6 BBE | Read the Bible Online"
+linkTitle: "6"
+description: "Read Matthew 6 Online | Take care not to do your good works before men, to be seen by them; or you will have no reward from your Father in heaven..."
 weight: 6
 ---
 
-# Chapter 6
+# Matthew 6 
 
 **¹** Take care not to do your good works before men, to be seen by them; or you will have no reward from your Father in heaven.
 

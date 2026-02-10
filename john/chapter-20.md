@@ -1,8 +1,11 @@
 ---
+title: "John 20 BBE | Read the Bible Online"
+linkTitle: "20"
+description: "Read John 20 Online | Now on the first day of the week, very early, while it was still dark, Mary Magdalene came to the place and saw that the stone had been taken away from it..."
 weight: 20
 ---
 
-# Chapter 20
+# John 20 
 
 **¹** Now on the first day of the week, very early, while it was still dark, Mary Magdalene came to the place and saw that the stone had been taken away from it.
 

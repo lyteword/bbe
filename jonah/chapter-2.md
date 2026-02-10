@@ -1,8 +1,11 @@
 ---
+title: "Jonah 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Jonah 2 Online | Then Jonah made prayer to the Lord his God from the inside of the fish, and said..."
 weight: 2
 ---
 
-# Chapter 2
+# Jonah 2 
 
 **¹** Then Jonah made prayer to the Lord his God from the inside of the fish, and said,
 

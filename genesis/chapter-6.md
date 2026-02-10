@@ -1,8 +1,11 @@
 ---
+title: "Genesis 6 BBE | Read the Bible Online"
+linkTitle: "6"
+description: "Read Genesis 6 Online | And after a time, when men were increasing on the earth, and had daughters..."
 weight: 6
 ---
 
-# Chapter 6
+# Genesis 6 
 
 **¹** And after a time, when men were increasing on the earth, and had daughters,
 

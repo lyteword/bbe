@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 11 BBE | Read the Bible Online"
+linkTitle: "11"
+description: "Read 1 Chronicles 11 Online | Then all Israel came together to David at Hebron, and said, Truly, we are your bone and your flesh..."
 weight: 11
 ---
 
-# Chapter 11
+# 1 Chronicles 11 
 
 **¹** Then all Israel came together to David at Hebron, and said, Truly, we are your bone and your flesh.
 

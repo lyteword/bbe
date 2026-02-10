@@ -1,8 +1,11 @@
 ---
+title: "Acts 12 BBE | Read the Bible Online"
+linkTitle: "12"
+description: "Read Acts 12 Online | Now, about that time, Herod the king made cruel attacks on the Christians..."
 weight: 12
 ---
 
-# Chapter 12
+# Acts 12 
 
 **¹** Now, about that time, Herod the king made cruel attacks on the Christians.
 

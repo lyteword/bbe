@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 10 BBE | Read the Bible Online"
+linkTitle: "10"
+description: "Read Ecclesiastes 10 Online | Dead flies make the oil of the perfumer give out an evil smell; more valued is a little wisdom than the great glory of the foolish..."
 weight: 10
 ---
 
-# Chapter 10
+# Ecclesiastes 10 
 
 **¹** Dead flies make the oil of the perfumer give out an evil smell; more valued is a little wisdom than the great glory of the foolish.
 

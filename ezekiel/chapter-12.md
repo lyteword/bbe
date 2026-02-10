@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 12 BBE | Read the Bible Online"
+linkTitle: "12"
+description: "Read Ezekiel 12 Online | And the word of the Lord came to me, saying..."
 weight: 12
 ---
 
-# Chapter 12
+# Ezekiel 12 
 
 **¹** And the word of the Lord came to me, saying,
 

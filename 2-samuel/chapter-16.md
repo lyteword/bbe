@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 16 BBE | Read the Bible Online"
+linkTitle: "16"
+description: "Read 2 Samuel 16 Online | And when David had gone a little way past the top of the slope, Ziba, the servant of Mephibosheth, came to him, with two asses on which were two hundred cakes of bread and a hundred stems of dry grapes and a hundred summer fruits and a skin of wine..."
 weight: 16
 ---
 
-# Chapter 16
+# 2 Samuel 16 
 
 **¹** And when David had gone a little way past the top of the slope, Ziba, the servant of Mephibosheth, came to him, with two asses on which were two hundred cakes of bread and a hundred stems of dry grapes and a hundred summer fruits and a skin of wine.
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 59 BBE | Read the Bible Online"
+linkTitle: "59"
+description: "Read Isaiah 59 Online | Truly, the Lord's hand has not become short, so that he is unable to give salvation; and his ear is not shut from hearing..."
 weight: 59
 ---
 
-# Chapter 59
+# Isaiah 59 
 
 **¹** Truly, the Lord's hand has not become short, so that he is unable to give salvation; and his ear is not shut from hearing:
 

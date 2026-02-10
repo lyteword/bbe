@@ -1,8 +1,11 @@
 ---
+title: "Psalm 52 BBE | Read the Bible Online"
+linkTitle: "52"
+description: "Read Psalm 52 Online | Why do you take pride in wrongdoing, lifting yourself up against the upright man all the day..."
 weight: 52
 ---
 
-# Psalm 52
+# Psalm 52 
 
 To the chief music-maker. Maschil. Of David. When Doeg the Edomite came to Saul saying, David has come to the house of Ahimelech.
 

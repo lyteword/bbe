@@ -1,8 +1,11 @@
 ---
+title: "Matthew 12 BBE | Read the Bible Online"
+linkTitle: "12"
+description: "Read Matthew 12 Online | At that time Jesus went through the fields on the Sabbath day; and his disciples, being in need of food, were taking the heads of grain..."
 weight: 12
 ---
 
-# Chapter 12
+# Matthew 12 
 
 **¹** At that time Jesus went through the fields on the Sabbath day; and his disciples, being in need of food, were taking the heads of grain.
 

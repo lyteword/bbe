@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 16 BBE | Read the Bible Online"
+linkTitle: "16"
+description: "Read Ezekiel 16 Online | And the word of the Lord came to me, saying..."
 weight: 16
 ---
 
-# Chapter 16
+# Ezekiel 16 
 
 **¹** And the word of the Lord came to me, saying,
 

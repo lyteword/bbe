@@ -1,8 +1,11 @@
 ---
+title: "John 18 BBE | Read the Bible Online"
+linkTitle: "18"
+description: "Read John 18 Online | When Jesus had said these words he went out with his disciples over the stream Kedron to a garden, into which he went with his disciples..."
 weight: 18
 ---
 
-# Chapter 18
+# John 18 
 
 **¹** When Jesus had said these words he went out with his disciples over the stream Kedron to a garden, into which he went with his disciples.
 

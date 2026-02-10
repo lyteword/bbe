@@ -1,8 +1,11 @@
 ---
+title: "Genesis 17 BBE | Read the Bible Online"
+linkTitle: "17"
+description: "Read Genesis 17 Online | When Abram was ninety-nine years old, the Lord came to him, and said, I am God, Ruler of all; go in my ways and be upright in all things..."
 weight: 17
 ---
 
-# Chapter 17
+# Genesis 17 
 
 **¹** When Abram was ninety-nine years old, the Lord came to him, and said, I am God, Ruler of all; go in my ways and be upright in all things,
 

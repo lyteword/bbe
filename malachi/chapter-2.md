@@ -1,8 +1,11 @@
 ---
+title: "Malachi 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Malachi 2 Online | And now, O you priests, this order is for you..."
 weight: 2
 ---
 
-# Chapter 2
+# Malachi 2 
 
 **¹** And now, O you priests, this order is for you.
 

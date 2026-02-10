@@ -1,8 +1,11 @@
 ---
+title: "Exodus 1 BBE | Read the Bible Online"
+linkTitle: "1"
+description: "Read Exodus 1 Online | Now these are the names of the sons of Israel who came into Egypt; every man and his family came with Jacob..."
 weight: 1
 ---
 
-# Chapter 1
+# Exodus 1 
 
 **¹** Now these are the names of the sons of Israel who came into Egypt; every man and his family came with Jacob.
 

@@ -1,8 +1,11 @@
 ---
+title: "Genesis 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Genesis 2 Online | And the heaven and the earth and all things in them were complete..."
 weight: 2
 ---
 
-# Chapter 2
+# Genesis 2 
 
 **¹** And the heaven and the earth and all things in them were complete.
 

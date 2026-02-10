@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 14 BBE | Read the Bible Online"
+linkTitle: "14"
+description: "Read 1 Samuel 14 Online | Now one day Jonathan, the son of Saul, said to the young man who was with him, looking after his arms, Come, let us go over to the Philistine force over there. But he said nothing to his father..."
 weight: 14
 ---
 
-# Chapter 14
+# 1 Samuel 14 
 
 **¹** Now one day Jonathan, the son of Saul, said to the young man who was with him, looking after his arms, Come, let us go over to the Philistine force over there. But he said nothing to his father.
 

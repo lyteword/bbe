@@ -1,8 +1,11 @@
 ---
+title: "Exodus 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Exodus 2 Online | Now a man of the house of Levi took as his wife a daughter of Levi..."
 weight: 2
 ---
 
-# Chapter 2
+# Exodus 2 
 
 **¹** Now a man of the house of Levi took as his wife a daughter of Levi.
 

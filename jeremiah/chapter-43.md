@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 43 BBE | Read the Bible Online"
+linkTitle: "43"
+description: "Read Jeremiah 43 Online | And it came about that when Jeremiah had come to the end of giving all the people the words of the Lord their God, which the Lord their God had sent him to say to them, even all these words..."
 weight: 43
 ---
 
-# Chapter 43
+# Jeremiah 43 
 
 **¹** And it came about that when Jeremiah had come to the end of giving all the people the words of the Lord their God, which the Lord their God had sent him to say to them, even all these words,
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 11 BBE | Read the Bible Online"
+linkTitle: "11"
+description: "Read 2 Corinthians 11 Online | Put up with me if I am a little foolish: but, truly, you do put up with me..."
 weight: 11
 ---
 
-# Chapter 11
+# 2 Corinthians 11 
 
 **¹** Put up with me if I am a little foolish: but, truly, you do put up with me.
 

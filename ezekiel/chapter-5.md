@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 5 BBE | Read the Bible Online"
+linkTitle: "5"
+description: "Read Ezekiel 5 Online | And you, son of man, take a sharp sword, using it like a haircutter's blade, and making it go over your head and the hair of your chin: and take scales for separating the hair by weight..."
 weight: 5
 ---
 
-# Chapter 5
+# Ezekiel 5 
 
 **¹** And you, son of man, take a sharp sword, using it like a haircutter's blade, and making it go over your head and the hair of your chin: and take scales for separating the hair by weight.
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 48 BBE | Read the Bible Online"
+linkTitle: "48"
+description: "Read Ezekiel 48 Online | Now these are the names of the tribes: from the north end, from the west on the way of Hethlon to the way into Hamath, in the direction of Hazar-enon, with the limit of Damascus to the north, by Hamath; and on the limit from the east side to the west side: Dan, one part..."
 weight: 48
 ---
 
-# Chapter 48
+# Ezekiel 48 
 
 **¹** Now these are the names of the tribes: from the north end, from the west on the way of Hethlon to the way into Hamath, in the direction of Hazar-enon, with the limit of Damascus to the north, by Hamath; and on the limit from the east side to the west side: Dan, one part.
 

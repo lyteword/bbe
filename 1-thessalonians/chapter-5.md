@@ -1,8 +1,11 @@
 ---
+title: "1 Thessalonians 5 BBE | Read the Bible Online"
+linkTitle: "5"
+description: "Read 1 Thessalonians 5 Online | But about the times and their order, my brothers, there is no need for me to say anything to you..."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Thessalonians 5 
 
 **¹** But about the times and their order, my brothers, there is no need for me to say anything to you.
 

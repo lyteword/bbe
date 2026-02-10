@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 18 BBE | Read the Bible Online"
+linkTitle: "18"
+description: "Read Isaiah 18 Online | Ho! land of the sounding of wings, on the other side of the rivers of Ethiopia..."
 weight: 18
 ---
 
-# Chapter 18
+# Isaiah 18 
 
 **¹** Ho! land of the sounding of wings, on the other side of the rivers of Ethiopia:
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 57 BBE | Read the Bible Online"
+linkTitle: "57"
+description: "Read Psalm 57 Online | Have mercy on me, O God, have mercy on me; for the hope of my soul is in you: I will keep myself safely under the shade of your wings, till these troubles are past..."
 weight: 57
 ---
 
-# Psalm 57
+# Psalm 57 
 
 To the chief music-maker; put to Al-tashheth. Michtam. Of David. When he went in flight from Saul, in the hole of the rock.
 

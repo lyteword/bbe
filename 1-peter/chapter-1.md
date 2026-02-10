@@ -1,8 +1,11 @@
 ---
+title: "1 Peter 1 BBE | Read the Bible Online"
+linkTitle: "1"
+description: "Read 1 Peter 1 Online | Peter, an Apostle of Jesus Christ, to the saints who are living in Pontus, Galatia, Cappadocia, Asia, and Bithynia..."
 weight: 1
 ---
 
-# Chapter 1
+# 1 Peter 1 
 
 **¹** Peter, an Apostle of Jesus Christ, to the saints who are living in Pontus, Galatia, Cappadocia, Asia, and Bithynia,
 

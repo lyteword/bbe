@@ -1,8 +1,11 @@
 ---
+title: "Revelation 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read Revelation 4 Online | After these things I saw a door open in heaven, and the first voice came to my ears, like the sound of a horn, saying, Come up here, and I will make clear to you the things which are to come..."
 weight: 4
 ---
 
-# Chapter 4
+# Revelation 4 
 
 **¹** After these things I saw a door open in heaven, and the first voice came to my ears, like the sound of a horn, saying, Come up here, and I will make clear to you the things which are to come.
 

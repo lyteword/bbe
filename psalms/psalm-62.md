@@ -1,8 +1,11 @@
 ---
+title: "Psalm 62 BBE | Read the Bible Online"
+linkTitle: "62"
+description: "Read Psalm 62 Online | My soul, put all your faith in God; for from him comes my salvation..."
 weight: 62
 ---
 
-# Psalm 62
+# Psalm 62 
 
 To the chief music-maker. After Jeduthun. A Psalm. Of David.
 

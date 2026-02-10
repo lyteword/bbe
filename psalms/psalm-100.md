@@ -1,8 +1,11 @@
 ---
+title: "Psalm 100 BBE | Read the Bible Online"
+linkTitle: "100"
+description: "Read Psalm 100 Online | Make a glad sound to the Lord, all the earth..."
 weight: 100
 ---
 
-# Psalm 100
+# Psalm 100 
 
 A Psalm of Praise.
 

@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read Jeremiah 4 Online | If you will come back, O Israel, says the Lord, you will come back to me: and if you will put away your disgusting ways, you will not be sent away from before me..."
 weight: 4
 ---
 
-# Chapter 4
+# Jeremiah 4 
 
 **¹** If you will come back, O Israel, says the Lord, you will come back to me: and if you will put away your disgusting ways, you will not be sent away from before me.
 

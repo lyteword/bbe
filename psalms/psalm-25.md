@@ -1,8 +1,11 @@
 ---
+title: "Psalm 25 BBE | Read the Bible Online"
+linkTitle: "25"
+description: "Read Psalm 25 Online | To you, O Lord, my soul is lifted up..."
 weight: 25
 ---
 
-# Psalm 25
+# Psalm 25 
 
 Of David.
 

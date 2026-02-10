@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Leviticus 3 Online | And if his offering is given for a peace-offering; if he gives of the herd, male or female, let him give it without any mark on it, before the Lord..."
 weight: 3
 ---
 
-# Chapter 3
+# Leviticus 3 
 
 **¹** And if his offering is given for a peace-offering; if he gives of the herd, male or female, let him give it without any mark on it, before the Lord.
 

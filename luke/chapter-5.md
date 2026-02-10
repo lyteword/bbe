@@ -1,8 +1,11 @@
 ---
+title: "Luke 5 BBE | Read the Bible Online"
+linkTitle: "5"
+description: "Read Luke 5 Online | Now it came about that while the people came pushing to be near him, and to have knowledge of the word of God, he was by a wide stretch of water named Gennesaret..."
 weight: 5
 ---
 
-# Chapter 5
+# Luke 5 
 
 **¹** Now it came about that while the people came pushing to be near him, and to have knowledge of the word of God, he was by a wide stretch of water named Gennesaret;
 

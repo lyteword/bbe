@@ -1,8 +1,11 @@
 ---
+title: "Psalm 122 BBE | Read the Bible Online"
+linkTitle: "122"
+description: "Read Psalm 122 Online | I was glad because they said to me, We will go into the house of the Lord..."
 weight: 122
 ---
 
-# Psalm 122
+# Psalm 122 
 
 A Song of the going up. Of David.
 

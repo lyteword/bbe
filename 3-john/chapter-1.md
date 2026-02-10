@@ -1,8 +1,11 @@
 ---
+title: "3 John 1 BBE | Read the Bible Online"
+linkTitle: "1"
+description: "Read 3 John 1 Online | I, a ruler in the church, send word to the well loved Gaius, for whom I have true love..."
 weight: 1
 ---
 
-# Chapter 1
+# 3 John 1 
 
 **¹** I, a ruler in the church, send word to the well loved Gaius, for whom I have true love.
 

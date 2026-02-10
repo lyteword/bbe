@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 7 BBE | Read the Bible Online"
+linkTitle: "7"
+description: "Read 2 Samuel 7 Online | Now when the king was living in his house, and the Lord had given him rest from war on every side..."
 weight: 7
 ---
 
-# Chapter 7
+# 2 Samuel 7 
 
 **¹** Now when the king was living in his house, and the Lord had given him rest from war on every side;
 

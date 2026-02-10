@@ -1,8 +1,11 @@
 ---
+title: "Amos 7 BBE | Read the Bible Online"
+linkTitle: "7"
+description: "Read Amos 7 Online | This is what the Lord God let me see: and I saw that, when the growth of the late grass was starting, he made locusts; it was the late growth after the king's cutting was done..."
 weight: 7
 ---
 
-# Chapter 7
+# Amos 7 
 
 **¹** This is what the Lord God let me see: and I saw that, when the growth of the late grass was starting, he made locusts; it was the late growth after the king's cutting was done.
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 5 BBE | Read the Bible Online"
+linkTitle: "5"
+description: "Read 1 Chronicles 5 Online | And the sons of Reuben, the oldest son of Israel, (for he was the oldest son, but, because he made his father's bride-bed unclean, his birthright was given to the sons of Joseph, the son of Israel; but he is not to be given the place of the oldest..."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Chronicles 5 
 
 **¹** And the sons of Reuben, the oldest son of Israel, (for he was the oldest son, but, because he made his father's bride-bed unclean, his birthright was given to the sons of Joseph, the son of Israel; but he is not to be given the place of the oldest.
 

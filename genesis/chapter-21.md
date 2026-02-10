@@ -1,8 +1,11 @@
 ---
+title: "Genesis 21 BBE | Read the Bible Online"
+linkTitle: "21"
+description: "Read Genesis 21 Online | And the Lord came to Sarah as he had said and did to her as he had undertaken..."
 weight: 21
 ---
 
-# Chapter 21
+# Genesis 21 
 
 **¹** And the Lord came to Sarah as he had said and did to her as he had undertaken.
 

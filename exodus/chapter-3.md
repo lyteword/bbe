@@ -1,8 +1,11 @@
 ---
+title: "Exodus 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Exodus 3 Online | Now Moses was looking after the flock of Jethro, his father-in-law, the priest of Midian: and he took the flock to the back of the waste land and came to Horeb, the mountain of God..."
 weight: 3
 ---
 
-# Chapter 3
+# Exodus 3 
 
 **¹** Now Moses was looking after the flock of Jethro, his father-in-law, the priest of Midian: and he took the flock to the back of the waste land and came to Horeb, the mountain of God.
 

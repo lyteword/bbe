@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 7 BBE | Read the Bible Online"
+linkTitle: "7"
+description: "Read 2 Kings 7 Online | Then Elisha said, Give ear to the word of the Lord: the Lord says, Tomorrow, about this time, a measure of good meal will be offered for the price of a shekel and two measures of barley for a shekel, in the market-place of Samaria..."
 weight: 7
 ---
 
-# Chapter 7
+# 2 Kings 7 
 
 **¹** Then Elisha said, Give ear to the word of the Lord: the Lord says, Tomorrow, about this time, a measure of good meal will be offered for the price of a shekel and two measures of barley for a shekel, in the market-place of Samaria.
 

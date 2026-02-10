@@ -1,8 +1,11 @@
 ---
+title: "Habakkuk 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Habakkuk 2 Online | I will take my position and be on watch, placing myself on my tower, looking out to see what he will say to me, and what answer he will give to my protest..."
 weight: 2
 ---
 
-# Chapter 2
+# Habakkuk 2 
 
 **¹** I will take my position and be on watch, placing myself on my tower, looking out to see what he will say to me, and what answer he will give to my protest.
 

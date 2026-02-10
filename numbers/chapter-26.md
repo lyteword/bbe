@@ -1,8 +1,11 @@
 ---
+title: "Numbers 26 BBE | Read the Bible Online"
+linkTitle: "26"
+description: "Read Numbers 26 Online | Now after the disease was over, the Lord said to Moses and Eleazar, the son of Aaron the priest..."
 weight: 26
 ---
 
-# Chapter 26
+# Numbers 26 
 
 **¹** Now after the disease was over, the Lord said to Moses and Eleazar, the son of Aaron the priest,
 

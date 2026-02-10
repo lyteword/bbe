@@ -1,8 +1,11 @@
 ---
+title: "Numbers 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Numbers 2 Online | And the Lord said to Moses and Aaron..."
 weight: 2
 ---
 
-# Chapter 2
+# Numbers 2 
 
 **¹** And the Lord said to Moses and Aaron,
 

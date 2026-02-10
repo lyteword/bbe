@@ -1,8 +1,11 @@
 ---
+title: "Matthew 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read Matthew 4 Online | Then Jesus was sent by the Spirit into the waste land to be tested by the Evil One..."
 weight: 4
 ---
 
-# Chapter 4
+# Matthew 4 
 
 **¹** Then Jesus was sent by the Spirit into the waste land to be tested by the Evil One.
 

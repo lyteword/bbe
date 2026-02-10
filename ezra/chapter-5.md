@@ -1,8 +1,11 @@
 ---
+title: "Ezra 5 BBE | Read the Bible Online"
+linkTitle: "5"
+description: "Read Ezra 5 Online | Now the prophets Haggai and Zechariah, the son of Iddo, were preaching to the Jews in Judah and Jerusalem in the name of the God of Israel..."
 weight: 5
 ---
 
-# Chapter 5
+# Ezra 5 
 
 **¹** Now the prophets Haggai and Zechariah, the son of Iddo, were preaching to the Jews in Judah and Jerusalem in the name of the God of Israel.
 

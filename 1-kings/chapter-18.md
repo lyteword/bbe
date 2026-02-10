@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 18 BBE | Read the Bible Online"
+linkTitle: "18"
+description: "Read 1 Kings 18 Online | Now after a long time, the word of the Lord came to Elijah, in the third year, saying, Go and let Ahab see you, so that I may send rain on the earth..."
 weight: 18
 ---
 
-# Chapter 18
+# 1 Kings 18 
 
 **¹** Now after a long time, the word of the Lord came to Elijah, in the third year, saying, Go and let Ahab see you, so that I may send rain on the earth.
 

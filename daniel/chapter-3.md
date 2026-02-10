@@ -1,8 +1,11 @@
 ---
+title: "Daniel 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Daniel 3 Online | Nebuchadnezzar the king made an image of gold, sixty cubits high and six cubits wide: he put it up in the valley of Dura, in the land of Babylon..."
 weight: 3
 ---
 
-# Chapter 3
+# Daniel 3 
 
 **¹** Nebuchadnezzar the king made an image of gold, sixty cubits high and six cubits wide: he put it up in the valley of Dura, in the land of Babylon.
 

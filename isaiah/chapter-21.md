@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 21 BBE | Read the Bible Online"
+linkTitle: "21"
+description: "Read Isaiah 21 Online | The word about the waste land. As storm-winds in the South go rushing through, it comes from the waste land, from the land greatly to be feared..."
 weight: 21
 ---
 
-# Chapter 21
+# Isaiah 21 
 
 **¹** The word about the waste land. As storm-winds in the South go rushing through, it comes from the waste land, from the land greatly to be feared.
 

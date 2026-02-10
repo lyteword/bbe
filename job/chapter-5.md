@@ -1,8 +1,11 @@
 ---
+title: "Job 5 BBE | Read the Bible Online"
+linkTitle: "5"
+description: "Read Job 5 Online | Give now a cry for help; is there anyone who will give you an answer? and to which of the holy ones will you make your prayer..."
 weight: 5
 ---
 
-# Chapter 5
+# Job 5 
 
 **¹** Give now a cry for help; is there anyone who will give you an answer? and to which of the holy ones will you make your prayer?
 

@@ -1,8 +1,11 @@
 ---
+title: "Numbers 25 BBE | Read the Bible Online"
+linkTitle: "25"
+description: "Read Numbers 25 Online | Now when Israel was living in Shittim the people became false to the Lord, doing evil with the daughters of Moab..."
 weight: 25
 ---
 
-# Chapter 25
+# Numbers 25 
 
 **¹** Now when Israel was living in Shittim the people became false to the Lord, doing evil with the daughters of Moab:
 

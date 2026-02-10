@@ -1,8 +1,11 @@
 ---
+title: "Ezra 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Ezra 2 Online | Now these are the people of the divisions of the kingdom, among those who had been made prisoners by Nebuchadnezzar, king of Babylon, and taken away to Babylon, who went back to Jerusalem and Judah, everyone to his town..."
 weight: 2
 ---
 
-# Chapter 2
+# Ezra 2 
 
 **¹** Now these are the people of the divisions of the kingdom, among those who had been made prisoners by Nebuchadnezzar, king of Babylon, and taken away to Babylon, who went back to Jerusalem and Judah, everyone to his town;
 

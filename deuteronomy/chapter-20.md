@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 20 BBE | Read the Bible Online"
+linkTitle: "20"
+description: "Read Deuteronomy 20 Online | When you go out to war against other nations, and come face to face with horses and war-carriages and armies greater in number than yourselves, have no fear of them: for the Lord your God is with you, who took you up out of the land of Egypt..."
 weight: 20
 ---
 
-# Chapter 20
+# Deuteronomy 20 
 
 **¹** When you go out to war against other nations, and come face to face with horses and war-carriages and armies greater in number than yourselves, have no fear of them: for the Lord your God is with you, who took you up out of the land of Egypt.
 

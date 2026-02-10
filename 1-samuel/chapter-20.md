@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 20 BBE | Read the Bible Online"
+linkTitle: "20"
+description: "Read 1 Samuel 20 Online | And David went in flight from Naioth in Ramah and came to Jonathan and said, What have I done? What is my crime and my sin against your father that he is attempting to take my life..."
 weight: 20
 ---
 
-# Chapter 20
+# 1 Samuel 20 
 
 **¹** And David went in flight from Naioth in Ramah and came to Jonathan and said, What have I done? What is my crime and my sin against your father that he is attempting to take my life?
 

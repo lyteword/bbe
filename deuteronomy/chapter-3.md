@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Deuteronomy 3 Online | Then turning we took the road to Bashan: and Og, king of Bashan, came out against us with all his people, and made an attack on us at Edrei..."
 weight: 3
 ---
 
-# Chapter 3
+# Deuteronomy 3 
 
 **¹** Then turning we took the road to Bashan: and Og, king of Bashan, came out against us with all his people, and made an attack on us at Edrei.
 

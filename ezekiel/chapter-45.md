@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 45 BBE | Read the Bible Online"
+linkTitle: "45"
+description: "Read Ezekiel 45 Online | And when you are making a distribution of the land, by the decision of the Lord, for your heritage, you are to make an offering to the Lord of a part of the land as holy: it is to be twenty-five thousand long and twenty thousand wide: all the land inside these limits is to be holy..."
 weight: 45
 ---
 
-# Chapter 45
+# Ezekiel 45 
 
 **¹** And when you are making a distribution of the land, by the decision of the Lord, for your heritage, you are to make an offering to the Lord of a part of the land as holy: it is to be twenty-five thousand long and twenty thousand wide: all the land inside these limits is to be holy.
 

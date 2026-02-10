@@ -1,8 +1,11 @@
 ---
+title: "1 John 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read 1 John 3 Online | See what great love the Father has given us in naming us the children of God; and such we are. For this reason the world does not see who we are, because it did not see who he was..."
 weight: 3
 ---
 
-# Chapter 3
+# 1 John 3 
 
 **¹** See what great love the Father has given us in naming us the children of God; and such we are. For this reason the world does not see who we are, because it did not see who he was.
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 10 BBE | Read the Bible Online"
+linkTitle: "10"
+description: "Read Ezekiel 10 Online | Then looking, I saw that on the arch which was over the head of the winged ones there was seen over them what seemed like a sapphire stone, having the form of a king's seat..."
 weight: 10
 ---
 
-# Chapter 10
+# Ezekiel 10 
 
 **¹** Then looking, I saw that on the arch which was over the head of the winged ones there was seen over them what seemed like a sapphire stone, having the form of a king's seat.
 

@@ -1,8 +1,11 @@
 ---
+title: "Genesis 10 BBE | Read the Bible Online"
+linkTitle: "10"
+description: "Read Genesis 10 Online | Now these are the generations of the sons of Noah, Shem, Ham, and Japheth: these are the sons which they had after the great flow of waters..."
 weight: 10
 ---
 
-# Chapter 10
+# Genesis 10 
 
 **¹** Now these are the generations of the sons of Noah, Shem, Ham, and Japheth: these are the sons which they had after the great flow of waters
 

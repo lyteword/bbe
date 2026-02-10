@@ -1,8 +1,11 @@
 ---
+title: "Psalm 60 BBE | Read the Bible Online"
+linkTitle: "60"
+description: "Read Psalm 60 Online | God, you have put us away from you, you have sent us in all directions, you have been angry; O be turned to us again..."
 weight: 60
 ---
 
-# Psalm 60
+# Psalm 60 
 
 To the chief music-maker; put to Shushan-eduth. Michtam. Of David. For teaching. When he was fighting against Aram-naharaim and Aramzobah, when Joab came back, and put twelve thousand of the Edomites to death, in the Valley of Salt.
 

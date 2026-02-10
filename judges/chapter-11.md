@@ -1,8 +1,11 @@
 ---
+title: "Judges 11 BBE | Read the Bible Online"
+linkTitle: "11"
+description: "Read Judges 11 Online | Now Jephthah the Gileadite was a great man of war; he was the son of a loose woman, and Gilead was his father..."
 weight: 11
 ---
 
-# Chapter 11
+# Judges 11 
 
 **¹** Now Jephthah the Gileadite was a great man of war; he was the son of a loose woman, and Gilead was his father.
 

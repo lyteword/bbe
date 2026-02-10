@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 13 BBE | Read the Bible Online"
+linkTitle: "13"
+description: "Read 1 Corinthians 13 Online | If I make use of the tongues of men and of angels, and have not love, I am like sounding brass, or a loud-tongued bell..."
 weight: 13
 ---
 
-# Chapter 13
+# 1 Corinthians 13 
 
 **¹** If I make use of the tongues of men and of angels, and have not love, I am like sounding brass, or a loud-tongued bell.
 

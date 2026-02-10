@@ -1,8 +1,11 @@
 ---
+title: "Mark 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Mark 2 Online | And when he came into Capernaum again after some days, the news went about that he was in the house..."
 weight: 2
 ---
 
-# Chapter 2
+# Mark 2 
 
 **¹** And when he came into Capernaum again after some days, the news went about that he was in the house.
 

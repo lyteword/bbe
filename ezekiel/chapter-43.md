@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 43 BBE | Read the Bible Online"
+linkTitle: "43"
+description: "Read Ezekiel 43 Online | And he took me to the doorway looking to the east..."
 weight: 43
 ---
 
-# Chapter 43
+# Ezekiel 43 
 
 **¹** And he took me to the doorway looking to the east:
 

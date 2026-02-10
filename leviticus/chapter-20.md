@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 20 BBE | Read the Bible Online"
+linkTitle: "20"
+description: "Read Leviticus 20 Online | And the Lord said to Moses..."
 weight: 20
 ---
 
-# Chapter 20
+# Leviticus 20 
 
 **¹** And the Lord said to Moses,
 

@@ -1,8 +1,11 @@
 ---
+title: "Job 15 BBE | Read the Bible Online"
+linkTitle: "15"
+description: "Read Job 15 Online | And Eliphaz the Temanite made answer and said..."
 weight: 15
 ---
 
-# Chapter 15
+# Job 15 
 
 **¹** And Eliphaz the Temanite made answer and said,
 

@@ -1,8 +1,11 @@
 ---
+title: "Luke 23 BBE | Read the Bible Online"
+linkTitle: "23"
+description: "Read Luke 23 Online | And they all went and took him before Pilate..."
 weight: 23
 ---
 
-# Chapter 23
+# Luke 23 
 
 **¹** And they all went and took him before Pilate.
 

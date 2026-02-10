@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read 1 Corinthians 2 Online | And when I came to you, my brothers, I did not come with wise words of knowledge, putting before you the secret of God..."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Corinthians 2 
 
 **¹** And when I came to you, my brothers, I did not come with wise words of knowledge, putting before you the secret of God.
 

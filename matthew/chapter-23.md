@@ -1,8 +1,11 @@
 ---
+title: "Matthew 23 BBE | Read the Bible Online"
+linkTitle: "23"
+description: "Read Matthew 23 Online | Then Jesus said to the people and to his disciples..."
 weight: 23
 ---
 
-# Chapter 23
+# Matthew 23 
 
 **¹** Then Jesus said to the people and to his disciples:
 

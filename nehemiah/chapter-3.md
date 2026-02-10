@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Nehemiah 3 Online | Then Eliashib, the chief priest, got up with his brothers the priests, and took in hand the building of the sheep doorway; they made it holy and put its doors in position; as far as the tower of Hammeah they made it holy, even to the tower of Hananel..."
 weight: 3
 ---
 
-# Chapter 3
+# Nehemiah 3 
 
 **¹** Then Eliashib, the chief priest, got up with his brothers the priests, and took in hand the building of the sheep doorway; they made it holy and put its doors in position; as far as the tower of Hammeah they made it holy, even to the tower of Hananel.
 

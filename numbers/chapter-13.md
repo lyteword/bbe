@@ -1,8 +1,11 @@
 ---
+title: "Numbers 13 BBE | Read the Bible Online"
+linkTitle: "13"
+description: "Read Numbers 13 Online | And the Lord said to Moses..."
 weight: 13
 ---
 
-# Chapter 13
+# Numbers 13 
 
 **¹** And the Lord said to Moses,
 

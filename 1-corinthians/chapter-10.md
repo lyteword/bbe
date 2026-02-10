@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 10 BBE | Read the Bible Online"
+linkTitle: "10"
+description: "Read 1 Corinthians 10 Online | For it is my desire, my brothers, that you may keep in mind how all our fathers were under the cloud, and they all went through the sea..."
 weight: 10
 ---
 
-# Chapter 10
+# 1 Corinthians 10 
 
 **¹** For it is my desire, my brothers, that you may keep in mind how all our fathers were under the cloud, and they all went through the sea;
 

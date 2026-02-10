@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read 1 Samuel 2 Online | And Hannah, in prayer before the Lord, said, My heart is glad in the Lord, my horn is lifted up in the Lord: my mouth is open wide over my haters; because my joy is in your salvation..."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Samuel 2 
 
 **¹** And Hannah, in prayer before the Lord, said, My heart is glad in the Lord, my horn is lifted up in the Lord: my mouth is open wide over my haters; because my joy is in your salvation.
 

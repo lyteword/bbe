@@ -1,8 +1,11 @@
 ---
+title: "Joshua 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Joshua 2 Online | Then Joshua, the son of Nun, sent two men from Shittim secretly, with the purpose of searching out the land, and Jericho. So they went and came to the house of a loose woman of the town, named Rahab, where they took their rest for the night..."
 weight: 2
 ---
 
-# Chapter 2
+# Joshua 2 
 
 **¹** Then Joshua, the son of Nun, sent two men from Shittim secretly, with the purpose of searching out the land, and Jericho. So they went and came to the house of a loose woman of the town, named Rahab, where they took their rest for the night.
 

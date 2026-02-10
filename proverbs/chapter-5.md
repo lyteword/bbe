@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 5 BBE | Read the Bible Online"
+linkTitle: "5"
+description: "Read Proverbs 5 Online | My son, give attention to my wisdom; let your ear be turned to my teaching..."
 weight: 5
 ---
 
-# Chapter 5
+# Proverbs 5 
 
 **¹** My son, give attention to my wisdom; let your ear be turned to my teaching:
 

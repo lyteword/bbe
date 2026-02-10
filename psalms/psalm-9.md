@@ -1,8 +1,11 @@
 ---
+title: "Psalm 9 BBE | Read the Bible Online"
+linkTitle: "9"
+description: "Read Psalm 9 Online | I will give you praise, O Lord, with all my heart; I will make clear all the wonder of your works..."
 weight: 9
 ---
 
-# Psalm 9
+# Psalm 9 
 
 To the chief music-maker on Muthlabben. A Psalm. Of David.
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Peter 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read 2 Peter 2 Online | But there were false prophets among the people, as there will be false teachers among you, who will secretly put forward wrong teachings for your destruction, even turning away from the Lord who gave himself for them; whose destruction will come quickly, and they themselves will be the cause of it..."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Peter 2 
 
 **¹** But there were false prophets among the people, as there will be false teachers among you, who will secretly put forward wrong teachings for your destruction, even turning away from the Lord who gave himself for them; whose destruction will come quickly, and they themselves will be the cause of it.
 

@@ -1,8 +1,11 @@
 ---
+title: "Ruth 1 BBE | Read the Bible Online"
+linkTitle: "1"
+description: "Read Ruth 1 Online | Now there came a time, in the days of the judges, when there was no food in the land. And a certain man went from Beth-lehem-judah, he and his wife and his two sons, to make a living-place in the country of Moab..."
 weight: 1
 ---
 
-# Chapter 1
+# Ruth 1 
 
 **¹** Now there came a time, in the days of the judges, when there was no food in the land. And a certain man went from Beth-lehem-judah, he and his wife and his two sons, to make a living-place in the country of Moab.
 

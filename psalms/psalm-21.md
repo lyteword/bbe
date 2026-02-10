@@ -1,8 +1,11 @@
 ---
+title: "Psalm 21 BBE | Read the Bible Online"
+linkTitle: "21"
+description: "Read Psalm 21 Online | The king will be glad in your strength, O Lord; how great will be his delight in your salvation..."
 weight: 21
 ---
 
-# Psalm 21
+# Psalm 21 
 
 To the chief music-maker. A Psalm. Of David.
 

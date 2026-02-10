@@ -1,8 +1,11 @@
 ---
+title: "Numbers 32 BBE | Read the Bible Online"
+linkTitle: "32"
+description: "Read Numbers 32 Online | Now the children of Reuben and the children of Gad had a great number of cattle: and when they saw that the land of Jazer and the land of Gilead was a good place for cattle..."
 weight: 32
 ---
 
-# Chapter 32
+# Numbers 32 
 
 **¹** Now the children of Reuben and the children of Gad had a great number of cattle: and when they saw that the land of Jazer and the land of Gilead was a good place for cattle;
 

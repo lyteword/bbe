@@ -1,8 +1,11 @@
 ---
+title: "Judges 20 BBE | Read the Bible Online"
+linkTitle: "20"
+description: "Read Judges 20 Online | Then all the children of Israel took up arms, and the people came together like one man, from Dan to Beer-sheba, and the land of Gilead, before the Lord at Mizpah..."
 weight: 20
 ---
 
-# Chapter 20
+# Judges 20 
 
 **¹** Then all the children of Israel took up arms, and the people came together like one man, from Dan to Beer-sheba, and the land of Gilead, before the Lord at Mizpah.
 

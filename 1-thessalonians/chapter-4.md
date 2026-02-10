@@ -1,8 +1,11 @@
 ---
+title: "1 Thessalonians 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read 1 Thessalonians 4 Online | And last of all, the prayer which we make to you from our heart and in the name of the Lord Jesus, is this: that as we made clear to you what sort of behaviour is pleasing to God, as in fact you are doing now, so you will go on in these ways, but more and more..."
 weight: 4
 ---
 
-# Chapter 4
+# 1 Thessalonians 4 
 
 **¹** And last of all, the prayer which we make to you from our heart and in the name of the Lord Jesus, is this: that as we made clear to you what sort of behaviour is pleasing to God, as in fact you are doing now, so you will go on in these ways, but more and more.
 

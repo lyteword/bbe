@@ -1,8 +1,11 @@
 ---
+title: "John 12 BBE | Read the Bible Online"
+linkTitle: "12"
+description: "Read John 12 Online | Then, six days before the Passover, Jesus came to Bethany where Lazarus was, whom Jesus had made to come back from the dead..."
 weight: 12
 ---
 
-# Chapter 12
+# John 12 
 
 **¹** Then, six days before the Passover, Jesus came to Bethany where Lazarus was, whom Jesus had made to come back from the dead.
 

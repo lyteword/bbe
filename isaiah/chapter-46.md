@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 46 BBE | Read the Bible Online"
+linkTitle: "46"
+description: "Read Isaiah 46 Online | Bel is bent down, Nebo is falling; their images are on the beasts and on the cattle: the things which you took about have become a weight to the tired beast..."
 weight: 46
 ---
 
-# Chapter 46
+# Isaiah 46 
 
 **¹** Bel is bent down, Nebo is falling; their images are on the beasts and on the cattle: the things which you took about have become a weight to the tired beast.
 

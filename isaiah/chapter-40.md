@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 40 BBE | Read the Bible Online"
+linkTitle: "40"
+description: "Read Isaiah 40 Online | Give comfort, give comfort, to my people, says your God..."
 weight: 40
 ---
 
-# Chapter 40
+# Isaiah 40 
 
 **¹** Give comfort, give comfort, to my people, says your God.
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Thessalonians 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read 2 Thessalonians 2 Online | Now as to the coming of the Lord Jesus Christ, and our meeting with him, it is our desire, my brothers..."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Thessalonians 2 
 
 **¹** Now as to the coming of the Lord Jesus Christ, and our meeting with him, it is our desire, my brothers,
 

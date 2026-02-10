@@ -1,8 +1,11 @@
 ---
+title: "Mark 6 BBE | Read the Bible Online"
+linkTitle: "6"
+description: "Read Mark 6 Online | And he went away from there, and came into his country; and his disciples went with him..."
 weight: 6
 ---
 
-# Chapter 6
+# Mark 6 
 
 **¹** And he went away from there, and came into his country; and his disciples went with him.
 

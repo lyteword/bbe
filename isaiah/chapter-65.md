@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 65 BBE | Read the Bible Online"
+linkTitle: "65"
+description: "Read Isaiah 65 Online | I have been ready to give an answer to those who did not make prayer to me; I have been offering myself to those who were not searching for me; I said, Here am I, here am I, to a nation which gave no respect to my name..."
 weight: 65
 ---
 
-# Chapter 65
+# Isaiah 65 
 
 **¹** I have been ready to give an answer to those who did not make prayer to me; I have been offering myself to those who were not searching for me; I said, Here am I, here am I, to a nation which gave no respect to my name.
 

@@ -1,8 +1,11 @@
 ---
+title: "Romans 5 BBE | Read the Bible Online"
+linkTitle: "5"
+description: "Read Romans 5 Online | For which reason, because we have righteousness through faith, let us be at peace with God through our Lord Jesus Christ..."
 weight: 5
 ---
 
-# Chapter 5
+# Romans 5 
 
 **¹** For which reason, because we have righteousness through faith, let us be at peace with God through our Lord Jesus Christ;
 

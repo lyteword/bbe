@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 9 BBE | Read the Bible Online"
+linkTitle: "9"
+description: "Read Isaiah 9 Online | In earlier times he made the land of Zebulun and the land of Naphtali of small value, but after that he gave it glory, by the way of the sea, on the other side of Jordan, Galilee of the nations..."
 weight: 9
 ---
 
-# Chapter 9
+# Isaiah 9 
 
 **¹** In earlier times he made the land of Zebulun and the land of Naphtali of small value, but after that he gave it glory, by the way of the sea, on the other side of Jordan, Galilee of the nations.
 

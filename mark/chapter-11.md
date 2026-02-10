@@ -1,8 +1,11 @@
 ---
+title: "Mark 11 BBE | Read the Bible Online"
+linkTitle: "11"
+description: "Read Mark 11 Online | And when they came near to Jerusalem, to Beth-phage and Bethany, at the Mountain of Olives, he sent two of his disciples..."
 weight: 11
 ---
 
-# Chapter 11
+# Mark 11 
 
 **¹** And when they came near to Jerusalem, to Beth-phage and Bethany, at the Mountain of Olives, he sent two of his disciples,
 

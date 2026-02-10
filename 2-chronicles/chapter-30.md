@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 30 BBE | Read the Bible Online"
+linkTitle: "30"
+description: "Read 2 Chronicles 30 Online | Then Hezekiah sent word to all Israel and Judah, and sent letters to Ephraim and Manasseh, requesting them to come to the house of the Lord at Jerusalem, to keep the Passover to the Lord, the God of Israel..."
 weight: 30
 ---
 
-# Chapter 30
+# 2 Chronicles 30 
 
 **¹** Then Hezekiah sent word to all Israel and Judah, and sent letters to Ephraim and Manasseh, requesting them to come to the house of the Lord at Jerusalem, to keep the Passover to the Lord, the God of Israel.
 

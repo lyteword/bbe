@@ -1,8 +1,11 @@
 ---
+title: "Obadiah 1 BBE | Read the Bible Online"
+linkTitle: "1"
+description: "Read Obadiah 1 Online | The vision of Obadiah. This is what the Lord has said about Edom: We have had word from the Lord, and a representative has been sent among the nations, saying, Up! and let us make war against her..."
 weight: 1
 ---
 
-# Chapter 1
+# Obadiah 1 
 
 **¹** The vision of Obadiah. This is what the Lord has said about Edom: We have had word from the Lord, and a representative has been sent among the nations, saying, Up! and let us make war against her.
 

@@ -1,8 +1,11 @@
 ---
+title: "Micah 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Micah 3 Online | And I said, Give ear, now, you heads of Jacob and rulers of the people of Israel: is it not for you to have knowledge of what is right..."
 weight: 3
 ---
 
-# Chapter 3
+# Micah 3 
 
 **¹** And I said, Give ear, now, you heads of Jacob and rulers of the people of Israel: is it not for you to have knowledge of what is right?
 

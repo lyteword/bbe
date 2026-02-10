@@ -1,8 +1,11 @@
 ---
+title: "Hosea 8 BBE | Read the Bible Online"
+linkTitle: "8"
+description: "Read Hosea 8 Online | Put the horn to your mouth. He comes like an eagle against the house of the Lord; because they have gone against my agreement, they have not kept my law..."
 weight: 8
 ---
 
-# Chapter 8
+# Hosea 8 
 
 **¹** Put the horn to your mouth. He comes like an eagle against the house of the Lord; because they have gone against my agreement, they have not kept my law.
 

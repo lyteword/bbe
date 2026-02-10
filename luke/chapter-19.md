@@ -1,8 +1,11 @@
 ---
+title: "Luke 19 BBE | Read the Bible Online"
+linkTitle: "19"
+description: "Read Luke 19 Online | And he went into Jericho, and when he was going through it..."
 weight: 19
 ---
 
-# Chapter 19
+# Luke 19 
 
 **¹** And he went into Jericho, and when he was going through it,
 

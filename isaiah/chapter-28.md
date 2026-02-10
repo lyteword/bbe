@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 28 BBE | Read the Bible Online"
+linkTitle: "28"
+description: "Read Isaiah 28 Online | Ho! crown of pride of those who are given up to wine in Ephraim, and the dead flower of his glory which is on the head of those who are overcome by strong drink..."
 weight: 28
 ---
 
-# Chapter 28
+# Isaiah 28 
 
 **¹** Ho! crown of pride of those who are given up to wine in Ephraim, and the dead flower of his glory which is on the head of those who are overcome by strong drink!
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 19 BBE | Read the Bible Online"
+linkTitle: "19"
+description: "Read Psalm 19 Online | The heavens are sounding the glory of God; the arch of the sky makes clear the work of his hands..."
 weight: 19
 ---
 
-# Psalm 19
+# Psalm 19 
 
 To the chief music-maker. A Psalm. Of David.
 

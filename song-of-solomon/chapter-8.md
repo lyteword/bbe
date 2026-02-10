@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 8 BBE | Read the Bible Online"
+linkTitle: "8"
+description: "Read Song Of Solomon 8 Online | Oh that you were my brother, who took milk from my mother's breasts! When I came to you in the street, I would give you kisses; yes, I would not be looked down on..."
 weight: 8
 ---
 
-# Chapter 8
+# Song Of Solomon 8 
 
 **¹** Oh that you were my brother, who took milk from my mother's breasts! When I came to you in the street, I would give you kisses; yes, I would not be looked down on.
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 20 BBE | Read the Bible Online"
+linkTitle: "20"
+description: "Read Ezekiel 20 Online | Now it came about in the seventh year, in the fifth month, on the tenth day of the month, that certain of the responsible men of Israel came to get directions from the Lord and were seated before me..."
 weight: 20
 ---
 
-# Chapter 20
+# Ezekiel 20 
 
 **¹** Now it came about in the seventh year, in the fifth month, on the tenth day of the month, that certain of the responsible men of Israel came to get directions from the Lord and were seated before me.
 

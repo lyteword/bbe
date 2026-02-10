@@ -1,8 +1,11 @@
 ---
+title: "Numbers 20 BBE | Read the Bible Online"
+linkTitle: "20"
+description: "Read Numbers 20 Online | In the first month all the children of Israel came into the waste land of Zin, and put up their tents in Kadesh; there death came to Miriam, and they put her body to rest in the earth..."
 weight: 20
 ---
 
-# Chapter 20
+# Numbers 20 
 
 **¹** In the first month all the children of Israel came into the waste land of Zin, and put up their tents in Kadesh; there death came to Miriam, and they put her body to rest in the earth.
 

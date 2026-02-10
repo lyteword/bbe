@@ -1,8 +1,11 @@
 ---
+title: "Malachi 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read Malachi 4 Online | For see, the day is coming, it is burning like an oven; all the men of pride and all who do evil will be dry stems of grass: and in the day which is coming they will be burned up, says the Lord of armies, till they have not a root or a branch..."
 weight: 4
 ---
 
-# Chapter 4
+# Malachi 4 
 
 **¹** For see, the day is coming, it is burning like an oven; all the men of pride and all who do evil will be dry stems of grass: and in the day which is coming they will be burned up, says the Lord of armies, till they have not a root or a branch.
 

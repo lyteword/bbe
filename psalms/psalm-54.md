@@ -1,8 +1,11 @@
 ---
+title: "Psalm 54 BBE | Read the Bible Online"
+linkTitle: "54"
+description: "Read Psalm 54 Online | Let your name be my salvation, O God; let my cause be judged by your strength..."
 weight: 54
 ---
 
-# Psalm 54
+# Psalm 54 
 
 To the chief music-maker; on Neginoth. Maschil. Of David. When the Ziphites came and said to Saul, Is not David keeping himself secret among us?
 

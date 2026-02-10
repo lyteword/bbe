@@ -1,8 +1,11 @@
 ---
+title: "Philippians 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read Philippians 4 Online | So my brothers, well loved and very dear to me, my joy and crown, be strong in the Lord, my loved ones..."
 weight: 4
 ---
 
-# Chapter 4
+# Philippians 4 
 
 **¹** So my brothers, well loved and very dear to me, my joy and crown, be strong in the Lord, my loved ones.
 

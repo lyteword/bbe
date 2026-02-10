@@ -1,8 +1,11 @@
 ---
+title: "Genesis 43 BBE | Read the Bible Online"
+linkTitle: "43"
+description: "Read Genesis 43 Online | Now the land was in bitter need of food..."
 weight: 43
 ---
 
-# Chapter 43
+# Genesis 43 
 
 **¹** Now the land was in bitter need of food.
 

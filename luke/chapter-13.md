@@ -1,8 +1,11 @@
 ---
+title: "Luke 13 BBE | Read the Bible Online"
+linkTitle: "13"
+description: "Read Luke 13 Online | Now some people who were there at that time, gave him an account of how the blood of some Galilaeans had been mixed by Pilate with their offerings..."
 weight: 13
 ---
 
-# Chapter 13
+# Luke 13 
 
 **¹** Now some people who were there at that time, gave him an account of how the blood of some Galilaeans had been mixed by Pilate with their offerings.
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 28 BBE | Read the Bible Online"
+linkTitle: "28"
+description: "Read Ezekiel 28 Online | The word of the Lord came to me again, saying..."
 weight: 28
 ---
 
-# Chapter 28
+# Ezekiel 28 
 
 **¹** The word of the Lord came to me again, saying,
 

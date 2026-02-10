@@ -1,8 +1,11 @@
 ---
+title: "Luke 9 BBE | Read the Bible Online"
+linkTitle: "9"
+description: "Read Luke 9 Online | And getting the twelve together, he gave them power and authority over all evil spirits and over diseases, to make them well..."
 weight: 9
 ---
 
-# Chapter 9
+# Luke 9 
 
 **¹** And getting the twelve together, he gave them power and authority over all evil spirits and over diseases, to make them well.
 

@@ -1,8 +1,11 @@
 ---
+title: "Exodus 15 BBE | Read the Bible Online"
+linkTitle: "15"
+description: "Read Exodus 15 Online | Then Moses and the children of Israel made this song to the Lord, and said, I will make a song to the Lord, for he is lifted up in glory: the horse and the horseman he has sent down into the sea..."
 weight: 15
 ---
 
-# Chapter 15
+# Exodus 15 
 
 **¹** Then Moses and the children of Israel made this song to the Lord, and said, I will make a song to the Lord, for he is lifted up in glory: the horse and the horseman he has sent down into the sea.
 

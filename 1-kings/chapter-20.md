@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 20 BBE | Read the Bible Online"
+linkTitle: "20"
+description: "Read 1 Kings 20 Online | Now Ben-hadad, king of Aram, got all his army together, and thirty-two kings with him, and horses and carriages of war; he went up and made war on Samaria, shutting it in..."
 weight: 20
 ---
 
-# Chapter 20
+# 1 Kings 20 
 
 **¹** Now Ben-hadad, king of Aram, got all his army together, and thirty-two kings with him, and horses and carriages of war; he went up and made war on Samaria, shutting it in.
 

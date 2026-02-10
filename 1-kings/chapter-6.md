@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 6 BBE | Read the Bible Online"
+linkTitle: "6"
+description: "Read 1 Kings 6 Online | In the four hundred and eightieth year after the children of Israel came out of the land of Egypt, in the fourth year that Solomon was king of Israel, in the month Ziv, which is the second month, the building of the Lord's house was started..."
 weight: 6
 ---
 
-# Chapter 6
+# 1 Kings 6 
 
 **¹** In the four hundred and eightieth year after the children of Israel came out of the land of Egypt, in the fourth year that Solomon was king of Israel, in the month Ziv, which is the second month, the building of the Lord's house was started.
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezra 9 BBE | Read the Bible Online"
+linkTitle: "9"
+description: "Read Ezra 9 Online | Now after these things were done, the captains came to me and said, The people of Israel and the priests and Levites have not kept themselves separate from the people of the lands, but have taken part in the disgusting ways of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites..."
 weight: 9
 ---
 
-# Chapter 9
+# Ezra 9 
 
 **¹** Now after these things were done, the captains came to me and said, The people of Israel and the priests and Levites have not kept themselves separate from the people of the lands, but have taken part in the disgusting ways of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites.
 

@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 14 BBE | Read the Bible Online"
+linkTitle: "14"
+description: "Read Proverbs 14 Online | Wisdom is building her house, but the foolish woman is pulling it down with her hands..."
 weight: 14
 ---
 
-# Chapter 14
+# Proverbs 14 
 
 **¹** Wisdom is building her house, but the foolish woman is pulling it down with her hands.
 

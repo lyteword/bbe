@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 53 BBE | Read the Bible Online"
+linkTitle: "53"
+description: "Read Isaiah 53 Online | Who would have had faith in the word which has come to our ears, and to whom had the arm of the Lord been unveiled..."
 weight: 53
 ---
 
-# Chapter 53
+# Isaiah 53 
 
 **¹** Who would have had faith in the word which has come to our ears, and to whom had the arm of the Lord been unveiled?
 

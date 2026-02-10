@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 12 BBE | Read the Bible Online"
+linkTitle: "12"
+description: "Read 1 Chronicles 12 Online | Now these are the men who came to David at Ziklag, while he was still shut up, because of Saul, the son of Kish; they were among the strong men, his helpers in war..."
 weight: 12
 ---
 
-# Chapter 12
+# 1 Chronicles 12 
 
 **¹** Now these are the men who came to David at Ziklag, while he was still shut up, because of Saul, the son of Kish; they were among the strong men, his helpers in war.
 

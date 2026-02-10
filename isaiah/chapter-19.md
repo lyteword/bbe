@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 19 BBE | Read the Bible Online"
+linkTitle: "19"
+description: "Read Isaiah 19 Online | The word about Egypt. See, the Lord is seated on a quick-moving cloud, and is coming to Egypt: and the false gods of Egypt will be troubled at his coming, and the heart of Egypt will be turned to water..."
 weight: 19
 ---
 
-# Chapter 19
+# Isaiah 19 
 
 **¹** The word about Egypt. See, the Lord is seated on a quick-moving cloud, and is coming to Egypt: and the false gods of Egypt will be troubled at his coming, and the heart of Egypt will be turned to water.
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 48 BBE | Read the Bible Online"
+linkTitle: "48"
+description: "Read Isaiah 48 Online | Give ear to this, O family of Jacob, you who are named by the name of Israel, and have come out of the body of Judah; who take oaths by the name of the Lord, and make use of the name of the God of Israel, but not truly and not in good faith..."
 weight: 48
 ---
 
-# Chapter 48
+# Isaiah 48 
 
 **¹** Give ear to this, O family of Jacob, you who are named by the name of Israel, and have come out of the body of Judah; who take oaths by the name of the Lord, and make use of the name of the God of Israel, but not truly and not in good faith.
 

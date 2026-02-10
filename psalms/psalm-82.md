@@ -1,8 +1,11 @@
 ---
+title: "Psalm 82 BBE | Read the Bible Online"
+linkTitle: "82"
+description: "Read Psalm 82 Online | God is in the meeting-place of God; he is judging among the gods..."
 weight: 82
 ---
 
-# Psalm 82
+# Psalm 82 
 
 A Psalm. Of Asaph.
 

@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 39 BBE | Read the Bible Online"
+linkTitle: "39"
+description: "Read Jeremiah 39 Online | And it came about, that when Jerusalem was taken, (in the ninth year of Zedekiah, king of Judah, in the tenth month, Nebuchadrezzar, king of Babylon, with all his army, came against Jerusalem, shutting it in on every side..."
 weight: 39
 ---
 
-# Chapter 39
+# Jeremiah 39 
 
 **¹** And it came about, that when Jerusalem was taken, (in the ninth year of Zedekiah, king of Judah, in the tenth month, Nebuchadrezzar, king of Babylon, with all his army, came against Jerusalem, shutting it in on every side;
 

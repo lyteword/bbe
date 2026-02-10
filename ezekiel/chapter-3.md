@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Ezekiel 3 Online | And he said to me, Son of man, take this roll for your food, and go and say my words to the children of Israel..."
 weight: 3
 ---
 
-# Chapter 3
+# Ezekiel 3 
 
 **¹** And he said to me, Son of man, take this roll for your food, and go and say my words to the children of Israel.
 

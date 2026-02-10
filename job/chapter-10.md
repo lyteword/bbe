@@ -1,8 +1,11 @@
 ---
+title: "Job 10 BBE | Read the Bible Online"
+linkTitle: "10"
+description: "Read Job 10 Online | My soul is tired of life; I will let my sad thoughts go free in words; my soul will make a bitter outcry..."
 weight: 10
 ---
 
-# Chapter 10
+# Job 10 
 
 **¹** My soul is tired of life; I will let my sad thoughts go free in words; my soul will make a bitter outcry.
 

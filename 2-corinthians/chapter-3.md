@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read 2 Corinthians 3 Online | Do we seem to be again attempting to put ourselves in the right? or have we need, as some have, of letters of approval to you or from you..."
 weight: 3
 ---
 
-# Chapter 3
+# 2 Corinthians 3 
 
 **¹** Do we seem to be again attempting to put ourselves in the right? or have we need, as some have, of letters of approval to you or from you?
 

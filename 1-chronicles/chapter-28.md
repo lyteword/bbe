@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 28 BBE | Read the Bible Online"
+linkTitle: "28"
+description: "Read 1 Chronicles 28 Online | And David got together at Jerusalem all the rulers of Israel, the chiefs of the tribes and the captains of the divisions waiting on the king in turn, and the captains of thousands and the captains of hundreds and the controllers of all the goods and property of the king and his sons, with the unsexed servants and the great men of war..."
 weight: 28
 ---
 
-# Chapter 28
+# 1 Chronicles 28 
 
 **¹** And David got together at Jerusalem all the rulers of Israel, the chiefs of the tribes and the captains of the divisions waiting on the king in turn, and the captains of thousands and the captains of hundreds and the controllers of all the goods and property of the king and his sons, with the unsexed servants and the great men of war.
 

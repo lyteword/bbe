@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read Deuteronomy 4 Online | And now give ear, O Israel, to the laws and the decisions which I am teaching you, and do them; so that life may be yours, and you may go in and take for yourselves the land which the Lord, the God of your fathers, is giving you..."
 weight: 4
 ---
 
-# Chapter 4
+# Deuteronomy 4 
 
 **¹** And now give ear, O Israel, to the laws and the decisions which I am teaching you, and do them; so that life may be yours, and you may go in and take for yourselves the land which the Lord, the God of your fathers, is giving you.
 

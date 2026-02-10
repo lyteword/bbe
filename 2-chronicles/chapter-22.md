@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 22 BBE | Read the Bible Online"
+linkTitle: "22"
+description: "Read 2 Chronicles 22 Online | And the people of Jerusalem made Ahaziah, his youngest son, king in his place, for the band of men who came with the Arabians to the army had put all the older sons to death. So Ahaziah, the son of Jehoram, became king..."
 weight: 22
 ---
 
-# Chapter 22
+# 2 Chronicles 22 
 
 **¹** And the people of Jerusalem made Ahaziah, his youngest son, king in his place, for the band of men who came with the Arabians to the army had put all the older sons to death. So Ahaziah, the son of Jehoram, became king.
 

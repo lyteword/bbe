@@ -1,8 +1,11 @@
 ---
+title: "Genesis 31 BBE | Read the Bible Online"
+linkTitle: "31"
+description: "Read Genesis 31 Online | Now it came to the ears of Jacob that Laban's sons were saying, Jacob has taken away all our father's property, and in this way he has got all this wealth..."
 weight: 31
 ---
 
-# Chapter 31
+# Genesis 31 
 
 **¹** Now it came to the ears of Jacob that Laban's sons were saying, Jacob has taken away all our father's property, and in this way he has got all this wealth.
 

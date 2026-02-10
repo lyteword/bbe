@@ -1,8 +1,11 @@
 ---
+title: "Acts 21 BBE | Read the Bible Online"
+linkTitle: "21"
+description: "Read Acts 21 Online | And after parting from them, we put out to sea and came straight to Cos, and the day after to Rhodes, and from there to Patara..."
 weight: 21
 ---
 
-# Chapter 21
+# Acts 21 
 
 **¹** And after parting from them, we put out to sea and came straight to Cos, and the day after to Rhodes, and from there to Patara:
 

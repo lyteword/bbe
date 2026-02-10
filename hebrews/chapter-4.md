@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read Hebrews 4 Online | Let us then, though we still have God's word that we may come into his rest, go in fear that some of you may be unable to do so..."
 weight: 4
 ---
 
-# Chapter 4
+# Hebrews 4 
 
 **¹** Let us then, though we still have God's word that we may come into his rest, go in fear that some of you may be unable to do so.
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 17 BBE | Read the Bible Online"
+linkTitle: "17"
+description: "Read 1 Kings 17 Online | And Elijah the Tishbite, of Tishbe in Gilead, said to Ahab, By the living Lord, the God of Israel, whose servant I am, there will be no dew or rain in these years, but only at my word..."
 weight: 17
 ---
 
-# Chapter 17
+# 1 Kings 17 
 
 **¹** And Elijah the Tishbite, of Tishbe in Gilead, said to Ahab, By the living Lord, the God of Israel, whose servant I am, there will be no dew or rain in these years, but only at my word.
 

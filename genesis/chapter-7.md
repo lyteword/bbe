@@ -1,8 +1,11 @@
 ---
+title: "Genesis 7 BBE | Read the Bible Online"
+linkTitle: "7"
+description: "Read Genesis 7 Online | And the Lord said to Noah, Take all your family and go into the ark, for you only in this generation have I seen to be upright..."
 weight: 7
 ---
 
-# Chapter 7
+# Genesis 7 
 
 **¹** And the Lord said to Noah, Take all your family and go into the ark, for you only in this generation have I seen to be upright.
 

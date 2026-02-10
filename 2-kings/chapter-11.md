@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 11 BBE | Read the Bible Online"
+linkTitle: "11"
+description: "Read 2 Kings 11 Online | Now when Athaliah, the mother of Ahaziah, saw that her son was dead, she had all the rest of the seed of the kingdom put to death..."
 weight: 11
 ---
 
-# Chapter 11
+# 2 Kings 11 
 
 **¹** Now when Athaliah, the mother of Ahaziah, saw that her son was dead, she had all the rest of the seed of the kingdom put to death.
 

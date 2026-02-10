@@ -1,8 +1,11 @@
 ---
+title: "Matthew 9 BBE | Read the Bible Online"
+linkTitle: "9"
+description: "Read Matthew 9 Online | And he got into a boat and went across and came to his town..."
 weight: 9
 ---
 
-# Chapter 9
+# Matthew 9 
 
 **¹** And he got into a boat and went across and came to his town.
 

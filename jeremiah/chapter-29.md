@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 29 BBE | Read the Bible Online"
+linkTitle: "29"
+description: "Read Jeremiah 29 Online | Now these are the words of the letter which Jeremiah the prophet sent from Jerusalem to the responsible men among those who had been taken away, and to the priests and the prophets and to all the rest of the people whom Nebuchadnezzar had taken away prisoners from Jerusalem to Babylon..."
 weight: 29
 ---
 
-# Chapter 29
+# Jeremiah 29 
 
 **¹** Now these are the words of the letter which Jeremiah the prophet sent from Jerusalem to the responsible men among those who had been taken away, and to the priests and the prophets and to all the rest of the people whom Nebuchadnezzar had taken away prisoners from Jerusalem to Babylon;
 

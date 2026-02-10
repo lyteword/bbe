@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 12 BBE | Read the Bible Online"
+linkTitle: "12"
+description: "Read Ecclesiastes 12 Online | Let your mind be turned to your Maker in the days of your strength, while the evil days come not, and the years are far away when you will say, I have no pleasure in them..."
 weight: 12
 ---
 
-# Chapter 12
+# Ecclesiastes 12 
 
 **¹** Let your mind be turned to your Maker in the days of your strength, while the evil days come not, and the years are far away when you will say, I have no pleasure in them;
 

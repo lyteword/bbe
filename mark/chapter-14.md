@@ -1,8 +1,11 @@
 ---
+title: "Mark 14 BBE | Read the Bible Online"
+linkTitle: "14"
+description: "Read Mark 14 Online | It was now two days before the feast of the Passover and the unleavened bread: and the chief priests and the scribes made designs how they might take him by deceit and put him to death..."
 weight: 14
 ---
 
-# Chapter 14
+# Mark 14 
 
 **¹** It was now two days before the feast of the Passover and the unleavened bread: and the chief priests and the scribes made designs how they might take him by deceit and put him to death:
 

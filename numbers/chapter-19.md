@@ -1,8 +1,11 @@
 ---
+title: "Numbers 19 BBE | Read the Bible Online"
+linkTitle: "19"
+description: "Read Numbers 19 Online | And the Lord said to Moses and Aaron..."
 weight: 19
 ---
 
-# Chapter 19
+# Numbers 19 
 
 **¹** And the Lord said to Moses and Aaron,
 

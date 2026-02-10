@@ -1,8 +1,11 @@
 ---
+title: "Nahum 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Nahum 3 Online | A curse is on the town of blood; it is full of deceit and violent acts; and there is no end to the taking of life..."
 weight: 3
 ---
 
-# Chapter 3
+# Nahum 3 
 
 **¹** A curse is on the town of blood; it is full of deceit and violent acts; and there is no end to the taking of life.
 

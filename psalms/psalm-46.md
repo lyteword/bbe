@@ -1,8 +1,11 @@
 ---
+title: "Psalm 46 BBE | Read the Bible Online"
+linkTitle: "46"
+description: "Read Psalm 46 Online | God is our harbour and our strength, a very present help in trouble..."
 weight: 46
 ---
 
-# Psalm 46
+# Psalm 46 
 
 To the chief music-maker. Of the sons of Korah; put to Alamoth. A Song.
 

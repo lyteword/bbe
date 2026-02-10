@@ -1,8 +1,11 @@
 ---
+title: "Matthew 18 BBE | Read the Bible Online"
+linkTitle: "18"
+description: "Read Matthew 18 Online | In that hour the disciples came to Jesus, saying, Who is greatest in the kingdom of heaven..."
 weight: 18
 ---
 
-# Chapter 18
+# Matthew 18 
 
 **¹** In that hour the disciples came to Jesus, saying, Who is greatest in the kingdom of heaven?
 

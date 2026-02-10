@@ -1,8 +1,11 @@
 ---
+title: "Exodus 19 BBE | Read the Bible Online"
+linkTitle: "19"
+description: "Read Exodus 19 Online | In the third month after the children of Israel went out from Egypt, on the same day, they came into the waste land of Sinai..."
 weight: 19
 ---
 
-# Chapter 19
+# Exodus 19 
 
 **¹** In the third month after the children of Israel went out from Egypt, on the same day, they came into the waste land of Sinai.
 

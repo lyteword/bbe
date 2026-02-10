@@ -1,8 +1,11 @@
 ---
+title: "Psalm 119 BBE | Read the Bible Online"
+linkTitle: "119"
+description: "Read Psalm 119 Online | Happy are they who are without sin in their ways, walking in the law of the Lord..."
 weight: 119
 ---
 
-# Psalm 119
+# Psalm 119 
 
 ALEPH
 

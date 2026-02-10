@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 11 BBE | Read the Bible Online"
+linkTitle: "11"
+description: "Read 1 Corinthians 11 Online | So take me for your example, even as I take Christ for mine..."
 weight: 11
 ---
 
-# Chapter 11
+# 1 Corinthians 11 
 
 **¹** So take me for your example, even as I take Christ for mine.
 

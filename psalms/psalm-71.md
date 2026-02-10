@@ -1,8 +1,11 @@
 ---
+title: "Psalm 71 BBE | Read the Bible Online"
+linkTitle: "71"
+description: "Read Psalm 71 Online | In you, O Lord, have I put my hope; let me never be shamed..."
 weight: 71
 ---
 
-# Psalm 71
+# Psalm 71 
 
 **¹** In you, O Lord, have I put my hope; let me never be shamed.
 

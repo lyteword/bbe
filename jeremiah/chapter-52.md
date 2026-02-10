@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 52 BBE | Read the Bible Online"
+linkTitle: "52"
+description: "Read Jeremiah 52 Online | Zedekiah was twenty-one years old when he became king; he was king for eleven years in Jerusalem: and his mother's name was Hamutal, the daughter of Jeremiah of Libnah..."
 weight: 52
 ---
 
-# Chapter 52
+# Jeremiah 52 
 
 **¹** Zedekiah was twenty-one years old when he became king; he was king for eleven years in Jerusalem: and his mother's name was Hamutal, the daughter of Jeremiah of Libnah.
 

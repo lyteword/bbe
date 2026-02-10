@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 27 BBE | Read the Bible Online"
+linkTitle: "27"
+description: "Read 1 Samuel 27 Online | And David said to himself, Some day death will come to me by the hand of Saul: the only thing for me to do is to get away into the land of the Philistines; then Saul will give up hope of taking me in any part of the land of Israel: and so I may be able to get away from him..."
 weight: 27
 ---
 
-# Chapter 27
+# 1 Samuel 27 
 
 **¹** And David said to himself, Some day death will come to me by the hand of Saul: the only thing for me to do is to get away into the land of the Philistines; then Saul will give up hope of taking me in any part of the land of Israel: and so I may be able to get away from him.
 

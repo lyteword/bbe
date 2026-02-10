@@ -1,8 +1,11 @@
 ---
+title: "Numbers 10 BBE | Read the Bible Online"
+linkTitle: "10"
+description: "Read Numbers 10 Online | And the Lord said to Moses..."
 weight: 10
 ---
 
-# Chapter 10
+# Numbers 10 
 
 **¹** And the Lord said to Moses,
 

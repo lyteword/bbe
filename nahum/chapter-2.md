@@ -1,8 +1,11 @@
 ---
+title: "Nahum 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Nahum 2 Online | A crusher has come up before your face: keep a good look-out, let the way be watched, make yourself strong, let your power be greatly increased..."
 weight: 2
 ---
 
-# Chapter 2
+# Nahum 2 
 
 **¹** A crusher has come up before your face: keep a good look-out, let the way be watched, make yourself strong, let your power be greatly increased.
 

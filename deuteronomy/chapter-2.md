@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Deuteronomy 2 Online | Then we went back, journeying into the waste land by the way to the Red Sea, as the Lord had said to me: and we were a long time going round Mount Seir..."
 weight: 2
 ---
 
-# Chapter 2
+# Deuteronomy 2 
 
 **¹** Then we went back, journeying into the waste land by the way to the Red Sea, as the Lord had said to me: and we were a long time going round Mount Seir.
 

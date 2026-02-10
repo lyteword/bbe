@@ -1,8 +1,11 @@
 ---
+title: "Acts 23 BBE | Read the Bible Online"
+linkTitle: "23"
+description: "Read Acts 23 Online | And Paul, looking fixedly at the Sanhedrin, said, My brothers, my life has been upright before God till this day..."
 weight: 23
 ---
 
-# Chapter 23
+# Acts 23 
 
 **¹** And Paul, looking fixedly at the Sanhedrin, said, My brothers, my life has been upright before God till this day.
 

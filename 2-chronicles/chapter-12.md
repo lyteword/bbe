@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 12 BBE | Read the Bible Online"
+linkTitle: "12"
+description: "Read 2 Chronicles 12 Online | Now when Rehoboam's position as king had been made certain, and he was strong, he gave up the law of the Lord, and all Israel with him..."
 weight: 12
 ---
 
-# Chapter 12
+# 2 Chronicles 12 
 
 **¹** Now when Rehoboam's position as king had been made certain, and he was strong, he gave up the law of the Lord, and all Israel with him.
 

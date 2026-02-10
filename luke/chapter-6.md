@@ -1,8 +1,11 @@
 ---
+title: "Luke 6 BBE | Read the Bible Online"
+linkTitle: "6"
+description: "Read Luke 6 Online | Now it came about that on the Sabbath he was going through the fields of grain, and his disciples took the heads of the grain for food, crushing them in their hands..."
 weight: 6
 ---
 
-# Chapter 6
+# Luke 6 
 
 **¹** Now it came about that on the Sabbath he was going through the fields of grain, and his disciples took the heads of the grain for food, crushing them in their hands.
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 8 BBE | Read the Bible Online"
+linkTitle: "8"
+description: "Read Ezekiel 8 Online | Now in the sixth year, in the sixth month, on the fifth day of the month, when I was in my house and the responsible men of Judah were seated before me, the hand of the Lord came on me there..."
 weight: 8
 ---
 
-# Chapter 8
+# Ezekiel 8 
 
 **¹** Now in the sixth year, in the sixth month, on the fifth day of the month, when I was in my house and the responsible men of Judah were seated before me, the hand of the Lord came on me there.
 

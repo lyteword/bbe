@@ -1,8 +1,11 @@
 ---
+title: "Exodus 21 BBE | Read the Bible Online"
+linkTitle: "21"
+description: "Read Exodus 21 Online | Now these are the laws which you are to put before them..."
 weight: 21
 ---
 
-# Chapter 21
+# Exodus 21 
 
 **¹** Now these are the laws which you are to put before them.
 

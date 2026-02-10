@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 24 BBE | Read the Bible Online"
+linkTitle: "24"
+description: "Read Ezekiel 24 Online | And the word of the Lord came to me in the ninth year, in the tenth month, on the tenth day of the month, saying..."
 weight: 24
 ---
 
-# Chapter 24
+# Ezekiel 24 
 
 **¹** And the word of the Lord came to me in the ninth year, in the tenth month, on the tenth day of the month, saying,
 

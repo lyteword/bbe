@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 21 BBE | Read the Bible Online"
+linkTitle: "21"
+description: "Read Leviticus 21 Online | And the Lord said to Moses, Say to the priests, the sons of Aaron, Let no man make himself unclean for the dead among his people..."
 weight: 21
 ---
 
-# Chapter 21
+# Leviticus 21 
 
 **¹** And the Lord said to Moses, Say to the priests, the sons of Aaron, Let no man make himself unclean for the dead among his people;
 

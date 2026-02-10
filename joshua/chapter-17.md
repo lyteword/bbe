@@ -1,8 +1,11 @@
 ---
+title: "Joshua 17 BBE | Read the Bible Online"
+linkTitle: "17"
+description: "Read Joshua 17 Online | And this was the part marked out for the tribe of Manasseh, because he was the oldest son of Joseph. As for Machir, the oldest son of Manasseh, the father of Gilead, because he was a man of war he had Gilead and Bashan..."
 weight: 17
 ---
 
-# Chapter 17
+# Joshua 17 
 
 **¹** And this was the part marked out for the tribe of Manasseh, because he was the oldest son of Joseph. As for Machir, the oldest son of Manasseh, the father of Gilead, because he was a man of war he had Gilead and Bashan.
 

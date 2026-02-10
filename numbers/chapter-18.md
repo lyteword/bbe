@@ -1,8 +1,11 @@
 ---
+title: "Numbers 18 BBE | Read the Bible Online"
+linkTitle: "18"
+description: "Read Numbers 18 Online | And the Lord said to Aaron, You and your sons and your father's family are to be responsible for all wrongdoing in relation to the holy place: and you and your sons are to be responsible for the errors which come about in your work as priests..."
 weight: 18
 ---
 
-# Chapter 18
+# Numbers 18 
 
 **¹** And the Lord said to Aaron, You and your sons and your father's family are to be responsible for all wrongdoing in relation to the holy place: and you and your sons are to be responsible for the errors which come about in your work as priests.
 

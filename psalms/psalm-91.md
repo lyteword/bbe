@@ -1,8 +1,11 @@
 ---
+title: "Psalm 91 BBE | Read the Bible Online"
+linkTitle: "91"
+description: "Read Psalm 91 Online | Happy is he whose resting-place is in the secret of the Lord, and under the shade of the wings of the Most High..."
 weight: 91
 ---
 
-# Psalm 91
+# Psalm 91 
 
 **¹** Happy is he whose resting-place is in the secret of the Lord, and under the shade of the wings of the Most High;
 

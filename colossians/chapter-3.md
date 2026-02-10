@@ -1,8 +1,11 @@
 ---
+title: "Colossians 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Colossians 3 Online | If then you have a new life with Christ, give your attention to the things of heaven, where Christ is seated at the right hand of God..."
 weight: 3
 ---
 
-# Chapter 3
+# Colossians 3 
 
 **¹** If then you have a new life with Christ, give your attention to the things of heaven, where Christ is seated at the right hand of God.
 

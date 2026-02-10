@@ -1,8 +1,11 @@
 ---
+title: "Judges 10 BBE | Read the Bible Online"
+linkTitle: "10"
+description: "Read Judges 10 Online | Now after Abimelech, Tola, the son of Puah, the son of Dodo, a man of Issachar, became the saviour of Israel; he was living in Shamir in the hill-country of Ephraim..."
 weight: 10
 ---
 
-# Chapter 10
+# Judges 10 
 
 **¹** Now after Abimelech, Tola, the son of Puah, the son of Dodo, a man of Issachar, became the saviour of Israel; he was living in Shamir in the hill-country of Ephraim.
 

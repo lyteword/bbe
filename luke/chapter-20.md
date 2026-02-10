@@ -1,8 +1,11 @@
 ---
+title: "Luke 20 BBE | Read the Bible Online"
+linkTitle: "20"
+description: "Read Luke 20 Online | And it came about on one of those days, when he was teaching the people in the Temple and preaching the good news..."
 weight: 20
 ---
 
-# Chapter 20
+# Luke 20 
 
 **¹** And it came about on one of those days, when he was teaching the people in the Temple and preaching the good news,
 

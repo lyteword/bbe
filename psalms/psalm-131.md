@@ -1,8 +1,11 @@
 ---
+title: "Psalm 131 BBE | Read the Bible Online"
+linkTitle: "131"
+description: "Read Psalm 131 Online | Lord, there is no pride in my heart and my eyes are not lifted up; and I have not taken part in great undertakings, or in things over-hard for me..."
 weight: 131
 ---
 
-# Psalm 131
+# Psalm 131 
 
 A Song of the going up. Of David.
 

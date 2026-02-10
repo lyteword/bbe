@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 7 BBE | Read the Bible Online"
+linkTitle: "7"
+description: "Read Zechariah 7 Online | And it came about in the fourth year of King Darius, that the word of the Lord came to Zechariah on the fourth day of the ninth month, the month Chislev..."
 weight: 7
 ---
 
-# Chapter 7
+# Zechariah 7 
 
 **¹** And it came about in the fourth year of King Darius, that the word of the Lord came to Zechariah on the fourth day of the ninth month, the month Chislev.
 

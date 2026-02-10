@@ -1,8 +1,11 @@
 ---
+title: "Amos 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Amos 3 Online | Give ear to this word which the Lord has said against you, O children of Israel, against all the family which I took up out of the land of Egypt, saying..."
 weight: 3
 ---
 
-# Chapter 3
+# Amos 3 
 
 **¹** Give ear to this word which the Lord has said against you, O children of Israel, against all the family which I took up out of the land of Egypt, saying,
 

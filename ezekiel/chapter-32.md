@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 32 BBE | Read the Bible Online"
+linkTitle: "32"
+description: "Read Ezekiel 32 Online | And it came about in the twelfth year, in the twelfth month, on the first day of the month, that the word of the Lord came to me, saying..."
 weight: 32
 ---
 
-# Chapter 32
+# Ezekiel 32 
 
 **¹** And it came about in the twelfth year, in the twelfth month, on the first day of the month, that the word of the Lord came to me, saying,
 

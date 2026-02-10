@@ -1,8 +1,11 @@
 ---
+title: "Esther 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Esther 3 Online | After these things, by the order of the king, Haman, the son of Hammedatha the Agagite, was lifted up and given a position of honour and a higher place than all the other captains who were with him..."
 weight: 3
 ---
 
-# Chapter 3
+# Esther 3 
 
 **¹** After these things, by the order of the king, Haman, the son of Hammedatha the Agagite, was lifted up and given a position of honour and a higher place than all the other captains who were with him.
 

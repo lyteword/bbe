@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 19 BBE | Read the Bible Online"
+linkTitle: "19"
+description: "Read Deuteronomy 19 Online | When the nations, whose land the Lord your God is giving you, have been cut off by him, and you have taken their place and are living in their towns and in their houses..."
 weight: 19
 ---
 
-# Chapter 19
+# Deuteronomy 19 
 
 **¹** When the nations, whose land the Lord your God is giving you, have been cut off by him, and you have taken their place and are living in their towns and in their houses;
 

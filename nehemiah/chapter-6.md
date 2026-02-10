@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 6 BBE | Read the Bible Online"
+linkTitle: "6"
+description: "Read Nehemiah 6 Online | Now when word was given to Sanballat and Tobiah and to Geshem the Arabian and to the rest of our haters, that I had done the building of the wall and that there were no more broken places in it (though even then I had not put up the doors in the doorways)..."
 weight: 6
 ---
 
-# Chapter 6
+# Nehemiah 6 
 
 **¹** Now when word was given to Sanballat and Tobiah and to Geshem the Arabian and to the rest of our haters, that I had done the building of the wall and that there were no more broken places in it (though even then I had not put up the doors in the doorways);
 

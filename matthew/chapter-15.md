@@ -1,8 +1,11 @@
 ---
+title: "Matthew 15 BBE | Read the Bible Online"
+linkTitle: "15"
+description: "Read Matthew 15 Online | Then there came to Jesus from Jerusalem Pharisees and scribes, saying..."
 weight: 15
 ---
 
-# Chapter 15
+# Matthew 15 
 
 **¹** Then there came to Jesus from Jerusalem Pharisees and scribes, saying,
 

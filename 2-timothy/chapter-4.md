@@ -1,8 +1,11 @@
 ---
+title: "2 Timothy 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read 2 Timothy 4 Online | I give you orders, before God and Christ Jesus, who will be the judge of the living and the dead, and by his revelation and his kingdom..."
 weight: 4
 ---
 
-# Chapter 4
+# 2 Timothy 4 
 
 **¹** I give you orders, before God and Christ Jesus, who will be the judge of the living and the dead, and by his revelation and his kingdom;
 

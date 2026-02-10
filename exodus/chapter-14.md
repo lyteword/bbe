@@ -1,8 +1,11 @@
 ---
+title: "Exodus 14 BBE | Read the Bible Online"
+linkTitle: "14"
+description: "Read Exodus 14 Online | And the Lord said to Moses..."
 weight: 14
 ---
 
-# Chapter 14
+# Exodus 14 
 
 **¹** And the Lord said to Moses,
 

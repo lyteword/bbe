@@ -1,8 +1,11 @@
 ---
+title: "Genesis 47 BBE | Read the Bible Online"
+linkTitle: "47"
+description: "Read Genesis 47 Online | Then Joseph went to Pharaoh, and said, My father and my brothers with their flocks and their herds and all they have, are come from Canaan, and are now in the land of Goshen..."
 weight: 47
 ---
 
-# Chapter 47
+# Genesis 47 
 
 **¹** Then Joseph went to Pharaoh, and said, My father and my brothers with their flocks and their herds and all they have, are come from Canaan, and are now in the land of Goshen.
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 118 BBE | Read the Bible Online"
+linkTitle: "118"
+description: "Read Psalm 118 Online | O give praise to the Lord, for he is good: for his mercy is unchanging for ever..."
 weight: 118
 ---
 
-# Psalm 118
+# Psalm 118 
 
 **¹** O give praise to the Lord, for he is good: for his mercy is unchanging for ever.
 

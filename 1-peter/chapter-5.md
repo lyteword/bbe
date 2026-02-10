@@ -1,8 +1,11 @@
 ---
+title: "1 Peter 5 BBE | Read the Bible Online"
+linkTitle: "5"
+description: "Read 1 Peter 5 Online | I who am myself one of the rulers of the church, and a witness of the death of Christ, having my part in the coming glory, send this serious request to the chief men among you..."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Peter 5 
 
 **¹** I who am myself one of the rulers of the church, and a witness of the death of Christ, having my part in the coming glory, send this serious request to the chief men among you:
 

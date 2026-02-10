@@ -1,8 +1,11 @@
 ---
+title: "Numbers 11 BBE | Read the Bible Online"
+linkTitle: "11"
+description: "Read Numbers 11 Online | Now the people were saying evil against the Lord; and the Lord, hearing it, was angry and sent fire on them, burning the outer parts of the tent-circle..."
 weight: 11
 ---
 
-# Chapter 11
+# Numbers 11 
 
 **¹** Now the people were saying evil against the Lord; and the Lord, hearing it, was angry and sent fire on them, burning the outer parts of the tent-circle.
 

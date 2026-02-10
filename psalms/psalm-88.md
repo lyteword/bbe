@@ -1,8 +1,11 @@
 ---
+title: "Psalm 88 BBE | Read the Bible Online"
+linkTitle: "88"
+description: "Read Psalm 88 Online | O Lord, God of my salvation, I have been crying to you for help by day and by night..."
 weight: 88
 ---
 
-# Psalm 88
+# Psalm 88 
 
 A Song. A Psalm. Of the sons of Korah. To the chief music-maker; put to Mahalath Leannoth. Maschil. Of Heman the Ezrahite.
 

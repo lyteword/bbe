@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Leviticus 2 Online | And when anyone makes a meal offering to the Lord, let his offering be of the best meal, with oil on it and perfume..."
 weight: 2
 ---
 
-# Chapter 2
+# Leviticus 2 
 
 **¹** And when anyone makes a meal offering to the Lord, let his offering be of the best meal, with oil on it and perfume:
 

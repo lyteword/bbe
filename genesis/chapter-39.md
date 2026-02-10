@@ -1,8 +1,11 @@
 ---
+title: "Genesis 39 BBE | Read the Bible Online"
+linkTitle: "39"
+description: "Read Genesis 39 Online | Now Joseph was taken down to Egypt; and Potiphar the Egyptian, a captain of high position in Pharaoh's house, got him for a price from the Ishmaelites who had taken him there..."
 weight: 39
 ---
 
-# Chapter 39
+# Genesis 39 
 
 **¹** Now Joseph was taken down to Egypt; and Potiphar the Egyptian, a captain of high position in Pharaoh's house, got him for a price from the Ishmaelites who had taken him there.
 

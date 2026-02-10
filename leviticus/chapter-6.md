@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 6 BBE | Read the Bible Online"
+linkTitle: "6"
+description: "Read Leviticus 6 Online | And the Lord said to Moses..."
 weight: 6
 ---
 
-# Chapter 6
+# Leviticus 6 
 
 **¹** And the Lord said to Moses,
 

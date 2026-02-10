@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 14 BBE | Read the Bible Online"
+linkTitle: "14"
+description: "Read 2 Samuel 14 Online | Now it was clear to Joab, the son of Zeruiah, that the king's heart was turning to Absalom..."
 weight: 14
 ---
 
-# Chapter 14
+# 2 Samuel 14 
 
 **¹** Now it was clear to Joab, the son of Zeruiah, that the king's heart was turning to Absalom.
 

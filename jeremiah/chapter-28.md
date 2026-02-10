@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 28 BBE | Read the Bible Online"
+linkTitle: "28"
+description: "Read Jeremiah 28 Online | And it came about in that year, when Zedekiah first became king of Judah, in the fourth year, in the fifth month, that Hananiah, the son of Azzur the prophet, who came from Gibeon, said to Jeremiah in the house of the Lord, before the priests and all the people..."
 weight: 28
 ---
 
-# Chapter 28
+# Jeremiah 28 
 
 **¹** And it came about in that year, when Zedekiah first became king of Judah, in the fourth year, in the fifth month, that Hananiah, the son of Azzur the prophet, who came from Gibeon, said to Jeremiah in the house of the Lord, before the priests and all the people,
 

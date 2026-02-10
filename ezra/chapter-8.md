@@ -1,8 +1,11 @@
 ---
+title: "Ezra 8 BBE | Read the Bible Online"
+linkTitle: "8"
+description: "Read Ezra 8 Online | Now these are the heads of families who were listed of those who went up with me from Babylon, when Artaxerxes was king..."
 weight: 8
 ---
 
-# Chapter 8
+# Ezra 8 
 
 **¹** Now these are the heads of families who were listed of those who went up with me from Babylon, when Artaxerxes was king.
 

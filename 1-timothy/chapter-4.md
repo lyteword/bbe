@@ -1,8 +1,11 @@
 ---
+title: "1 Timothy 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read 1 Timothy 4 Online | But the Spirit says clearly that in later times some will be turned away from the faith, giving their minds to spirits of deceit, and the teachings of evil spirits..."
 weight: 4
 ---
 
-# Chapter 4
+# 1 Timothy 4 
 
 **¹** But the Spirit says clearly that in later times some will be turned away from the faith, giving their minds to spirits of deceit, and the teachings of evil spirits,
 

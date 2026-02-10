@@ -1,8 +1,11 @@
 ---
+title: "John 10 BBE | Read the Bible Online"
+linkTitle: "10"
+description: "Read John 10 Online | Truly I say to you, He who does not go through the door into the place where the sheep are kept, but gets in by some other way, is a thief and an outlaw..."
 weight: 10
 ---
 
-# Chapter 10
+# John 10 
 
 **¹** Truly I say to you, He who does not go through the door into the place where the sheep are kept, but gets in by some other way, is a thief and an outlaw.
 

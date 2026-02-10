@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 10 BBE | Read the Bible Online"
+linkTitle: "10"
+description: "Read Leviticus 10 Online | And Nadab and Abihu, the sons of Aaron, took their vessels and put fire in them and perfume, burning strange fire before the Lord, which he had not given them orders to do..."
 weight: 10
 ---
 
-# Chapter 10
+# Leviticus 10 
 
 **¹** And Nadab and Abihu, the sons of Aaron, took their vessels and put fire in them and perfume, burning strange fire before the Lord, which he had not given them orders to do.
 

@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 11 BBE | Read the Bible Online"
+linkTitle: "11"
+description: "Read Leviticus 11 Online | And the Lord said to Moses and Aaron..."
 weight: 11
 ---
 
-# Chapter 11
+# Leviticus 11 
 
 **¹** And the Lord said to Moses and Aaron,
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 144 BBE | Read the Bible Online"
+linkTitle: "144"
+description: "Read Psalm 144 Online | Praise be to the God of my strength, teaching my hands the use of the sword, and my fingers the art of fighting..."
 weight: 144
 ---
 
-# Psalm 144
+# Psalm 144 
 
 A Psalm. Of David.
 

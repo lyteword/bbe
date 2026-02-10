@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 26 BBE | Read the Bible Online"
+linkTitle: "26"
+description: "Read Ezekiel 26 Online | Now in the eleventh year, on the first day of the month, the word of the Lord came to me, saying..."
 weight: 26
 ---
 
-# Chapter 26
+# Ezekiel 26 
 
 **¹** Now in the eleventh year, on the first day of the month, the word of the Lord came to me, saying,
 

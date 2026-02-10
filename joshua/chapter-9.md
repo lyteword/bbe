@@ -1,8 +1,11 @@
 ---
+title: "Joshua 9 BBE | Read the Bible Online"
+linkTitle: "9"
+description: "Read Joshua 9 Online | Now on hearing the news of these things, all the kings on the west side of Jordan, in the hill-country and the lowlands and by the Great Sea in front of Lebanon, the Hittites and the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusites..."
 weight: 9
 ---
 
-# Chapter 9
+# Joshua 9 
 
 **¹** Now on hearing the news of these things, all the kings on the west side of Jordan, in the hill-country and the lowlands and by the Great Sea in front of Lebanon, the Hittites and the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusites,
 

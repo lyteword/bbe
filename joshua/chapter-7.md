@@ -1,8 +1,11 @@
 ---
+title: "Joshua 7 BBE | Read the Bible Online"
+linkTitle: "7"
+description: "Read Joshua 7 Online | But the children of Israel did wrong about the cursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the family of Judah, took of the cursed thing, moving the Lord to wrath against the children of Israel..."
 weight: 7
 ---
 
-# Chapter 7
+# Joshua 7 
 
 **¹** But the children of Israel did wrong about the cursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the family of Judah, took of the cursed thing, moving the Lord to wrath against the children of Israel.
 

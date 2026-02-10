@@ -1,8 +1,11 @@
 ---
+title: "2 Peter 1 BBE | Read the Bible Online"
+linkTitle: "1"
+description: "Read 2 Peter 1 Online | Simon Peter, a servant and Apostle of Jesus Christ, to those who with us have a part in the same holy faith in the righteousness of our God and Saviour Jesus Christ..."
 weight: 1
 ---
 
-# Chapter 1
+# 2 Peter 1 
 
 **¹** Simon Peter, a servant and Apostle of Jesus Christ, to those who with us have a part in the same holy faith in the righteousness of our God and Saviour Jesus Christ:
 

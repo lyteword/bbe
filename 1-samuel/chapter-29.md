@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 29 BBE | Read the Bible Online"
+linkTitle: "29"
+description: "Read 1 Samuel 29 Online | Now the Philistines got all their army together at Aphek: and the Israelites put their forces in position by the fountain in Jezreel..."
 weight: 29
 ---
 
-# Chapter 29
+# 1 Samuel 29 
 
 **¹** Now the Philistines got all their army together at Aphek: and the Israelites put their forces in position by the fountain in Jezreel.
 

@@ -1,8 +1,11 @@
 ---
+title: "Matthew 14 BBE | Read the Bible Online"
+linkTitle: "14"
+description: "Read Matthew 14 Online | At that time news of Jesus came to Herod the king..."
 weight: 14
 ---
 
-# Chapter 14
+# Matthew 14 
 
 **¹** At that time news of Jesus came to Herod the king;
 

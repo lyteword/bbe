@@ -1,8 +1,11 @@
 ---
+title: "Judges 7 BBE | Read the Bible Online"
+linkTitle: "7"
+description: "Read Judges 7 Online | Then Jerubbaal, that is, Gideon, and all the people with him, got up early and put up their tents by the side of the water-spring of Harod; the tents of Midian were on the north side of him, under the hill of Moreh in the valley..."
 weight: 7
 ---
 
-# Chapter 7
+# Judges 7 
 
 **¹** Then Jerubbaal, that is, Gideon, and all the people with him, got up early and put up their tents by the side of the water-spring of Harod; the tents of Midian were on the north side of him, under the hill of Moreh in the valley.
 

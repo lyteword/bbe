@@ -1,8 +1,11 @@
 ---
+title: "John 7 BBE | Read the Bible Online"
+linkTitle: "7"
+description: "Read John 7 Online | After this, Jesus went from place to place in Galilee. He did not go about in Judaea, because the Jews were looking for a chance to put him to death..."
 weight: 7
 ---
 
-# Chapter 7
+# John 7 
 
 **¹** After this, Jesus went from place to place in Galilee. He did not go about in Judaea, because the Jews were looking for a chance to put him to death.
 

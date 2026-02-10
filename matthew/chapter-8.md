@@ -1,8 +1,11 @@
 ---
+title: "Matthew 8 BBE | Read the Bible Online"
+linkTitle: "8"
+description: "Read Matthew 8 Online | And when he had come down from the mountain, great numbers of people came after him..."
 weight: 8
 ---
 
-# Chapter 8
+# Matthew 8 
 
 **¹** And when he had come down from the mountain, great numbers of people came after him.
 

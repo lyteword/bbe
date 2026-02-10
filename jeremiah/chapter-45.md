@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 45 BBE | Read the Bible Online"
+linkTitle: "45"
+description: "Read Jeremiah 45 Online | The words which Jeremiah the prophet said to Baruch, the son of Neriah, when he put these words down in a book from the mouth of Jeremiah, in the fourth year of Jehoiakim, the son of Josiah, king of Judah; he said..."
 weight: 45
 ---
 
-# Chapter 45
+# Jeremiah 45 
 
 **¹** The words which Jeremiah the prophet said to Baruch, the son of Neriah, when he put these words down in a book from the mouth of Jeremiah, in the fourth year of Jehoiakim, the son of Josiah, king of Judah; he said,
 

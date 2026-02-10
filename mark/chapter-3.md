@@ -1,8 +1,11 @@
 ---
+title: "Mark 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Mark 3 Online | And he went again into the Synagogue; and there was a man there whose hand was dead..."
 weight: 3
 ---
 
-# Chapter 3
+# Mark 3 
 
 **¹** And he went again into the Synagogue; and there was a man there whose hand was dead.
 

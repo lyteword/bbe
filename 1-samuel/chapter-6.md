@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 6 BBE | Read the Bible Online"
+linkTitle: "6"
+description: "Read 1 Samuel 6 Online | Now the ark of the Lord was in the country of the Philistines for seven months..."
 weight: 6
 ---
 
-# Chapter 6
+# 1 Samuel 6 
 
 **¹** Now the ark of the Lord was in the country of the Philistines for seven months.
 

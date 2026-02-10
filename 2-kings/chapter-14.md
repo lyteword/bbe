@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 14 BBE | Read the Bible Online"
+linkTitle: "14"
+description: "Read 2 Kings 14 Online | In the second year of Joash, son of Joahaz, king of Israel, Amaziah, the son of Joash, became king of Judah..."
 weight: 14
 ---
 
-# Chapter 14
+# 2 Kings 14 
 
 **¹** In the second year of Joash, son of Joahaz, king of Israel, Amaziah, the son of Joash, became king of Judah.
 

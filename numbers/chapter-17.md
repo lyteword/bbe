@@ -1,8 +1,11 @@
 ---
+title: "Numbers 17 BBE | Read the Bible Online"
+linkTitle: "17"
+description: "Read Numbers 17 Online | And the Lord said to Moses..."
 weight: 17
 ---
 
-# Chapter 17
+# Numbers 17 
 
 **¹** And the Lord said to Moses,
 

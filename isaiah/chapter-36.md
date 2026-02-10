@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 36 BBE | Read the Bible Online"
+linkTitle: "36"
+description: "Read Isaiah 36 Online | And it came about in the fourteenth year of King Hezekiah that Sennacherib, king of Assyria, came up against all the walled towns of Judah and took them..."
 weight: 36
 ---
 
-# Chapter 36
+# Isaiah 36 
 
 **¹** And it came about in the fourteenth year of King Hezekiah that Sennacherib, king of Assyria, came up against all the walled towns of Judah and took them.
 

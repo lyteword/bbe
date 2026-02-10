@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 6 BBE | Read the Bible Online"
+linkTitle: "6"
+description: "Read Isaiah 6 Online | In the year of King Uzziah's death I saw the Lord seated in his place, high and lifted up, and the Temple was full of the wide skirts of his robe..."
 weight: 6
 ---
 
-# Chapter 6
+# Isaiah 6 
 
 **¹** In the year of King Uzziah's death I saw the Lord seated in his place, high and lifted up, and the Temple was full of the wide skirts of his robe.
 

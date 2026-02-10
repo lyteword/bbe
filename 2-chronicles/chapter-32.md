@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 32 BBE | Read the Bible Online"
+linkTitle: "32"
+description: "Read 2 Chronicles 32 Online | Now after these things and this true-hearted work, Sennacherib, king of Assyria, came into Judah, and put his army in position before the walled towns of Judah, designing to make his way into them by force..."
 weight: 32
 ---
 
-# Chapter 32
+# 2 Chronicles 32 
 
 **¹** Now after these things and this true-hearted work, Sennacherib, king of Assyria, came into Judah, and put his army in position before the walled towns of Judah, designing to make his way into them by force.
 

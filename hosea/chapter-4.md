@@ -1,8 +1,11 @@
 ---
+title: "Hosea 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read Hosea 4 Online | Give ear to the word of the Lord, O children of Israel; for the Lord has a cause against the people of this land, because there is no good faith in it, and no mercy and no knowledge of God in the land..."
 weight: 4
 ---
 
-# Chapter 4
+# Hosea 4 
 
 **¹** Give ear to the word of the Lord, O children of Israel; for the Lord has a cause against the people of this land, because there is no good faith in it, and no mercy and no knowledge of God in the land.
 

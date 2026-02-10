@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 11 BBE | Read the Bible Online"
+linkTitle: "11"
+description: "Read Deuteronomy 11 Online | So have love for the Lord your God, and give him worship, and keep his laws and his decisions and his orders at all times..."
 weight: 11
 ---
 
-# Chapter 11
+# Deuteronomy 11 
 
 **¹** So have love for the Lord your God, and give him worship, and keep his laws and his decisions and his orders at all times.
 

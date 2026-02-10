@@ -1,8 +1,11 @@
 ---
+title: "Judges 14 BBE | Read the Bible Online"
+linkTitle: "14"
+description: "Read Judges 14 Online | Now Samson went down to Timnah, and saw a woman in Timnah, of the daughters of the Philistines..."
 weight: 14
 ---
 
-# Chapter 14
+# Judges 14 
 
 **¹** Now Samson went down to Timnah, and saw a woman in Timnah, of the daughters of the Philistines;
 

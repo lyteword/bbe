@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 12 BBE | Read the Bible Online"
+linkTitle: "12"
+description: "Read 2 Corinthians 12 Online | As it is necessary for me to take glory to myself, though it is not a good thing, I will come to visions and revelations of the Lord..."
 weight: 12
 ---
 
-# Chapter 12
+# 2 Corinthians 12 
 
 **¹** As it is necessary for me to take glory to myself, though it is not a good thing, I will come to visions and revelations of the Lord.
 

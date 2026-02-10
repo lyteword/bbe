@@ -1,8 +1,11 @@
 ---
+title: "Joshua 11 BBE | Read the Bible Online"
+linkTitle: "11"
+description: "Read Joshua 11 Online | Now Jabin, king of Hazor, hearing of these things, sent to Jobab, king of Madon, and to the king of Shimron, and to the king of Achshaph..."
 weight: 11
 ---
 
-# Chapter 11
+# Joshua 11 
 
 **¹** Now Jabin, king of Hazor, hearing of these things, sent to Jobab, king of Madon, and to the king of Shimron, and to the king of Achshaph,
 

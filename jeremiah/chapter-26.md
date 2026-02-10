@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 26 BBE | Read the Bible Online"
+linkTitle: "26"
+description: "Read Jeremiah 26 Online | When Jehoiakim, the son of Josiah, king of Judah, first became king, this word came from the Lord, saying..."
 weight: 26
 ---
 
-# Chapter 26
+# Jeremiah 26 
 
 **¹** When Jehoiakim, the son of Josiah, king of Judah, first became king, this word came from the Lord, saying,
 

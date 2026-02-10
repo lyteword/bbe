@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 9 BBE | Read the Bible Online"
+linkTitle: "9"
+description: "Read Ezekiel 9 Online | Then crying out in my hearing in a loud voice, he said, Let the overseers of the town come near, every man armed..."
 weight: 9
 ---
 
-# Chapter 9
+# Ezekiel 9 
 
 **¹** Then crying out in my hearing in a loud voice, he said, Let the overseers of the town come near, every man armed.
 

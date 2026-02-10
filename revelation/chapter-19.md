@@ -1,8 +1,11 @@
 ---
+title: "Revelation 19 BBE | Read the Bible Online"
+linkTitle: "19"
+description: "Read Revelation 19 Online | After these things there came to my ears a sound like the voice of a great band of people in heaven, saying, Praise to the Lord; salvation and glory and power be to our God..."
 weight: 19
 ---
 
-# Chapter 19
+# Revelation 19 
 
 **¹** After these things there came to my ears a sound like the voice of a great band of people in heaven, saying, Praise to the Lord; salvation and glory and power be to our God:
 

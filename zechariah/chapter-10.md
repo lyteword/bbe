@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 10 BBE | Read the Bible Online"
+linkTitle: "10"
+description: "Read Zechariah 10 Online | Make your request to the Lord for rain in the time of the spring rains, even to the Lord who makes the thunder-flames; and he will give them showers of rain, to every man grass in the field..."
 weight: 10
 ---
 
-# Chapter 10
+# Zechariah 10 
 
 **¹** Make your request to the Lord for rain in the time of the spring rains, even to the Lord who makes the thunder-flames; and he will give them showers of rain, to every man grass in the field.
 

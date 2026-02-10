@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 23 BBE | Read the Bible Online"
+linkTitle: "23"
+description: "Read Leviticus 23 Online | And the Lord said to Moses..."
 weight: 23
 ---
 
-# Chapter 23
+# Leviticus 23 
 
 **¹** And the Lord said to Moses,
 

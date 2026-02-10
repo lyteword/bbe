@@ -1,8 +1,11 @@
 ---
+title: "Revelation 11 BBE | Read the Bible Online"
+linkTitle: "11"
+description: "Read Revelation 11 Online | And there was given to me a measuring rod: and one said, Go up and take the measure of the house of God, and the altar, and the worshippers in it..."
 weight: 11
 ---
 
-# Chapter 11
+# Revelation 11 
 
 **¹** And there was given to me a measuring rod: and one said, Go up and take the measure of the house of God, and the altar, and the worshippers in it.
 

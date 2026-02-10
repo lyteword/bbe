@@ -1,8 +1,11 @@
 ---
+title: "Psalm 83 BBE | Read the Bible Online"
+linkTitle: "83"
+description: "Read Psalm 83 Online | O God, do not keep quiet: let your lips be open and take no rest, O God..."
 weight: 83
 ---
 
-# Psalm 83
+# Psalm 83 
 
 A Song. A Psalm. Of Asaph.
 

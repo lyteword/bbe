@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 21 BBE | Read the Bible Online"
+linkTitle: "21"
+description: "Read Proverbs 21 Online | The king's heart in the hands of the Lord is like the water streams, and by him it is turned in any direction at his pleasure..."
 weight: 21
 ---
 
-# Chapter 21
+# Proverbs 21 
 
 **¹** The king's heart in the hands of the Lord is like the water streams, and by him it is turned in any direction at his pleasure.
 

@@ -1,8 +1,11 @@
 ---
+title: "Judges 12 BBE | Read the Bible Online"
+linkTitle: "12"
+description: "Read Judges 12 Online | Now the men of Ephraim came together and took up arms and went over to Zaphon; and they said to Jephthah, Why did you go over to make war against the children of Ammon without sending for us to go with you? Now we will put your house on fire over you..."
 weight: 12
 ---
 
-# Chapter 12
+# Judges 12 
 
 **¹** Now the men of Ephraim came together and took up arms and went over to Zaphon; and they said to Jephthah, Why did you go over to make war against the children of Ammon without sending for us to go with you? Now we will put your house on fire over you.
 

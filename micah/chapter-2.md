@@ -1,8 +1,11 @@
 ---
+title: "Micah 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Micah 2 Online | A curse on the designers of evil, working on their beds! in the morning light they do it, because it is in their power..."
 weight: 2
 ---
 
-# Chapter 2
+# Micah 2 
 
 **¹** A curse on the designers of evil, working on their beds! in the morning light they do it, because it is in their power.
 

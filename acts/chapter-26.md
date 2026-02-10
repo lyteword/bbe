@@ -1,8 +1,11 @@
 ---
+title: "Acts 26 BBE | Read the Bible Online"
+linkTitle: "26"
+description: "Read Acts 26 Online | And Agrippa said to Paul, You may put your cause before us. Then Paul, stretching out his hand, made his answer, saying..."
 weight: 26
 ---
 
-# Chapter 26
+# Acts 26 
 
 **¹** And Agrippa said to Paul, You may put your cause before us. Then Paul, stretching out his hand, made his answer, saying:
 

@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Nehemiah 2 Online | And it came about in the month Nisan, in the twentieth year of Artaxerxes the king, when wine was before him, that I took up the wine and gave it to the king. Now I had never before been sad when the king was present..."
 weight: 2
 ---
 
-# Chapter 2
+# Nehemiah 2 
 
 **¹** And it came about in the month Nisan, in the twentieth year of Artaxerxes the king, when wine was before him, that I took up the wine and gave it to the king. Now I had never before been sad when the king was present.
 

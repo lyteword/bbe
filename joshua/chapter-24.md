@@ -1,8 +1,11 @@
 ---
+title: "Joshua 24 BBE | Read the Bible Online"
+linkTitle: "24"
+description: "Read Joshua 24 Online | Then Joshua got all the tribes of Israel together at Shechem; and he sent for the responsible men of Israel and their chiefs and their judges and their overseers; and they took their place before God..."
 weight: 24
 ---
 
-# Chapter 24
+# Joshua 24 
 
 **¹** Then Joshua got all the tribes of Israel together at Shechem; and he sent for the responsible men of Israel and their chiefs and their judges and their overseers; and they took their place before God.
 

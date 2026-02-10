@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 9 BBE | Read the Bible Online"
+linkTitle: "9"
+description: "Read 2 Chronicles 9 Online | Now the queen of Sheba, hearing great things of Solomon, came to Jerusalem to put his wisdom to the test with hard questions; and with her came a very great train, and camels weighted down with spices, and great stores of gold and jewels: and when she came to Solomon she had talk with him of everything in her mind..."
 weight: 9
 ---
 
-# Chapter 9
+# 2 Chronicles 9 
 
 **¹** Now the queen of Sheba, hearing great things of Solomon, came to Jerusalem to put his wisdom to the test with hard questions; and with her came a very great train, and camels weighted down with spices, and great stores of gold and jewels: and when she came to Solomon she had talk with him of everything in her mind.
 

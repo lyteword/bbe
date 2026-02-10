@@ -1,8 +1,11 @@
 ---
+title: "Psalm 146 BBE | Read the Bible Online"
+linkTitle: "146"
+description: "Read Psalm 146 Online | Let the Lord be praised. Give praise to the Lord, O my soul..."
 weight: 146
 ---
 
-# Psalm 146
+# Psalm 146 
 
 **¹** Let the Lord be praised. Give praise to the Lord, O my soul.
 

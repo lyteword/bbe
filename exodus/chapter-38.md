@@ -1,8 +1,11 @@
 ---
+title: "Exodus 38 BBE | Read the Bible Online"
+linkTitle: "38"
+description: "Read Exodus 38 Online | The altar of burned offerings he made of hard wood; a square altar, five cubits long, five cubits wide and three cubits high..."
 weight: 38
 ---
 
-# Chapter 38
+# Exodus 38 
 
 **¹** The altar of burned offerings he made of hard wood; a square altar, five cubits long, five cubits wide and three cubits high,
 

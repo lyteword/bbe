@@ -1,8 +1,11 @@
 ---
+title: "Exodus 35 BBE | Read the Bible Online"
+linkTitle: "35"
+description: "Read Exodus 35 Online | And Moses sent for all the children of Israel to come together, and said to them, This is what the Lord has said and these are his orders..."
 weight: 35
 ---
 
-# Chapter 35
+# Exodus 35 
 
 **¹** And Moses sent for all the children of Israel to come together, and said to them, This is what the Lord has said and these are his orders.
 

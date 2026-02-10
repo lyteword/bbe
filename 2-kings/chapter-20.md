@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 20 BBE | Read the Bible Online"
+linkTitle: "20"
+description: "Read 2 Kings 20 Online | In those days Hezekiah was ill and near death. And Isaiah the prophet, the son of Amoz, came to him, and said to him, The Lord says, Put your house in order, for your death is near..."
 weight: 20
 ---
 
-# Chapter 20
+# 2 Kings 20 
 
 **¹** In those days Hezekiah was ill and near death. And Isaiah the prophet, the son of Amoz, came to him, and said to him, The Lord says, Put your house in order, for your death is near.
 

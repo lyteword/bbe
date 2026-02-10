@@ -1,8 +1,11 @@
 ---
+title: "Job 33 BBE | Read the Bible Online"
+linkTitle: "33"
+description: "Read Job 33 Online | And now, O Job, give ear to my words, and take note of all I say..."
 weight: 33
 ---
 
-# Chapter 33
+# Job 33 
 
 **¹** And now, O Job, give ear to my words, and take note of all I say.
 

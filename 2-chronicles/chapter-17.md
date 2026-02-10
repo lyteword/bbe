@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 17 BBE | Read the Bible Online"
+linkTitle: "17"
+description: "Read 2 Chronicles 17 Online | And Jehoshaphat his son became king in his place, and made himself strong against Israel..."
 weight: 17
 ---
 
-# Chapter 17
+# 2 Chronicles 17 
 
 **¹** And Jehoshaphat his son became king in his place, and made himself strong against Israel.
 

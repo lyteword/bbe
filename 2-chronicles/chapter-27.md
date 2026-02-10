@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 27 BBE | Read the Bible Online"
+linkTitle: "27"
+description: "Read 2 Chronicles 27 Online | Jotham was twenty-five years old when he became king; and he was ruling in Jerusalem for sixteen years; and his mother's name was Jerushah, the daughter of Zadok..."
 weight: 27
 ---
 
-# Chapter 27
+# 2 Chronicles 27 
 
 **¹** Jotham was twenty-five years old when he became king; and he was ruling in Jerusalem for sixteen years; and his mother's name was Jerushah, the daughter of Zadok.
 

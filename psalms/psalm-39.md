@@ -1,8 +1,11 @@
 ---
+title: "Psalm 39 BBE | Read the Bible Online"
+linkTitle: "39"
+description: "Read Psalm 39 Online | I said, I will give attention to my ways, so that my tongue may do no wrong; I will keep my mouth under control, while the sinner is before me..."
 weight: 39
 ---
 
-# Psalm 39
+# Psalm 39 
 
 To the chief music-maker. Of Jeduthun. A Psalm. Of David.
 

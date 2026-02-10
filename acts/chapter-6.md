@@ -1,8 +1,11 @@
 ---
+title: "Acts 6 BBE | Read the Bible Online"
+linkTitle: "6"
+description: "Read Acts 6 Online | Now in those days, when the number of the disciples was increasing, protests were made by the Greek Jews against the Hebrews, because their widows were not taken care of in the distribution of food every day..."
 weight: 6
 ---
 
-# Chapter 6
+# Acts 6 
 
 **¹** Now in those days, when the number of the disciples was increasing, protests were made by the Greek Jews against the Hebrews, because their widows were not taken care of in the distribution of food every day.
 

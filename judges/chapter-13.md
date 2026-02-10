@@ -1,8 +1,11 @@
 ---
+title: "Judges 13 BBE | Read the Bible Online"
+linkTitle: "13"
+description: "Read Judges 13 Online | And the children of Israel again did evil in the eyes of the Lord; and the Lord gave them into the hands of the Philistines for forty years..."
 weight: 13
 ---
 
-# Chapter 13
+# Judges 13 
 
 **¹** And the children of Israel again did evil in the eyes of the Lord; and the Lord gave them into the hands of the Philistines for forty years.
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 107 BBE | Read the Bible Online"
+linkTitle: "107"
+description: "Read Psalm 107 Online | O give praise to the Lord, for he is good: for his mercy is unchanging for ever..."
 weight: 107
 ---
 
-# Psalm 107
+# Psalm 107 
 
 **¹** O give praise to the Lord, for he is good: for his mercy is unchanging for ever.
 

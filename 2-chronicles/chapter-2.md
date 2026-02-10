@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read 2 Chronicles 2 Online | Now it was Solomon's purpose to put up a house for the name of the Lord and a house for himself as king..."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Chronicles 2 
 
 **¹** Now it was Solomon's purpose to put up a house for the name of the Lord and a house for himself as king.
 

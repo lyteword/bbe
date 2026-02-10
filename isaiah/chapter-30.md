@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 30 BBE | Read the Bible Online"
+linkTitle: "30"
+description: "Read Isaiah 30 Online | Ho! uncontrolled children, says the Lord, who give effect to a purpose which is not mine, and who make an agreement, but not by my spirit, increasing their sin..."
 weight: 30
 ---
 
-# Chapter 30
+# Isaiah 30 
 
 **¹** Ho! uncontrolled children, says the Lord, who give effect to a purpose which is not mine, and who make an agreement, but not by my spirit, increasing their sin:
 

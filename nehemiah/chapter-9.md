@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 9 BBE | Read the Bible Online"
+linkTitle: "9"
+description: "Read Nehemiah 9 Online | Now on the twenty-fourth day of this month the children of Israel came together, taking no food and putting haircloth and dust on their bodies..."
 weight: 9
 ---
 
-# Chapter 9
+# Nehemiah 9 
 
 **¹** Now on the twenty-fourth day of this month the children of Israel came together, taking no food and putting haircloth and dust on their bodies.
 

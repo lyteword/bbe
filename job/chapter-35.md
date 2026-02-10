@@ -1,8 +1,11 @@
 ---
+title: "Job 35 BBE | Read the Bible Online"
+linkTitle: "35"
+description: "Read Job 35 Online | And Elihu made answer and said..."
 weight: 35
 ---
 
-# Chapter 35
+# Job 35 
 
 **¹** And Elihu made answer and said,
 

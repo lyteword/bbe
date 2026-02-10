@@ -1,8 +1,11 @@
 ---
+title: "Judges 1 BBE | Read the Bible Online"
+linkTitle: "1"
+description: "Read Judges 1 Online | Now after the death of Joshua, the children of Israel made request to the Lord, saying, Who is to go up first to make war for us against the Canaanites..."
 weight: 1
 ---
 
-# Chapter 1
+# Judges 1 
 
 **¹** Now after the death of Joshua, the children of Israel made request to the Lord, saying, Who is to go up first to make war for us against the Canaanites?
 

@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 31 BBE | Read the Bible Online"
+linkTitle: "31"
+description: "Read Deuteronomy 31 Online | So Moses said all these things to Israel..."
 weight: 31
 ---
 
-# Chapter 31
+# Deuteronomy 31 
 
 **¹** So Moses said all these things to Israel.
 

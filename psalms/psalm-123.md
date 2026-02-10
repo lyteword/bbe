@@ -1,8 +1,11 @@
 ---
+title: "Psalm 123 BBE | Read the Bible Online"
+linkTitle: "123"
+description: "Read Psalm 123 Online | To you my eyes are lifted up, even to you whose seat is in the heavens..."
 weight: 123
 ---
 
-# Psalm 123
+# Psalm 123 
 
 A Song of the going up.
 

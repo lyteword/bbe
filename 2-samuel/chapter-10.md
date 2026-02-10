@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 10 BBE | Read the Bible Online"
+linkTitle: "10"
+description: "Read 2 Samuel 10 Online | Now after this, death came to the king of the children of Ammon, and Hanun, his son, became king in his place..."
 weight: 10
 ---
 
-# Chapter 10
+# 2 Samuel 10 
 
 **¹** Now after this, death came to the king of the children of Ammon, and Hanun, his son, became king in his place.
 

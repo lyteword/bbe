@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 22 BBE | Read the Bible Online"
+linkTitle: "22"
+description: "Read Leviticus 22 Online | And the Lord said to Moses..."
 weight: 22
 ---
 
-# Chapter 22
+# Leviticus 22 
 
 **¹** And the Lord said to Moses,
 

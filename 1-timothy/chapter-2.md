@@ -1,8 +1,11 @@
 ---
+title: "1 Timothy 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read 1 Timothy 2 Online | My desire is, first of all, that you will make requests and prayers and give praise for all men..."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Timothy 2 
 
 **¹** My desire is, first of all, that you will make requests and prayers and give praise for all men;
 

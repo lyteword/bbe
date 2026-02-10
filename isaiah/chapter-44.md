@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 44 BBE | Read the Bible Online"
+linkTitle: "44"
+description: "Read Isaiah 44 Online | And now, give ear, O Jacob my servant, and Israel whom I have taken for myself..."
 weight: 44
 ---
 
-# Chapter 44
+# Isaiah 44 
 
 **¹** And now, give ear, O Jacob my servant, and Israel whom I have taken for myself:
 

@@ -1,8 +1,11 @@
 ---
+title: "Romans 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read Romans 4 Online | What, then, may we say that Abraham, our father after the flesh, has got..."
 weight: 4
 ---
 
-# Chapter 4
+# Romans 4 
 
 **¹** What, then, may we say that Abraham, our father after the flesh, has got?
 

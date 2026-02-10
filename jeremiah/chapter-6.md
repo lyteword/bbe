@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 6 BBE | Read the Bible Online"
+linkTitle: "6"
+description: "Read Jeremiah 6 Online | Go in flight out of Jerusalem, so that you may be safe, you children of Benjamin, and let the horn be sounded in Tekoa, and the flag be lifted up on Beth-haccherem: for evil is looking out from the north, and a great destruction..."
 weight: 6
 ---
 
-# Chapter 6
+# Jeremiah 6 
 
 **¹** Go in flight out of Jerusalem, so that you may be safe, you children of Benjamin, and let the horn be sounded in Tekoa, and the flag be lifted up on Beth-haccherem: for evil is looking out from the north, and a great destruction.
 

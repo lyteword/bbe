@@ -1,8 +1,11 @@
 ---
+title: "Acts 7 BBE | Read the Bible Online"
+linkTitle: "7"
+description: "Read Acts 7 Online | Then the high priest said, Are these things true..."
 weight: 7
 ---
 
-# Chapter 7
+# Acts 7 
 
 **¹** Then the high priest said, Are these things true?
 

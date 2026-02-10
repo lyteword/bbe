@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 26 BBE | Read the Bible Online"
+linkTitle: "26"
+description: "Read Leviticus 26 Online | Do not make images of false gods, or put up an image cut in stone or a pillar or any pictured stone in your land, to give worship to it; for I am the Lord your God..."
 weight: 26
 ---
 
-# Chapter 26
+# Leviticus 26 
 
 **¹** Do not make images of false gods, or put up an image cut in stone or a pillar or any pictured stone in your land, to give worship to it; for I am the Lord your God.
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read 2 Kings 3 Online | And Jehoram, the son of Ahab, became king over Israel in Samaria in the eighteenth year of the rule of Jehoshaphat, king of Judah; and he was king for twelve years..."
 weight: 3
 ---
 
-# Chapter 3
+# 2 Kings 3 
 
 **¹** And Jehoram, the son of Ahab, became king over Israel in Samaria in the eighteenth year of the rule of Jehoshaphat, king of Judah; and he was king for twelve years.
 

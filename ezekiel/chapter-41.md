@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 41 BBE | Read the Bible Online"
+linkTitle: "41"
+description: "Read Ezekiel 41 Online | And he took me to the Temple, and took the measure of the uprights, six cubits wide on one side and six cubits wide on the other..."
 weight: 41
 ---
 
-# Chapter 41
+# Ezekiel 41 
 
 **¹** And he took me to the Temple, and took the measure of the uprights, six cubits wide on one side and six cubits wide on the other.
 

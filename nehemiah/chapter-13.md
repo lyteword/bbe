@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 13 BBE | Read the Bible Online"
+linkTitle: "13"
+description: "Read Nehemiah 13 Online | On that day there was a reading from the book of Moses in the hearing of the people; and they saw that it said in the book that no Ammonite or Moabite might ever come into the meeting of God..."
 weight: 13
 ---
 
-# Chapter 13
+# Nehemiah 13 
 
 **¹** On that day there was a reading from the book of Moses in the hearing of the people; and they saw that it said in the book that no Ammonite or Moabite might ever come into the meeting of God;
 

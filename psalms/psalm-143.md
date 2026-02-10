@@ -1,8 +1,11 @@
 ---
+title: "Psalm 143 BBE | Read the Bible Online"
+linkTitle: "143"
+description: "Read Psalm 143 Online | Let my prayer come to you, O Lord; give ear to my requests for your grace; keep faith with me, and give me an answer in your righteousness..."
 weight: 143
 ---
 
-# Psalm 143
+# Psalm 143 
 
 A Psalm. Of David.
 

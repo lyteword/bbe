@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 20 BBE | Read the Bible Online"
+linkTitle: "20"
+description: "Read Proverbs 20 Online | Wine makes men foolish, and strong drink makes men come to blows; and whoever comes into error through these is not wise..."
 weight: 20
 ---
 
-# Chapter 20
+# Proverbs 20 
 
 **¹** Wine makes men foolish, and strong drink makes men come to blows; and whoever comes into error through these is not wise.
 

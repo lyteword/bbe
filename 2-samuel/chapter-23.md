@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 23 BBE | Read the Bible Online"
+linkTitle: "23"
+description: "Read 2 Samuel 23 Online | Now these are the last words of David. David, the son of Jesse, says, the man who was lifted up on high, the man on whom the God of Jacob put the holy oil, the loved one of Israel's songs, says..."
 weight: 23
 ---
 
-# Chapter 23
+# 2 Samuel 23 
 
 **¹** Now these are the last words of David. David, the son of Jesse, says, the man who was lifted up on high, the man on whom the God of Jacob put the holy oil, the loved one of Israel's songs, says:
 

@@ -1,8 +1,11 @@
 ---
+title: "1 John 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read 1 John 2 Online | My little children, I am writing these things to you so that you may be without sin. And if any man is a sinner, we have a friend and helper with the Father, Jesus Christ, the upright one..."
 weight: 2
 ---
 
-# Chapter 2
+# 1 John 2 
 
 **¹** My little children, I am writing these things to you so that you may be without sin. And if any man is a sinner, we have a friend and helper with the Father, Jesus Christ, the upright one:
 

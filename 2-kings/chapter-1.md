@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 1 BBE | Read the Bible Online"
+linkTitle: "1"
+description: "Read 2 Kings 1 Online | After the death of Ahab, Moab made itself free from the authority of Israel..."
 weight: 1
 ---
 
-# Chapter 1
+# 2 Kings 1 
 
 **¹** After the death of Ahab, Moab made itself free from the authority of Israel.
 

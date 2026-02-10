@@ -1,8 +1,11 @@
 ---
+title: "Psalm 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Psalm 3 Online | Lord, how greatly are they increased who make attacks on me! in great numbers they come against me..."
 weight: 3
 ---
 
-# Psalm 3
+# Psalm 3 
 
 A Psalm. Of David. When he went in flight from Absalom his son.
 

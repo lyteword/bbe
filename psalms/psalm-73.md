@@ -1,8 +1,11 @@
 ---
+title: "Psalm 73 BBE | Read the Bible Online"
+linkTitle: "73"
+description: "Read Psalm 73 Online | Truly, God is good to Israel, even to such as are clean in heart..."
 weight: 73
 ---
 
-# Psalm 73
+# Psalm 73 
 
 A Psalm. Of Asaph.
 

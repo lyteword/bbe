@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 14 BBE | Read the Bible Online"
+linkTitle: "14"
+description: "Read 2 Chronicles 14 Online | So Abijah went to rest with his fathers, and they put him into the earth in the town of David, and Asa his son became king in his place; in his time the land was quiet for ten years..."
 weight: 14
 ---
 
-# Chapter 14
+# 2 Chronicles 14 
 
 **¹** So Abijah went to rest with his fathers, and they put him into the earth in the town of David, and Asa his son became king in his place; in his time the land was quiet for ten years.
 

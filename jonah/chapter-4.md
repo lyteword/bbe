@@ -1,8 +1,11 @@
 ---
+title: "Jonah 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read Jonah 4 Online | But this seemed very wrong to Jonah, and he was angry..."
 weight: 4
 ---
 
-# Chapter 4
+# Jonah 4 
 
 **¹** But this seemed very wrong to Jonah, and he was angry.
 

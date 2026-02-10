@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 41 BBE | Read the Bible Online"
+linkTitle: "41"
+description: "Read Isaiah 41 Online | Come quietly before me, O sea-lands, and let the peoples get together their strength: let them come near; then let them say what they have to say: let us put forward our cause against one another..."
 weight: 41
 ---
 
-# Chapter 41
+# Isaiah 41 
 
 **¹** Come quietly before me, O sea-lands, and let the peoples get together their strength: let them come near; then let them say what they have to say: let us put forward our cause against one another.
 

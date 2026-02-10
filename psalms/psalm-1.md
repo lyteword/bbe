@@ -1,8 +1,11 @@
 ---
+title: "Psalm 1 BBE | Read the Bible Online"
+linkTitle: "1"
+description: "Read Psalm 1 Online | Happy is the man who does not go in the company of sinners, or take his place in the way of evil-doers, or in the seat of those who do not give honour to the Lord..."
 weight: 1
 ---
 
-# Psalm 1
+# Psalm 1 
 
 **¹** Happy is the man who does not go in the company of sinners, or take his place in the way of evil-doers, or in the seat of those who do not give honour to the Lord.
 

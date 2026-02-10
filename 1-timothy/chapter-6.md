@@ -1,8 +1,11 @@
 ---
+title: "1 Timothy 6 BBE | Read the Bible Online"
+linkTitle: "6"
+description: "Read 1 Timothy 6 Online | Let all who are servants under the yoke give all honour to their masters, so that no evil may be said against the name of God and his teaching..."
 weight: 6
 ---
 
-# Chapter 6
+# 1 Timothy 6 
 
 **¹** Let all who are servants under the yoke give all honour to their masters, so that no evil may be said against the name of God and his teaching.
 

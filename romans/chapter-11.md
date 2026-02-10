@@ -1,8 +1,11 @@
 ---
+title: "Romans 11 BBE | Read the Bible Online"
+linkTitle: "11"
+description: "Read Romans 11 Online | So I say, Has God put his people on one side? Let there be no such thought. For I am of Israel, of the seed of Abraham, of the tribe of Benjamin..."
 weight: 11
 ---
 
-# Chapter 11
+# Romans 11 
 
 **¹** So I say, Has God put his people on one side? Let there be no such thought. For I am of Israel, of the seed of Abraham, of the tribe of Benjamin.
 

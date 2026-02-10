@@ -1,8 +1,11 @@
 ---
+title: "Exodus 23 BBE | Read the Bible Online"
+linkTitle: "23"
+description: "Read Exodus 23 Online | Do not let a false statement go further; do not make an agreement with evil-doers to be a false witness..."
 weight: 23
 ---
 
-# Chapter 23
+# Exodus 23 
 
 **¹** Do not let a false statement go further; do not make an agreement with evil-doers to be a false witness.
 

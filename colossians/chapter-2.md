@@ -1,8 +1,11 @@
 ---
+title: "Colossians 2 BBE | Read the Bible Online"
+linkTitle: "2"
+description: "Read Colossians 2 Online | For it is my desire to give you news of the great fight I am making for you and for those at Laodicea, and for all who have not seen my face in the flesh..."
 weight: 2
 ---
 
-# Chapter 2
+# Colossians 2 
 
 **¹** For it is my desire to give you news of the great fight I am making for you and for those at Laodicea, and for all who have not seen my face in the flesh;
 

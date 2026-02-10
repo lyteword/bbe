@@ -1,8 +1,11 @@
 ---
+title: "Acts 9 BBE | Read the Bible Online"
+linkTitle: "9"
+description: "Read Acts 9 Online | But Saul, still burning with desire to put to death the disciples of the Lord, went to the high priest..."
 weight: 9
 ---
 
-# Chapter 9
+# Acts 9 
 
 **¹** But Saul, still burning with desire to put to death the disciples of the Lord, went to the high priest,
 

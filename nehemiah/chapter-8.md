@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 8 BBE | Read the Bible Online"
+linkTitle: "8"
+description: "Read Nehemiah 8 Online | And when the seventh month came, the children of Israel were in their towns. And all the people came together like one man into the wide place in front of the water-doorway; and they made a request to Ezra the scribe that he would put before them the book of the law of Moses which the Lord had given to Israel..."
 weight: 8
 ---
 
-# Chapter 8
+# Nehemiah 8 
 
 **¹** And when the seventh month came, the children of Israel were in their towns. And all the people came together like one man into the wide place in front of the water-doorway; and they made a request to Ezra the scribe that he would put before them the book of the law of Moses which the Lord had given to Israel.
 

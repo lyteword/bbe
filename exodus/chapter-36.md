@@ -1,8 +1,11 @@
 ---
+title: "Exodus 36 BBE | Read the Bible Online"
+linkTitle: "36"
+description: "Read Exodus 36 Online | So let Bezalel and Oholiab get to work, with every wise-hearted man to whom the Lord has given wisdom and knowledge, to do whatever is necessary for the ordering of the holy place, as the Lord has given orders..."
 weight: 36
 ---
 
-# Chapter 36
+# Exodus 36 
 
 **¹** So let Bezalel and Oholiab get to work, with every wise-hearted man to whom the Lord has given wisdom and knowledge, to do whatever is necessary for the ordering of the holy place, as the Lord has given orders.
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 5 BBE | Read the Bible Online"
+linkTitle: "5"
+description: "Read 1 Kings 5 Online | Now Hiram, king of Tyre, hearing that Solomon had been made king in place of his father, sent his servants to him; for Hiram had ever been a friend to David..."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Kings 5 
 
 **¹** Now Hiram, king of Tyre, hearing that Solomon had been made king in place of his father, sent his servants to him; for Hiram had ever been a friend to David.
 

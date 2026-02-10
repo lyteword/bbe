@@ -1,8 +1,11 @@
 ---
+title: "Psalm 90 BBE | Read the Bible Online"
+linkTitle: "90"
+description: "Read Psalm 90 Online | Lord, you have been our resting-place in all generations..."
 weight: 90
 ---
 
-# Psalm 90
+# Psalm 90 
 
 A Prayer of Moses, the man of God.
 

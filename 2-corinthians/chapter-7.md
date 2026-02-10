@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 7 BBE | Read the Bible Online"
+linkTitle: "7"
+description: "Read 2 Corinthians 7 Online | Because God, then, will give us such rewards, dear brothers, let us make ourselves clean from all evil of flesh and spirit, and become completely holy in the fear of God..."
 weight: 7
 ---
 
-# Chapter 7
+# 2 Corinthians 7 
 
 **¹** Because God, then, will give us such rewards, dear brothers, let us make ourselves clean from all evil of flesh and spirit, and become completely holy in the fear of God.
 

@@ -1,8 +1,11 @@
 ---
+title: "Genesis 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Genesis 3 Online | Now the snake was wiser than any beast of the field which the Lord God had made. And he said to the woman, Has God truly said that you may not take of the fruit of any tree in the garden..."
 weight: 3
 ---
 
-# Chapter 3
+# Genesis 3 
 
 **¹** Now the snake was wiser than any beast of the field which the Lord God had made. And he said to the woman, Has God truly said that you may not take of the fruit of any tree in the garden?
 

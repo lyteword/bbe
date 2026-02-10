@@ -1,8 +1,11 @@
 ---
+title: "Esther 10 BBE | Read the Bible Online"
+linkTitle: "10"
+description: "Read Esther 10 Online | And King Ahasuerus put a tax on the land and on the islands of the sea..."
 weight: 10
 ---
 
-# Chapter 10
+# Esther 10 
 
 **¹** And King Ahasuerus put a tax on the land and on the islands of the sea.
 

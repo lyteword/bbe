@@ -1,8 +1,11 @@
 ---
+title: "Ruth 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read Ruth 4 Online | And Boaz went up to the public place of the town, and took his seat there: and the near relation of whom he had been talking came by; and Boaz, crying out to him by name, said, Come and be seated here. And he came and was seated..."
 weight: 4
 ---
 
-# Chapter 4
+# Ruth 4 
 
 **¹** And Boaz went up to the public place of the town, and took his seat there: and the near relation of whom he had been talking came by; and Boaz, crying out to him by name, said, Come and be seated here. And he came and was seated.
 

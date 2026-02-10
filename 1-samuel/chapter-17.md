@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 17 BBE | Read the Bible Online"
+linkTitle: "17"
+description: "Read 1 Samuel 17 Online | Now the Philistines got their armies together for war, and came together at Socoh in the land of Judah, and took up their position between Socoh and Azekah in Ephes-dammim..."
 weight: 17
 ---
 
-# Chapter 17
+# 1 Samuel 17 
 
 **¹** Now the Philistines got their armies together for war, and came together at Socoh in the land of Judah, and took up their position between Socoh and Azekah in Ephes-dammim.
 

@@ -1,8 +1,11 @@
 ---
+title: "Exodus 31 BBE | Read the Bible Online"
+linkTitle: "31"
+description: "Read Exodus 31 Online | And the Lord said to Moses..."
 weight: 31
 ---
 
-# Chapter 31
+# Exodus 31 
 
 **¹** And the Lord said to Moses,
 

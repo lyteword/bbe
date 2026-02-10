@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 24 BBE | Read the Bible Online"
+linkTitle: "24"
+description: "Read Proverbs 24 Online | Have no envy for evil men, or any desire to be with them..."
 weight: 24
 ---
 
-# Chapter 24
+# Proverbs 24 
 
 **¹** Have no envy for evil men, or any desire to be with them:
 

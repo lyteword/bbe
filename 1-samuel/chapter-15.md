@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 15 BBE | Read the Bible Online"
+linkTitle: "15"
+description: "Read 1 Samuel 15 Online | And Samuel said to Saul, The Lord sent me to put the holy oil on you and to make you king over his people, over Israel: so give ear now to the words of the Lord..."
 weight: 15
 ---
 
-# Chapter 15
+# 1 Samuel 15 
 
 **¹** And Samuel said to Saul, The Lord sent me to put the holy oil on you and to make you king over his people, over Israel: so give ear now to the words of the Lord.
 

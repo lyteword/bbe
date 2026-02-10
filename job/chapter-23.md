@@ -1,8 +1,11 @@
 ---
+title: "Job 23 BBE | Read the Bible Online"
+linkTitle: "23"
+description: "Read Job 23 Online | And Job made answer and said..."
 weight: 23
 ---
 
-# Chapter 23
+# Job 23 
 
 **¹** And Job made answer and said,
 

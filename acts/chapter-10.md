@@ -1,8 +1,11 @@
 ---
+title: "Acts 10 BBE | Read the Bible Online"
+linkTitle: "10"
+description: "Read Acts 10 Online | Now there was a certain man in Caesarea, named Cornelius, the captain of the Italian band of the army..."
 weight: 10
 ---
 
-# Chapter 10
+# Acts 10 
 
 **¹** Now there was a certain man in Caesarea, named Cornelius, the captain of the Italian band of the army;
 

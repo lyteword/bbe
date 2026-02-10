@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 50 BBE | Read the Bible Online"
+linkTitle: "50"
+description: "Read Isaiah 50 Online | This is the word of the Lord: Where is the statement which I gave your mother when I put her away? or to which of my creditors have I given you for money? It was for your sins that you were given into the hands of others, and for your evil-doing was your mother put away..."
 weight: 50
 ---
 
-# Chapter 50
+# Isaiah 50 
 
 **¹** This is the word of the Lord: Where is the statement which I gave your mother when I put her away? or to which of my creditors have I given you for money? It was for your sins that you were given into the hands of others, and for your evil-doing was your mother put away.
 

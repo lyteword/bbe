@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 3 BBE | Read the Bible Online"
+linkTitle: "3"
+description: "Read Jeremiah 3 Online | They say, If a man puts away his wife and she goes from him and becomes another man's, will he go back to her again? will not that land have been made unclean? but though you have been acting like a loose woman with a number of lovers, will you now come back to me? says the Lord..."
 weight: 3
 ---
 
-# Chapter 3
+# Jeremiah 3 
 
 **¹** They say, If a man puts away his wife and she goes from him and becomes another man's, will he go back to her again? will not that land have been made unclean? but though you have been acting like a loose woman with a number of lovers, will you now come back to me? says the Lord.
 

@@ -1,8 +1,11 @@
 ---
+title: "Job 39 BBE | Read the Bible Online"
+linkTitle: "39"
+description: "Read Job 39 Online | Have you knowledge of the rock-goats? or do you see the roes giving birth to their young..."
 weight: 39
 ---
 
-# Chapter 39
+# Job 39 
 
 **¹** Have you knowledge of the rock-goats? or do you see the roes giving birth to their young?
 

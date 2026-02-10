@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 17 BBE | Read the Bible Online"
+linkTitle: "17"
+description: "Read 2 Kings 17 Online | In the twelfth year of Ahaz, king of Judah, Hoshea, the son of Elah, became king over Israel in Samaria, ruling for nine years..."
 weight: 17
 ---
 
-# Chapter 17
+# 2 Kings 17 
 
 **¹** In the twelfth year of Ahaz, king of Judah, Hoshea, the son of Elah, became king over Israel in Samaria, ruling for nine years.
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 63 BBE | Read the Bible Online"
+linkTitle: "63"
+description: "Read Isaiah 63 Online | Who is this who comes from Edom, with blood-red robes from Bozrah? he whose clothing is fair, stepping with pride in his great strength? I whose glory is in the right, strong for salvation..."
 weight: 63
 ---
 
-# Chapter 63
+# Isaiah 63 
 
 **¹** Who is this who comes from Edom, with blood-red robes from Bozrah? he whose clothing is fair, stepping with pride in his great strength? I whose glory is in the right, strong for salvation.
 

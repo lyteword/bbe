@@ -1,8 +1,11 @@
 ---
+title: "Psalm 101 BBE | Read the Bible Online"
+linkTitle: "101"
+description: "Read Psalm 101 Online | I will make a song of mercy and righteousness; to you, O Lord, will I make melody..."
 weight: 101
 ---
 
-# Psalm 101
+# Psalm 101 
 
 A Psalm. Of David.
 

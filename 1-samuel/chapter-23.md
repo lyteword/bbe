@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 23 BBE | Read the Bible Online"
+linkTitle: "23"
+description: "Read 1 Samuel 23 Online | And they sent word to David, saying, The Philistines are fighting against Keilah and taking the grain from the grain-floors..."
 weight: 23
 ---
 
-# Chapter 23
+# 1 Samuel 23 
 
 **¹** And they sent word to David, saying, The Philistines are fighting against Keilah and taking the grain from the grain-floors.
 

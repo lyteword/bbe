@@ -1,8 +1,11 @@
 ---
+title: "Luke 8 BBE | Read the Bible Online"
+linkTitle: "8"
+description: "Read Luke 8 Online | And it came about, after a short time, that he went through town and country giving the good news of the kingdom of God, and with him were the twelve..."
 weight: 8
 ---
 
-# Chapter 8
+# Luke 8 
 
 **¹** And it came about, after a short time, that he went through town and country giving the good news of the kingdom of God, and with him were the twelve,
 

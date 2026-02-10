@@ -1,8 +1,11 @@
 ---
+title: "Luke 24 BBE | Read the Bible Online"
+linkTitle: "24"
+description: "Read Luke 24 Online | But on the first day of the week, at dawn, they came to the place where his body had been put, taking the spices which they had got ready..."
 weight: 24
 ---
 
-# Chapter 24
+# Luke 24 
 
 **¹** But on the first day of the week, at dawn, they came to the place where his body had been put, taking the spices which they had got ready.
 

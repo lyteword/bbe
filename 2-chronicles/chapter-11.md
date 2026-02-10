@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 11 BBE | Read the Bible Online"
+linkTitle: "11"
+description: "Read 2 Chronicles 11 Online | And Rehoboam came to Jerusalem, and got together the men of Judah and Benjamin, a hundred and eighty thousand of his best fighting-men, to make war against Israel and get the kingdom back for Rehoboam..."
 weight: 11
 ---
 
-# Chapter 11
+# 2 Chronicles 11 
 
 **¹** And Rehoboam came to Jerusalem, and got together the men of Judah and Benjamin, a hundred and eighty thousand of his best fighting-men, to make war against Israel and get the kingdom back for Rehoboam.
 

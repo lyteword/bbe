@@ -1,8 +1,11 @@
 ---
+title: "1 Peter 4 BBE | Read the Bible Online"
+linkTitle: "4"
+description: "Read 1 Peter 4 Online | So that as Jesus was put to death in the flesh, do you yourselves be of the same mind; for the death of the flesh puts an end to sin..."
 weight: 4
 ---
 
-# Chapter 4
+# 1 Peter 4 
 
 **¹** So that as Jesus was put to death in the flesh, do you yourselves be of the same mind; for the death of the flesh puts an end to sin;
 

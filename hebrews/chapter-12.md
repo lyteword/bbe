@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 12 BBE | Read the Bible Online"
+linkTitle: "12"
+description: "Read Hebrews 12 Online | For this reason, as we are circled by so great a cloud of witnesses, putting off every weight, and the sin into which we come so readily, let us keep on running in the way which is marked out for us..."
 weight: 12
 ---
 
-# Chapter 12
+# Hebrews 12 
 
 **¹** For this reason, as we are circled by so great a cloud of witnesses, putting off every weight, and the sin into which we come so readily, let us keep on running in the way which is marked out for us,
 

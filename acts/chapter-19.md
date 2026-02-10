@@ -1,8 +1,11 @@
 ---
+title: "Acts 19 BBE | Read the Bible Online"
+linkTitle: "19"
+description: "Read Acts 19 Online | And it came about that while Apollos was at Corinth, Paul, having gone through the higher country, came to Ephesus, where there were certain disciples..."
 weight: 19
 ---
 
-# Chapter 19
+# Acts 19 
 
 **¹** And it came about that while Apollos was at Corinth, Paul, having gone through the higher country, came to Ephesus, where there were certain disciples:
 

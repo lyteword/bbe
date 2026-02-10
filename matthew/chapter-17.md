@@ -1,8 +1,11 @@
 ---
+title: "Matthew 17 BBE | Read the Bible Online"
+linkTitle: "17"
+description: "Read Matthew 17 Online | And after six days Jesus takes with him Peter, and James, and John, his brother, and makes them go up with him into a high mountain by themselves..."
 weight: 17
 ---
 
-# Chapter 17
+# Matthew 17 
 
 **¹** And after six days Jesus takes with him Peter, and James, and John, his brother, and makes them go up with him into a high mountain by themselves.
 

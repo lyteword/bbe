@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 14 BBE | Read the Bible Online"
+linkTitle: "14"
+description: "Read Deuteronomy 14 Online | You are the children of the Lord your God: you are not to make cuts on your bodies or take off the hair on your brows in honour of the dead..."
 weight: 14
 ---
 
-# Chapter 14
+# Deuteronomy 14 
 
 **¹** You are the children of the Lord your God: you are not to make cuts on your bodies or take off the hair on your brows in honour of the dead;
 

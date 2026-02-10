@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 20 BBE | Read the Bible Online"
+linkTitle: "20"
+description: "Read Jeremiah 20 Online | Now it came to the ears of Pashhur, the son of Immer the priest, who was chief in authority in the house of the Lord, that Jeremiah was saying these things..."
 weight: 20
 ---
 
-# Chapter 20
+# Jeremiah 20 
 
 **¹** Now it came to the ears of Pashhur, the son of Immer the priest, who was chief in authority in the house of the Lord, that Jeremiah was saying these things;
 

@@ -1,8 +1,11 @@
 ---
+title: "1 John 5 BBE | Read the Bible Online"
+linkTitle: "5"
+description: "Read 1 John 5 Online | Everyone who has faith that Jesus is the Christ is a child of God: and everyone who has love for the Father has love for his child..."
 weight: 5
 ---
 
-# Chapter 5
+# 1 John 5 
 
 **¹** Everyone who has faith that Jesus is the Christ is a child of God: and everyone who has love for the Father has love for his child.
 

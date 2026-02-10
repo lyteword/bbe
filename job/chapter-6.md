@@ -1,8 +1,11 @@
 ---
+title: "Job 6 BBE | Read the Bible Online"
+linkTitle: "6"
+description: "Read Job 6 Online | And Job made answer and said..."
 weight: 6
 ---
 
-# Chapter 6
+# Job 6 
 
 **¹** And Job made answer and said,
 

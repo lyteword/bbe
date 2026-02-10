@@ -1,8 +1,11 @@
 ---
+title: "Mark 13 BBE | Read the Bible Online"
+linkTitle: "13"
+description: "Read Mark 13 Online | And when he was going out of the Temple, one of his disciples said to him, Master, see, what stones and what buildings..."
 weight: 13
 ---
 
-# Chapter 13
+# Mark 13 
 
 **¹** And when he was going out of the Temple, one of his disciples said to him, Master, see, what stones and what buildings!
 

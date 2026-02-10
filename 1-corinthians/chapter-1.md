@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 1 BBE | Read the Bible Online"
+linkTitle: "1"
+description: "Read 1 Corinthians 1 Online | Paul, an Apostle of Jesus Christ by the purpose of God, and Sosthenes the brother..."
 weight: 1
 ---
 
-# Chapter 1
+# 1 Corinthians 1 
 
 **¹** Paul, an Apostle of Jesus Christ by the purpose of God, and Sosthenes the brother,
 

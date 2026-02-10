@@ -1,8 +1,11 @@
 ---
+title: "Philemon 1 BBE | Read the Bible Online"
+linkTitle: "1"
+description: "Read Philemon 1 Online | Paul, a prisoner of Jesus Christ, and Timothy our brother, to Philemon, our dear helper in the faith..."
 weight: 1
 ---
 
-# Chapter 1
+# Philemon 1 
 
 **¹** Paul, a prisoner of Jesus Christ, and Timothy our brother, to Philemon, our dear helper in the faith,
 

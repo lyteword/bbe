@@ -1,8 +1,11 @@
 ---
+title: "Psalm 125 BBE | Read the Bible Online"
+linkTitle: "125"
+description: "Read Psalm 125 Online | Those whose hope is in the Lord are like the mountain of Zion, which may not be moved, but keeps its place for ever..."
 weight: 125
 ---
 
-# Psalm 125
+# Psalm 125 
 
 A Song of the going up.
 

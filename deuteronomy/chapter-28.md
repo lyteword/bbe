@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 28 BBE | Read the Bible Online"
+linkTitle: "28"
+description: "Read Deuteronomy 28 Online | Now if you give ear to the voice of the Lord your God, and keep with care all these orders which I have given you today, then the Lord your God will put you high over all the nations of the earth..."
 weight: 28
 ---
 
-# Chapter 28
+# Deuteronomy 28 
 
 **¹** Now if you give ear to the voice of the Lord your God, and keep with care all these orders which I have given you today, then the Lord your God will put you high over all the nations of the earth:
 

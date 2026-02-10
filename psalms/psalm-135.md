@@ -1,8 +1,11 @@
 ---
+title: "Psalm 135 BBE | Read the Bible Online"
+linkTitle: "135"
+description: "Read Psalm 135 Online | Let the Lord be praised. O you servants of the Lord, give praise to the name of the Lord..."
 weight: 135
 ---
 
-# Psalm 135
+# Psalm 135 
 
 **¹** Let the Lord be praised. O you servants of the Lord, give praise to the name of the Lord.
 

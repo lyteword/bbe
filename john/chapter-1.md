@@ -1,8 +1,11 @@
 ---
+title: "John 1 BBE | Read the Bible Online"
+linkTitle: "1"
+description: "Read John 1 Online | From the first he was the Word, and the Word was in relation with God and was God..."
 weight: 1
 ---
 
-# Chapter 1
+# John 1 
 
 **¹** From the first he was the Word, and the Word was in relation with God and was God.
 

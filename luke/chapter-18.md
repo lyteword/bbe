@@ -1,8 +1,11 @@
 ---
+title: "Luke 18 BBE | Read the Bible Online"
+linkTitle: "18"
+description: "Read Luke 18 Online | And he made a story for them, the point of which was that men were to go on making prayer and not get tired..."
 weight: 18
 ---
 
-# Chapter 18
+# Luke 18 
 
 **¹** And he made a story for them, the point of which was that men were to go on making prayer and not get tired;
 

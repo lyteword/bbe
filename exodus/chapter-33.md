@@ -1,8 +1,11 @@
 ---
+title: "Exodus 33 BBE | Read the Bible Online"
+linkTitle: "33"
+description: "Read Exodus 33 Online | And the Lord said to Moses, Go forward from this place, you and the people whom you have taken up out of the land of Egypt, to that land about which I made an oath to Abraham, Isaac, and Jacob, saying, To your seed will I give it..."
 weight: 33
 ---
 
-# Chapter 33
+# Exodus 33 
 
 **¹** And the Lord said to Moses, Go forward from this place, you and the people whom you have taken up out of the land of Egypt, to that land about which I made an oath to Abraham, Isaac, and Jacob, saying, To your seed will I give it.
 

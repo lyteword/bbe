@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 8 BBE | Read the Bible Online"
+linkTitle: "8"
+description: "Read Hebrews 8 Online | Now of the things we are saying this is the chief point: We have such a high priest, who has taken his place at the right hand of God's high seat of glory in heaven..."
 weight: 8
 ---
 
-# Chapter 8
+# Hebrews 8 
 
 **¹** Now of the things we are saying this is the chief point: We have such a high priest, who has taken his place at the right hand of God's high seat of glory in heaven,
 

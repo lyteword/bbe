@@ -1,8 +1,11 @@
 ---
+title: "Exodus 18 BBE | Read the Bible Online"
+linkTitle: "18"
+description: "Read Exodus 18 Online | Now news came to Jethro, the priest of Midian, Moses' father-in-law, of all God had done for Moses and for Israel his people, and how the Lord had taken Israel out of Egypt..."
 weight: 18
 ---
 
-# Chapter 18
+# Exodus 18 
 
 **¹** Now news came to Jethro, the priest of Midian, Moses' father-in-law, of all God had done for Moses and for Israel his people, and how the Lord had taken Israel out of Egypt.
 

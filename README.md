@@ -22,7 +22,7 @@ This repository contains a complete **Bible in Basic English (BBE)** translation
 
 `john/chapter-1.md`
 ```
-# Chapter 1
+# John 1
 
 **¹** From the first he was the Word, and the Word was in relation with God and was God. 
 

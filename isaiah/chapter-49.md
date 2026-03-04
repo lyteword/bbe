@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 49 BBE | Read the Bible Online"
 linkTitle: "49"
-description: "Read Isaiah 49 Online | Give ear, O sea-lands, to me; and take note, you peoples from far: I have been marked out by the Lord from the first; when I was still in my mother's body, he had my name in mind..."
+description: >
+  Read Isaiah 49 Online | Give ear, O sea-lands, to me; and take note, you peoples from far: I have been marked out by the Lord from the first; when I was still in my mother's body, he had my name in mind...
 weight: 49
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Genesis 24 BBE | Read the Bible Online"
 linkTitle: "24"
-description: "Read Genesis 24 Online | Now Abraham was old and far on in years: and the Lord had given him everything in full measure..."
+description: >
+  Read Genesis 24 Online | Now Abraham was old and far on in years: and the Lord had given him everything in full measure...
 weight: 24
 ---
 

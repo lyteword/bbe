@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 22 BBE | Read the Bible Online"
 linkTitle: "22"
-description: "Read 1 Chronicles 22 Online | Then David said, This is the house of the Lord God, and this is the altar for Israel's burned offerings..."
+description: >
+  Read 1 Chronicles 22 Online | Then David said, This is the house of the Lord God, and this is the altar for Israel's burned offerings...
 weight: 22
 ---
 

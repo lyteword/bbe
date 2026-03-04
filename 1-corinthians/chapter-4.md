@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read 1 Corinthians 4 Online | Let us be judged as servants of Christ, and as those who are responsible for the secret things of God..."
+description: >
+  Read 1 Corinthians 4 Online | Let us be judged as servants of Christ, and as those who are responsible for the secret things of God...
 weight: 4
 ---
 

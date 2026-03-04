@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 15 BBE | Read the Bible Online"
 linkTitle: "15"
-description: "Read Proverbs 15 Online | By a soft answer wrath is turned away, but a bitter word is a cause of angry feelings..."
+description: >
+  Read Proverbs 15 Online | By a soft answer wrath is turned away, but a bitter word is a cause of angry feelings...
 weight: 15
 ---
 

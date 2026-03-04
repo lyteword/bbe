@@ -1,7 +1,8 @@
 ---
 title: "Exodus 6 BBE | Read the Bible Online"
 linkTitle: "6"
-description: "Read Exodus 6 Online | And the Lord said to Moses, Now you will see what I am about to do to Pharaoh; for by a strong hand he will be forced to let them go, driving them out of his land because of my outstretched arm..."
+description: >
+  Read Exodus 6 Online | And the Lord said to Moses, Now you will see what I am about to do to Pharaoh; for by a strong hand he will be forced to let them go, driving them out of his land because of my outstretched arm...
 weight: 6
 ---
 

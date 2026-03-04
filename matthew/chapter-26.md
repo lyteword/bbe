@@ -1,7 +1,8 @@
 ---
 title: "Matthew 26 BBE | Read the Bible Online"
 linkTitle: "26"
-description: "Read Matthew 26 Online | And when Jesus had come to the end of all these words, he said to his disciples..."
+description: >
+  Read Matthew 26 Online | And when Jesus had come to the end of all these words, he said to his disciples...
 weight: 26
 ---
 

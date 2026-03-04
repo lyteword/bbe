@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read Deuteronomy 5 Online | And Moses sent for all Israel, and said to them, Give ear, O Israel, to the laws and the decisions which I give you today, and give attention to them so that you may keep and do them..."
+description: >
+  Read Deuteronomy 5 Online | And Moses sent for all Israel, and said to them, Give ear, O Israel, to the laws and the decisions which I give you today, and give attention to them so that you may keep and do them...
 weight: 5
 ---
 

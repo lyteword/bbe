@@ -1,7 +1,8 @@
 ---
 title: "Numbers 28 BBE | Read the Bible Online"
 linkTitle: "28"
-description: "Read Numbers 28 Online | And the Lord said to Moses..."
+description: >
+  Read Numbers 28 Online | And the Lord said to Moses...
 weight: 28
 ---
 

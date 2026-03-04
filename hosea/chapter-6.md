@@ -1,7 +1,8 @@
 ---
 title: "Hosea 6 BBE | Read the Bible Online"
 linkTitle: "6"
-description: "Read Hosea 6 Online | Come, let us go back to the Lord; for he has given us wounds and he will make us well; he has given blows and he will give help..."
+description: >
+  Read Hosea 6 Online | Come, let us go back to the Lord; for he has given us wounds and he will make us well; he has given blows and he will give help...
 weight: 6
 ---
 

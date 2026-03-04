@@ -1,7 +1,8 @@
 ---
 title: "Hosea 7 BBE | Read the Bible Online"
 linkTitle: "7"
-description: "Read Hosea 7 Online | When my desire was for the fate of my people to be changed and to make Israel well, then the sin of Ephraim was made clear, and the evil-doing of Samaria; for their ways are false, and the thief comes into the house, while the band of outlaws takes property by force in the streets..."
+description: >
+  Read Hosea 7 Online | When my desire was for the fate of my people to be changed and to make Israel well, then the sin of Ephraim was made clear, and the evil-doing of Samaria; for their ways are false, and the thief comes into the house, while the band of outlaws takes property by force in the streets...
 weight: 7
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 7 BBE | Read the Bible Online"
 linkTitle: "7"
-description: "Read 2 Chronicles 7 Online | Now when Solomon's prayers were ended, fire came down from heaven, burning up all the offerings; and the house was full of the glory of the Lord..."
+description: >
+  Read 2 Chronicles 7 Online | Now when Solomon's prayers were ended, fire came down from heaven, burning up all the offerings; and the house was full of the glory of the Lord...
 weight: 7
 ---
 

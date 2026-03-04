@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 24 BBE | Read the Bible Online"
 linkTitle: "24"
-description: "Read 2 Samuel 24 Online | Again the wrath of the Lord was burning against Israel, and moving David against them, he said, Go, take the number of Israel and Judah..."
+description: >
+  Read 2 Samuel 24 Online | Again the wrath of the Lord was burning against Israel, and moving David against them, he said, Go, take the number of Israel and Judah...
 weight: 24
 ---
 

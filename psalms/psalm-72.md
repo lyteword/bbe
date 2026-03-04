@@ -1,7 +1,8 @@
 ---
 title: "Psalm 72 BBE | Read the Bible Online"
 linkTitle: "72"
-description: "Read Psalm 72 Online | Give the king your authority, O God, and your righteousness to the king's son..."
+description: >
+  Read Psalm 72 Online | Give the king your authority, O God, and your righteousness to the king's son...
 weight: 72
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Matthew 24 BBE | Read the Bible Online"
 linkTitle: "24"
-description: "Read Matthew 24 Online | And Jesus went out of the Temple, and on the way his disciples came to him, pointing out the buildings of the Temple..."
+description: >
+  Read Matthew 24 Online | And Jesus went out of the Temple, and on the way his disciples came to him, pointing out the buildings of the Temple...
 weight: 24
 ---
 

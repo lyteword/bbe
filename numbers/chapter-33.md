@@ -1,7 +1,8 @@
 ---
 title: "Numbers 33 BBE | Read the Bible Online"
 linkTitle: "33"
-description: "Read Numbers 33 Online | These are the journeys of the children of Israel, when they went out of the land of Egypt in their armies, under the direction of Moses and Aaron..."
+description: >
+  Read Numbers 33 Online | These are the journeys of the children of Israel, when they went out of the land of Egypt in their armies, under the direction of Moses and Aaron...
 weight: 33
 ---
 

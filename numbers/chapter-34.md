@@ -1,7 +1,8 @@
 ---
 title: "Numbers 34 BBE | Read the Bible Online"
 linkTitle: "34"
-description: "Read Numbers 34 Online | And the Lord said to Moses..."
+description: >
+  Read Numbers 34 Online | And the Lord said to Moses...
 weight: 34
 ---
 

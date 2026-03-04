@@ -1,7 +1,8 @@
 ---
 title: "2 Timothy 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read 2 Timothy 1 Online | Paul, an Apostle of Jesus Christ by the purpose of God, in the hope of the life which is in Christ Jesus..."
+description: >
+  Read 2 Timothy 1 Online | Paul, an Apostle of Jesus Christ by the purpose of God, in the hope of the life which is in Christ Jesus...
 weight: 1
 ---
 

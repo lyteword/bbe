@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read Isaiah 4 Online | And in that day seven women will put their hands on one man, saying, There will be no need for you to give us food or clothing, only let us go under your name, so that our shame may be taken away..."
+description: >
+  Read Isaiah 4 Online | And in that day seven women will put their hands on one man, saying, There will be no need for you to give us food or clothing, only let us go under your name, so that our shame may be taken away...
 weight: 4
 ---
 

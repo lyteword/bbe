@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 11 BBE | Read the Bible Online"
 linkTitle: "11"
-description: "Read Hebrews 11 Online | Now faith is the substance of things hoped for, and the sign that the things not seen are true..."
+description: >
+  Read Hebrews 11 Online | Now faith is the substance of things hoped for, and the sign that the things not seen are true...
 weight: 11
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Genesis 26 BBE | Read the Bible Online"
 linkTitle: "26"
-description: "Read Genesis 26 Online | Then came a time of great need in the land, like that which had been before in the days of Abraham. And Isaac went to Abimelech, king of the Philistines, at Gerar..."
+description: >
+  Read Genesis 26 Online | Then came a time of great need in the land, like that which had been before in the days of Abraham. And Isaac went to Abimelech, king of the Philistines, at Gerar...
 weight: 26
 ---
 

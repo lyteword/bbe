@@ -1,7 +1,8 @@
 ---
 title: "Psalm 108 BBE | Read the Bible Online"
 linkTitle: "108"
-description: "Read Psalm 108 Online | O God, my heart is fixed; I will make songs and melody, even with my glory..."
+description: >
+  Read Psalm 108 Online | O God, my heart is fixed; I will make songs and melody, even with my glory...
 weight: 108
 ---
 

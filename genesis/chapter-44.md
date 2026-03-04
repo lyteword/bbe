@@ -1,7 +1,8 @@
 ---
 title: "Genesis 44 BBE | Read the Bible Online"
 linkTitle: "44"
-description: "Read Genesis 44 Online | Then he gave orders to the servant who was over his house, saying, Put as much food into the men's bags as will go into them, and put every man's money in the mouth of his bag..."
+description: >
+  Read Genesis 44 Online | Then he gave orders to the servant who was over his house, saying, Put as much food into the men's bags as will go into them, and put every man's money in the mouth of his bag...
 weight: 44
 ---
 

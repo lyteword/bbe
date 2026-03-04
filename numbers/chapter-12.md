@@ -1,7 +1,8 @@
 ---
 title: "Numbers 12 BBE | Read the Bible Online"
 linkTitle: "12"
-description: "Read Numbers 12 Online | Now Miriam and Aaron said evil against Moses, because of the Cushite woman to whom he was married, for he had taken a Cushite woman as his wife..."
+description: >
+  Read Numbers 12 Online | Now Miriam and Aaron said evil against Moses, because of the Cushite woman to whom he was married, for he had taken a Cushite woman as his wife...
 weight: 12
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 17 BBE | Read the Bible Online"
 linkTitle: "17"
-description: "Read Isaiah 17 Online | The word about Damascus. See, they have made Damascus a town no longer; it has become a waste place..."
+description: >
+  Read Isaiah 17 Online | The word about Damascus. See, they have made Damascus a town no longer; it has become a waste place...
 weight: 17
 ---
 

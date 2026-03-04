@@ -1,7 +1,8 @@
 ---
 title: "Psalm 9 BBE | Read the Bible Online"
 linkTitle: "9"
-description: "Read Psalm 9 Online | I will give you praise, O Lord, with all my heart; I will make clear all the wonder of your works..."
+description: >
+  Read Psalm 9 Online | I will give you praise, O Lord, with all my heart; I will make clear all the wonder of your works...
 weight: 9
 ---
 

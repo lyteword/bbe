@@ -1,7 +1,8 @@
 ---
 title: "Acts 28 BBE | Read the Bible Online"
 linkTitle: "28"
-description: "Read Acts 28 Online | And when we were safe, we made the discovery that the island was named Melita..."
+description: >
+  Read Acts 28 Online | And when we were safe, we made the discovery that the island was named Melita...
 weight: 28
 ---
 

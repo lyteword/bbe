@@ -1,7 +1,8 @@
 ---
 title: "Exodus 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read Exodus 5 Online | And after that, Moses and Aaron came to Pharaoh, and said, The Lord, the God of Israel, says, Let my people go so that they may keep a feast to me in the waste land..."
+description: >
+  Read Exodus 5 Online | And after that, Moses and Aaron came to Pharaoh, and said, The Lord, the God of Israel, says, Let my people go so that they may keep a feast to me in the waste land...
 weight: 5
 ---
 

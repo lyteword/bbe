@@ -1,7 +1,8 @@
 ---
 title: "Luke 21 BBE | Read the Bible Online"
 linkTitle: "21"
-description: "Read Luke 21 Online | And looking up, he saw the men of wealth putting their offerings in the money-box..."
+description: >
+  Read Luke 21 Online | And looking up, he saw the men of wealth putting their offerings in the money-box...
 weight: 21
 ---
 

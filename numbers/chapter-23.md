@@ -1,7 +1,8 @@
 ---
 title: "Numbers 23 BBE | Read the Bible Online"
 linkTitle: "23"
-description: "Read Numbers 23 Online | And Balaam said to Balak, Make me here seven altars and get ready seven oxen and seven male sheep..."
+description: >
+  Read Numbers 23 Online | And Balaam said to Balak, Make me here seven altars and get ready seven oxen and seven male sheep...
 weight: 23
 ---
 

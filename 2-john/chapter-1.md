@@ -1,7 +1,8 @@
 ---
 title: "2 John 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read 2 John 1 Online | I, a ruler in the church, send word to the noble sister who is of God's selection, and to her children, for whom I have true love; and not only I, but all who have knowledge of what is true..."
+description: >
+  Read 2 John 1 Online | I, a ruler in the church, send word to the noble sister who is of God's selection, and to her children, for whom I have true love; and not only I, but all who have knowledge of what is true...
 weight: 1
 ---
 

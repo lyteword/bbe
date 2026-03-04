@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 21 BBE | Read the Bible Online"
 linkTitle: "21"
-description: "Read 2 Chronicles 21 Online | And Jehoshaphat went to rest with his fathers, and his body was put into the earth in the town of David. And Jehoram his son became king in his place..."
+description: >
+  Read 2 Chronicles 21 Online | And Jehoshaphat went to rest with his fathers, and his body was put into the earth in the town of David. And Jehoram his son became king in his place...
 weight: 21
 ---
 

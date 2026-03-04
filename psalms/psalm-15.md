@@ -1,7 +1,8 @@
 ---
 title: "Psalm 15 BBE | Read the Bible Online"
 linkTitle: "15"
-description: "Read Psalm 15 Online | Lord, who may have a resting-place in your tent, a living-place on your holy hill..."
+description: >
+  Read Psalm 15 Online | Lord, who may have a resting-place in your tent, a living-place on your holy hill...
 weight: 15
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 64 BBE | Read the Bible Online"
 linkTitle: "64"
-description: "Read Isaiah 64 Online | O let the heavens be broken open and come down, so that the mountains may be shaking before you..."
+description: >
+  Read Isaiah 64 Online | O let the heavens be broken open and come down, so that the mountains may be shaking before you...
 weight: 64
 ---
 

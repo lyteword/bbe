@@ -1,7 +1,8 @@
 ---
 title: "Psalm 16 BBE | Read the Bible Online"
 linkTitle: "16"
-description: "Read Psalm 16 Online | Keep me safe, O God: for in you I have put my faith..."
+description: >
+  Read Psalm 16 Online | Keep me safe, O God: for in you I have put my faith...
 weight: 16
 ---
 

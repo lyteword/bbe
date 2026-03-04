@@ -1,7 +1,8 @@
 ---
 title: "Psalm 27 BBE | Read the Bible Online"
 linkTitle: "27"
-description: "Read Psalm 27 Online | The Lord is my light and my salvation; who is then a cause of fear to me? the Lord is the strength of my life; who is a danger to me..."
+description: >
+  Read Psalm 27 Online | The Lord is my light and my salvation; who is then a cause of fear to me? the Lord is the strength of my life; who is a danger to me...
 weight: 27
 ---
 

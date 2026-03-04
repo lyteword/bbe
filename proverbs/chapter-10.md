@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 10 BBE | Read the Bible Online"
 linkTitle: "10"
-description: "Read Proverbs 10 Online | A wise son makes a glad father, but a foolish son is a sorrow to his mother..."
+description: >
+  Read Proverbs 10 Online | A wise son makes a glad father, but a foolish son is a sorrow to his mother...
 weight: 10
 ---
 

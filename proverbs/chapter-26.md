@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 26 BBE | Read the Bible Online"
 linkTitle: "26"
-description: "Read Proverbs 26 Online | Like snow in summer and rain when the grain is being cut, so honour is not natural for the foolish..."
+description: >
+  Read Proverbs 26 Online | Like snow in summer and rain when the grain is being cut, so honour is not natural for the foolish...
 weight: 26
 ---
 

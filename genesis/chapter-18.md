@@ -1,7 +1,8 @@
 ---
 title: "Genesis 18 BBE | Read the Bible Online"
 linkTitle: "18"
-description: "Read Genesis 18 Online | Now the Lord came to him by the holy tree of Mamre, when he was seated in the doorway of his tent in the middle of the day..."
+description: >
+  Read Genesis 18 Online | Now the Lord came to him by the holy tree of Mamre, when he was seated in the doorway of his tent in the middle of the day...
 weight: 18
 ---
 

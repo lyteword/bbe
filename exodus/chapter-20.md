@@ -1,7 +1,8 @@
 ---
 title: "Exodus 20 BBE | Read the Bible Online"
 linkTitle: "20"
-description: "Read Exodus 20 Online | And God said all these words..."
+description: >
+  Read Exodus 20 Online | And God said all these words...
 weight: 20
 ---
 

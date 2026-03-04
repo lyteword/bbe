@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 55 BBE | Read the Bible Online"
 linkTitle: "55"
-description: "Read Isaiah 55 Online | Ho! everyone in need, come to the waters, and he who has no strength, let him get food: come, get bread without money; wine and milk without price..."
+description: >
+  Read Isaiah 55 Online | Ho! everyone in need, come to the waters, and he who has no strength, let him get food: come, get bread without money; wine and milk without price...
 weight: 55
 ---
 

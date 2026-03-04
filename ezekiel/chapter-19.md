@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 19 BBE | Read the Bible Online"
 linkTitle: "19"
-description: "Read Ezekiel 19 Online | Take up now a song of grief for the ruler of Israel, and say..."
+description: >
+  Read Ezekiel 19 Online | Take up now a song of grief for the ruler of Israel, and say...
 weight: 19
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 110 BBE | Read the Bible Online"
 linkTitle: "110"
-description: "Read Psalm 110 Online | The Lord said to my lord, Be seated at my right hand, till I put all those who are against you under your feet..."
+description: >
+  Read Psalm 110 Online | The Lord said to my lord, Be seated at my right hand, till I put all those who are against you under your feet...
 weight: 110
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 32 BBE | Read the Bible Online"
 linkTitle: "32"
-description: "Read Jeremiah 32 Online | The word which came to Jeremiah from the Lord in the tenth year of Zedekiah, king of Judah, which was the eighteenth year of Nebuchadrezzar..."
+description: >
+  Read Jeremiah 32 Online | The word which came to Jeremiah from the Lord in the tenth year of Zedekiah, king of Judah, which was the eighteenth year of Nebuchadrezzar...
 weight: 32
 ---
 

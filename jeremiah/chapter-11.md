@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 11 BBE | Read the Bible Online"
 linkTitle: "11"
-description: "Read Jeremiah 11 Online | The word which came to Jeremiah from the Lord, saying..."
+description: >
+  Read Jeremiah 11 Online | The word which came to Jeremiah from the Lord, saying...
 weight: 11
 ---
 

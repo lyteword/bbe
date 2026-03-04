@@ -1,7 +1,8 @@
 ---
 title: "Acts 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read Acts 4 Online | And while they were talking to the people, the priests and the captain of the Temple and the Sadducees came up to them..."
+description: >
+  Read Acts 4 Online | And while they were talking to the people, the priests and the captain of the Temple and the Sadducees came up to them...
 weight: 4
 ---
 

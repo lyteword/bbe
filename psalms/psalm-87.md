@@ -1,7 +1,8 @@
 ---
 title: "Psalm 87 BBE | Read the Bible Online"
 linkTitle: "87"
-description: "Read Psalm 87 Online | This house is resting on the holy mountain..."
+description: >
+  Read Psalm 87 Online | This house is resting on the holy mountain...
 weight: 87
 ---
 

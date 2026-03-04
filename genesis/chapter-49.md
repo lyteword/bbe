@@ -1,7 +1,8 @@
 ---
 title: "Genesis 49 BBE | Read the Bible Online"
 linkTitle: "49"
-description: "Read Genesis 49 Online | And Jacob sent for his sons, and said, Come together, all of you, so that I may give you news of your fate in future times..."
+description: >
+  Read Genesis 49 Online | And Jacob sent for his sons, and said, Come together, all of you, so that I may give you news of your fate in future times...
 weight: 49
 ---
 

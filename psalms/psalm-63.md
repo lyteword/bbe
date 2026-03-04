@@ -1,7 +1,8 @@
 ---
 title: "Psalm 63 BBE | Read the Bible Online"
 linkTitle: "63"
-description: "Read Psalm 63 Online | O God, you are my God; early will I make my search for you: my soul is dry for need of you, my flesh is wasted with desire for you, as a dry and burning land where no water is..."
+description: >
+  Read Psalm 63 Online | O God, you are my God; early will I make my search for you: my soul is dry for need of you, my flesh is wasted with desire for you, as a dry and burning land where no water is...
 weight: 63
 ---
 

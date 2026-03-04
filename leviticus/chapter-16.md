@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 16 BBE | Read the Bible Online"
 linkTitle: "16"
-description: "Read Leviticus 16 Online | And the Lord said to Moses, after the death of the two sons of Aaron when they took in strange fire before the Lord and death overtook them..."
+description: >
+  Read Leviticus 16 Online | And the Lord said to Moses, after the death of the two sons of Aaron when they took in strange fire before the Lord and death overtook them...
 weight: 16
 ---
 

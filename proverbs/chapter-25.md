@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 25 BBE | Read the Bible Online"
 linkTitle: "25"
-description: "Read Proverbs 25 Online | These are more wise sayings of Solomon, copied out by the men of Hezekiah, king of Judah..."
+description: >
+  Read Proverbs 25 Online | These are more wise sayings of Solomon, copied out by the men of Hezekiah, king of Judah...
 weight: 25
 ---
 

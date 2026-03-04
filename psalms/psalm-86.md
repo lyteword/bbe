@@ -1,7 +1,8 @@
 ---
 title: "Psalm 86 BBE | Read the Bible Online"
 linkTitle: "86"
-description: "Read Psalm 86 Online | Let your ears be open to my voice, O Lord, and give me an answer; for I am poor and in need..."
+description: >
+  Read Psalm 86 Online | Let your ears be open to my voice, O Lord, and give me an answer; for I am poor and in need...
 weight: 86
 ---
 

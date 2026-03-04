@@ -1,7 +1,8 @@
 ---
 title: "Zephaniah 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read Zephaniah 3 Online | Sorrow to her who is uncontrolled and unclean, the cruel town..."
+description: >
+  Read Zephaniah 3 Online | Sorrow to her who is uncontrolled and unclean, the cruel town...
 weight: 3
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 128 BBE | Read the Bible Online"
 linkTitle: "128"
-description: "Read Psalm 128 Online | Happy is the worshipper of the Lord, who is walking in his ways..."
+description: >
+  Read Psalm 128 Online | Happy is the worshipper of the Lord, who is walking in his ways...
 weight: 128
 ---
 

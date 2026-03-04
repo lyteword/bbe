@@ -1,7 +1,8 @@
 ---
 title: "Amos 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read Amos 4 Online | Give ear to this word, you cows of Bashan, who are in the hill of Samaria, by whom the poor are kept down, and those in need are crushed; who say to their lords, Get out the wine and give us drink..."
+description: >
+  Read Amos 4 Online | Give ear to this word, you cows of Bashan, who are in the hill of Samaria, by whom the poor are kept down, and those in need are crushed; who say to their lords, Get out the wine and give us drink...
 weight: 4
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 10 BBE | Read the Bible Online"
 linkTitle: "10"
-description: "Read Nehemiah 10 Online | Now those who put down their names were Nehemiah the Tirshatha, the son of Hacaliah, and Zedekiah..."
+description: >
+  Read Nehemiah 10 Online | Now those who put down their names were Nehemiah the Tirshatha, the son of Hacaliah, and Zedekiah...
 weight: 10
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 9 BBE | Read the Bible Online"
 linkTitle: "9"
-description: "Read 2 Corinthians 9 Online | But there is no need for me to say anything in my letter about the giving to the saints..."
+description: >
+  Read 2 Corinthians 9 Online | But there is no need for me to say anything in my letter about the giving to the saints...
 weight: 9
 ---
 

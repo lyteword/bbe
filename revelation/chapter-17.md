@@ -1,7 +1,8 @@
 ---
 title: "Revelation 17 BBE | Read the Bible Online"
 linkTitle: "17"
-description: "Read Revelation 17 Online | And one of the seven angels who had the seven vessels came and said to me, Come here, so that you may see the judging of the evil woman who is seated on the great waters..."
+description: >
+  Read Revelation 17 Online | And one of the seven angels who had the seven vessels came and said to me, Come here, so that you may see the judging of the evil woman who is seated on the great waters...
 weight: 17
 ---
 

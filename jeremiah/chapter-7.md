@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 7 BBE | Read the Bible Online"
 linkTitle: "7"
-description: "Read Jeremiah 7 Online | The word which came to Jeremiah from the Lord, saying..."
+description: >
+  Read Jeremiah 7 Online | The word which came to Jeremiah from the Lord, saying...
 weight: 7
 ---
 

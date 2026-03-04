@@ -1,7 +1,8 @@
 ---
 title: "Genesis 30 BBE | Read the Bible Online"
 linkTitle: "30"
-description: "Read Genesis 30 Online | Now Rachel, because she had no children, was full of envy of her sister; and she said to Jacob, If you do not give me children I will not go on living..."
+description: >
+  Read Genesis 30 Online | Now Rachel, because she had no children, was full of envy of her sister; and she said to Jacob, If you do not give me children I will not go on living...
 weight: 30
 ---
 

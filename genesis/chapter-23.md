@@ -1,7 +1,8 @@
 ---
 title: "Genesis 23 BBE | Read the Bible Online"
 linkTitle: "23"
-description: "Read Genesis 23 Online | Now the years of Sarah's life were a hundred and twenty-seven..."
+description: >
+  Read Genesis 23 Online | Now the years of Sarah's life were a hundred and twenty-seven...
 weight: 23
 ---
 

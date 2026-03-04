@@ -1,7 +1,8 @@
 ---
 title: "Numbers 19 BBE | Read the Bible Online"
 linkTitle: "19"
-description: "Read Numbers 19 Online | And the Lord said to Moses and Aaron..."
+description: >
+  Read Numbers 19 Online | And the Lord said to Moses and Aaron...
 weight: 19
 ---
 

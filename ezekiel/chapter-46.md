@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 46 BBE | Read the Bible Online"
 linkTitle: "46"
-description: "Read Ezekiel 46 Online | This is what the Lord has said: The doorway of the inner square looking to the east is to be shut on the six working days; but on the Sabbath it is to be open, and at the time of the new moon it is to be open..."
+description: >
+  Read Ezekiel 46 Online | This is what the Lord has said: The doorway of the inner square looking to the east is to be shut on the six working days; but on the Sabbath it is to be open, and at the time of the new moon it is to be open...
 weight: 46
 ---
 

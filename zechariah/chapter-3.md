@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read Zechariah 3 Online | And he let me see Joshua, the high priest, in his place before the angel of the Lord, and the Satan at his right hand ready to take up a cause against him..."
+description: >
+  Read Zechariah 3 Online | And he let me see Joshua, the high priest, in his place before the angel of the Lord, and the Satan at his right hand ready to take up a cause against him...
 weight: 3
 ---
 

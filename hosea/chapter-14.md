@@ -1,7 +1,8 @@
 ---
 title: "Hosea 14 BBE | Read the Bible Online"
 linkTitle: "14"
-description: "Read Hosea 14 Online | O Israel, come back to the Lord your God; for your evil-doing has been the cause of your fall..."
+description: >
+  Read Hosea 14 Online | O Israel, come back to the Lord your God; for your evil-doing has been the cause of your fall...
 weight: 14
 ---
 

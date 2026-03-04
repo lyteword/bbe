@@ -1,7 +1,8 @@
 ---
 title: "Psalm 79 BBE | Read the Bible Online"
 linkTitle: "79"
-description: "Read Psalm 79 Online | O God, the nations have come into your heritage; they have made your holy Temple unclean; they have made Jerusalem a mass of broken walls..."
+description: >
+  Read Psalm 79 Online | O God, the nations have come into your heritage; they have made your holy Temple unclean; they have made Jerusalem a mass of broken walls...
 weight: 79
 ---
 

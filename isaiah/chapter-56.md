@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 56 BBE | Read the Bible Online"
 linkTitle: "56"
-description: "Read Isaiah 56 Online | The Lord says, Let your way of life be upright, and let your behaviour be rightly ordered: for my salvation is near, and my righteousness will quickly be seen..."
+description: >
+  Read Isaiah 56 Online | The Lord says, Let your way of life be upright, and let your behaviour be rightly ordered: for my salvation is near, and my righteousness will quickly be seen...
 weight: 56
 ---
 

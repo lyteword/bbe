@@ -1,7 +1,8 @@
 ---
 title: "Revelation 2 BBE | Read the Bible Online"
 linkTitle: "2"
-description: "Read Revelation 2 Online | To the angel of the church in Ephesus say: These things says he who has the seven stars in his right hand, who is walking in the middle of the seven gold lights..."
+description: >
+  Read Revelation 2 Online | To the angel of the church in Ephesus say: These things says he who has the seven stars in his right hand, who is walking in the middle of the seven gold lights...
 weight: 2
 ---
 

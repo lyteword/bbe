@@ -1,7 +1,8 @@
 ---
 title: "Psalm 70 BBE | Read the Bible Online"
 linkTitle: "70"
-description: "Read Psalm 70 Online | Let your salvation come quickly, O God; come quickly to my help, O Lord..."
+description: >
+  Read Psalm 70 Online | Let your salvation come quickly, O God; come quickly to my help, O Lord...
 weight: 70
 ---
 

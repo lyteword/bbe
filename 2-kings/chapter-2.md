@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 2 BBE | Read the Bible Online"
 linkTitle: "2"
-description: "Read 2 Kings 2 Online | Now when the Lord was about to take Elijah up to heaven in a great wind, Elijah went with Elisha from Gilgal..."
+description: >
+  Read 2 Kings 2 Online | Now when the Lord was about to take Elijah up to heaven in a great wind, Elijah went with Elisha from Gilgal...
 weight: 2
 ---
 

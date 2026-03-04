@@ -1,7 +1,8 @@
 ---
 title: "Lamentations 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read Lamentations 3 Online | I am the man who has seen trouble by the rod of his wrath..."
+description: >
+  Read Lamentations 3 Online | I am the man who has seen trouble by the rod of his wrath...
 weight: 3
 ---
 

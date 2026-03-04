@@ -1,7 +1,8 @@
 ---
 title: "Psalm 96 BBE | Read the Bible Online"
 linkTitle: "96"
-description: "Read Psalm 96 Online | O make a new song to the Lord; let all the earth make melody to the Lord..."
+description: >
+  Read Psalm 96 Online | O make a new song to the Lord; let all the earth make melody to the Lord...
 weight: 96
 ---
 

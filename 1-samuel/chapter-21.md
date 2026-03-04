@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 21 BBE | Read the Bible Online"
 linkTitle: "21"
-description: "Read 1 Samuel 21 Online | Then David came to Nob, to Ahimelech the priest: and Ahimelech was full of fear at meeting David, and said to him, Why are you by yourself, having no man with you..."
+description: >
+  Read 1 Samuel 21 Online | Then David came to Nob, to Ahimelech the priest: and Ahimelech was full of fear at meeting David, and said to him, Why are you by yourself, having no man with you...
 weight: 21
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 44 BBE | Read the Bible Online"
 linkTitle: "44"
-description: "Read Jeremiah 44 Online | The word which came to Jeremiah about all the Jews who were living in the land of Egypt, in Migdol and at Tahpanhes and at Noph and in the country of Pathros, saying..."
+description: >
+  Read Jeremiah 44 Online | The word which came to Jeremiah about all the Jews who were living in the land of Egypt, in Migdol and at Tahpanhes and at Noph and in the country of Pathros, saying...
 weight: 44
 ---
 

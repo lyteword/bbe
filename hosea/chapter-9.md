@@ -1,7 +1,8 @@
 ---
 title: "Hosea 9 BBE | Read the Bible Online"
 linkTitle: "9"
-description: "Read Hosea 9 Online | Have no joy, O Israel, and do not be glad like the nations; for you have been untrue to your God; your desire has been for the loose woman's reward on every grain-floor..."
+description: >
+  Read Hosea 9 Online | Have no joy, O Israel, and do not be glad like the nations; for you have been untrue to your God; your desire has been for the loose woman's reward on every grain-floor...
 weight: 9
 ---
 

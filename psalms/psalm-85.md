@@ -1,7 +1,8 @@
 ---
 title: "Psalm 85 BBE | Read the Bible Online"
 linkTitle: "85"
-description: "Read Psalm 85 Online | Lord, you were good to your land: changing the fate of Jacob..."
+description: >
+  Read Psalm 85 Online | Lord, you were good to your land: changing the fate of Jacob...
 weight: 85
 ---
 

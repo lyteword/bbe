@@ -1,7 +1,8 @@
 ---
 title: "Psalm 138 BBE | Read the Bible Online"
 linkTitle: "138"
-description: "Read Psalm 138 Online | I will give you praise with all my heart: I will make melody to you before the gods..."
+description: >
+  Read Psalm 138 Online | I will give you praise with all my heart: I will make melody to you before the gods...
 weight: 138
 ---
 

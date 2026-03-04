@@ -1,7 +1,8 @@
 ---
 title: "Acts 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read Acts 1 Online | I have given an earlier account, O Theophilus, of all the things which Jesus did, and of his teaching from the first..."
+description: >
+  Read Acts 1 Online | I have given an earlier account, O Theophilus, of all the things which Jesus did, and of his teaching from the first...
 weight: 1
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Esther 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read Esther 1 Online | Now it came about in the days of Ahasuerus, (that Ahasuerus who was ruler of a hundred and twenty-seven divisions of the kingdom, from India as far as Ethiopia:..."
+description: >
+  Read Esther 1 Online | Now it came about in the days of Ahasuerus, (that Ahasuerus who was ruler of a hundred and twenty-seven divisions of the kingdom, from India as far as Ethiopia:...
 weight: 1
 ---
 

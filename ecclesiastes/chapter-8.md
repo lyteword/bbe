@@ -1,7 +1,8 @@
 ---
 title: "Ecclesiastes 8 BBE | Read the Bible Online"
 linkTitle: "8"
-description: "Read Ecclesiastes 8 Online | Who is like the wise man? and to whom is the sense of anything clear? A man's wisdom makes his face shining, and his hard face will be changed..."
+description: >
+  Read Ecclesiastes 8 Online | Who is like the wise man? and to whom is the sense of anything clear? A man's wisdom makes his face shining, and his hard face will be changed...
 weight: 8
 ---
 

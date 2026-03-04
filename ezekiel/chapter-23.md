@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 23 BBE | Read the Bible Online"
 linkTitle: "23"
-description: "Read Ezekiel 23 Online | The word of the Lord came to me again, saying..."
+description: >
+  Read Ezekiel 23 Online | The word of the Lord came to me again, saying...
 weight: 23
 ---
 

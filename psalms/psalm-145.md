@@ -1,7 +1,8 @@
 ---
 title: "Psalm 145 BBE | Read the Bible Online"
 linkTitle: "145"
-description: "Read Psalm 145 Online | Let me give glory to you, O God, my King; and blessing to your name for ever and ever..."
+description: >
+  Read Psalm 145 Online | Let me give glory to you, O God, my King; and blessing to your name for ever and ever...
 weight: 145
 ---
 

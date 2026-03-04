@@ -1,7 +1,8 @@
 ---
 title: "Job 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read Job 4 Online | And Eliphaz the Temanite made answer and said..."
+description: >
+  Read Job 4 Online | And Eliphaz the Temanite made answer and said...
 weight: 4
 ---
 

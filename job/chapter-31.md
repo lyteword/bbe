@@ -1,7 +1,8 @@
 ---
 title: "Job 31 BBE | Read the Bible Online"
 linkTitle: "31"
-description: "Read Job 31 Online | I made an agreement with my eyes; how then might my eyes be looking on a virgin..."
+description: >
+  Read Job 31 Online | I made an agreement with my eyes; how then might my eyes be looking on a virgin...
 weight: 31
 ---
 

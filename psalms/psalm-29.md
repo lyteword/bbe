@@ -1,7 +1,8 @@
 ---
 title: "Psalm 29 BBE | Read the Bible Online"
 linkTitle: "29"
-description: "Read Psalm 29 Online | Give to the Lord, you sons of the gods, give to the Lord glory and strength..."
+description: >
+  Read Psalm 29 Online | Give to the Lord, you sons of the gods, give to the Lord glory and strength...
 weight: 29
 ---
 

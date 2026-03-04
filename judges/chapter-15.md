@@ -1,7 +1,8 @@
 ---
 title: "Judges 15 BBE | Read the Bible Online"
 linkTitle: "15"
-description: "Read Judges 15 Online | Now a short time after, at the time of the grain-cutting, Samson, taking with him a young goat, went to see his wife; and he said, I will go in to my wife into the bride's room. But her father would not let him go in..."
+description: >
+  Read Judges 15 Online | Now a short time after, at the time of the grain-cutting, Samson, taking with him a young goat, went to see his wife; and he said, I will go in to my wife into the bride's room. But her father would not let him go in...
 weight: 15
 ---
 

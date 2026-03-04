@@ -1,7 +1,8 @@
 ---
 title: "Psalm 75 BBE | Read the Bible Online"
 linkTitle: "75"
-description: "Read Psalm 75 Online | To you, O God, we give praise, to you we give praise: and those who give honour to your name make clear your works of power..."
+description: >
+  Read Psalm 75 Online | To you, O God, we give praise, to you we give praise: and those who give honour to your name make clear your works of power...
 weight: 75
 ---
 

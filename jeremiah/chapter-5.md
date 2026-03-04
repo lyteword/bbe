@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read Jeremiah 5 Online | Go quickly through the streets of Jerusalem, and see now, and get knowledge, and make a search in her wide places if there is a man, if there is one in her who is upright, who keeps faith; and she will have my forgiveness..."
+description: >
+  Read Jeremiah 5 Online | Go quickly through the streets of Jerusalem, and see now, and get knowledge, and make a search in her wide places if there is a man, if there is one in her who is upright, who keeps faith; and she will have my forgiveness...
 weight: 5
 ---
 

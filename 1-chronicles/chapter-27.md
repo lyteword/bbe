@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 27 BBE | Read the Bible Online"
 linkTitle: "27"
-description: "Read 1 Chronicles 27 Online | Now the number of the children of Israel, that is, the heads of families, and the captains of thousands and of hundreds, and the men in authority who were servants of the king in anything to do with the divisions which came in and went out month by month through all the months of the year, in every division were twenty-four thousand..."
+description: >
+  Read 1 Chronicles 27 Online | Now the number of the children of Israel, that is, the heads of families, and the captains of thousands and of hundreds, and the men in authority who were servants of the king in anything to do with the divisions which came in and went out month by month through all the months of the year, in every division were twenty-four thousand...
 weight: 27
 ---
 

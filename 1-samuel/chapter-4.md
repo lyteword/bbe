@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read 1 Samuel 4 Online | Now at that time the Philistines came together to make war against Israel, and the men of Israel went out to war against the Philistines and took up their position at the side of Eben-ezer: and the Philistines put their forces in position in Aphek..."
+description: >
+  Read 1 Samuel 4 Online | Now at that time the Philistines came together to make war against Israel, and the men of Israel went out to war against the Philistines and took up their position at the side of Eben-ezer: and the Philistines put their forces in position in Aphek...
 weight: 4
 ---
 

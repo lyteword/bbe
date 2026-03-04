@@ -1,7 +1,8 @@
 ---
 title: "James 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read James 1 Online | James, a servant of God and of the Lord Jesus Christ, sends words of love to the twelve tribes of the Jews living in all parts of the earth..."
+description: >
+  Read James 1 Online | James, a servant of God and of the Lord Jesus Christ, sends words of love to the twelve tribes of the Jews living in all parts of the earth...
 weight: 1
 ---
 

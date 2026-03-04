@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 6 BBE | Read the Bible Online"
 linkTitle: "6"
-description: "Read 2 Kings 6 Online | Now the sons of the prophets said to Elisha, There is not room enough for us in the place where we are living under your care..."
+description: >
+  Read 2 Kings 6 Online | Now the sons of the prophets said to Elisha, There is not room enough for us in the place where we are living under your care...
 weight: 6
 ---
 

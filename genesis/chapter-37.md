@@ -1,7 +1,8 @@
 ---
 title: "Genesis 37 BBE | Read the Bible Online"
 linkTitle: "37"
-description: "Read Genesis 37 Online | Now Jacob was living in the land where his father had made a place for himself, in the land of Canaan..."
+description: >
+  Read Genesis 37 Online | Now Jacob was living in the land where his father had made a place for himself, in the land of Canaan...
 weight: 37
 ---
 

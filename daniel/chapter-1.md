@@ -1,7 +1,8 @@
 ---
 title: "Daniel 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read Daniel 1 Online | In the third year of the rule of Jehoiakim, king of Judah, Nebuchadnezzar, king of Babylon, came to Jerusalem, shutting it in with his forces..."
+description: >
+  Read Daniel 1 Online | In the third year of the rule of Jehoiakim, king of Judah, Nebuchadnezzar, king of Babylon, came to Jerusalem, shutting it in with his forces...
 weight: 1
 ---
 

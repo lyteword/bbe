@@ -1,7 +1,8 @@
 ---
 title: "Exodus 29 BBE | Read the Bible Online"
 linkTitle: "29"
-description: "Read Exodus 29 Online | This is what you are to do to make them holy, to do the work of priests to me: Take one young ox and two male sheep, without any mark on them..."
+description: >
+  Read Exodus 29 Online | This is what you are to do to make them holy, to do the work of priests to me: Take one young ox and two male sheep, without any mark on them...
 weight: 29
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Genesis 8 BBE | Read the Bible Online"
 linkTitle: "8"
-description: "Read Genesis 8 Online | And God kept Noah in mind, and all the living things and the cattle which were with him in the ark: and God sent a wind over the earth, and the waters went down..."
+description: >
+  Read Genesis 8 Online | And God kept Noah in mind, and all the living things and the cattle which were with him in the ark: and God sent a wind over the earth, and the waters went down...
 weight: 8
 ---
 

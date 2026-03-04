@@ -1,7 +1,8 @@
 ---
 title: "Esther 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read Esther 5 Online | Now on the third day, Esther put on her queen's robes, and took her place in the inner room of the king's house, facing the king's house: and the king was seated on his high seat in the king's house, facing the doorway of the house..."
+description: >
+  Read Esther 5 Online | Now on the third day, Esther put on her queen's robes, and took her place in the inner room of the king's house, facing the king's house: and the king was seated on his high seat in the king's house, facing the doorway of the house...
 weight: 5
 ---
 

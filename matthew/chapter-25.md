@@ -1,7 +1,8 @@
 ---
 title: "Matthew 25 BBE | Read the Bible Online"
 linkTitle: "25"
-description: "Read Matthew 25 Online | Then the kingdom of heaven will be like ten virgins, the friends of the bride, who took their lights, and went out with the purpose of meeting the husband..."
+description: >
+  Read Matthew 25 Online | Then the kingdom of heaven will be like ten virgins, the friends of the bride, who took their lights, and went out with the purpose of meeting the husband...
 weight: 25
 ---
 

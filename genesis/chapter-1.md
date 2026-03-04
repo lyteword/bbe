@@ -1,7 +1,8 @@
 ---
 title: "Genesis 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read Genesis 1 Online | At the first God made the heaven and the earth..."
+description: >
+  Read Genesis 1 Online | At the first God made the heaven and the earth...
 weight: 1
 ---
 

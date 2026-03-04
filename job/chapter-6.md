@@ -1,7 +1,8 @@
 ---
 title: "Job 6 BBE | Read the Bible Online"
 linkTitle: "6"
-description: "Read Job 6 Online | And Job made answer and said..."
+description: >
+  Read Job 6 Online | And Job made answer and said...
 weight: 6
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Timothy 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read 1 Timothy 5 Online | Do not say sharp words to one who has authority in the church, but let your talk be as to a father, and to the younger men as to brothers..."
+description: >
+  Read 1 Timothy 5 Online | Do not say sharp words to one who has authority in the church, but let your talk be as to a father, and to the younger men as to brothers...
 weight: 5
 ---
 

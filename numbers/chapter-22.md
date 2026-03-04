@@ -1,7 +1,8 @@
 ---
 title: "Numbers 22 BBE | Read the Bible Online"
 linkTitle: "22"
-description: "Read Numbers 22 Online | Then the children of Israel, journeying on, put up their tents in the lowlands of Moab, on the other side of Jordan at Jericho..."
+description: >
+  Read Numbers 22 Online | Then the children of Israel, journeying on, put up their tents in the lowlands of Moab, on the other side of Jordan at Jericho...
 weight: 22
 ---
 

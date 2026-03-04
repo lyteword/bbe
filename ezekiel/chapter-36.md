@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 36 BBE | Read the Bible Online"
 linkTitle: "36"
-description: "Read Ezekiel 36 Online | And you, son of man, be a prophet about the mountains of Israel, and say, You mountains of Israel, give ear to the word of the Lord..."
+description: >
+  Read Ezekiel 36 Online | And you, son of man, be a prophet about the mountains of Israel, and say, You mountains of Israel, give ear to the word of the Lord...
 weight: 36
 ---
 

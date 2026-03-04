@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 10 BBE | Read the Bible Online"
 linkTitle: "10"
-description: "Read Hebrews 10 Online | For the law, being only a poor copy of the future good things, and not the true image of those things, is never able to make the people who come to the altar every year with the same offerings completely clean..."
+description: >
+  Read Hebrews 10 Online | For the law, being only a poor copy of the future good things, and not the true image of those things, is never able to make the people who come to the altar every year with the same offerings completely clean...
 weight: 10
 ---
 

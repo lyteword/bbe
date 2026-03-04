@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 16 BBE | Read the Bible Online"
 linkTitle: "16"
-description: "Read Jeremiah 16 Online | Then again the word of the Lord came to me, saying..."
+description: >
+  Read Jeremiah 16 Online | Then again the word of the Lord came to me, saying...
 weight: 16
 ---
 

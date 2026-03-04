@@ -1,7 +1,8 @@
 ---
 title: "Numbers 7 BBE | Read the Bible Online"
 linkTitle: "7"
-description: "Read Numbers 7 Online | And when Moses had put up the House completely, and had put oil on it and made it holy, with all the things in it, and had made the altar and all its vessels holy with oil..."
+description: >
+  Read Numbers 7 Online | And when Moses had put up the House completely, and had put oil on it and made it holy, with all the things in it, and had made the altar and all its vessels holy with oil...
 weight: 7
 ---
 

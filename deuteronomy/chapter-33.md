@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 33 BBE | Read the Bible Online"
 linkTitle: "33"
-description: "Read Deuteronomy 33 Online | Now this is the blessing which Moses, the man of God, gave to the children of Israel before his death..."
+description: >
+  Read Deuteronomy 33 Online | Now this is the blessing which Moses, the man of God, gave to the children of Israel before his death...
 weight: 33
 ---
 

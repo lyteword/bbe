@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 16 BBE | Read the Bible Online"
 linkTitle: "16"
-description: "Read Proverbs 16 Online | The designs of the heart are man's, but the answer of the tongue comes from the Lord..."
+description: >
+  Read Proverbs 16 Online | The designs of the heart are man's, but the answer of the tongue comes from the Lord...
 weight: 16
 ---
 

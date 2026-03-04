@@ -1,7 +1,8 @@
 ---
 title: "Revelation 15 BBE | Read the Bible Online"
 linkTitle: "15"
-description: "Read Revelation 15 Online | And I saw another sign in heaven, great and strange; seven angels having the seven last punishments, for in them the wrath of God is complete..."
+description: >
+  Read Revelation 15 Online | And I saw another sign in heaven, great and strange; seven angels having the seven last punishments, for in them the wrath of God is complete...
 weight: 15
 ---
 

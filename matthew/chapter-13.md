@@ -1,7 +1,8 @@
 ---
 title: "Matthew 13 BBE | Read the Bible Online"
 linkTitle: "13"
-description: "Read Matthew 13 Online | On that day Jesus went out of the house and was seated by the seaside..."
+description: >
+  Read Matthew 13 Online | On that day Jesus went out of the house and was seated by the seaside...
 weight: 13
 ---
 

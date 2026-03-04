@@ -1,7 +1,8 @@
 ---
 title: "Hosea 12 BBE | Read the Bible Online"
 linkTitle: "12"
-description: "Read Hosea 12 Online | Ephraim's food is the wind, and he goes after the east wind: deceit and destruction are increasing day by day; they make an agreement with Assyria, and take oil into Egypt..."
+description: >
+  Read Hosea 12 Online | Ephraim's food is the wind, and he goes after the east wind: deceit and destruction are increasing day by day; they make an agreement with Assyria, and take oil into Egypt...
 weight: 12
 ---
 

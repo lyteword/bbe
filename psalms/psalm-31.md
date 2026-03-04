@@ -1,7 +1,8 @@
 ---
 title: "Psalm 31 BBE | Read the Bible Online"
 linkTitle: "31"
-description: "Read Psalm 31 Online | In you, O Lord, have I put my hope; let me never be shamed; keep me safe in your righteousness..."
+description: >
+  Read Psalm 31 Online | In you, O Lord, have I put my hope; let me never be shamed; keep me safe in your righteousness...
 weight: 31
 ---
 

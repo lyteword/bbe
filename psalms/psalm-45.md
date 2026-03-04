@@ -1,7 +1,8 @@
 ---
 title: "Psalm 45 BBE | Read the Bible Online"
 linkTitle: "45"
-description: "Read Psalm 45 Online | My heart is flowing over with good things; my words are of that which I have made for a king; my tongue is the pen of a ready writer..."
+description: >
+  Read Psalm 45 Online | My heart is flowing over with good things; my words are of that which I have made for a king; my tongue is the pen of a ready writer...
 weight: 45
 ---
 

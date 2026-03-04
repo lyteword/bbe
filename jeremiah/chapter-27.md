@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 27 BBE | Read the Bible Online"
 linkTitle: "27"
-description: "Read Jeremiah 27 Online | When Zedekiah, the son of Josiah, king of Judah, first became king this word came to Jeremiah from the Lord, saying..."
+description: >
+  Read Jeremiah 27 Online | When Zedekiah, the son of Josiah, king of Judah, first became king this word came to Jeremiah from the Lord, saying...
 weight: 27
 ---
 

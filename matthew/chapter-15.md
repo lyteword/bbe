@@ -1,7 +1,8 @@
 ---
 title: "Matthew 15 BBE | Read the Bible Online"
 linkTitle: "15"
-description: "Read Matthew 15 Online | Then there came to Jesus from Jerusalem Pharisees and scribes, saying..."
+description: >
+  Read Matthew 15 Online | Then there came to Jesus from Jerusalem Pharisees and scribes, saying...
 weight: 15
 ---
 

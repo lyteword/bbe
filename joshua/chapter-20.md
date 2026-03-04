@@ -1,7 +1,8 @@
 ---
 title: "Joshua 20 BBE | Read the Bible Online"
 linkTitle: "20"
-description: "Read Joshua 20 Online | And the Lord said to Joshua..."
+description: >
+  Read Joshua 20 Online | And the Lord said to Joshua...
 weight: 20
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Acts 8 BBE | Read the Bible Online"
 linkTitle: "8"
-description: "Read Acts 8 Online | And Saul gave approval to his death. Now at that time a violent attack was started against the church in Jerusalem; and all but the Apostles went away into all parts of Judaea and Samaria..."
+description: >
+  Read Acts 8 Online | And Saul gave approval to his death. Now at that time a violent attack was started against the church in Jerusalem; and all but the Apostles went away into all parts of Judaea and Samaria...
 weight: 8
 ---
 

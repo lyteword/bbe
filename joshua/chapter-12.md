@@ -1,7 +1,8 @@
 ---
 title: "Joshua 12 BBE | Read the Bible Online"
 linkTitle: "12"
-description: "Read Joshua 12 Online | Now these are the kings of the land whom the children of Israel overcame, taking as their heritage their land on the east side of Jordan, from the valley of the Arnon to Mount Hermon, and all the Arabah to the east..."
+description: >
+  Read Joshua 12 Online | Now these are the kings of the land whom the children of Israel overcame, taking as their heritage their land on the east side of Jordan, from the valley of the Arnon to Mount Hermon, and all the Arabah to the east...
 weight: 12
 ---
 

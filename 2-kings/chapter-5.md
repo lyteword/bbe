@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read 2 Kings 5 Online | Now Naaman, chief of the army of the king of Aram, was a man of high position with his master, and greatly respected, because by him the Lord had given salvation to Aram; but he was a leper..."
+description: >
+  Read 2 Kings 5 Online | Now Naaman, chief of the army of the king of Aram, was a man of high position with his master, and greatly respected, because by him the Lord had given salvation to Aram; but he was a leper...
 weight: 5
 ---
 

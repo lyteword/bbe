@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 16 BBE | Read the Bible Online"
 linkTitle: "16"
-description: "Read 1 Kings 16 Online | And the word of the Lord came to Jehu, son of Hanani, protesting against Baasha and saying..."
+description: >
+  Read 1 Kings 16 Online | And the word of the Lord came to Jehu, son of Hanani, protesting against Baasha and saying...
 weight: 16
 ---
 

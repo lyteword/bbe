@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 13 BBE | Read the Bible Online"
 linkTitle: "13"
-description: "Read Jeremiah 13 Online | This is what the Lord said to me: Go and get yourself a linen band and put it round you and do not put it in water..."
+description: >
+  Read Jeremiah 13 Online | This is what the Lord said to me: Go and get yourself a linen band and put it round you and do not put it in water...
 weight: 13
 ---
 

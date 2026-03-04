@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 8 BBE | Read the Bible Online"
 linkTitle: "8"
-description: "Read Zechariah 8 Online | And the word of the Lord of armies came to me, saying..."
+description: >
+  Read Zechariah 8 Online | And the word of the Lord of armies came to me, saying...
 weight: 8
 ---
 

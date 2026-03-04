@@ -1,7 +1,8 @@
 ---
 title: "Psalm 60 BBE | Read the Bible Online"
 linkTitle: "60"
-description: "Read Psalm 60 Online | God, you have put us away from you, you have sent us in all directions, you have been angry; O be turned to us again..."
+description: >
+  Read Psalm 60 Online | God, you have put us away from you, you have sent us in all directions, you have been angry; O be turned to us again...
 weight: 60
 ---
 

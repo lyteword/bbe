@@ -1,7 +1,8 @@
 ---
 title: "Psalm 68 BBE | Read the Bible Online"
 linkTitle: "68"
-description: "Read Psalm 68 Online | Let God be seen, and let his haters be put to flight; let those who are against him be turned back before him..."
+description: >
+  Read Psalm 68 Online | Let God be seen, and let his haters be put to flight; let those who are against him be turned back before him...
 weight: 68
 ---
 

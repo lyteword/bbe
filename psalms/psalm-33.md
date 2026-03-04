@@ -1,7 +1,8 @@
 ---
 title: "Psalm 33 BBE | Read the Bible Online"
 linkTitle: "33"
-description: "Read Psalm 33 Online | Be glad in the Lord, O doers of righteousness; for praise is beautiful for the upright..."
+description: >
+  Read Psalm 33 Online | Be glad in the Lord, O doers of righteousness; for praise is beautiful for the upright...
 weight: 33
 ---
 

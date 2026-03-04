@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 24 BBE | Read the Bible Online"
 linkTitle: "24"
-description: "Read Jeremiah 24 Online | The Lord gave me a vision, and I saw two baskets full of figs put in front of the Temple of the Lord, after Nebuchadrezzar, king of Babylon, had taken prisoner Jeconiah, the son of Jehoiakim, king of Judah, and the chiefs of Judah, and the expert workmen and metal-workers from Jerusalem, and had taken them to Babylon..."
+description: >
+  Read Jeremiah 24 Online | The Lord gave me a vision, and I saw two baskets full of figs put in front of the Temple of the Lord, after Nebuchadrezzar, king of Babylon, had taken prisoner Jeconiah, the son of Jehoiakim, king of Judah, and the chiefs of Judah, and the expert workmen and metal-workers from Jerusalem, and had taken them to Babylon...
 weight: 24
 ---
 

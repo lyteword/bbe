@@ -1,7 +1,8 @@
 ---
 title: "Psalm 136 BBE | Read the Bible Online"
 linkTitle: "136"
-description: "Read Psalm 136 Online | O give praise to the Lord, for he is good: for his mercy is unchanging for ever..."
+description: >
+  Read Psalm 136 Online | O give praise to the Lord, for he is good: for his mercy is unchanging for ever...
 weight: 136
 ---
 

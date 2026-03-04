@@ -1,7 +1,8 @@
 ---
 title: "Psalm 103 BBE | Read the Bible Online"
 linkTitle: "103"
-description: "Read Psalm 103 Online | Give praise to the Lord, O my soul; let everything in me give praise to his holy name..."
+description: >
+  Read Psalm 103 Online | Give praise to the Lord, O my soul; let everything in me give praise to his holy name...
 weight: 103
 ---
 

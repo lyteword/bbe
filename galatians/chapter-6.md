@@ -1,7 +1,8 @@
 ---
 title: "Galatians 6 BBE | Read the Bible Online"
 linkTitle: "6"
-description: "Read Galatians 6 Online | Brothers, if a man is taken in any wrongdoing, you who are of the Spirit will put such a one right in a spirit of love; keeping watch on yourself, for fear that you yourself may be tested..."
+description: >
+  Read Galatians 6 Online | Brothers, if a man is taken in any wrongdoing, you who are of the Spirit will put such a one right in a spirit of love; keeping watch on yourself, for fear that you yourself may be tested...
 weight: 6
 ---
 

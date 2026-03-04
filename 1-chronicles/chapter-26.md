@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 26 BBE | Read the Bible Online"
 linkTitle: "26"
-description: "Read 1 Chronicles 26 Online | For the divisions of the door-keepers: of the Korahites, Meshelemiah, the son of Kore, of the sons of Ebiasaph..."
+description: >
+  Read 1 Chronicles 26 Online | For the divisions of the door-keepers: of the Korahites, Meshelemiah, the son of Kore, of the sons of Ebiasaph...
 weight: 26
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Ephesians 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read Ephesians 4 Online | I then, the prisoner in the Lord, make this request from my heart, that you will see that your behaviour is a credit to the position which God's purpose has given you..."
+description: >
+  Read Ephesians 4 Online | I then, the prisoner in the Lord, make this request from my heart, that you will see that your behaviour is a credit to the position which God's purpose has given you...
 weight: 4
 ---
 

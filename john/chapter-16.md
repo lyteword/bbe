@@ -1,7 +1,8 @@
 ---
 title: "John 16 BBE | Read the Bible Online"
 linkTitle: "16"
-description: "Read John 16 Online | I have said these things to you so that you may not be in doubt..."
+description: >
+  Read John 16 Online | I have said these things to you so that you may not be in doubt...
 weight: 16
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 54 BBE | Read the Bible Online"
 linkTitle: "54"
-description: "Read Psalm 54 Online | Let your name be my salvation, O God; let my cause be judged by your strength..."
+description: >
+  Read Psalm 54 Online | Let your name be my salvation, O God; let my cause be judged by your strength...
 weight: 54
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 142 BBE | Read the Bible Online"
 linkTitle: "142"
-description: "Read Psalm 142 Online | The sound of my cry went up to the Lord; with my voice I made my prayer for grace to the Lord..."
+description: >
+  Read Psalm 142 Online | The sound of my cry went up to the Lord; with my voice I made my prayer for grace to the Lord...
 weight: 142
 ---
 

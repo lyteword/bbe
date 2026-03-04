@@ -1,7 +1,8 @@
 ---
 title: "Mark 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read Mark 3 Online | And he went again into the Synagogue; and there was a man there whose hand was dead..."
+description: >
+  Read Mark 3 Online | And he went again into the Synagogue; and there was a man there whose hand was dead...
 weight: 3
 ---
 

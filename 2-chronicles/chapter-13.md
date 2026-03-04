@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 13 BBE | Read the Bible Online"
 linkTitle: "13"
-description: "Read 2 Chronicles 13 Online | In the eighteenth year of King Jeroboam, Abijah became king over Judah..."
+description: >
+  Read 2 Chronicles 13 Online | In the eighteenth year of King Jeroboam, Abijah became king over Judah...
 weight: 13
 ---
 

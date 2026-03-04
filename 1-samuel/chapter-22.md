@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 22 BBE | Read the Bible Online"
 linkTitle: "22"
-description: "Read 1 Samuel 22 Online | So David went away from there and took cover in a strong place at Adullam; and his brothers and all his father's people, hearing of it, went down to him there..."
+description: >
+  Read 1 Samuel 22 Online | So David went away from there and took cover in a strong place at Adullam; and his brothers and all his father's people, hearing of it, went down to him there...
 weight: 22
 ---
 

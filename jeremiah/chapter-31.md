@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 31 BBE | Read the Bible Online"
 linkTitle: "31"
-description: "Read Jeremiah 31 Online | At that time, says the Lord, I will be the God of all the families of Israel, and they will be my people..."
+description: >
+  Read Jeremiah 31 Online | At that time, says the Lord, I will be the God of all the families of Israel, and they will be my people...
 weight: 31
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 9 BBE | Read the Bible Online"
 linkTitle: "9"
-description: "Read 1 Kings 9 Online | Now when Solomon came to the end of building the house of the Lord and the king's house, and all Solomon's desires, which he had in mind were effected..."
+description: >
+  Read 1 Kings 9 Online | Now when Solomon came to the end of building the house of the Lord and the king's house, and all Solomon's desires, which he had in mind were effected...
 weight: 9
 ---
 

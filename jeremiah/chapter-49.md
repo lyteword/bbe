@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 49 BBE | Read the Bible Online"
 linkTitle: "49"
-description: "Read Jeremiah 49 Online | About the children of Ammon. These are the words of the Lord: Has Israel no sons? has he no one to take the heritage? why then has Milcom taken Gad for himself, putting his people in its towns..."
+description: >
+  Read Jeremiah 49 Online | About the children of Ammon. These are the words of the Lord: Has Israel no sons? has he no one to take the heritage? why then has Milcom taken Gad for himself, putting his people in its towns...
 weight: 49
 ---
 

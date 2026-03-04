@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 8 BBE | Read the Bible Online"
 linkTitle: "8"
-description: "Read 2 Kings 8 Online | Now Elisha had said to the woman whose son he had given back to life, Go now, with all the people of your house, and get a living-place for yourselves wherever you are able; for by the word of the Lord, there will be great need of food in the land; and this will go on for seven years..."
+description: >
+  Read 2 Kings 8 Online | Now Elisha had said to the woman whose son he had given back to life, Go now, with all the people of your house, and get a living-place for yourselves wherever you are able; for by the word of the Lord, there will be great need of food in the land; and this will go on for seven years...
 weight: 8
 ---
 

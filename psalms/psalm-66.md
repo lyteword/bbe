@@ -1,7 +1,8 @@
 ---
 title: "Psalm 66 BBE | Read the Bible Online"
 linkTitle: "66"
-description: "Read Psalm 66 Online | Send up a glad cry to God, all the earth..."
+description: >
+  Read Psalm 66 Online | Send up a glad cry to God, all the earth...
 weight: 66
 ---
 

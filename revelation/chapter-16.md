@@ -1,7 +1,8 @@
 ---
 title: "Revelation 16 BBE | Read the Bible Online"
 linkTitle: "16"
-description: "Read Revelation 16 Online | And a great voice out of the house of God came to my ears, saying to the seven angels, Go, and let that which is in the seven vessels of the wrath of God come down on the earth..."
+description: >
+  Read Revelation 16 Online | And a great voice out of the house of God came to my ears, saying to the seven angels, Go, and let that which is in the seven vessels of the wrath of God come down on the earth...
 weight: 16
 ---
 

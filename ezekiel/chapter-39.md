@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 39 BBE | Read the Bible Online"
 linkTitle: "39"
-description: "Read Ezekiel 39 Online | And you, son of man, be a prophet against Gog, and say, These are the words of the Lord: See, I am against you, O Gog, ruler of Rosh, Meshech, and Tubal..."
+description: >
+  Read Ezekiel 39 Online | And you, son of man, be a prophet against Gog, and say, These are the words of the Lord: See, I am against you, O Gog, ruler of Rosh, Meshech, and Tubal...
 weight: 39
 ---
 

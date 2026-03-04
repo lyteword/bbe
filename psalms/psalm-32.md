@@ -1,7 +1,8 @@
 ---
 title: "Psalm 32 BBE | Read the Bible Online"
 linkTitle: "32"
-description: "Read Psalm 32 Online | Happy is he who has forgiveness for his wrongdoing, and whose sin is covered..."
+description: >
+  Read Psalm 32 Online | Happy is he who has forgiveness for his wrongdoing, and whose sin is covered...
 weight: 32
 ---
 

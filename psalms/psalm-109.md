@@ -1,7 +1,8 @@
 ---
 title: "Psalm 109 BBE | Read the Bible Online"
 linkTitle: "109"
-description: "Read Psalm 109 Online | God of my praise, let my prayer be answered..."
+description: >
+  Read Psalm 109 Online | God of my praise, let my prayer be answered...
 weight: 109
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 27 BBE | Read the Bible Online"
 linkTitle: "27"
-description: "Read Deuteronomy 27 Online | Then Moses and the responsible men of Israel gave the people these orders: Keep all the orders which I have given you this day..."
+description: >
+  Read Deuteronomy 27 Online | Then Moses and the responsible men of Israel gave the people these orders: Keep all the orders which I have given you this day...
 weight: 27
 ---
 

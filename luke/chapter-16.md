@@ -1,7 +1,8 @@
 ---
 title: "Luke 16 BBE | Read the Bible Online"
 linkTitle: "16"
-description: "Read Luke 16 Online | And another time he said to the disciples, There was a certain man of great wealth who had a servant; and it was said to him that this servant was wasting his goods..."
+description: >
+  Read Luke 16 Online | And another time he said to the disciples, There was a certain man of great wealth who had a servant; and it was said to him that this servant was wasting his goods...
 weight: 16
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Job 41 BBE | Read the Bible Online"
 linkTitle: "41"
-description: "Read Job 41 Online | Is it possible for Leviathan to be pulled out with a fish-hook, or for a hook to be put through the bone of his mouth..."
+description: >
+  Read Job 41 Online | Is it possible for Leviathan to be pulled out with a fish-hook, or for a hook to be put through the bone of his mouth...
 weight: 41
 ---
 

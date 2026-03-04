@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 35 BBE | Read the Bible Online"
 linkTitle: "35"
-description: "Read Isaiah 35 Online | The waste land and the dry places will be glad; the lowland will have joy and be full of flowers..."
+description: >
+  Read Isaiah 35 Online | The waste land and the dry places will be glad; the lowland will have joy and be full of flowers...
 weight: 35
 ---
 

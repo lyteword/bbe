@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read 1 Chronicles 3 Online | Now these were David's sons, whose birth took place in Hebron: the oldest Amnon, by Ahinoam of Jezreel; the second Daniel, by Abigail the Carmelite woman..."
+description: >
+  Read 1 Chronicles 3 Online | Now these were David's sons, whose birth took place in Hebron: the oldest Amnon, by Ahinoam of Jezreel; the second Daniel, by Abigail the Carmelite woman...
 weight: 3
 ---
 

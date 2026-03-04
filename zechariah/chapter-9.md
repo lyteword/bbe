@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 9 BBE | Read the Bible Online"
 linkTitle: "9"
-description: "Read Zechariah 9 Online | A word of the Lord: The Lord has come to the land of Hadrach, and Damascus is his resting-place: for the towns of Aram are the Lord's..."
+description: >
+  Read Zechariah 9 Online | A word of the Lord: The Lord has come to the land of Hadrach, and Damascus is his resting-place: for the towns of Aram are the Lord's...
 weight: 9
 ---
 

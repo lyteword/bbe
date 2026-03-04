@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 13 BBE | Read the Bible Online"
 linkTitle: "13"
-description: "Read Isaiah 13 Online | The word of the Lord about Babylon which Isaiah, the son of Amoz, saw..."
+description: >
+  Read Isaiah 13 Online | The word of the Lord about Babylon which Isaiah, the son of Amoz, saw...
 weight: 13
 ---
 

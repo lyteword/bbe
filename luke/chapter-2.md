@@ -1,7 +1,8 @@
 ---
 title: "Luke 2 BBE | Read the Bible Online"
 linkTitle: "2"
-description: "Read Luke 2 Online | Now it came about in those days that an order went out from Caesar Augustus that there was to be a numbering of all the world..."
+description: >
+  Read Luke 2 Online | Now it came about in those days that an order went out from Caesar Augustus that there was to be a numbering of all the world...
 weight: 2
 ---
 

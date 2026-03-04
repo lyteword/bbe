@@ -1,7 +1,8 @@
 ---
 title: "Malachi 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read Malachi 1 Online | The word of the Lord to Israel by Malachi..."
+description: >
+  Read Malachi 1 Online | The word of the Lord to Israel by Malachi...
 weight: 1
 ---
 

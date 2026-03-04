@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 7 BBE | Read the Bible Online"
 linkTitle: "7"
-description: "Read 1 Samuel 7 Online | So the men of Kiriath-jearim came and took the ark of the Lord to the house of Abinadab in Gibeah, and they made his son Eleazar holy and put the ark in his care..."
+description: >
+  Read 1 Samuel 7 Online | So the men of Kiriath-jearim came and took the ark of the Lord to the house of Abinadab in Gibeah, and they made his son Eleazar holy and put the ark in his care...
 weight: 7
 ---
 

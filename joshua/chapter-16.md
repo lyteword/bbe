@@ -1,7 +1,8 @@
 ---
 title: "Joshua 16 BBE | Read the Bible Online"
 linkTitle: "16"
-description: "Read Joshua 16 Online | And the limit of the land marked out for the children of Joseph went out from Jordan at Jericho, at the waters of Jericho on the east, in the waste land, going up from Jericho through the hill-country to Beth-el..."
+description: >
+  Read Joshua 16 Online | And the limit of the land marked out for the children of Joseph went out from Jordan at Jericho, at the waters of Jericho on the east, in the waste land, going up from Jericho through the hill-country to Beth-el...
 weight: 16
 ---
 

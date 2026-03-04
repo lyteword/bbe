@@ -1,7 +1,8 @@
 ---
 title: "Psalm 126 BBE | Read the Bible Online"
 linkTitle: "126"
-description: "Read Psalm 126 Online | When the Lord made a change in Zion's fate, we were like men in a dream..."
+description: >
+  Read Psalm 126 Online | When the Lord made a change in Zion's fate, we were like men in a dream...
 weight: 126
 ---
 

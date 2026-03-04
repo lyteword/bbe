@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 9 BBE | Read the Bible Online"
 linkTitle: "9"
-description: "Read 2 Samuel 9 Online | And David said, Is there still anyone of Saul's family living, so that I may be a friend to him, because of Jonathan..."
+description: >
+  Read 2 Samuel 9 Online | And David said, Is there still anyone of Saul's family living, so that I may be a friend to him, because of Jonathan...
 weight: 9
 ---
 

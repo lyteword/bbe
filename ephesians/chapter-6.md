@@ -1,7 +1,8 @@
 ---
 title: "Ephesians 6 BBE | Read the Bible Online"
 linkTitle: "6"
-description: "Read Ephesians 6 Online | Children, do what is ordered by your fathers and mothers in the Lord: for this is right..."
+description: >
+  Read Ephesians 6 Online | Children, do what is ordered by your fathers and mothers in the Lord: for this is right...
 weight: 6
 ---
 

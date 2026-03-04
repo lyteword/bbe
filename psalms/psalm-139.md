@@ -1,7 +1,8 @@
 ---
 title: "Psalm 139 BBE | Read the Bible Online"
 linkTitle: "139"
-description: "Read Psalm 139 Online | O Lord, you have knowledge of me, searching out all my secrets..."
+description: >
+  Read Psalm 139 Online | O Lord, you have knowledge of me, searching out all my secrets...
 weight: 139
 ---
 

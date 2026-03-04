@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 12 BBE | Read the Bible Online"
 linkTitle: "12"
-description: "Read Zechariah 12 Online | The word of the Lord about Israel. The Lord by whom the heavens are stretched out and the bases of the earth put in place, and the spirit of man formed inside him, has said..."
+description: >
+  Read Zechariah 12 Online | The word of the Lord about Israel. The Lord by whom the heavens are stretched out and the bases of the earth put in place, and the spirit of man formed inside him, has said...
 weight: 12
 ---
 

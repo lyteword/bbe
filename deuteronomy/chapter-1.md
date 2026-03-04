@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read Deuteronomy 1 Online | These are the words which Moses said to all Israel on the far side of Jordan, in the waste land in the Arabah opposite Suph, between Paran on the one side, and Tophel, Laban, Hazeroth, and Dizahab on the other..."
+description: >
+  Read Deuteronomy 1 Online | These are the words which Moses said to all Israel on the far side of Jordan, in the waste land in the Arabah opposite Suph, between Paran on the one side, and Tophel, Laban, Hazeroth, and Dizahab on the other...
 weight: 1
 ---
 

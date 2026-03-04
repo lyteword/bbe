@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read 2 Chronicles 3 Online | Then Solomon made a start at building the house of the Lord on Mount Moriah in Jerusalem, where the Lord had been seen by his father David, in the place which David had made ready in the grain-floor of Ornan the Jebusite..."
+description: >
+  Read 2 Chronicles 3 Online | Then Solomon made a start at building the house of the Lord on Mount Moriah in Jerusalem, where the Lord had been seen by his father David, in the place which David had made ready in the grain-floor of Ornan the Jebusite...
 weight: 3
 ---
 

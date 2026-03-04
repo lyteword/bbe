@@ -1,7 +1,8 @@
 ---
 title: "Luke 17 BBE | Read the Bible Online"
 linkTitle: "17"
-description: "Read Luke 17 Online | And he said to his disciples, It is necessary for causes of trouble to come about, but unhappy is he by whom they come..."
+description: >
+  Read Luke 17 Online | And he said to his disciples, It is necessary for causes of trouble to come about, but unhappy is he by whom they come...
 weight: 17
 ---
 

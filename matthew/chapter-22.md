@@ -1,7 +1,8 @@
 ---
 title: "Matthew 22 BBE | Read the Bible Online"
 linkTitle: "22"
-description: "Read Matthew 22 Online | And Jesus, talking to them again in stories, said..."
+description: >
+  Read Matthew 22 Online | And Jesus, talking to them again in stories, said...
 weight: 22
 ---
 

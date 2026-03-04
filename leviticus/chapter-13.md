@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 13 BBE | Read the Bible Online"
 linkTitle: "13"
-description: "Read Leviticus 13 Online | And the Lord said to Moses and Aaron..."
+description: >
+  Read Leviticus 13 Online | And the Lord said to Moses and Aaron...
 weight: 13
 ---
 

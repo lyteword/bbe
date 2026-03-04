@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 15 BBE | Read the Bible Online"
 linkTitle: "15"
-description: "Read 1 Corinthians 15 Online | Now I am going to make clear to you, my brothers, what the good news was which I gave to you, and which you took, and on which your faith is based..."
+description: >
+  Read 1 Corinthians 15 Online | Now I am going to make clear to you, my brothers, what the good news was which I gave to you, and which you took, and on which your faith is based...
 weight: 15
 ---
 

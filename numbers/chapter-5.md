@@ -1,7 +1,8 @@
 ---
 title: "Numbers 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read Numbers 5 Online | And the Lord said to Moses..."
+description: >
+  Read Numbers 5 Online | And the Lord said to Moses...
 weight: 5
 ---
 

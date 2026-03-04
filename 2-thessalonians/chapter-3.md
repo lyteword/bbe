@@ -1,7 +1,8 @@
 ---
 title: "2 Thessalonians 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read 2 Thessalonians 3 Online | For the rest, my brothers, let there be prayer for us that the word of the Lord may go forward with increasing glory, even as it does with you..."
+description: >
+  Read 2 Thessalonians 3 Online | For the rest, my brothers, let there be prayer for us that the word of the Lord may go forward with increasing glory, even as it does with you...
 weight: 3
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Exodus 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read Exodus 4 Online | And Moses, answering, said, It is certain that they will not have faith in me or give ear to my voice; for they will say, You have not seen the Lord..."
+description: >
+  Read Exodus 4 Online | And Moses, answering, said, It is certain that they will not have faith in me or give ear to my voice; for they will say, You have not seen the Lord...
 weight: 4
 ---
 

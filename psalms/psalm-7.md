@@ -1,7 +1,8 @@
 ---
 title: "Psalm 7 BBE | Read the Bible Online"
 linkTitle: "7"
-description: "Read Psalm 7 Online | O Lord my God, I put my faith in you; take me out of the hands of him who is cruel to me, and make me free..."
+description: >
+  Read Psalm 7 Online | O Lord my God, I put my faith in you; take me out of the hands of him who is cruel to me, and make me free...
 weight: 7
 ---
 

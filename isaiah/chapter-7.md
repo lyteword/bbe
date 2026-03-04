@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 7 BBE | Read the Bible Online"
 linkTitle: "7"
-description: "Read Isaiah 7 Online | Now it came about in the days of Ahaz, the son of Jotham, the son of Uzziah, king of Judah, that Rezin, the king of Aram, and Pekah, the son of Remaliah, the king of Israel, came up to Jerusalem to make war against it, but were not able to overcome it..."
+description: >
+  Read Isaiah 7 Online | Now it came about in the days of Ahaz, the son of Jotham, the son of Uzziah, king of Judah, that Rezin, the king of Aram, and Pekah, the son of Remaliah, the king of Israel, came up to Jerusalem to make war against it, but were not able to overcome it...
 weight: 7
 ---
 

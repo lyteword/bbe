@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 7 BBE | Read the Bible Online"
 linkTitle: "7"
-description: "Read 1 Kings 7 Online | Solomon was thirteen years building a house for himself till it was complete..."
+description: >
+  Read 1 Kings 7 Online | Solomon was thirteen years building a house for himself till it was complete...
 weight: 7
 ---
 

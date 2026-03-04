@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read Ezekiel 1 Online | Now it came about in the thirtieth year, in the fourth month, on the fifth day of the month, while I was by the river Chebar among those who had been made prisoners, that the heavens were made open and I saw visions of God..."
+description: >
+  Read Ezekiel 1 Online | Now it came about in the thirtieth year, in the fourth month, on the fifth day of the month, while I was by the river Chebar among those who had been made prisoners, that the heavens were made open and I saw visions of God...
 weight: 1
 ---
 

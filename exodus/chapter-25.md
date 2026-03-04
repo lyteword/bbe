@@ -1,7 +1,8 @@
 ---
 title: "Exodus 25 BBE | Read the Bible Online"
 linkTitle: "25"
-description: "Read Exodus 25 Online | And the Lord said to Moses..."
+description: >
+  Read Exodus 25 Online | And the Lord said to Moses...
 weight: 25
 ---
 

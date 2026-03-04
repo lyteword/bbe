@@ -1,7 +1,8 @@
 ---
 title: "Numbers 16 BBE | Read the Bible Online"
 linkTitle: "16"
-description: "Read Numbers 16 Online | Now Korah, the son of Izhar, the son of Kohath, the son of Levi, with Dathan and Abiram, the sons of Eliab, and On, the son of Pallu, the son of Reuben, made themselves ready..."
+description: >
+  Read Numbers 16 Online | Now Korah, the son of Izhar, the son of Kohath, the son of Levi, with Dathan and Abiram, the sons of Eliab, and On, the son of Pallu, the son of Reuben, made themselves ready...
 weight: 16
 ---
 

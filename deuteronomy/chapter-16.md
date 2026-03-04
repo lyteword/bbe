@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 16 BBE | Read the Bible Online"
 linkTitle: "16"
-description: "Read Deuteronomy 16 Online | Take note of the month of Abib and keep the Passover to the Lord your God: for in the month of Abib the Lord your God took you out of Egypt by night..."
+description: >
+  Read Deuteronomy 16 Online | Take note of the month of Abib and keep the Passover to the Lord your God: for in the month of Abib the Lord your God took you out of Egypt by night...
 weight: 16
 ---
 

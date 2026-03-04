@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 21 BBE | Read the Bible Online"
 linkTitle: "21"
-description: "Read 2 Kings 21 Online | Manasseh was twelve years old when he became king; for fifty-five years he was ruling in Jerusalem; and his mother's name was Hephzi-bah..."
+description: >
+  Read 2 Kings 21 Online | Manasseh was twelve years old when he became king; for fifty-five years he was ruling in Jerusalem; and his mother's name was Hephzi-bah...
 weight: 21
 ---
 

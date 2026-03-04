@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 15 BBE | Read the Bible Online"
 linkTitle: "15"
-description: "Read Leviticus 15 Online | And the Lord said to Moses and to Aaron..."
+description: >
+  Read Leviticus 15 Online | And the Lord said to Moses and to Aaron...
 weight: 15
 ---
 

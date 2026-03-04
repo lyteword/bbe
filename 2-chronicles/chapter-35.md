@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 35 BBE | Read the Bible Online"
 linkTitle: "35"
-description: "Read 2 Chronicles 35 Online | And Josiah kept a Passover to the Lord in Jerusalem; on the fourteenth day of the first month they put the Passover lamb to death..."
+description: >
+  Read 2 Chronicles 35 Online | And Josiah kept a Passover to the Lord in Jerusalem; on the fourteenth day of the first month they put the Passover lamb to death...
 weight: 35
 ---
 

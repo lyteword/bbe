@@ -1,7 +1,8 @@
 ---
 title: "Psalm 21 BBE | Read the Bible Online"
 linkTitle: "21"
-description: "Read Psalm 21 Online | The king will be glad in your strength, O Lord; how great will be his delight in your salvation..."
+description: >
+  Read Psalm 21 Online | The king will be glad in your strength, O Lord; how great will be his delight in your salvation...
 weight: 21
 ---
 

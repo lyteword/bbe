@@ -1,7 +1,8 @@
 ---
 title: "Psalm 67 BBE | Read the Bible Online"
 linkTitle: "67"
-description: "Read Psalm 67 Online | May God give us mercy and blessing, and let the light of his face be shining on us; (Selah...."
+description: >
+  Read Psalm 67 Online | May God give us mercy and blessing, and let the light of his face be shining on us; (Selah....
 weight: 67
 ---
 

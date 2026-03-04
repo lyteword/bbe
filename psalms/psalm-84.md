@@ -1,7 +1,8 @@
 ---
 title: "Psalm 84 BBE | Read the Bible Online"
 linkTitle: "84"
-description: "Read Psalm 84 Online | How dear are your tents, O Lord of armies..."
+description: >
+  Read Psalm 84 Online | How dear are your tents, O Lord of armies...
 weight: 84
 ---
 

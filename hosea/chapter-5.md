@@ -1,7 +1,8 @@
 ---
 title: "Hosea 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read Hosea 5 Online | Give ear to this, O priests; give attention, O Israel, and you, family of the king; for you are to be judged; you have been a deceit at Mizpah and a net stretched out on Tabor..."
+description: >
+  Read Hosea 5 Online | Give ear to this, O priests; give attention, O Israel, and you, family of the king; for you are to be judged; you have been a deceit at Mizpah and a net stretched out on Tabor...
 weight: 5
 ---
 

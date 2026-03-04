@@ -1,7 +1,8 @@
 ---
 title: "Numbers 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read Numbers 3 Online | Now these are the generations of Aaron and Moses, in the day when the word of the Lord came to Moses on Mount Sinai..."
+description: >
+  Read Numbers 3 Online | Now these are the generations of Aaron and Moses, in the day when the word of the Lord came to Moses on Mount Sinai...
 weight: 3
 ---
 

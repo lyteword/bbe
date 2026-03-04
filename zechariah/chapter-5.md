@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read Zechariah 5 Online | Then again lifting up my eyes I saw a roll in flight through the air..."
+description: >
+  Read Zechariah 5 Online | Then again lifting up my eyes I saw a roll in flight through the air...
 weight: 5
 ---
 

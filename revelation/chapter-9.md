@@ -1,7 +1,8 @@
 ---
 title: "Revelation 9 BBE | Read the Bible Online"
 linkTitle: "9"
-description: "Read Revelation 9 Online | And at the sounding of the fifth angel I saw a star falling from heaven to the earth: and there was given to him the key of the great deep..."
+description: >
+  Read Revelation 9 Online | And at the sounding of the fifth angel I saw a star falling from heaven to the earth: and there was given to him the key of the great deep...
 weight: 9
 ---
 

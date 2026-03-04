@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 16 BBE | Read the Bible Online"
 linkTitle: "16"
-description: "Read Isaiah 16 Online | And they will send ... to the mountain of the daughter of Zion..."
+description: >
+  Read Isaiah 16 Online | And they will send ... to the mountain of the daughter of Zion...
 weight: 16
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 58 BBE | Read the Bible Online"
 linkTitle: "58"
-description: "Read Isaiah 58 Online | Make a loud cry, do not be quiet, let your voice be sounding like a horn, and make clear to my people their evil doings, and to the family of Jacob their sins..."
+description: >
+  Read Isaiah 58 Online | Make a loud cry, do not be quiet, let your voice be sounding like a horn, and make clear to my people their evil doings, and to the family of Jacob their sins...
 weight: 58
 ---
 

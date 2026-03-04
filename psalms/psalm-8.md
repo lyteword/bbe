@@ -1,7 +1,8 @@
 ---
 title: "Psalm 8 BBE | Read the Bible Online"
 linkTitle: "8"
-description: "Read Psalm 8 Online | O Lord, our Lord, whose glory is higher than the heavens, how noble is your name in all the earth..."
+description: >
+  Read Psalm 8 Online | O Lord, our Lord, whose glory is higher than the heavens, how noble is your name in all the earth...
 weight: 8
 ---
 

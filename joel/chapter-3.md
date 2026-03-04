@@ -1,7 +1,8 @@
 ---
 title: "Joel 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read Joel 3 Online | For in those days and in that time, when I let the fate of Judah and Jerusalem be changed..."
+description: >
+  Read Joel 3 Online | For in those days and in that time, when I let the fate of Judah and Jerusalem be changed...
 weight: 3
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Colossians 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read Colossians 1 Online | Paul, an Apostle of Jesus Christ, by the purpose of God, and Timothy our brother..."
+description: >
+  Read Colossians 1 Online | Paul, an Apostle of Jesus Christ, by the purpose of God, and Timothy our brother...
 weight: 1
 ---
 

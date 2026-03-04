@@ -1,7 +1,8 @@
 ---
 title: "1 John 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read 1 John 4 Online | My loved ones, do not put your faith in every spirit, but put them to the test, to see if they are from God: because a great number of false prophets have gone out into the world..."
+description: >
+  Read 1 John 4 Online | My loved ones, do not put your faith in every spirit, but put them to the test, to see if they are from God: because a great number of false prophets have gone out into the world...
 weight: 4
 ---
 

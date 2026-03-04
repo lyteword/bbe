@@ -1,7 +1,8 @@
 ---
 title: "Psalm 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read Psalm 5 Online | Give ear to my words, O Lord; give thought to my heart-searchings..."
+description: >
+  Read Psalm 5 Online | Give ear to my words, O Lord; give thought to my heart-searchings...
 weight: 5
 ---
 

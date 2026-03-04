@@ -1,7 +1,8 @@
 ---
 title: "Acts 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read Acts 3 Online | Now Peter and John were going up to the Temple at the ninth hour, the hour of prayer..."
+description: >
+  Read Acts 3 Online | Now Peter and John were going up to the Temple at the ninth hour, the hour of prayer...
 weight: 3
 ---
 

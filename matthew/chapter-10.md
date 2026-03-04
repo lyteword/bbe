@@ -1,7 +1,8 @@
 ---
 title: "Matthew 10 BBE | Read the Bible Online"
 linkTitle: "10"
-description: "Read Matthew 10 Online | And he got together his twelve disciples and gave them the power of driving out unclean spirits, and of making well all sorts of disease and pain..."
+description: >
+  Read Matthew 10 Online | And he got together his twelve disciples and gave them the power of driving out unclean spirits, and of making well all sorts of disease and pain...
 weight: 10
 ---
 

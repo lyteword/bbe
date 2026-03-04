@@ -1,7 +1,8 @@
 ---
 title: "Psalm 78 BBE | Read the Bible Online"
 linkTitle: "78"
-description: "Read Psalm 78 Online | Give ear, O my people, to my law; let your ears be bent down to the words of my mouth..."
+description: >
+  Read Psalm 78 Online | Give ear, O my people, to my law; let your ears be bent down to the words of my mouth...
 weight: 78
 ---
 

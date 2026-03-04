@@ -1,7 +1,8 @@
 ---
 title: "Acts 7 BBE | Read the Bible Online"
 linkTitle: "7"
-description: "Read Acts 7 Online | Then the high priest said, Are these things true..."
+description: >
+  Read Acts 7 Online | Then the high priest said, Are these things true...
 weight: 7
 ---
 

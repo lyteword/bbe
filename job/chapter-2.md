@@ -1,7 +1,8 @@
 ---
 title: "Job 2 BBE | Read the Bible Online"
 linkTitle: "2"
-description: "Read Job 2 Online | And there was a day when the sons of the gods came together before the Lord, and the Satan came with them..."
+description: >
+  Read Job 2 Online | And there was a day when the sons of the gods came together before the Lord, and the Satan came with them...
 weight: 2
 ---
 

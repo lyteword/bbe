@@ -1,7 +1,8 @@
 ---
 title: "Romans 2 BBE | Read the Bible Online"
 linkTitle: "2"
-description: "Read Romans 2 Online | So you have no reason, whoever you are, for judging: for in judging another you are judging yourself, for you do the same things..."
+description: >
+  Read Romans 2 Online | So you have no reason, whoever you are, for judging: for in judging another you are judging yourself, for you do the same things...
 weight: 2
 ---
 

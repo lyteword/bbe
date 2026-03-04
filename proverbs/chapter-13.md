@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 13 BBE | Read the Bible Online"
 linkTitle: "13"
-description: "Read Proverbs 13 Online | A wise son is a lover of teaching, but the ears of the haters of authority are shut to sharp words..."
+description: >
+  Read Proverbs 13 Online | A wise son is a lover of teaching, but the ears of the haters of authority are shut to sharp words...
 weight: 13
 ---
 

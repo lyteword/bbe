@@ -1,7 +1,8 @@
 ---
 title: "Daniel 7 BBE | Read the Bible Online"
 linkTitle: "7"
-description: "Read Daniel 7 Online | In the first year of Belshazzar, king of Babylon, Daniel saw a dream, and visions came into his head on his bed: then he put the dream in writing..."
+description: >
+  Read Daniel 7 Online | In the first year of Belshazzar, king of Babylon, Daniel saw a dream, and visions came into his head on his bed: then he put the dream in writing...
 weight: 7
 ---
 

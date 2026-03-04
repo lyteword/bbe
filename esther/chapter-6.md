@@ -1,7 +1,8 @@
 ---
 title: "Esther 6 BBE | Read the Bible Online"
 linkTitle: "6"
-description: "Read Esther 6 Online | That night the king was unable to get any sleep; and he sent for the books of the records; and while some one was reading them to the king..."
+description: >
+  Read Esther 6 Online | That night the king was unable to get any sleep; and he sent for the books of the records; and while some one was reading them to the king...
 weight: 6
 ---
 

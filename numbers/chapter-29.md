@@ -1,7 +1,8 @@
 ---
 title: "Numbers 29 BBE | Read the Bible Online"
 linkTitle: "29"
-description: "Read Numbers 29 Online | In the seventh month, on the first day of the month, let there be a holy meeting; on it you may do no field-work; let the day be marked by the blowing of horns..."
+description: >
+  Read Numbers 29 Online | In the seventh month, on the first day of the month, let there be a holy meeting; on it you may do no field-work; let the day be marked by the blowing of horns...
 weight: 29
 ---
 

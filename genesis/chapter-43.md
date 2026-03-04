@@ -1,7 +1,8 @@
 ---
 title: "Genesis 43 BBE | Read the Bible Online"
 linkTitle: "43"
-description: "Read Genesis 43 Online | Now the land was in bitter need of food..."
+description: >
+  Read Genesis 43 Online | Now the land was in bitter need of food...
 weight: 43
 ---
 

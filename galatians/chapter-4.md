@@ -1,7 +1,8 @@
 ---
 title: "Galatians 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read Galatians 4 Online | But I say that as long as the son is a child, he is in no way different from a servant, though he is lord of all..."
+description: >
+  Read Galatians 4 Online | But I say that as long as the son is a child, he is in no way different from a servant, though he is lord of all...
 weight: 4
 ---
 

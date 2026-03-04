@@ -1,7 +1,8 @@
 ---
 title: "Matthew 7 BBE | Read the Bible Online"
 linkTitle: "7"
-description: "Read Matthew 7 Online | Be not judges of others, and you will not be judged..."
+description: >
+  Read Matthew 7 Online | Be not judges of others, and you will not be judged...
 weight: 7
 ---
 

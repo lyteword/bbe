@@ -1,7 +1,8 @@
 ---
 title: "Philippians 2 BBE | Read the Bible Online"
 linkTitle: "2"
-description: "Read Philippians 2 Online | If then there is any comfort in Christ, any help given by love, any uniting of hearts in the Spirit, any loving mercies and pity..."
+description: >
+  Read Philippians 2 Online | If then there is any comfort in Christ, any help given by love, any uniting of hearts in the Spirit, any loving mercies and pity...
 weight: 2
 ---
 

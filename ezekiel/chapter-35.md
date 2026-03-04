@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 35 BBE | Read the Bible Online"
 linkTitle: "35"
-description: "Read Ezekiel 35 Online | Then the word of the Lord came to me, saying..."
+description: >
+  Read Ezekiel 35 Online | Then the word of the Lord came to me, saying...
 weight: 35
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 56 BBE | Read the Bible Online"
 linkTitle: "56"
-description: "Read Psalm 56 Online | Have mercy on me, O God, for man is attempting my destruction; every day he makes cruel attacks against me..."
+description: >
+  Read Psalm 56 Online | Have mercy on me, O God, for man is attempting my destruction; every day he makes cruel attacks against me...
 weight: 56
 ---
 

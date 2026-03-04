@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 24 BBE | Read the Bible Online"
 linkTitle: "24"
-description: "Read 1 Chronicles 24 Online | Now the divisions into which the sons of Aaron were grouped were these: the sons of Aaron, Nadab and Abihu, Eleazar and Ithamar..."
+description: >
+  Read 1 Chronicles 24 Online | Now the divisions into which the sons of Aaron were grouped were these: the sons of Aaron, Nadab and Abihu, Eleazar and Ithamar...
 weight: 24
 ---
 

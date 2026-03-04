@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 13 BBE | Read the Bible Online"
 linkTitle: "13"
-description: "Read 2 Samuel 13 Online | Now after this, it came about that Absalom, David's son, had a beautiful sister, whose name was Tamar; and David's son Amnon was in love with her..."
+description: >
+  Read 2 Samuel 13 Online | Now after this, it came about that Absalom, David's son, had a beautiful sister, whose name was Tamar; and David's son Amnon was in love with her...
 weight: 13
 ---
 

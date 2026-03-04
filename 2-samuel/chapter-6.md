@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 6 BBE | Read the Bible Online"
 linkTitle: "6"
-description: "Read 2 Samuel 6 Online | And David got together all the fighting-men of Israel to the number of thirty thousand..."
+description: >
+  Read 2 Samuel 6 Online | And David got together all the fighting-men of Israel to the number of thirty thousand...
 weight: 6
 ---
 

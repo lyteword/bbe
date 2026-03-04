@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 11 BBE | Read the Bible Online"
 linkTitle: "11"
-description: "Read 1 Kings 11 Online | Now a number of strange women were loved by Solomon, women of the Moabites, Ammonites, Edomites, Zidonians, and Hittites..."
+description: >
+  Read 1 Kings 11 Online | Now a number of strange women were loved by Solomon, women of the Moabites, Ammonites, Edomites, Zidonians, and Hittites...
 weight: 11
 ---
 

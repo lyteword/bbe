@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 14 BBE | Read the Bible Online"
 linkTitle: "14"
-description: "Read 1 Chronicles 14 Online | And Hiram, king of Tyre, sent men to David with cedar-trees, and stoneworkers and woodworkers for the building of his house..."
+description: >
+  Read 1 Chronicles 14 Online | And Hiram, king of Tyre, sent men to David with cedar-trees, and stoneworkers and woodworkers for the building of his house...
 weight: 14
 ---
 

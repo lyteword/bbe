@@ -1,7 +1,8 @@
 ---
 title: "John 21 BBE | Read the Bible Online"
 linkTitle: "21"
-description: "Read John 21 Online | After these things Jesus let himself be seen again by the disciples at the sea of Tiberias; and it came about in this way..."
+description: >
+  Read John 21 Online | After these things Jesus let himself be seen again by the disciples at the sea of Tiberias; and it came about in this way...
 weight: 21
 ---
 

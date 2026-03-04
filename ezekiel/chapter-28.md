@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 28 BBE | Read the Bible Online"
 linkTitle: "28"
-description: "Read Ezekiel 28 Online | The word of the Lord came to me again, saying..."
+description: >
+  Read Ezekiel 28 Online | The word of the Lord came to me again, saying...
 weight: 28
 ---
 

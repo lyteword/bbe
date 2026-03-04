@@ -1,7 +1,8 @@
 ---
 title: "Job 32 BBE | Read the Bible Online"
 linkTitle: "32"
-description: "Read Job 32 Online | So these three men gave no more answers to Job, because he seemed to himself to be right..."
+description: >
+  Read Job 32 Online | So these three men gave no more answers to Job, because he seemed to himself to be right...
 weight: 32
 ---
 

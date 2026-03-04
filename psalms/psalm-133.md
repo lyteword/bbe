@@ -1,7 +1,8 @@
 ---
 title: "Psalm 133 BBE | Read the Bible Online"
 linkTitle: "133"
-description: "Read Psalm 133 Online | See how good and how pleasing it is for brothers to be living together in harmony..."
+description: >
+  Read Psalm 133 Online | See how good and how pleasing it is for brothers to be living together in harmony...
 weight: 133
 ---
 

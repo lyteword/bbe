@@ -1,7 +1,8 @@
 ---
 title: "Romans 6 BBE | Read the Bible Online"
 linkTitle: "6"
-description: "Read Romans 6 Online | What may we say, then? are we to go on in sin so that there may be more grace..."
+description: >
+  Read Romans 6 Online | What may we say, then? are we to go on in sin so that there may be more grace...
 weight: 6
 ---
 

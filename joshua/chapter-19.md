@@ -1,7 +1,8 @@
 ---
 title: "Joshua 19 BBE | Read the Bible Online"
 linkTitle: "19"
-description: "Read Joshua 19 Online | And the second heritage came out for the tribe of Simeon by their families; and their heritage was in the middle of the heritage of the children of Judah..."
+description: >
+  Read Joshua 19 Online | And the second heritage came out for the tribe of Simeon by their families; and their heritage was in the middle of the heritage of the children of Judah...
 weight: 19
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Acts 20 BBE | Read the Bible Online"
 linkTitle: "20"
-description: "Read Acts 20 Online | And after the noise had come to an end, Paul, having sent for the disciples and given them comfort, went away from them to Macedonia..."
+description: >
+  Read Acts 20 Online | And after the noise had come to an end, Paul, having sent for the disciples and given them comfort, went away from them to Macedonia...
 weight: 20
 ---
 

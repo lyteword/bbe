@@ -1,7 +1,8 @@
 ---
 title: "Job 29 BBE | Read the Bible Online"
 linkTitle: "29"
-description: "Read Job 29 Online | And Job again took up the word and said..."
+description: >
+  Read Job 29 Online | And Job again took up the word and said...
 weight: 29
 ---
 

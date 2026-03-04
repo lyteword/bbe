@@ -1,7 +1,8 @@
 ---
 title: "Ruth 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read Ruth 3 Online | And Naomi, her mother-in-law, said to her, My daughter, am I not to get you a resting-place where you may be in comfort..."
+description: >
+  Read Ruth 3 Online | And Naomi, her mother-in-law, said to her, My daughter, am I not to get you a resting-place where you may be in comfort...
 weight: 3
 ---
 

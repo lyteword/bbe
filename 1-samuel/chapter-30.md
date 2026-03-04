@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 30 BBE | Read the Bible Online"
 linkTitle: "30"
-description: "Read 1 Samuel 30 Online | Now when David and his men came to Ziklag on the third day, the Amalekites had made an attack on the South and on Ziklag, and had overcome Ziklag and put it on fire..."
+description: >
+  Read 1 Samuel 30 Online | Now when David and his men came to Ziklag on the third day, the Amalekites had made an attack on the South and on Ziklag, and had overcome Ziklag and put it on fire...
 weight: 30
 ---
 

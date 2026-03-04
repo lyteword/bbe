@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 24 BBE | Read the Bible Online"
 linkTitle: "24"
-description: "Read Isaiah 24 Online | See, the Lord is making the earth waste and unpeopled, he is turning it upside down, and sending the people in all directions..."
+description: >
+  Read Isaiah 24 Online | See, the Lord is making the earth waste and unpeopled, he is turning it upside down, and sending the people in all directions...
 weight: 24
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Job 38 BBE | Read the Bible Online"
 linkTitle: "38"
-description: "Read Job 38 Online | And the Lord made answer to Job out of the storm-wind, and said..."
+description: >
+  Read Job 38 Online | And the Lord made answer to Job out of the storm-wind, and said...
 weight: 38
 ---
 

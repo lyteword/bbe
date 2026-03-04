@@ -1,7 +1,8 @@
 ---
 title: "John 13 BBE | Read the Bible Online"
 linkTitle: "13"
-description: "Read John 13 Online | Now before the feast of the Passover, it was clear to Jesus that the time had come for him to go away from this world to the Father. Having once had love for those in the world who were his, his love for them went on to the end..."
+description: >
+  Read John 13 Online | Now before the feast of the Passover, it was clear to Jesus that the time had come for him to go away from this world to the Father. Having once had love for those in the world who were his, his love for them went on to the end...
 weight: 13
 ---
 

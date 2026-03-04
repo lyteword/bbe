@@ -1,7 +1,8 @@
 ---
 title: "Psalm 140 BBE | Read the Bible Online"
 linkTitle: "140"
-description: "Read Psalm 140 Online | O Lord, take me out of the power of the evil man; keep me safe from the violent man..."
+description: >
+  Read Psalm 140 Online | O Lord, take me out of the power of the evil man; keep me safe from the violent man...
 weight: 140
 ---
 

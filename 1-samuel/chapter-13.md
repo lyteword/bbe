@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 13 BBE | Read the Bible Online"
 linkTitle: "13"
-description: "Read 1 Samuel 13 Online | **..."
+description: >
+  Read 1 Samuel 13 Online | **...
 weight: 13
 ---
 

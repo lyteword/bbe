@@ -1,7 +1,8 @@
 ---
 title: "Exodus 8 BBE | Read the Bible Online"
 linkTitle: "8"
-description: "Read Exodus 8 Online | And this is what the Lord said to Moses: Go to Pharaoh and say to him, The Lord says, Let my people go so that they may give me worship..."
+description: >
+  Read Exodus 8 Online | And this is what the Lord said to Moses: Go to Pharaoh and say to him, The Lord says, Let my people go so that they may give me worship...
 weight: 8
 ---
 

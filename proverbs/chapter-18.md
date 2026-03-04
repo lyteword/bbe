@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 18 BBE | Read the Bible Online"
 linkTitle: "18"
-description: "Read Proverbs 18 Online | He who keeps himself separate for his private purpose goes against all good sense..."
+description: >
+  Read Proverbs 18 Online | He who keeps himself separate for his private purpose goes against all good sense...
 weight: 18
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 25 BBE | Read the Bible Online"
 linkTitle: "25"
-description: "Read 2 Kings 25 Online | Now in the ninth year of his rule, on the tenth day of the tenth month, Nebuchadnezzar, king of Babylon, came against Jerusalem with all his army and took up his position before it, building earthworks all round the town..."
+description: >
+  Read 2 Kings 25 Online | Now in the ninth year of his rule, on the tenth day of the tenth month, Nebuchadnezzar, king of Babylon, came against Jerusalem with all his army and took up his position before it, building earthworks all round the town...
 weight: 25
 ---
 

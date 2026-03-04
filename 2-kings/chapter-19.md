@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 19 BBE | Read the Bible Online"
 linkTitle: "19"
-description: "Read 2 Kings 19 Online | And on hearing it, King Hezekiah took off his robe, and put on haircloth, and went into the house of the Lord..."
+description: >
+  Read 2 Kings 19 Online | And on hearing it, King Hezekiah took off his robe, and put on haircloth, and went into the house of the Lord...
 weight: 19
 ---
 

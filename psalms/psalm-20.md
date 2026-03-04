@@ -1,7 +1,8 @@
 ---
 title: "Psalm 20 BBE | Read the Bible Online"
 linkTitle: "20"
-description: "Read Psalm 20 Online | May the Lord give ear to you in the day of trouble; may you be placed on high by the name of the God of Jacob..."
+description: >
+  Read Psalm 20 Online | May the Lord give ear to you in the day of trouble; may you be placed on high by the name of the God of Jacob...
 weight: 20
 ---
 

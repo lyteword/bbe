@@ -1,7 +1,8 @@
 ---
 title: "Psalm 47 BBE | Read the Bible Online"
 linkTitle: "47"
-description: "Read Psalm 47 Online | O make a glad noise with your hands, all you peoples; letting your voices go up to God with joy..."
+description: >
+  Read Psalm 47 Online | O make a glad noise with your hands, all you peoples; letting your voices go up to God with joy...
 weight: 47
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Romans 13 BBE | Read the Bible Online"
 linkTitle: "13"
-description: "Read Romans 13 Online | Let everyone put himself under the authority of the higher powers, because there is no power which is not of God, and all powers are ordered by God..."
+description: >
+  Read Romans 13 Online | Let everyone put himself under the authority of the higher powers, because there is no power which is not of God, and all powers are ordered by God...
 weight: 13
 ---
 

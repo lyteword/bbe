@@ -1,7 +1,8 @@
 ---
 title: "Daniel 11 BBE | Read the Bible Online"
 linkTitle: "11"
-description: "Read Daniel 11 Online | And as for me, in the first year of Darius the Mede I was on his side to make his position safe and make him strong..."
+description: >
+  Read Daniel 11 Online | And as for me, in the first year of Darius the Mede I was on his side to make his position safe and make him strong...
 weight: 11
 ---
 

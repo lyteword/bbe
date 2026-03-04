@@ -1,7 +1,8 @@
 ---
 title: "Numbers 21 BBE | Read the Bible Online"
 linkTitle: "21"
-description: "Read Numbers 21 Online | And it came to the ears of the Canaanite, the king of Arad, living in the South, that Israel was coming by the way of Atharim, and he came out against them and took some of them prisoners..."
+description: >
+  Read Numbers 21 Online | And it came to the ears of the Canaanite, the king of Arad, living in the South, that Israel was coming by the way of Atharim, and he came out against them and took some of them prisoners...
 weight: 21
 ---
 

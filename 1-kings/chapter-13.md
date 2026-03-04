@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 13 BBE | Read the Bible Online"
 linkTitle: "13"
-description: "Read 1 Kings 13 Online | Then a man of God came from Judah by the order of the Lord to Beth-el, where Jeroboam was by the altar, burning offerings..."
+description: >
+  Read 1 Kings 13 Online | Then a man of God came from Judah by the order of the Lord to Beth-el, where Jeroboam was by the altar, burning offerings...
 weight: 13
 ---
 

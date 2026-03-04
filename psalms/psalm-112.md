@@ -1,7 +1,8 @@
 ---
 title: "Psalm 112 BBE | Read the Bible Online"
 linkTitle: "112"
-description: "Read Psalm 112 Online | Let the Lord be praised. Happy is the man who gives honour to the Lord, and has great delight in his laws..."
+description: >
+  Read Psalm 112 Online | Let the Lord be praised. Happy is the man who gives honour to the Lord, and has great delight in his laws...
 weight: 112
 ---
 

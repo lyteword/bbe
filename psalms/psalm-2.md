@@ -1,7 +1,8 @@
 ---
 title: "Psalm 2 BBE | Read the Bible Online"
 linkTitle: "2"
-description: "Read Psalm 2 Online | Why are the nations so violently moved, and why are the thoughts of the people so foolish..."
+description: >
+  Read Psalm 2 Online | Why are the nations so violently moved, and why are the thoughts of the people so foolish...
 weight: 2
 ---
 

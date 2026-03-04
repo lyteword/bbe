@@ -1,7 +1,8 @@
 ---
 title: "Revelation 20 BBE | Read the Bible Online"
 linkTitle: "20"
-description: "Read Revelation 20 Online | And I saw an angel coming down out of heaven, having the key of the great deep and a great chain in his hand..."
+description: >
+  Read Revelation 20 Online | And I saw an angel coming down out of heaven, having the key of the great deep and a great chain in his hand...
 weight: 20
 ---
 

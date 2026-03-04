@@ -1,7 +1,8 @@
 ---
 title: "Romans 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read Romans 3 Online | How then is the Jew better off? or what profit is there in circumcision..."
+description: >
+  Read Romans 3 Online | How then is the Jew better off? or what profit is there in circumcision...
 weight: 3
 ---
 

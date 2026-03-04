@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 2 BBE | Read the Bible Online"
 linkTitle: "2"
-description: "Read 2 Corinthians 2 Online | But it was my decision for myself, not to come again to you with sorrow..."
+description: >
+  Read 2 Corinthians 2 Online | But it was my decision for myself, not to come again to you with sorrow...
 weight: 2
 ---
 

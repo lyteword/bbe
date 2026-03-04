@@ -1,7 +1,8 @@
 ---
 title: "Song Of Solomon 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read Song Of Solomon 5 Online | I have come into my garden, my sister, my bride; to take my myrrh with my spice; my wax with my honey; my wine with my milk. Take meat, O friends; take wine, yes, be overcome with love..."
+description: >
+  Read Song Of Solomon 5 Online | I have come into my garden, my sister, my bride; to take my myrrh with my spice; my wax with my honey; my wine with my milk. Take meat, O friends; take wine, yes, be overcome with love...
 weight: 5
 ---
 

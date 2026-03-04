@@ -1,7 +1,8 @@
 ---
 title: "Revelation 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read Revelation 5 Online | And I saw in the right hand of him who was seated on the high seat, a book with writing inside it and on the back, shut with seven stamps of wax..."
+description: >
+  Read Revelation 5 Online | And I saw in the right hand of him who was seated on the high seat, a book with writing inside it and on the back, shut with seven stamps of wax...
 weight: 5
 ---
 

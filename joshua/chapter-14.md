@@ -1,7 +1,8 @@
 ---
 title: "Joshua 14 BBE | Read the Bible Online"
 linkTitle: "14"
-description: "Read Joshua 14 Online | And these are the heritages which the children of Israel took in the land of Canaan, which Eleazar, the priest, and Joshua, the son of Nun, and the heads of the tribes of the children of Israel, gave out to them..."
+description: >
+  Read Joshua 14 Online | And these are the heritages which the children of Israel took in the land of Canaan, which Eleazar, the priest, and Joshua, the son of Nun, and the heads of the tribes of the children of Israel, gave out to them...
 weight: 14
 ---
 

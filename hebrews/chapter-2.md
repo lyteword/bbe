@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 2 BBE | Read the Bible Online"
 linkTitle: "2"
-description: "Read Hebrews 2 Online | For this reason there is the more need for us to give attention to the things which have come to our ears, for fear that by chance we might be slipping away..."
+description: >
+  Read Hebrews 2 Online | For this reason there is the more need for us to give attention to the things which have come to our ears, for fear that by chance we might be slipping away...
 weight: 2
 ---
 

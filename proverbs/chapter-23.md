@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 23 BBE | Read the Bible Online"
 linkTitle: "23"
-description: "Read Proverbs 23 Online | When you take your seat at the feast with a ruler, give thought with care to what is before you..."
+description: >
+  Read Proverbs 23 Online | When you take your seat at the feast with a ruler, give thought with care to what is before you...
 weight: 23
 ---
 

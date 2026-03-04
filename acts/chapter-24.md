@@ -1,7 +1,8 @@
 ---
 title: "Acts 24 BBE | Read the Bible Online"
 linkTitle: "24"
-description: "Read Acts 24 Online | And after five days, the high priest, Ananias, came with certain of the rulers, and an expert talker, one Tertullus; and they made a statement to Felix against Paul..."
+description: >
+  Read Acts 24 Online | And after five days, the high priest, Ananias, came with certain of the rulers, and an expert talker, one Tertullus; and they made a statement to Felix against Paul...
 weight: 24
 ---
 

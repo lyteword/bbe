@@ -1,7 +1,8 @@
 ---
 title: "James 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read James 5 Online | Come now, you men of wealth, give yourselves to weeping and crying because of the bitter troubles which are coming to you..."
+description: >
+  Read James 5 Online | Come now, you men of wealth, give yourselves to weeping and crying because of the bitter troubles which are coming to you...
 weight: 5
 ---
 

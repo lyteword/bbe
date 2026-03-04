@@ -1,7 +1,8 @@
 ---
 title: "Psalm 28 BBE | Read the Bible Online"
 linkTitle: "28"
-description: "Read Psalm 28 Online | My cry goes up to you, O Lord, my Rock; do not keep back your answer from me, so that I may not become like those who go down into the underworld..."
+description: >
+  Read Psalm 28 Online | My cry goes up to you, O Lord, my Rock; do not keep back your answer from me, so that I may not become like those who go down into the underworld...
 weight: 28
 ---
 

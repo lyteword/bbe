@@ -1,7 +1,8 @@
 ---
 title: "Jonah 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read Jonah 1 Online | And the word of the Lord came to Jonah, the son of Amittai, saying..."
+description: >
+  Read Jonah 1 Online | And the word of the Lord came to Jonah, the son of Amittai, saying...
 weight: 1
 ---
 

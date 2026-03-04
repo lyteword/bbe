@@ -1,7 +1,8 @@
 ---
 title: "Exodus 27 BBE | Read the Bible Online"
 linkTitle: "27"
-description: "Read Exodus 27 Online | And make an altar of hard wood, a square altar, five cubits long, five cubits wide and three cubits high..."
+description: >
+  Read Exodus 27 Online | And make an altar of hard wood, a square altar, five cubits long, five cubits wide and three cubits high...
 weight: 27
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Ephesians 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read Ephesians 1 Online | Paul, an Apostle of Christ Jesus by the purpose of God, to the saints who are at Ephesus, and those who have faith in Christ Jesus..."
+description: >
+  Read Ephesians 1 Online | Paul, an Apostle of Christ Jesus by the purpose of God, to the saints who are at Ephesus, and those who have faith in Christ Jesus...
 weight: 1
 ---
 

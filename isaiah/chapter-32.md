@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 32 BBE | Read the Bible Online"
 linkTitle: "32"
-description: "Read Isaiah 32 Online | See, a king will be ruling in righteousness, and chiefs will give right decisions..."
+description: >
+  Read Isaiah 32 Online | See, a king will be ruling in righteousness, and chiefs will give right decisions...
 weight: 32
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 130 BBE | Read the Bible Online"
 linkTitle: "130"
-description: "Read Psalm 130 Online | Out of the deep have I sent up my cry to you, O Lord..."
+description: >
+  Read Psalm 130 Online | Out of the deep have I sent up my cry to you, O Lord...
 weight: 130
 ---
 

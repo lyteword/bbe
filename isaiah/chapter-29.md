@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 29 BBE | Read the Bible Online"
 linkTitle: "29"
-description: "Read Isaiah 29 Online | Ho! Ariel, Ariel, the town against which David made war; put year to year, let the feasts come round..."
+description: >
+  Read Isaiah 29 Online | Ho! Ariel, Ariel, the town against which David made war; put year to year, let the feasts come round...
 weight: 29
 ---
 

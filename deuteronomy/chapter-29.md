@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 29 BBE | Read the Bible Online"
 linkTitle: "29"
-description: "Read Deuteronomy 29 Online | These are the words of the agreement which Moses was ordered by the Lord to make with the children of Israel in the land of Moab, in addition to the agreement which he made with them in Horeb..."
+description: >
+  Read Deuteronomy 29 Online | These are the words of the agreement which Moses was ordered by the Lord to make with the children of Israel in the land of Moab, in addition to the agreement which he made with them in Horeb...
 weight: 29
 ---
 

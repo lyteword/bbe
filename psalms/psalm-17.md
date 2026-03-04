@@ -1,7 +1,8 @@
 ---
 title: "Psalm 17 BBE | Read the Bible Online"
 linkTitle: "17"
-description: "Read Psalm 17 Online | Let my cause come to your ears, O Lord, give attention to my cry; give ear to my prayer which goes not out from false lips..."
+description: >
+  Read Psalm 17 Online | Let my cause come to your ears, O Lord, give attention to my cry; give ear to my prayer which goes not out from false lips...
 weight: 17
 ---
 

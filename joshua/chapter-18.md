@@ -1,7 +1,8 @@
 ---
 title: "Joshua 18 BBE | Read the Bible Online"
 linkTitle: "18"
-description: "Read Joshua 18 Online | And all the meeting of the children of Israel came together at Shiloh and put up the Tent of meeting there: and the land was crushed before them..."
+description: >
+  Read Joshua 18 Online | And all the meeting of the children of Israel came together at Shiloh and put up the Tent of meeting there: and the land was crushed before them...
 weight: 18
 ---
 

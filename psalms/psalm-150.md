@@ -1,7 +1,8 @@
 ---
 title: "Psalm 150 BBE | Read the Bible Online"
 linkTitle: "150"
-description: "Read Psalm 150 Online | Let the Lord be praised. Give praise to God in his holy place: give him praise in the heaven of his power..."
+description: >
+  Read Psalm 150 Online | Let the Lord be praised. Give praise to God in his holy place: give him praise in the heaven of his power...
 weight: 150
 ---
 

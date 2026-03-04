@@ -1,7 +1,8 @@
 ---
 title: "Psalm 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read Psalm 4 Online | Give answer to my cry, O God of my righteousness; make me free from my troubles; have mercy on me, and give ear to my prayer..."
+description: >
+  Read Psalm 4 Online | Give answer to my cry, O God of my righteousness; make me free from my troubles; have mercy on me, and give ear to my prayer...
 weight: 4
 ---
 

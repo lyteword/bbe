@@ -1,7 +1,8 @@
 ---
 title: "Revelation 18 BBE | Read the Bible Online"
 linkTitle: "18"
-description: "Read Revelation 18 Online | After these things I saw another angel coming down out of heaven, having great authority; and the earth was bright with his glory..."
+description: >
+  Read Revelation 18 Online | After these things I saw another angel coming down out of heaven, having great authority; and the earth was bright with his glory...
 weight: 18
 ---
 

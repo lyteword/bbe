@@ -1,7 +1,8 @@
 ---
 title: "Psalm 111 BBE | Read the Bible Online"
 linkTitle: "111"
-description: "Read Psalm 111 Online | Let the Lord be praised. I will give praise to the Lord with all my heart, among the upright, and in the meeting of the people..."
+description: >
+  Read Psalm 111 Online | Let the Lord be praised. I will give praise to the Lord with all my heart, among the upright, and in the meeting of the people...
 weight: 111
 ---
 

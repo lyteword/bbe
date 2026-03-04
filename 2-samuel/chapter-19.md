@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 19 BBE | Read the Bible Online"
 linkTitle: "19"
-description: "Read 2 Samuel 19 Online | And word was given to Joab that the king was weeping and sorrowing for Absalom..."
+description: >
+  Read 2 Samuel 19 Online | And word was given to Joab that the king was weeping and sorrowing for Absalom...
 weight: 19
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 113 BBE | Read the Bible Online"
 linkTitle: "113"
-description: "Read Psalm 113 Online | Let the Lord be praised. O you servants of the Lord, give praise to the name of the Lord..."
+description: >
+  Read Psalm 113 Online | Let the Lord be praised. O you servants of the Lord, give praise to the name of the Lord...
 weight: 113
 ---
 

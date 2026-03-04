@@ -1,7 +1,8 @@
 ---
 title: "Hosea 11 BBE | Read the Bible Online"
 linkTitle: "11"
-description: "Read Hosea 11 Online | When Israel was a child he was dear to me; and I took my son out of Egypt..."
+description: >
+  Read Hosea 11 Online | When Israel was a child he was dear to me; and I took my son out of Egypt...
 weight: 11
 ---
 

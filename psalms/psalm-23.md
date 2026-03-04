@@ -1,7 +1,8 @@
 ---
 title: "Psalm 23 BBE | Read the Bible Online"
 linkTitle: "23"
-description: "Read Psalm 23 Online | The Lord takes care of me as his sheep; I will not be without any good thing..."
+description: >
+  Read Psalm 23 Online | The Lord takes care of me as his sheep; I will not be without any good thing...
 weight: 23
 ---
 

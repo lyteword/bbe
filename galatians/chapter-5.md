@@ -1,7 +1,8 @@
 ---
 title: "Galatians 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read Galatians 5 Online | Christ has truly made us free: then keep your free condition and let no man put a yoke on you again..."
+description: >
+  Read Galatians 5 Online | Christ has truly made us free: then keep your free condition and let no man put a yoke on you again...
 weight: 5
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read Nehemiah 5 Online | Then there was a great outcry from the people and their wives against their countrymen the Jews..."
+description: >
+  Read Nehemiah 5 Online | Then there was a great outcry from the people and their wives against their countrymen the Jews...
 weight: 5
 ---
 

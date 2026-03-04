@@ -1,7 +1,8 @@
 ---
 title: "Genesis 38 BBE | Read the Bible Online"
 linkTitle: "38"
-description: "Read Genesis 38 Online | Now at that time, Judah went away from his brothers and became the friend of a man of Adullam named Hirah..."
+description: >
+  Read Genesis 38 Online | Now at that time, Judah went away from his brothers and became the friend of a man of Adullam named Hirah...
 weight: 38
 ---
 

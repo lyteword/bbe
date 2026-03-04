@@ -1,7 +1,8 @@
 ---
 title: "Psalm 59 BBE | Read the Bible Online"
 linkTitle: "59"
-description: "Read Psalm 59 Online | Take me out of the hands of the cruel ones, O my God; keep me safe from those who come up against me..."
+description: >
+  Read Psalm 59 Online | Take me out of the hands of the cruel ones, O my God; keep me safe from those who come up against me...
 weight: 59
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read Ezekiel 4 Online | And you, son of man, take a back and put it before you and on it make a picture of a town, even Jerusalem..."
+description: >
+  Read Ezekiel 4 Online | And you, son of man, take a back and put it before you and on it make a picture of a town, even Jerusalem...
 weight: 4
 ---
 

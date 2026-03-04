@@ -1,7 +1,8 @@
 ---
 title: "Numbers 9 BBE | Read the Bible Online"
 linkTitle: "9"
-description: "Read Numbers 9 Online | And the Lord said to Moses, in the waste land of Sinai, in the first month of the second year after they had come out of the land of Egypt..."
+description: >
+  Read Numbers 9 Online | And the Lord said to Moses, in the waste land of Sinai, in the first month of the second year after they had come out of the land of Egypt...
 weight: 9
 ---
 

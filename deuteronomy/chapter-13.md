@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 13 BBE | Read the Bible Online"
 linkTitle: "13"
-description: "Read Deuteronomy 13 Online | If ever you have among you a prophet or a dreamer of dreams and he gives you a sign or a wonder..."
+description: >
+  Read Deuteronomy 13 Online | If ever you have among you a prophet or a dreamer of dreams and he gives you a sign or a wonder...
 weight: 13
 ---
 

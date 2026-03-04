@@ -1,7 +1,8 @@
 ---
 title: "Judges 21 BBE | Read the Bible Online"
 linkTitle: "21"
-description: "Read Judges 21 Online | Now the men of Israel had taken an oath in Mizpah, saying, Not one of us will give his daughter as a wife to Benjamin..."
+description: >
+  Read Judges 21 Online | Now the men of Israel had taken an oath in Mizpah, saying, Not one of us will give his daughter as a wife to Benjamin...
 weight: 21
 ---
 

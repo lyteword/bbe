@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 20 BBE | Read the Bible Online"
 linkTitle: "20"
-description: "Read 2 Chronicles 20 Online | Now after this, the children of Moab and the children of Ammon, and with them some of the Meunim, made war against Jehoshaphat..."
+description: >
+  Read 2 Chronicles 20 Online | Now after this, the children of Moab and the children of Ammon, and with them some of the Meunim, made war against Jehoshaphat...
 weight: 20
 ---
 

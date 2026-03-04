@@ -1,7 +1,8 @@
 ---
 title: "Revelation 10 BBE | Read the Bible Online"
 linkTitle: "10"
-description: "Read Revelation 10 Online | And I saw another strong angel coming down out of heaven, clothed with a cloud; and an arch of coloured light was round his head, and his face was like the sun, and his feet like pillars of fire..."
+description: >
+  Read Revelation 10 Online | And I saw another strong angel coming down out of heaven, clothed with a cloud; and an arch of coloured light was round his head, and his face was like the sun, and his feet like pillars of fire...
 weight: 10
 ---
 

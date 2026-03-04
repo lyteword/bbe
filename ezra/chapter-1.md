@@ -1,7 +1,8 @@
 ---
 title: "Ezra 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read Ezra 1 Online | Now in the first year of Cyrus, king of Persia, in order that the word of the Lord given by the mouth of Jeremiah might come true, the spirit of Cyrus, king of Persia, was moved by the Lord, so that he made a public statement through all his kingdom, and put it in writing, saying..."
+description: >
+  Read Ezra 1 Online | Now in the first year of Cyrus, king of Persia, in order that the word of the Lord given by the mouth of Jeremiah might come true, the spirit of Cyrus, king of Persia, was moved by the Lord, so that he made a public statement through all his kingdom, and put it in writing, saying...
 weight: 1
 ---
 

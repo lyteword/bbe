@@ -1,7 +1,8 @@
 ---
 title: "John 14 BBE | Read the Bible Online"
 linkTitle: "14"
-description: "Read John 14 Online | Let not your heart be troubled: have faith in God and have faith in me..."
+description: >
+  Read John 14 Online | Let not your heart be troubled: have faith in God and have faith in me...
 weight: 14
 ---
 

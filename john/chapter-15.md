@@ -1,7 +1,8 @@
 ---
 title: "John 15 BBE | Read the Bible Online"
 linkTitle: "15"
-description: "Read John 15 Online | I am the true vine and my Father is the gardener..."
+description: >
+  Read John 15 Online | I am the true vine and my Father is the gardener...
 weight: 15
 ---
 

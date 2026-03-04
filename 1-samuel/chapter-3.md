@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read 1 Samuel 3 Online | Now the young Samuel was the servant of the Lord before Eli. In those days the Lord kept his word secret from men; there was no open vision..."
+description: >
+  Read 1 Samuel 3 Online | Now the young Samuel was the servant of the Lord before Eli. In those days the Lord kept his word secret from men; there was no open vision...
 weight: 3
 ---
 

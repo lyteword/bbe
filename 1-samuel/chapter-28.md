@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 28 BBE | Read the Bible Online"
 linkTitle: "28"
-description: "Read 1 Samuel 28 Online | Now in those days the Philistines got their forces together to make war on Israel. And Achish said to David, Certainly you and your men are to go out with me to the fight..."
+description: >
+  Read 1 Samuel 28 Online | Now in those days the Philistines got their forces together to make war on Israel. And Achish said to David, Certainly you and your men are to go out with me to the fight...
 weight: 28
 ---
 

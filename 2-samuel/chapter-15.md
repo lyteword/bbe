@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 15 BBE | Read the Bible Online"
 linkTitle: "15"
-description: "Read 2 Samuel 15 Online | Now after this, Absalom got for himself a carriage and horses, and fifty runners to go before him..."
+description: >
+  Read 2 Samuel 15 Online | Now after this, Absalom got for himself a carriage and horses, and fifty runners to go before him...
 weight: 15
 ---
 

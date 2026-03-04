@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 16 BBE | Read the Bible Online"
 linkTitle: "16"
-description: "Read 2 Chronicles 16 Online | In the thirty-sixth year of the rule of Asa, Baasha, king of Israel, went up against Judah, building Ramah so that no one was able to go out or in to Asa, king of Judah..."
+description: >
+  Read 2 Chronicles 16 Online | In the thirty-sixth year of the rule of Asa, Baasha, king of Israel, went up against Judah, building Ramah so that no one was able to go out or in to Asa, king of Judah...
 weight: 16
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 12 BBE | Read the Bible Online"
 linkTitle: "12"
-description: "Read 2 Kings 12 Online | In the seventh year of Jehu's rule, Jehoash became king; and he was ruling for forty years in Jerusalem; his mother's name was Zibiah of Beer-sheba..."
+description: >
+  Read 2 Kings 12 Online | In the seventh year of Jehu's rule, Jehoash became king; and he was ruling for forty years in Jerusalem; his mother's name was Zibiah of Beer-sheba...
 weight: 12
 ---
 

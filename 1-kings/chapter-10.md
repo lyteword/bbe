@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 10 BBE | Read the Bible Online"
 linkTitle: "10"
-description: "Read 1 Kings 10 Online | Now the queen of Sheba, hearing great things of Solomon, came to put his wisdom to the test with hard questions..."
+description: >
+  Read 1 Kings 10 Online | Now the queen of Sheba, hearing great things of Solomon, came to put his wisdom to the test with hard questions...
 weight: 10
 ---
 

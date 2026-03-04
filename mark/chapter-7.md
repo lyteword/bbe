@@ -1,7 +1,8 @@
 ---
 title: "Mark 7 BBE | Read the Bible Online"
 linkTitle: "7"
-description: "Read Mark 7 Online | And there came together to him the Pharisees and certain of the scribes who had come from Jerusalem..."
+description: >
+  Read Mark 7 Online | And there came together to him the Pharisees and certain of the scribes who had come from Jerusalem...
 weight: 7
 ---
 

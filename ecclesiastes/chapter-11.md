@@ -1,7 +1,8 @@
 ---
 title: "Ecclesiastes 11 BBE | Read the Bible Online"
 linkTitle: "11"
-description: "Read Ecclesiastes 11 Online | Put out your bread on the face of the waters; for after a long time it will come back to you again..."
+description: >
+  Read Ecclesiastes 11 Online | Put out your bread on the face of the waters; for after a long time it will come back to you again...
 weight: 11
 ---
 

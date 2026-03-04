@@ -1,7 +1,8 @@
 ---
 title: "Romans 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read Romans 1 Online | Paul, a servant of Jesus Christ, an Apostle by the selection of God, given authority as a preacher of the good news..."
+description: >
+  Read Romans 1 Online | Paul, a servant of Jesus Christ, an Apostle by the selection of God, given authority as a preacher of the good news...
 weight: 1
 ---
 

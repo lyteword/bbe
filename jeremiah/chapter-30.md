@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 30 BBE | Read the Bible Online"
 linkTitle: "30"
-description: "Read Jeremiah 30 Online | The word which came to Jeremiah from the Lord, saying..."
+description: >
+  Read Jeremiah 30 Online | The word which came to Jeremiah from the Lord, saying...
 weight: 30
 ---
 

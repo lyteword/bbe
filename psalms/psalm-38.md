@@ -1,7 +1,8 @@
 ---
 title: "Psalm 38 BBE | Read the Bible Online"
 linkTitle: "38"
-description: "Read Psalm 38 Online | O Lord, be not bitter with me in your wrath; let not your hand be on me in the heat of your passion..."
+description: >
+  Read Psalm 38 Online | O Lord, be not bitter with me in your wrath; let not your hand be on me in the heat of your passion...
 weight: 38
 ---
 

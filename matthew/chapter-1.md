@@ -1,7 +1,8 @@
 ---
 title: "Matthew 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read Matthew 1 Online | The book of the generations of Jesus Christ, the son of David, the son of Abraham..."
+description: >
+  Read Matthew 1 Online | The book of the generations of Jesus Christ, the son of David, the son of Abraham...
 weight: 1
 ---
 

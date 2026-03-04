@@ -1,7 +1,8 @@
 ---
 title: "Psalm 34 BBE | Read the Bible Online"
 linkTitle: "34"
-description: "Read Psalm 34 Online | I will be blessing the Lord at all times; his praise will be ever in my mouth..."
+description: >
+  Read Psalm 34 Online | I will be blessing the Lord at all times; his praise will be ever in my mouth...
 weight: 34
 ---
 

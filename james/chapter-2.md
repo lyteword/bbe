@@ -1,7 +1,8 @@
 ---
 title: "James 2 BBE | Read the Bible Online"
 linkTitle: "2"
-description: "Read James 2 Online | My brothers, if you have the faith of our Lord Jesus Christ of glory, do not take a man's position into account..."
+description: >
+  Read James 2 Online | My brothers, if you have the faith of our Lord Jesus Christ of glory, do not take a man's position into account...
 weight: 2
 ---
 

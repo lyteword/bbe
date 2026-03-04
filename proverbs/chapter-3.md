@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read Proverbs 3 Online | My son, keep my teaching in your memory, and my rules in your heart..."
+description: >
+  Read Proverbs 3 Online | My son, keep my teaching in your memory, and my rules in your heart...
 weight: 3
 ---
 

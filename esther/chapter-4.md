@@ -1,7 +1,8 @@
 ---
 title: "Esther 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read Esther 4 Online | Now when Mordecai saw what was done, pulling off his robe, he put on haircloth, with dust on his head, and went out into the middle of the town, crying out with a loud and bitter cry..."
+description: >
+  Read Esther 4 Online | Now when Mordecai saw what was done, pulling off his robe, he put on haircloth, with dust on his head, and went out into the middle of the town, crying out with a loud and bitter cry...
 weight: 4
 ---
 

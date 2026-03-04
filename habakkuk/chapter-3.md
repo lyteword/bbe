@@ -1,7 +1,8 @@
 ---
 title: "Habakkuk 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read Habakkuk 3 Online | A prayer of Habakkuk the prophet, put to Shigionoth..."
+description: >
+  Read Habakkuk 3 Online | A prayer of Habakkuk the prophet, put to Shigionoth...
 weight: 3
 ---
 

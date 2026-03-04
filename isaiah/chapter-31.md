@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 31 BBE | Read the Bible Online"
 linkTitle: "31"
-description: "Read Isaiah 31 Online | Cursed are those who go down to Egypt for help, and who put their faith in horses; looking to war-carriages for salvation, because of their numbers; and to horsemen, because they are very strong; but they are not looking to the Holy One of Israel, or turning their hearts to the Lord..."
+description: >
+  Read Isaiah 31 Online | Cursed are those who go down to Egypt for help, and who put their faith in horses; looking to war-carriages for salvation, because of their numbers; and to horsemen, because they are very strong; but they are not looking to the Holy One of Israel, or turning their hearts to the Lord...
 weight: 31
 ---
 

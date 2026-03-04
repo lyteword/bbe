@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 42 BBE | Read the Bible Online"
 linkTitle: "42"
-description: "Read Isaiah 42 Online | See my servant, whom I am supporting, my loved one, in whom I take delight: I have put my spirit on him; he will give the knowledge of the true God to the nations..."
+description: >
+  Read Isaiah 42 Online | See my servant, whom I am supporting, my loved one, in whom I take delight: I have put my spirit on him; he will give the knowledge of the true God to the nations...
 weight: 42
 ---
 

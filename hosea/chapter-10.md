@@ -1,7 +1,8 @@
 ---
 title: "Hosea 10 BBE | Read the Bible Online"
 linkTitle: "10"
-description: "Read Hosea 10 Online | Israel is a branching vine, full of fruit; as his fruit is increased, so the number of his altars is increased; as the land is fair, so they have made fair pillars..."
+description: >
+  Read Hosea 10 Online | Israel is a branching vine, full of fruit; as his fruit is increased, so the number of his altars is increased; as the land is fair, so they have made fair pillars...
 weight: 10
 ---
 

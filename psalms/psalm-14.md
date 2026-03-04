@@ -1,7 +1,8 @@
 ---
 title: "Psalm 14 BBE | Read the Bible Online"
 linkTitle: "14"
-description: "Read Psalm 14 Online | The foolish man has said in his heart, God will not do anything. They are unclean, they have done evil works; there is not one who does good..."
+description: >
+  Read Psalm 14 Online | The foolish man has said in his heart, God will not do anything. They are unclean, they have done evil works; there is not one who does good...
 weight: 14
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 6 BBE | Read the Bible Online"
 linkTitle: "6"
-description: "Read Zechariah 6 Online | And again lifting up my eyes I saw four war-carriages coming out from between the two mountains; and the mountains were mountains of brass..."
+description: >
+  Read Zechariah 6 Online | And again lifting up my eyes I saw four war-carriages coming out from between the two mountains; and the mountains were mountains of brass...
 weight: 6
 ---
 

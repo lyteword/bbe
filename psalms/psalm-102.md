@@ -1,7 +1,8 @@
 ---
 title: "Psalm 102 BBE | Read the Bible Online"
 linkTitle: "102"
-description: "Read Psalm 102 Online | Give ear to my prayer, O Lord, and let my cry come to you..."
+description: >
+  Read Psalm 102 Online | Give ear to my prayer, O Lord, and let my cry come to you...
 weight: 102
 ---
 

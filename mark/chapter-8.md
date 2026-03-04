@@ -1,7 +1,8 @@
 ---
 title: "Mark 8 BBE | Read the Bible Online"
 linkTitle: "8"
-description: "Read Mark 8 Online | In those days again, when there was a great mass of people and they had no food, he made his disciples come to him and said to them..."
+description: >
+  Read Mark 8 Online | In those days again, when there was a great mass of people and they had no food, he made his disciples come to him and said to them...
 weight: 8
 ---
 

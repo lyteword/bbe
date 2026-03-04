@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 31 BBE | Read the Bible Online"
 linkTitle: "31"
-description: "Read 1 Samuel 31 Online | Now the Philistines were fighting against Israel: and the men of Israel went in flight before the Philistines, falling down wounded in Mount Gilboa..."
+description: >
+  Read 1 Samuel 31 Online | Now the Philistines were fighting against Israel: and the men of Israel went in flight before the Philistines, falling down wounded in Mount Gilboa...
 weight: 31
 ---
 

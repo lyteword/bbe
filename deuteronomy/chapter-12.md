@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 12 BBE | Read the Bible Online"
 linkTitle: "12"
-description: "Read Deuteronomy 12 Online | These are the laws and the decisions which you are to keep with care in the land which the Lord, the God of your fathers, has given you to be your heritage all the days of your life on earth..."
+description: >
+  Read Deuteronomy 12 Online | These are the laws and the decisions which you are to keep with care in the land which the Lord, the God of your fathers, has given you to be your heritage all the days of your life on earth...
 weight: 12
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read Proverbs 4 Online | Give ear, my sons, to the teaching of a father; give attention so that you may have knowledge..."
+description: >
+  Read Proverbs 4 Online | Give ear, my sons, to the teaching of a father; give attention so that you may have knowledge...
 weight: 4
 ---
 

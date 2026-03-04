@@ -1,7 +1,8 @@
 ---
 title: "Joshua 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read Joshua 4 Online | Now when all the nation had come to the other side of Jordan, the Lord said to Joshua..."
+description: >
+  Read Joshua 4 Online | Now when all the nation had come to the other side of Jordan, the Lord said to Joshua...
 weight: 4
 ---
 

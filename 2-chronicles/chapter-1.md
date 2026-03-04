@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read 2 Chronicles 1 Online | And Solomon, the son of David, made himself strong in his kingdom, and the Lord his God was with him, and made him very great..."
+description: >
+  Read 2 Chronicles 1 Online | And Solomon, the son of David, made himself strong in his kingdom, and the Lord his God was with him, and made him very great...
 weight: 1
 ---
 

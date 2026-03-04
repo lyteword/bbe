@@ -1,7 +1,8 @@
 ---
 title: "Psalm 99 BBE | Read the Bible Online"
 linkTitle: "99"
-description: "Read Psalm 99 Online | The Lord is King; let the peoples be in fear: his seat is on the winged ones; let the earth be moved..."
+description: >
+  Read Psalm 99 Online | The Lord is King; let the peoples be in fear: his seat is on the winged ones; let the earth be moved...
 weight: 99
 ---
 

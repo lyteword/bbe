@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 60 BBE | Read the Bible Online"
 linkTitle: "60"
-description: "Read Isaiah 60 Online | Up! let your face be bright, for your light has come, and the glory of the Lord is shining on you..."
+description: >
+  Read Isaiah 60 Online | Up! let your face be bright, for your light has come, and the glory of the Lord is shining on you...
 weight: 60
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 27 BBE | Read the Bible Online"
 linkTitle: "27"
-description: "Read Leviticus 27 Online | And the Lord said to Moses..."
+description: >
+  Read Leviticus 27 Online | And the Lord said to Moses...
 weight: 27
 ---
 

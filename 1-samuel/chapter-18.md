@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 18 BBE | Read the Bible Online"
 linkTitle: "18"
-description: "Read 1 Samuel 18 Online | Now after David's talk with Saul was ended, the soul of Jonathan was joined with the soul of David, and David became as dear to him as his very life..."
+description: >
+  Read 1 Samuel 18 Online | Now after David's talk with Saul was ended, the soul of Jonathan was joined with the soul of David, and David became as dear to him as his very life...
 weight: 18
 ---
 

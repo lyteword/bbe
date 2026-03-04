@@ -1,7 +1,8 @@
 ---
 title: "Amos 6 BBE | Read the Bible Online"
 linkTitle: "6"
-description: "Read Amos 6 Online | Sorrow to those who are resting in comfort in Zion, and to those who have no fear of danger in the mountain of Samaria, the noted men of the chief of the nations, to whom the people of Israel come..."
+description: >
+  Read Amos 6 Online | Sorrow to those who are resting in comfort in Zion, and to those who have no fear of danger in the mountain of Samaria, the noted men of the chief of the nations, to whom the people of Israel come...
 weight: 6
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Judges 9 BBE | Read the Bible Online"
 linkTitle: "9"
-description: "Read Judges 9 Online | Now Abimelech, the son of Jerubbaal, went to Shechem to his mother's family, and said to them and to all the family of his mother's father..."
+description: >
+  Read Judges 9 Online | Now Abimelech, the son of Jerubbaal, went to Shechem to his mother's family, and said to them and to all the family of his mother's father...
 weight: 9
 ---
 

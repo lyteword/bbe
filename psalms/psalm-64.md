@@ -1,7 +1,8 @@
 ---
 title: "Psalm 64 BBE | Read the Bible Online"
 linkTitle: "64"
-description: "Read Psalm 64 Online | O God, let the voice of my grief come to your ear: keep my life from the fear of those who are against me..."
+description: >
+  Read Psalm 64 Online | O God, let the voice of my grief come to your ear: keep my life from the fear of those who are against me...
 weight: 64
 ---
 

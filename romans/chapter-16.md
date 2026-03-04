@@ -1,7 +1,8 @@
 ---
 title: "Romans 16 BBE | Read the Bible Online"
 linkTitle: "16"
-description: "Read Romans 16 Online | It is my desire to say a good word for Phoebe, who is a servant of the church in Cenchreae..."
+description: >
+  Read Romans 16 Online | It is my desire to say a good word for Phoebe, who is a servant of the church in Cenchreae...
 weight: 16
 ---
 

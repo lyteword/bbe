@@ -1,7 +1,8 @@
 ---
 title: "Daniel 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read Daniel 5 Online | Belshazzar the king made a great feast for a thousand of his lords, drinking wine before the thousand..."
+description: >
+  Read Daniel 5 Online | Belshazzar the king made a great feast for a thousand of his lords, drinking wine before the thousand...
 weight: 5
 ---
 

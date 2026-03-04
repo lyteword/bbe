@@ -1,7 +1,8 @@
 ---
 title: "Joshua 21 BBE | Read the Bible Online"
 linkTitle: "21"
-description: "Read Joshua 21 Online | Then the heads of the families of the Levites came to Eleazar the priest and Joshua, the son of Nun, and to the heads of families of the tribes of the children of Israel..."
+description: >
+  Read Joshua 21 Online | Then the heads of the families of the Levites came to Eleazar the priest and Joshua, the son of Nun, and to the heads of families of the tribes of the children of Israel...
 weight: 21
 ---
 

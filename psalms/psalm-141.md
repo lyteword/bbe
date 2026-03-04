@@ -1,7 +1,8 @@
 ---
 title: "Psalm 141 BBE | Read the Bible Online"
 linkTitle: "141"
-description: "Read Psalm 141 Online | Lord, I have made my cry to you; come to me quickly; give ear to my voice, when it goes up to you..."
+description: >
+  Read Psalm 141 Online | Lord, I have made my cry to you; come to me quickly; give ear to my voice, when it goes up to you...
 weight: 141
 ---
 

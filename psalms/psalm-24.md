@@ -1,7 +1,8 @@
 ---
 title: "Psalm 24 BBE | Read the Bible Online"
 linkTitle: "24"
-description: "Read Psalm 24 Online | The earth is the Lord's, with all its wealth; the world and all the people living in it..."
+description: >
+  Read Psalm 24 Online | The earth is the Lord's, with all its wealth; the world and all the people living in it...
 weight: 24
 ---
 

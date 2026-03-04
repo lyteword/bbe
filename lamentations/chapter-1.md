@@ -1,7 +1,8 @@
 ---
 title: "Lamentations 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read Lamentations 1 Online | See her seated by herself, the town which was full of people! She who was great among the nations has become like a widow! She who was a princess among the countries has come under the yoke of forced work..."
+description: >
+  Read Lamentations 1 Online | See her seated by herself, the town which was full of people! She who was great among the nations has become like a widow! She who was a princess among the countries has come under the yoke of forced work...
 weight: 1
 ---
 

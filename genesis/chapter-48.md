@@ -1,7 +1,8 @@
 ---
 title: "Genesis 48 BBE | Read the Bible Online"
 linkTitle: "48"
-description: "Read Genesis 48 Online | Now after these things, word came to Joseph that his father was ill: and he took with him his sons Manasseh and Ephraim..."
+description: >
+  Read Genesis 48 Online | Now after these things, word came to Joseph that his father was ill: and he took with him his sons Manasseh and Ephraim...
 weight: 48
 ---
 

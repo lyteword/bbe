@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 19 BBE | Read the Bible Online"
 linkTitle: "19"
-description: "Read Jeremiah 19 Online | This is what the Lord has said: Go and get for money a potter's bottle made of earth, and take with you some of the responsible men of the people and of the priests..."
+description: >
+  Read Jeremiah 19 Online | This is what the Lord has said: Go and get for money a potter's bottle made of earth, and take with you some of the responsible men of the people and of the priests...
 weight: 19
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Genesis 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read Genesis 4 Online | And the man had connection with Eve his wife, and she became with child and gave birth to Cain, and said, I have got a man from the Lord..."
+description: >
+  Read Genesis 4 Online | And the man had connection with Eve his wife, and she became with child and gave birth to Cain, and said, I have got a man from the Lord...
 weight: 4
 ---
 

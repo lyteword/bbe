@@ -1,7 +1,8 @@
 ---
 title: "Zephaniah 2 BBE | Read the Bible Online"
 linkTitle: "2"
-description: "Read Zephaniah 2 Online | Come together, make everyone come together, O nation without shame..."
+description: >
+  Read Zephaniah 2 Online | Come together, make everyone come together, O nation without shame...
 weight: 2
 ---
 

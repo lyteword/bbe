@@ -1,7 +1,8 @@
 ---
 title: "Matthew 28 BBE | Read the Bible Online"
 linkTitle: "28"
-description: "Read Matthew 28 Online | Now late on the Sabbath, when the dawn of the first day of the week was near, Mary Magdalene and the other Mary came to see the place where his body was..."
+description: >
+  Read Matthew 28 Online | Now late on the Sabbath, when the dawn of the first day of the week was near, Mary Magdalene and the other Mary came to see the place where his body was...
 weight: 28
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 8 BBE | Read the Bible Online"
 linkTitle: "8"
-description: "Read Jeremiah 8 Online | At that time, says the Lord, they will take the bones of the kings of Judah, and the bones of his rulers, and the bones of the priests, and the bones of the prophets, and the bones of the people of Jerusalem out of their resting-places..."
+description: >
+  Read Jeremiah 8 Online | At that time, says the Lord, they will take the bones of the kings of Judah, and the bones of his rulers, and the bones of the priests, and the bones of the prophets, and the bones of the people of Jerusalem out of their resting-places...
 weight: 8
 ---
 

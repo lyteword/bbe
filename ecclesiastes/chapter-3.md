@@ -1,7 +1,8 @@
 ---
 title: "Ecclesiastes 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read Ecclesiastes 3 Online | For everything there is a fixed time, and a time for every business under the sun..."
+description: >
+  Read Ecclesiastes 3 Online | For everything there is a fixed time, and a time for every business under the sun...
 weight: 3
 ---
 

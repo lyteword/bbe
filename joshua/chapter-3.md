@@ -1,7 +1,8 @@
 ---
 title: "Joshua 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read Joshua 3 Online | Then Joshua got up early in the morning, and, moving on from Shittim, he and all the children of Israel came to Jordan and were there for the night before going over..."
+description: >
+  Read Joshua 3 Online | Then Joshua got up early in the morning, and, moving on from Shittim, he and all the children of Israel came to Jordan and were there for the night before going over...
 weight: 3
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Exodus 10 BBE | Read the Bible Online"
 linkTitle: "10"
-description: "Read Exodus 10 Online | And the Lord said to Moses, Go in to Pharaoh: for I have made his heart and the hearts of his servants hard, so that I may let my signs be seen among them..."
+description: >
+  Read Exodus 10 Online | And the Lord said to Moses, Go in to Pharaoh: for I have made his heart and the hearts of his servants hard, so that I may let my signs be seen among them...
 weight: 10
 ---
 

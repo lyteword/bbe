@@ -1,7 +1,8 @@
 ---
 title: "Psalm 94 BBE | Read the Bible Online"
 linkTitle: "94"
-description: "Read Psalm 94 Online | O God, in whose hands is punishment, O God of punishment, let your shining face be seen..."
+description: >
+  Read Psalm 94 Online | O God, in whose hands is punishment, O God of punishment, let your shining face be seen...
 weight: 94
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 22 BBE | Read the Bible Online"
 linkTitle: "22"
-description: "Read Proverbs 22 Online | A good name is more to be desired than great wealth, and to be respected is better than silver and gold..."
+description: >
+  Read Proverbs 22 Online | A good name is more to be desired than great wealth, and to be respected is better than silver and gold...
 weight: 22
 ---
 

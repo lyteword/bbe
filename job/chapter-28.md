@@ -1,7 +1,8 @@
 ---
 title: "Job 28 BBE | Read the Bible Online"
 linkTitle: "28"
-description: "Read Job 28 Online | Truly there is a mine for silver, and a place where gold is washed out..."
+description: >
+  Read Job 28 Online | Truly there is a mine for silver, and a place where gold is washed out...
 weight: 28
 ---
 

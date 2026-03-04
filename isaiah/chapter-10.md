@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 10 BBE | Read the Bible Online"
 linkTitle: "10"
-description: "Read Isaiah 10 Online | Cursed are those who make evil decisions, and the writers who make the records of their cruel acts..."
+description: >
+  Read Isaiah 10 Online | Cursed are those who make evil decisions, and the writers who make the records of their cruel acts...
 weight: 10
 ---
 

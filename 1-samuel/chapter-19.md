@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 19 BBE | Read the Bible Online"
 linkTitle: "19"
-description: "Read 1 Samuel 19 Online | And Saul gave orders to his son Jonathan and to all his servants to put David to death. But Saul's son Jonathan had great delight in David..."
+description: >
+  Read 1 Samuel 19 Online | And Saul gave orders to his son Jonathan and to all his servants to put David to death. But Saul's son Jonathan had great delight in David...
 weight: 19
 ---
 

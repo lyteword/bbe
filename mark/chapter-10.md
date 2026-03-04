@@ -1,7 +1,8 @@
 ---
 title: "Mark 10 BBE | Read the Bible Online"
 linkTitle: "10"
-description: "Read Mark 10 Online | And he got up, and went into the country of Judaea on the other side of Jordan: and great numbers of people came together to him again; and, as was his way, he gave them teaching..."
+description: >
+  Read Mark 10 Online | And he got up, and went into the country of Judaea on the other side of Jordan: and great numbers of people came together to him again; and, as was his way, he gave them teaching...
 weight: 10
 ---
 

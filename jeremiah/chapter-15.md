@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 15 BBE | Read the Bible Online"
 linkTitle: "15"
-description: "Read Jeremiah 15 Online | Then the Lord said to me, Even if Moses and Samuel came before me, I would have no desire for this people: send them away from before me, and let them go..."
+description: >
+  Read Jeremiah 15 Online | Then the Lord said to me, Even if Moses and Samuel came before me, I would have no desire for this people: send them away from before me, and let them go...
 weight: 15
 ---
 

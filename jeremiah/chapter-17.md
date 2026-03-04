@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 17 BBE | Read the Bible Online"
 linkTitle: "17"
-description: "Read Jeremiah 17 Online | The sin of Judah is recorded with a pen of iron, and with the sharp point of a jewel it is cut on their hearts of stone, and on the horns of their altars for a sign to them..."
+description: >
+  Read Jeremiah 17 Online | The sin of Judah is recorded with a pen of iron, and with the sharp point of a jewel it is cut on their hearts of stone, and on the horns of their altars for a sign to them...
 weight: 17
 ---
 

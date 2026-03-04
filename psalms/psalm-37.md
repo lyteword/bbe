@@ -1,7 +1,8 @@
 ---
 title: "Psalm 37 BBE | Read the Bible Online"
 linkTitle: "37"
-description: "Read Psalm 37 Online | Do not be angry because of the wrongdoers, or have envy of the workers of evil..."
+description: >
+  Read Psalm 37 Online | Do not be angry because of the wrongdoers, or have envy of the workers of evil...
 weight: 37
 ---
 

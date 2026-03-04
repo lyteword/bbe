@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 13 BBE | Read the Bible Online"
 linkTitle: "13"
-description: "Read 2 Corinthians 13 Online | This is the third time that I am coming to you. From the mouth of two or three witnesses will every word be made certain..."
+description: >
+  Read 2 Corinthians 13 Online | This is the third time that I am coming to you. From the mouth of two or three witnesses will every word be made certain...
 weight: 13
 ---
 

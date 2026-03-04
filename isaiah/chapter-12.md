@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 12 BBE | Read the Bible Online"
 linkTitle: "12"
-description: "Read Isaiah 12 Online | And in that day you will say I will give praise to you, O Lord; for though you were angry with me, your wrath is turned away, and I am comforted..."
+description: >
+  Read Isaiah 12 Online | And in that day you will say I will give praise to you, O Lord; for though you were angry with me, your wrath is turned away, and I am comforted...
 weight: 12
 ---
 

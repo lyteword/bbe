@@ -1,7 +1,8 @@
 ---
 title: "John 19 BBE | Read the Bible Online"
 linkTitle: "19"
-description: "Read John 19 Online | Then Pilate took Jesus and had him whipped with cords..."
+description: >
+  Read John 19 Online | Then Pilate took Jesus and had him whipped with cords...
 weight: 19
 ---
 

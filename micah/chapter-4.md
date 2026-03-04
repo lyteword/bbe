@@ -1,7 +1,8 @@
 ---
 title: "Micah 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read Micah 4 Online | But in the last days it will come about that the mountain of the Lord's house will be placed on the top of the mountains, and be lifted up over the hills; and peoples will be flowing to it..."
+description: >
+  Read Micah 4 Online | But in the last days it will come about that the mountain of the Lord's house will be placed on the top of the mountains, and be lifted up over the hills; and peoples will be flowing to it...
 weight: 4
 ---
 

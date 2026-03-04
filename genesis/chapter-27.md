@@ -1,7 +1,8 @@
 ---
 title: "Genesis 27 BBE | Read the Bible Online"
 linkTitle: "27"
-description: "Read Genesis 27 Online | Now when Isaac was old and his eyes had become clouded so that he was not able to see, he sent for Esau, his first son, and said to him, My son: and he said, Here am I..."
+description: >
+  Read Genesis 27 Online | Now when Isaac was old and his eyes had become clouded so that he was not able to see, he sent for Esau, his first son, and said to him, My son: and he said, Here am I...
 weight: 27
 ---
 

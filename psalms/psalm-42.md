@@ -1,7 +1,8 @@
 ---
 title: "Psalm 42 BBE | Read the Bible Online"
 linkTitle: "42"
-description: "Read Psalm 42 Online | Like the desire of the roe for the water-streams, so is my soul's desire for you, O God..."
+description: >
+  Read Psalm 42 Online | Like the desire of the roe for the water-streams, so is my soul's desire for you, O God...
 weight: 42
 ---
 

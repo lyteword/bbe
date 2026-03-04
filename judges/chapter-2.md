@@ -1,7 +1,8 @@
 ---
 title: "Judges 2 BBE | Read the Bible Online"
 linkTitle: "2"
-description: "Read Judges 2 Online | Now the angel of the Lord came up from Gilgal to Bochim. And he said, ***I took you out of Egypt, guiding you into the land which I gave by an oath to your fathers; and I said, My agreement with you will never be broken by me..."
+description: >
+  Read Judges 2 Online | Now the angel of the Lord came up from Gilgal to Bochim. And he said, ***I took you out of Egypt, guiding you into the land which I gave by an oath to your fathers; and I said, My agreement with you will never be broken by me...
 weight: 2
 ---
 

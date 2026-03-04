@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 10 BBE | Read the Bible Online"
 linkTitle: "10"
-description: "Read 2 Kings 10 Online | Now there were in Samaria seventy of Ahab's sons. And Jehu sent letters to Samaria, to the rulers of the town, and to the responsible men, and to those who had the care of the sons of Ahab, saying..."
+description: >
+  Read 2 Kings 10 Online | Now there were in Samaria seventy of Ahab's sons. And Jehu sent letters to Samaria, to the rulers of the town, and to the responsible men, and to those who had the care of the sons of Ahab, saying...
 weight: 10
 ---
 

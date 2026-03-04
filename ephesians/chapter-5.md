@@ -1,7 +1,8 @@
 ---
 title: "Ephesians 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read Ephesians 5 Online | Let it then be your desire to be like God, as well-loved children..."
+description: >
+  Read Ephesians 5 Online | Let it then be your desire to be like God, as well-loved children...
 weight: 5
 ---
 

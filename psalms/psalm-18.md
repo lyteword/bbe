@@ -1,7 +1,8 @@
 ---
 title: "Psalm 18 BBE | Read the Bible Online"
 linkTitle: "18"
-description: "Read Psalm 18 Online | I will give you my love, O Lord, my strength..."
+description: >
+  Read Psalm 18 Online | I will give you my love, O Lord, my strength...
 weight: 18
 ---
 

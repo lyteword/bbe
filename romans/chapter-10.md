@@ -1,7 +1,8 @@
 ---
 title: "Romans 10 BBE | Read the Bible Online"
 linkTitle: "10"
-description: "Read Romans 10 Online | Brothers, my heart's desire and my prayer to God for them is, that they may get salvation..."
+description: >
+  Read Romans 10 Online | Brothers, my heart's desire and my prayer to God for them is, that they may get salvation...
 weight: 10
 ---
 

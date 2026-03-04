@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 6 BBE | Read the Bible Online"
 linkTitle: "6"
-description: "Read 1 Corinthians 6 Online | How is it, that if any one of you has a cause at law against another, he takes it before a Gentile judge and not before the saints..."
+description: >
+  Read 1 Corinthians 6 Online | How is it, that if any one of you has a cause at law against another, he takes it before a Gentile judge and not before the saints...
 weight: 6
 ---
 

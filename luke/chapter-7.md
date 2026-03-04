@@ -1,7 +1,8 @@
 ---
 title: "Luke 7 BBE | Read the Bible Online"
 linkTitle: "7"
-description: "Read Luke 7 Online | After he had come to the end of all his words in the hearing of the people, he went into Capernaum..."
+description: >
+  Read Luke 7 Online | After he had come to the end of all his words in the hearing of the people, he went into Capernaum...
 weight: 7
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Exodus 26 BBE | Read the Bible Online"
 linkTitle: "26"
-description: "Read Exodus 26 Online | And you are to make a House for me, with ten curtains of the best linen, blue and purple and red, worked with designs of winged ones by a good workman..."
+description: >
+  Read Exodus 26 Online | And you are to make a House for me, with ten curtains of the best linen, blue and purple and red, worked with designs of winged ones by a good workman...
 weight: 26
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Lamentations 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read Lamentations 5 Online | Keep in mind, O Lord, what has come to us: take note and see our shame..."
+description: >
+  Read Lamentations 5 Online | Keep in mind, O Lord, what has come to us: take note and see our shame...
 weight: 5
 ---
 

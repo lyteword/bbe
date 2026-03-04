@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 38 BBE | Read the Bible Online"
 linkTitle: "38"
-description: "Read Isaiah 38 Online | In those days Hezekiah was ill and near death. And Isaiah the prophet, the son of Amoz, came to him, and said to him, The Lord says, Put your house in order; for your death is near..."
+description: >
+  Read Isaiah 38 Online | In those days Hezekiah was ill and near death. And Isaiah the prophet, the son of Amoz, came to him, and said to him, The Lord says, Put your house in order; for your death is near...
 weight: 38
 ---
 

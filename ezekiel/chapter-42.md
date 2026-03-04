@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 42 BBE | Read the Bible Online"
 linkTitle: "42"
-description: "Read Ezekiel 42 Online | And he took me out into the inner square in the direction of the north: and he took me into the rooms which were opposite the separate place and opposite the building to the north..."
+description: >
+  Read Ezekiel 42 Online | And he took me out into the inner square in the direction of the north: and he took me into the rooms which were opposite the separate place and opposite the building to the north...
 weight: 42
 ---
 

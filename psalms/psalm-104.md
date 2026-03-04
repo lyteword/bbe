@@ -1,7 +1,8 @@
 ---
 title: "Psalm 104 BBE | Read the Bible Online"
 linkTitle: "104"
-description: "Read Psalm 104 Online | Give praise to the Lord, O my soul. O Lord my God, you are very great; you are robed with honour and power..."
+description: >
+  Read Psalm 104 Online | Give praise to the Lord, O my soul. O Lord my God, you are very great; you are robed with honour and power...
 weight: 104
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Galatians 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read Galatians 1 Online | Paul, an Apostle (not from men, and not through man, but through Jesus Christ, and God the Father, who made him come back from the dead)..."
+description: >
+  Read Galatians 1 Online | Paul, an Apostle (not from men, and not through man, but through Jesus Christ, and God the Father, who made him come back from the dead)...
 weight: 1
 ---
 

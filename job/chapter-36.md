@@ -1,7 +1,8 @@
 ---
 title: "Job 36 BBE | Read the Bible Online"
 linkTitle: "36"
-description: "Read Job 36 Online | And Elihu went on to say..."
+description: >
+  Read Job 36 Online | And Elihu went on to say...
 weight: 36
 ---
 

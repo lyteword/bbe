@@ -1,7 +1,8 @@
 ---
 title: "Psalm 48 BBE | Read the Bible Online"
 linkTitle: "48"
-description: "Read Psalm 48 Online | Great is the Lord and greatly to be praised, in the town of our God, in his holy mountain..."
+description: >
+  Read Psalm 48 Online | Great is the Lord and greatly to be praised, in the town of our God, in his holy mountain...
 weight: 48
 ---
 

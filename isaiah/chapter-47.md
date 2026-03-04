@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 47 BBE | Read the Bible Online"
 linkTitle: "47"
-description: "Read Isaiah 47 Online | Come and take your seat in the dust, O virgin daughter of Babylon; come down from your seat of power, and take your place on the earth, O daughter of the Chaldaeans: for you will never again seem soft and delicate..."
+description: >
+  Read Isaiah 47 Online | Come and take your seat in the dust, O virgin daughter of Babylon; come down from your seat of power, and take your place on the earth, O daughter of the Chaldaeans: for you will never again seem soft and delicate...
 weight: 47
 ---
 

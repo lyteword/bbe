@@ -1,7 +1,8 @@
 ---
 title: "Psalm 35 BBE | Read the Bible Online"
 linkTitle: "35"
-description: "Read Psalm 35 Online | O Lord, be on my side against those who are judging me; be at war with those who make war against me..."
+description: >
+  Read Psalm 35 Online | O Lord, be on my side against those who are judging me; be at war with those who make war against me...
 weight: 35
 ---
 

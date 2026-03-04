@@ -1,7 +1,8 @@
 ---
 title: "Genesis 29 BBE | Read the Bible Online"
 linkTitle: "29"
-description: "Read Genesis 29 Online | Then Jacob went on his journey till he came to the land of the children of the East..."
+description: >
+  Read Genesis 29 Online | Then Jacob went on his journey till he came to the land of the children of the East...
 weight: 29
 ---
 

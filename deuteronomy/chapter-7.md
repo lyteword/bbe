@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 7 BBE | Read the Bible Online"
 linkTitle: "7"
-description: "Read Deuteronomy 7 Online | When the Lord your God takes you into the land where you are going, which is to be your heritage, and has sent out the nations before you, the Hittites and the Girgashites and the Amorites and the Canaanites and the Perizzites and the Hivites and the Jebusites, seven nations greater and stronger than you..."
+description: >
+  Read Deuteronomy 7 Online | When the Lord your God takes you into the land where you are going, which is to be your heritage, and has sent out the nations before you, the Hittites and the Girgashites and the Amorites and the Canaanites and the Perizzites and the Hivites and the Jebusites, seven nations greater and stronger than you...
 weight: 7
 ---
 

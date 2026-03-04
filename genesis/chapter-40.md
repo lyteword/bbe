@@ -1,7 +1,8 @@
 ---
 title: "Genesis 40 BBE | Read the Bible Online"
 linkTitle: "40"
-description: "Read Genesis 40 Online | Now after these things the chief servant who had the care of the wine, and the chief bread-maker in Pharaoh's house, did something against Pharaoh's orders..."
+description: >
+  Read Genesis 40 Online | Now after these things the chief servant who had the care of the wine, and the chief bread-maker in Pharaoh's house, did something against Pharaoh's orders...
 weight: 40
 ---
 

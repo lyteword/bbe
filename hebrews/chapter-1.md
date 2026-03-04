@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read Hebrews 1 Online | In times past the word of God came to our fathers through the prophets, in different parts and in different ways..."
+description: >
+  Read Hebrews 1 Online | In times past the word of God came to our fathers through the prophets, in different parts and in different ways...
 weight: 1
 ---
 

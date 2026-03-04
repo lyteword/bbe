@@ -1,7 +1,8 @@
 ---
 title: "Joshua 22 BBE | Read the Bible Online"
 linkTitle: "22"
-description: "Read Joshua 22 Online | Then Joshua sent for the Reubenites and the Gadites and the half-tribe of Manasseh..."
+description: >
+  Read Joshua 22 Online | Then Joshua sent for the Reubenites and the Gadites and the half-tribe of Manasseh...
 weight: 22
 ---
 

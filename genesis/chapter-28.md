@@ -1,7 +1,8 @@
 ---
 title: "Genesis 28 BBE | Read the Bible Online"
 linkTitle: "28"
-description: "Read Genesis 28 Online | Then Isaac sent for Jacob, and blessing him, said, Do not take a wife from among the women of Canaan..."
+description: >
+  Read Genesis 28 Online | Then Isaac sent for Jacob, and blessing him, said, Do not take a wife from among the women of Canaan...
 weight: 28
 ---
 

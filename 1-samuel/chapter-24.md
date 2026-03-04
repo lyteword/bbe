@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 24 BBE | Read the Bible Online"
 linkTitle: "24"
-description: "Read 1 Samuel 24 Online | Now when Saul came back from fighting the Philistines, news was given him that David was in the waste land of En-gedi..."
+description: >
+  Read 1 Samuel 24 Online | Now when Saul came back from fighting the Philistines, news was given him that David was in the waste land of En-gedi...
 weight: 24
 ---
 

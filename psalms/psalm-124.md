@@ -1,7 +1,8 @@
 ---
 title: "Psalm 124 BBE | Read the Bible Online"
 linkTitle: "124"
-description: "Read Psalm 124 Online | If it had not been the Lord who was on our side (let Israel now say)..."
+description: >
+  Read Psalm 124 Online | If it had not been the Lord who was on our side (let Israel now say)...
 weight: 124
 ---
 

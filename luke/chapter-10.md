@@ -1,7 +1,8 @@
 ---
 title: "Luke 10 BBE | Read the Bible Online"
 linkTitle: "10"
-description: "Read Luke 10 Online | Now after these things, the Lord made selection of seventy others and sent them before him, two together, into every town and place where he himself was about to come..."
+description: >
+  Read Luke 10 Online | Now after these things, the Lord made selection of seventy others and sent them before him, two together, into every town and place where he himself was about to come...
 weight: 10
 ---
 

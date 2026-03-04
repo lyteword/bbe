@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read 1 Kings 1 Online | Now King David was old and far on in years; and though they put covers over him, his body was cold..."
+description: >
+  Read 1 Kings 1 Online | Now King David was old and far on in years; and though they put covers over him, his body was cold...
 weight: 1
 ---
 

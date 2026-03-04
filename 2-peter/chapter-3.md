@@ -1,7 +1,8 @@
 ---
 title: "2 Peter 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read 2 Peter 3 Online | My loved ones, this is now my second letter to you, and in this as in the first, I am attempting to keep your true minds awake..."
+description: >
+  Read 2 Peter 3 Online | My loved ones, this is now my second letter to you, and in this as in the first, I am attempting to keep your true minds awake...
 weight: 3
 ---
 

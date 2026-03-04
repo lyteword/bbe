@@ -1,7 +1,8 @@
 ---
 title: "Psalm 49 BBE | Read the Bible Online"
 linkTitle: "49"
-description: "Read Psalm 49 Online | Give attention to this, all you peoples; let your ears be open, all you who are living in the world..."
+description: >
+  Read Psalm 49 Online | Give attention to this, all you peoples; let your ears be open, all you who are living in the world...
 weight: 49
 ---
 

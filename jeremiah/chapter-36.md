@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 36 BBE | Read the Bible Online"
 linkTitle: "36"
-description: "Read Jeremiah 36 Online | Now it came about in the fourth year of Jehoiakim, the son of Josiah, king of Judah, that this word came to Jeremiah from the Lord, saying..."
+description: >
+  Read Jeremiah 36 Online | Now it came about in the fourth year of Jehoiakim, the son of Josiah, king of Judah, that this word came to Jeremiah from the Lord, saying...
 weight: 36
 ---
 

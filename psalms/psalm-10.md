@@ -1,7 +1,8 @@
 ---
 title: "Psalm 10 BBE | Read the Bible Online"
 linkTitle: "10"
-description: "Read Psalm 10 Online | Why do you keep far away, O Lord? why are you not to be seen in times of trouble..."
+description: >
+  Read Psalm 10 Online | Why do you keep far away, O Lord? why are you not to be seen in times of trouble...
 weight: 10
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Esther 2 BBE | Read the Bible Online"
 linkTitle: "2"
-description: "Read Esther 2 Online | After these things, when the king's feelings were calmer, the thought of Vashti and what she had done and the order he had made against her, came back to his mind..."
+description: >
+  Read Esther 2 Online | After these things, when the king's feelings were calmer, the thought of Vashti and what she had done and the order he had made against her, came back to his mind...
 weight: 2
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Ecclesiastes 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read Ecclesiastes 4 Online | And again I saw all the cruel things which are done under the sun; there was the weeping of those who have evil done to them, and they had no comforter: and from the hands of the evil-doers there went out power, but they had no comforter..."
+description: >
+  Read Ecclesiastes 4 Online | And again I saw all the cruel things which are done under the sun; there was the weeping of those who have evil done to them, and they had no comforter: and from the hands of the evil-doers there went out power, but they had no comforter...
 weight: 4
 ---
 

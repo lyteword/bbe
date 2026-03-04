@@ -1,7 +1,8 @@
 ---
 title: "Job 8 BBE | Read the Bible Online"
 linkTitle: "8"
-description: "Read Job 8 Online | Then Bildad the Shuhite made answer and said..."
+description: >
+  Read Job 8 Online | Then Bildad the Shuhite made answer and said...
 weight: 8
 ---
 

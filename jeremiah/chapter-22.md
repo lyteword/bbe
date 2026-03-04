@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 22 BBE | Read the Bible Online"
 linkTitle: "22"
-description: "Read Jeremiah 22 Online | This is what the Lord has said: Go down to the house of the king of Judah and there give him this word..."
+description: >
+  Read Jeremiah 22 Online | This is what the Lord has said: Go down to the house of the king of Judah and there give him this word...
 weight: 22
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Exodus 40 BBE | Read the Bible Online"
 linkTitle: "40"
-description: "Read Exodus 40 Online | And the Lord said to Moses..."
+description: >
+  Read Exodus 40 Online | And the Lord said to Moses...
 weight: 40
 ---
 

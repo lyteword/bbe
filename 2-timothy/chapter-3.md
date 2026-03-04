@@ -1,7 +1,8 @@
 ---
 title: "2 Timothy 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read 2 Timothy 3 Online | But be certain of this, that in the last days times of trouble will come..."
+description: >
+  Read 2 Timothy 3 Online | But be certain of this, that in the last days times of trouble will come...
 weight: 3
 ---
 

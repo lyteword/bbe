@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 13 BBE | Read the Bible Online"
 linkTitle: "13"
-description: "Read Hebrews 13 Online | Go on loving your brothers in the faith..."
+description: >
+  Read Hebrews 13 Online | Go on loving your brothers in the faith...
 weight: 13
 ---
 

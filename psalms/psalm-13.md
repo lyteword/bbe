@@ -1,7 +1,8 @@
 ---
 title: "Psalm 13 BBE | Read the Bible Online"
 linkTitle: "13"
-description: "Read Psalm 13 Online | Will you for ever put me out of your memory, O Lord? will your face for ever be turned away from me..."
+description: >
+  Read Psalm 13 Online | Will you for ever put me out of your memory, O Lord? will your face for ever be turned away from me...
 weight: 13
 ---
 

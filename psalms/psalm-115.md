@@ -1,7 +1,8 @@
 ---
 title: "Psalm 115 BBE | Read the Bible Online"
 linkTitle: "115"
-description: "Read Psalm 115 Online | Not to us, O Lord, not to us, but to your name let glory be given, because of your mercy and your unchanging faith..."
+description: >
+  Read Psalm 115 Online | Not to us, O Lord, not to us, but to your name let glory be given, because of your mercy and your unchanging faith...
 weight: 115
 ---
 

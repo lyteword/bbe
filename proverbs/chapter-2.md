@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 2 BBE | Read the Bible Online"
 linkTitle: "2"
-description: "Read Proverbs 2 Online | My son, if you will take my words to your heart, storing up my laws in your mind..."
+description: >
+  Read Proverbs 2 Online | My son, if you will take my words to your heart, storing up my laws in your mind...
 weight: 2
 ---
 

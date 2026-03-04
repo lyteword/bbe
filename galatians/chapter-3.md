@@ -1,7 +1,8 @@
 ---
 title: "Galatians 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read Galatians 3 Online | O foolish Galatians, by what strange powers have you been tricked, to whom it was made clear that Jesus Christ was put to death on the cross..."
+description: >
+  Read Galatians 3 Online | O foolish Galatians, by what strange powers have you been tricked, to whom it was made clear that Jesus Christ was put to death on the cross...
 weight: 3
 ---
 

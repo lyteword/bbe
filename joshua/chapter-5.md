@@ -1,7 +1,8 @@
 ---
 title: "Joshua 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read Joshua 5 Online | Now when the news came to all the kings of the Amorites on the west side of Jordan, and all the kings of the Canaanites living by the sea, how the Lord had made the waters of Jordan dry before the children of Israel, till they had gone across, their hearts became like water, and there was no more spirit in them, because of the children of Israel..."
+description: >
+  Read Joshua 5 Online | Now when the news came to all the kings of the Amorites on the west side of Jordan, and all the kings of the Canaanites living by the sea, how the Lord had made the waters of Jordan dry before the children of Israel, till they had gone across, their hearts became like water, and there was no more spirit in them, because of the children of Israel...
 weight: 5
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 61 BBE | Read the Bible Online"
 linkTitle: "61"
-description: "Read Isaiah 61 Online | The spirit of the Lord is on me, because I am marked out by him to give good news to the poor; he has sent me to make the broken-hearted well, to say that the prisoners will be made free, and that those in chains will see the light again..."
+description: >
+  Read Isaiah 61 Online | The spirit of the Lord is on me, because I am marked out by him to give good news to the poor; he has sent me to make the broken-hearted well, to say that the prisoners will be made free, and that those in chains will see the light again...
 weight: 61
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Ruth 2 BBE | Read the Bible Online"
 linkTitle: "2"
-description: "Read Ruth 2 Online | And Naomi had a relation of her husband, a man of wealth, of the family of Elimelech; and his name was Boaz..."
+description: >
+  Read Ruth 2 Online | And Naomi had a relation of her husband, a man of wealth, of the family of Elimelech; and his name was Boaz...
 weight: 2
 ---
 

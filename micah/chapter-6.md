@@ -1,7 +1,8 @@
 ---
 title: "Micah 6 BBE | Read the Bible Online"
 linkTitle: "6"
-description: "Read Micah 6 Online | Give ear now to the words of the Lord: Up! put forward your cause before the mountains, let your voice be sounding among the hills..."
+description: >
+  Read Micah 6 Online | Give ear now to the words of the Lord: Up! put forward your cause before the mountains, let your voice be sounding among the hills...
 weight: 6
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Matthew 20 BBE | Read the Bible Online"
 linkTitle: "20"
-description: "Read Matthew 20 Online | For the kingdom of heaven is like the master of a house, who went out early in the morning to get workers into his vine-garden..."
+description: >
+  Read Matthew 20 Online | For the kingdom of heaven is like the master of a house, who went out early in the morning to get workers into his vine-garden...
 weight: 20
 ---
 

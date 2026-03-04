@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read 2 Corinthians 4 Online | For this reason, because we have been made servants of this new order, through the mercy given to us, we are strong..."
+description: >
+  Read 2 Corinthians 4 Online | For this reason, because we have been made servants of this new order, through the mercy given to us, we are strong...
 weight: 4
 ---
 

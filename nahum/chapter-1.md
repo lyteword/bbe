@@ -1,7 +1,8 @@
 ---
 title: "Nahum 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read Nahum 1 Online | The word about Nineveh. The book of the vision of Nahum the Elkoshite..."
+description: >
+  Read Nahum 1 Online | The word about Nineveh. The book of the vision of Nahum the Elkoshite...
 weight: 1
 ---
 

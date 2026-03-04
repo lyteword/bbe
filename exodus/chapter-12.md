@@ -1,7 +1,8 @@
 ---
 title: "Exodus 12 BBE | Read the Bible Online"
 linkTitle: "12"
-description: "Read Exodus 12 Online | And the Lord said to Moses and Aaron in the land of Egypt..."
+description: >
+  Read Exodus 12 Online | And the Lord said to Moses and Aaron in the land of Egypt...
 weight: 12
 ---
 

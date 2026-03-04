@@ -1,7 +1,8 @@
 ---
 title: "Daniel 8 BBE | Read the Bible Online"
 linkTitle: "8"
-description: "Read Daniel 8 Online | In the third year of the rule of Belshazzar the king, a vision was seen by me, Daniel, after the one I saw at first..."
+description: >
+  Read Daniel 8 Online | In the third year of the rule of Belshazzar the king, a vision was seen by me, Daniel, after the one I saw at first...
 weight: 8
 ---
 

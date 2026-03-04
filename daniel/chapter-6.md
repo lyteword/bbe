@@ -1,7 +1,8 @@
 ---
 title: "Daniel 6 BBE | Read the Bible Online"
 linkTitle: "6"
-description: "Read Daniel 6 Online | Darius was pleased to put over the kingdom a hundred and twenty captains, who were to be all through the kingdom..."
+description: >
+  Read Daniel 6 Online | Darius was pleased to put over the kingdom a hundred and twenty captains, who were to be all through the kingdom...
 weight: 6
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 9 BBE | Read the Bible Online"
 linkTitle: "9"
-description: "Read Hebrews 9 Online | Now the first agreement had its rules of worship, and a holy order..."
+description: >
+  Read Hebrews 9 Online | Now the first agreement had its rules of worship, and a holy order...
 weight: 9
 ---
 

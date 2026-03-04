@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 11 BBE | Read the Bible Online"
 linkTitle: "11"
-description: "Read Proverbs 11 Online | Scales of deceit are hated by the Lord, but a true weight is his delight..."
+description: >
+  Read Proverbs 11 Online | Scales of deceit are hated by the Lord, but a true weight is his delight...
 weight: 11
 ---
 

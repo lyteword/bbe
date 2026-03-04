@@ -1,7 +1,8 @@
 ---
 title: "Genesis 46 BBE | Read the Bible Online"
 linkTitle: "46"
-description: "Read Genesis 46 Online | And Israel went on his journey with all he had, and came to Beer-sheba, where he made offerings to the God of his father Isaac..."
+description: >
+  Read Genesis 46 Online | And Israel went on his journey with all he had, and came to Beer-sheba, where he made offerings to the God of his father Isaac...
 weight: 46
 ---
 

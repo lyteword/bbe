@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 28 BBE | Read the Bible Online"
 linkTitle: "28"
-description: "Read Proverbs 28 Online | The evil man goes running away when no man is after him, but the upright are without fear, like the lion..."
+description: >
+  Read Proverbs 28 Online | The evil man goes running away when no man is after him, but the upright are without fear, like the lion...
 weight: 28
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Matthew 14 BBE | Read the Bible Online"
 linkTitle: "14"
-description: "Read Matthew 14 Online | At that time news of Jesus came to Herod the king..."
+description: >
+  Read Matthew 14 Online | At that time news of Jesus came to Herod the king...
 weight: 14
 ---
 

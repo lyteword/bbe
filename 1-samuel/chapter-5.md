@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read 1 Samuel 5 Online | Now the Philistines, having taken the ark of God, took it with them from Eben-ezer to Ashdod..."
+description: >
+  Read 1 Samuel 5 Online | Now the Philistines, having taken the ark of God, took it with them from Eben-ezer to Ashdod...
 weight: 5
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Haggai 2 BBE | Read the Bible Online"
 linkTitle: "2"
-description: "Read Haggai 2 Online | In the seventh month, on the twenty-first day of the month, the word of the Lord came by Haggai the prophet, saying..."
+description: >
+  Read Haggai 2 Online | In the seventh month, on the twenty-first day of the month, the word of the Lord came by Haggai the prophet, saying...
 weight: 2
 ---
 

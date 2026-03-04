@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 22 BBE | Read the Bible Online"
 linkTitle: "22"
-description: "Read Isaiah 22 Online | The word about the valley of vision. Why have all your people gone up to the house-tops..."
+description: >
+  Read Isaiah 22 Online | The word about the valley of vision. Why have all your people gone up to the house-tops...
 weight: 22
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Exodus 24 BBE | Read the Bible Online"
 linkTitle: "24"
-description: "Read Exodus 24 Online | And he said to Moses, Come up to the Lord, you and Aaron, and Nadab and Abihu and seventy of the chiefs of Israel; and give me worship from a distance..."
+description: >
+  Read Exodus 24 Online | And he said to Moses, Come up to the Lord, you and Aaron, and Nadab and Abihu and seventy of the chiefs of Israel; and give me worship from a distance...
 weight: 24
 ---
 

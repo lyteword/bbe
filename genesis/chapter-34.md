@@ -1,7 +1,8 @@
 ---
 title: "Genesis 34 BBE | Read the Bible Online"
 linkTitle: "34"
-description: "Read Genesis 34 Online | Now Dinah, the daughter whom Leah had by Jacob, went out to see the women of that country..."
+description: >
+  Read Genesis 34 Online | Now Dinah, the daughter whom Leah had by Jacob, went out to see the women of that country...
 weight: 34
 ---
 

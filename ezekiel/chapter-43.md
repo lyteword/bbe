@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 43 BBE | Read the Bible Online"
 linkTitle: "43"
-description: "Read Ezekiel 43 Online | And he took me to the doorway looking to the east..."
+description: >
+  Read Ezekiel 43 Online | And he took me to the doorway looking to the east...
 weight: 43
 ---
 

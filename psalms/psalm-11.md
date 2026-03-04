@@ -1,7 +1,8 @@
 ---
 title: "Psalm 11 BBE | Read the Bible Online"
 linkTitle: "11"
-description: "Read Psalm 11 Online | In the Lord put I my faith; how will you say to my soul, Go in flight like a bird to the mountain..."
+description: >
+  Read Psalm 11 Online | In the Lord put I my faith; how will you say to my soul, Go in flight like a bird to the mountain...
 weight: 11
 ---
 

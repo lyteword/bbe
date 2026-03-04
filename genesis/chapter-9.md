@@ -1,7 +1,8 @@
 ---
 title: "Genesis 9 BBE | Read the Bible Online"
 linkTitle: "9"
-description: "Read Genesis 9 Online | And God gave his blessing to Noah and his sons, and said, Be fertile, and have increase, and make the earth full..."
+description: >
+  Read Genesis 9 Online | And God gave his blessing to Noah and his sons, and said, Be fertile, and have increase, and make the earth full...
 weight: 9
 ---
 

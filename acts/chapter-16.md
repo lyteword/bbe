@@ -1,7 +1,8 @@
 ---
 title: "Acts 16 BBE | Read the Bible Online"
 linkTitle: "16"
-description: "Read Acts 16 Online | And he came to Derbe and Lystra: and there was a certain disciple there named Timothy, whose mother was one of the Jews of the faith, but his father was a Greek..."
+description: >
+  Read Acts 16 Online | And he came to Derbe and Lystra: and there was a certain disciple there named Timothy, whose mother was one of the Jews of the faith, but his father was a Greek...
 weight: 16
 ---
 

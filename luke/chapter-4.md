@@ -1,7 +1,8 @@
 ---
 title: "Luke 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read Luke 4 Online | And Jesus, full of the Holy Spirit, came back from the Jordan, and was guided by the Spirit in the waste land..."
+description: >
+  Read Luke 4 Online | And Jesus, full of the Holy Spirit, came back from the Jordan, and was guided by the Spirit in the waste land...
 weight: 4
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 37 BBE | Read the Bible Online"
 linkTitle: "37"
-description: "Read Isaiah 37 Online | And on hearing it Hezekiah took off his robe and put on haircloth and went into the house of the Lord..."
+description: >
+  Read Isaiah 37 Online | And on hearing it Hezekiah took off his robe and put on haircloth and went into the house of the Lord...
 weight: 37
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Song Of Solomon 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read Song Of Solomon 1 Online | The song of Songs, which is Solomon's..."
+description: >
+  Read Song Of Solomon 1 Online | The song of Songs, which is Solomon's...
 weight: 1
 ---
 

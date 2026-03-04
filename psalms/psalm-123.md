@@ -1,7 +1,8 @@
 ---
 title: "Psalm 123 BBE | Read the Bible Online"
 linkTitle: "123"
-description: "Read Psalm 123 Online | To you my eyes are lifted up, even to you whose seat is in the heavens..."
+description: >
+  Read Psalm 123 Online | To you my eyes are lifted up, even to you whose seat is in the heavens...
 weight: 123
 ---
 

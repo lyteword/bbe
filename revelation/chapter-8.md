@@ -1,7 +1,8 @@
 ---
 title: "Revelation 8 BBE | Read the Bible Online"
 linkTitle: "8"
-description: "Read Revelation 8 Online | And when the seventh stamp was undone there was quiet in heaven for about half an hour..."
+description: >
+  Read Revelation 8 Online | And when the seventh stamp was undone there was quiet in heaven for about half an hour...
 weight: 8
 ---
 

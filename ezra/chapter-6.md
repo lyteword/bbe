@@ -1,7 +1,8 @@
 ---
 title: "Ezra 6 BBE | Read the Bible Online"
 linkTitle: "6"
-description: "Read Ezra 6 Online | Then Darius the king gave an order and a search was made in the house of the records, where the things of value were stored up in Babylon..."
+description: >
+  Read Ezra 6 Online | Then Darius the king gave an order and a search was made in the house of the records, where the things of value were stored up in Babylon...
 weight: 6
 ---
 

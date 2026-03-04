@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 28 BBE | Read the Bible Online"
 linkTitle: "28"
-description: "Read 2 Chronicles 28 Online | Ahaz was twenty years old when he became king, and he was ruling in Jerusalem for sixteen years; he did not do what was right in the eyes of the Lord, like David his father..."
+description: >
+  Read 2 Chronicles 28 Online | Ahaz was twenty years old when he became king, and he was ruling in Jerusalem for sixteen years; he did not do what was right in the eyes of the Lord, like David his father...
 weight: 28
 ---
 

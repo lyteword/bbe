@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read Leviticus 5 Online | And if anyone does wrong by saying nothing when he is put under oath as a witness of something he has seen or had knowledge of, then he will be responsible..."
+description: >
+  Read Leviticus 5 Online | And if anyone does wrong by saying nothing when he is put under oath as a witness of something he has seen or had knowledge of, then he will be responsible...
 weight: 5
 ---
 

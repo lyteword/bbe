@@ -1,7 +1,8 @@
 ---
 title: "Revelation 21 BBE | Read the Bible Online"
 linkTitle: "21"
-description: "Read Revelation 21 Online | And I saw a new heaven and a new earth: for the first heaven and the first earth were gone; and there was no more sea..."
+description: >
+  Read Revelation 21 Online | And I saw a new heaven and a new earth: for the first heaven and the first earth were gone; and there was no more sea...
 weight: 21
 ---
 

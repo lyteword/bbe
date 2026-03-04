@@ -1,7 +1,8 @@
 ---
 title: "Mark 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read Mark 1 Online | The first words of the good news of Jesus Christ, the Son of God..."
+description: >
+  Read Mark 1 Online | The first words of the good news of Jesus Christ, the Son of God...
 weight: 1
 ---
 

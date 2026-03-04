@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 47 BBE | Read the Bible Online"
 linkTitle: "47"
-description: "Read Jeremiah 47 Online | The word of the Lord which came to Jeremiah the prophet about the Philistines, before Pharaoh's attack on Gaza..."
+description: >
+  Read Jeremiah 47 Online | The word of the Lord which came to Jeremiah the prophet about the Philistines, before Pharaoh's attack on Gaza...
 weight: 47
 ---
 

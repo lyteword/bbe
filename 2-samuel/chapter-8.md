@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 8 BBE | Read the Bible Online"
 linkTitle: "8"
-description: "Read 2 Samuel 8 Online | And it came about after this that David made an attack on the Philistines and overcame them; and David took the authority of the mother-town from the hands of the Philistines..."
+description: >
+  Read 2 Samuel 8 Online | And it came about after this that David made an attack on the Philistines and overcame them; and David took the authority of the mother-town from the hands of the Philistines...
 weight: 8
 ---
 

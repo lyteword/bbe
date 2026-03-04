@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 11 BBE | Read the Bible Online"
 linkTitle: "11"
-description: "Read Nehemiah 11 Online | And the rulers of the people were living in Jerusalem: the rest of the people made selection, by the decision of chance, of one out of every ten to be living in Jerusalem, the holy town; the other nine to go to the other towns..."
+description: >
+  Read Nehemiah 11 Online | And the rulers of the people were living in Jerusalem: the rest of the people made selection, by the decision of chance, of one out of every ten to be living in Jerusalem, the holy town; the other nine to go to the other towns...
 weight: 11
 ---
 

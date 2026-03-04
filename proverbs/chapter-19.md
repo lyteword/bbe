@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 19 BBE | Read the Bible Online"
 linkTitle: "19"
-description: "Read Proverbs 19 Online | Better is the poor man whose ways are upright, than the man of wealth whose ways are twisted..."
+description: >
+  Read Proverbs 19 Online | Better is the poor man whose ways are upright, than the man of wealth whose ways are twisted...
 weight: 19
 ---
 

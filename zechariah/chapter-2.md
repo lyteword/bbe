@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 2 BBE | Read the Bible Online"
 linkTitle: "2"
-description: "Read Zechariah 2 Online | And lifting up my eyes, I saw a man with a measuring-line in his hand..."
+description: >
+  Read Zechariah 2 Online | And lifting up my eyes, I saw a man with a measuring-line in his hand...
 weight: 2
 ---
 

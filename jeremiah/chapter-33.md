@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 33 BBE | Read the Bible Online"
 linkTitle: "33"
-description: "Read Jeremiah 33 Online | Then the word of the Lord came to Jeremiah the second time, while he was still shut up in the place of the armed watchmen, saying..."
+description: >
+  Read Jeremiah 33 Online | Then the word of the Lord came to Jeremiah the second time, while he was still shut up in the place of the armed watchmen, saying...
 weight: 33
 ---
 

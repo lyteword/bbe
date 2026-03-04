@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 10 BBE | Read the Bible Online"
 linkTitle: "10"
-description: "Read 2 Corinthians 10 Online | Now I, Paul, myself make request to you by the quiet and gentle behaviour of Christ, I who am poor in spirit when with you, but who say what is in my mind to you without fear when I am away from you..."
+description: >
+  Read 2 Corinthians 10 Online | Now I, Paul, myself make request to you by the quiet and gentle behaviour of Christ, I who am poor in spirit when with you, but who say what is in my mind to you without fear when I am away from you...
 weight: 10
 ---
 

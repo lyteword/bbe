@@ -1,7 +1,8 @@
 ---
 title: "Mark 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read Mark 4 Online | And again he was teaching by the seaside. And a very great number of people had come to him, so that he got into a boat on the sea and took his seat; and all the people were on the land by the seaside..."
+description: >
+  Read Mark 4 Online | And again he was teaching by the seaside. And a very great number of people had come to him, so that he got into a boat on the sea and took his seat; and all the people were on the land by the seaside...
 weight: 4
 ---
 

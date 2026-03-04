@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 21 BBE | Read the Bible Online"
 linkTitle: "21"
-description: "Read 1 Kings 21 Online | Now Naboth the Jezreelite had a vine-garden in Jezreel, near the house of Ahab, king of Samaria..."
+description: >
+  Read 1 Kings 21 Online | Now Naboth the Jezreelite had a vine-garden in Jezreel, near the house of Ahab, king of Samaria...
 weight: 21
 ---
 

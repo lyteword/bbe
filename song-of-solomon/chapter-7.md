@@ -1,7 +1,8 @@
 ---
 title: "Song Of Solomon 7 BBE | Read the Bible Online"
 linkTitle: "7"
-description: "Read Song Of Solomon 7 Online | How beautiful are your feet in their shoes, O king's daughter! The curves of your legs are like jewels, the work of the hands of a good workman..."
+description: >
+  Read Song Of Solomon 7 Online | How beautiful are your feet in their shoes, O king's daughter! The curves of your legs are like jewels, the work of the hands of a good workman...
 weight: 7
 ---
 

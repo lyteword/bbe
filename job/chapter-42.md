@@ -1,7 +1,8 @@
 ---
 title: "Job 42 BBE | Read the Bible Online"
 linkTitle: "42"
-description: "Read Job 42 Online | And Job said in answer to the Lord..."
+description: >
+  Read Job 42 Online | And Job said in answer to the Lord...
 weight: 42
 ---
 

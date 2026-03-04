@@ -1,7 +1,8 @@
 ---
 title: "John 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read John 4 Online | Now when it was clear to the Lord that word had come to the ears of the Pharisees that Jesus was making more disciples than John and was giving them baptism..."
+description: >
+  Read John 4 Online | Now when it was clear to the Lord that word had come to the ears of the Pharisees that Jesus was making more disciples than John and was giving them baptism...
 weight: 4
 ---
 

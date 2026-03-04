@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 8 BBE | Read the Bible Online"
 linkTitle: "8"
-description: "Read 1 Corinthians 8 Online | Now about things offered to images: we all seem to ourselves to have knowledge. Knowledge gives pride, but love gives true strength..."
+description: >
+  Read 1 Corinthians 8 Online | Now about things offered to images: we all seem to ourselves to have knowledge. Knowledge gives pride, but love gives true strength...
 weight: 8
 ---
 

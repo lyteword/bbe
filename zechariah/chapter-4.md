@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read Zechariah 4 Online | And the angel who was talking to me came again, awaking me as a man out of his sleep..."
+description: >
+  Read Zechariah 4 Online | And the angel who was talking to me came again, awaking me as a man out of his sleep...
 weight: 4
 ---
 

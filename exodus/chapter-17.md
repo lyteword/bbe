@@ -1,7 +1,8 @@
 ---
 title: "Exodus 17 BBE | Read the Bible Online"
 linkTitle: "17"
-description: "Read Exodus 17 Online | And the children of Israel went on from the waste land of Sin, by stages as the Lord gave them orders, and put up their tents in Rephidim: and there was no drinking-water for the people..."
+description: >
+  Read Exodus 17 Online | And the children of Israel went on from the waste land of Sin, by stages as the Lord gave them orders, and put up their tents in Rephidim: and there was no drinking-water for the people...
 weight: 17
 ---
 

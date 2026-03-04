@@ -1,7 +1,8 @@
 ---
 title: "Job 17 BBE | Read the Bible Online"
 linkTitle: "17"
-description: "Read Job 17 Online | My spirit is broken, my days are ended, the last resting-place is ready for me..."
+description: >
+  Read Job 17 Online | My spirit is broken, my days are ended, the last resting-place is ready for me...
 weight: 17
 ---
 

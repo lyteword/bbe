@@ -1,7 +1,8 @@
 ---
 title: "John 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read John 3 Online | Now there was among the Pharisees a man named Nicodemus, who was one of the rulers of the Jews..."
+description: >
+  Read John 3 Online | Now there was among the Pharisees a man named Nicodemus, who was one of the rulers of the Jews...
 weight: 3
 ---
 

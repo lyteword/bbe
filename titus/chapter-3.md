@@ -1,7 +1,8 @@
 ---
 title: "Titus 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read Titus 3 Online | Make clear to them that they are to put themselves under rulers and authorities, to do what they are ordered, to be ready for every good work..."
+description: >
+  Read Titus 3 Online | Make clear to them that they are to put themselves under rulers and authorities, to do what they are ordered, to be ready for every good work...
 weight: 3
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Genesis 35 BBE | Read the Bible Online"
 linkTitle: "35"
-description: "Read Genesis 35 Online | And God said to Jacob, Go up now to Beth-el and make your living-place there: and put up an altar there to the God who came to you when you were in flight from your brother Esau..."
+description: >
+  Read Genesis 35 Online | And God said to Jacob, Go up now to Beth-el and make your living-place there: and put up an altar there to the God who came to you when you were in flight from your brother Esau...
 weight: 35
 ---
 

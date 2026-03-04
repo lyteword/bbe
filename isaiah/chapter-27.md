@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 27 BBE | Read the Bible Online"
 linkTitle: "27"
-description: "Read Isaiah 27 Online | In that day the Lord, with his great and strong and cruel sword, will send punishment on Leviathan, the quick-moving snake, and on Leviathan, the twisted snake; and he will put to death the dragon which is in the sea..."
+description: >
+  Read Isaiah 27 Online | In that day the Lord, with his great and strong and cruel sword, will send punishment on Leviathan, the quick-moving snake, and on Leviathan, the twisted snake; and he will put to death the dragon which is in the sea...
 weight: 27
 ---
 

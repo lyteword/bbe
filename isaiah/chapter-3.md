@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read Isaiah 3 Online | For the Lord, the Lord of armies, is about to take away from Jerusalem and from Judah all their support; their store of bread and of water..."
+description: >
+  Read Isaiah 3 Online | For the Lord, the Lord of armies, is about to take away from Jerusalem and from Judah all their support; their store of bread and of water...
 weight: 3
 ---
 

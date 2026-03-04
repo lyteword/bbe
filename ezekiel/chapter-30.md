@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 30 BBE | Read the Bible Online"
 linkTitle: "30"
-description: "Read Ezekiel 30 Online | The word of the Lord came to me again, saying..."
+description: >
+  Read Ezekiel 30 Online | The word of the Lord came to me again, saying...
 weight: 30
 ---
 

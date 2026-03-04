@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 51 BBE | Read the Bible Online"
 linkTitle: "51"
-description: "Read Isaiah 51 Online | Give ear to me, you who are searching for righteousness, who are looking for the Lord: see the rock from which you were cut out, and the hole out of which you were taken..."
+description: >
+  Read Isaiah 51 Online | Give ear to me, you who are searching for righteousness, who are looking for the Lord: see the rock from which you were cut out, and the hole out of which you were taken...
 weight: 51
 ---
 

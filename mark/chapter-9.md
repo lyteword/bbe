@@ -1,7 +1,8 @@
 ---
 title: "Mark 9 BBE | Read the Bible Online"
 linkTitle: "9"
-description: "Read Mark 9 Online | And he said to them, Truly I say to you, There are some here who will have no taste of death till they see the kingdom of God come with power..."
+description: >
+  Read Mark 9 Online | And he said to them, Truly I say to you, There are some here who will have no taste of death till they see the kingdom of God come with power...
 weight: 9
 ---
 

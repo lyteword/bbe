@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 19 BBE | Read the Bible Online"
 linkTitle: "19"
-description: "Read 1 Kings 19 Online | Ahab gave Jezebel news of all Elijah had done, and how he had put all the prophets to death with the sword..."
+description: >
+  Read 1 Kings 19 Online | Ahab gave Jezebel news of all Elijah had done, and how he had put all the prophets to death with the sword...
 weight: 19
 ---
 

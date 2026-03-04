@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read 2 Samuel 1 Online | Now after the death of Saul, when David, having come back from the destruction of the Amalekites, had been in Ziklag for two days..."
+description: >
+  Read 2 Samuel 1 Online | Now after the death of Saul, when David, having come back from the destruction of the Amalekites, had been in Ziklag for two days...
 weight: 1
 ---
 

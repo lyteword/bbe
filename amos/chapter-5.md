@@ -1,7 +1,8 @@
 ---
 title: "Amos 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read Amos 5 Online | Give ear to this word, my song of sorrow over you, O children of Israel..."
+description: >
+  Read Amos 5 Online | Give ear to this word, my song of sorrow over you, O children of Israel...
 weight: 5
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Matthew 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read Matthew 3 Online | And in those days John the Baptist came preaching in the waste land of Judaea..."
+description: >
+  Read Matthew 3 Online | And in those days John the Baptist came preaching in the waste land of Judaea...
 weight: 3
 ---
 

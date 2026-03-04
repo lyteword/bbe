@@ -1,7 +1,8 @@
 ---
 title: "Psalm 114 BBE | Read the Bible Online"
 linkTitle: "114"
-description: "Read Psalm 114 Online | When Israel came out of Egypt, the children of Jacob from a people whose language was strange to them..."
+description: >
+  Read Psalm 114 Online | When Israel came out of Egypt, the children of Jacob from a people whose language was strange to them...
 weight: 114
 ---
 

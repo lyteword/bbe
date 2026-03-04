@@ -1,7 +1,8 @@
 ---
 title: "Ezra 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read Ezra 3 Online | And when the seventh month came, and the children of Israel were in the towns, the people came together like one man to Jerusalem..."
+description: >
+  Read Ezra 3 Online | And when the seventh month came, and the children of Israel were in the towns, the people came together like one man to Jerusalem...
 weight: 3
 ---
 

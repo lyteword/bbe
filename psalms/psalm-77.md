@@ -1,7 +1,8 @@
 ---
 title: "Psalm 77 BBE | Read the Bible Online"
 linkTitle: "77"
-description: "Read Psalm 77 Online | I was crying to God with my voice; even to God with my voice, and he gave ear to me..."
+description: >
+  Read Psalm 77 Online | I was crying to God with my voice; even to God with my voice, and he gave ear to me...
 weight: 77
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Numbers 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read Numbers 1 Online | And the Lord said to Moses in the waste land of Sinai, in the Tent of meeting, on the first day of the second month, in the second year after they came out of the land of Egypt..."
+description: >
+  Read Numbers 1 Online | And the Lord said to Moses in the waste land of Sinai, in the Tent of meeting, on the first day of the second month, in the second year after they came out of the land of Egypt...
 weight: 1
 ---
 

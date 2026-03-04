@@ -1,7 +1,8 @@
 ---
 title: "Numbers 14 BBE | Read the Bible Online"
 linkTitle: "14"
-description: "Read Numbers 14 Online | Then all the people gave load cries of grief, and all that night they gave themselves up to weeping..."
+description: >
+  Read Numbers 14 Online | Then all the people gave load cries of grief, and all that night they gave themselves up to weeping...
 weight: 14
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Revelation 6 BBE | Read the Bible Online"
 linkTitle: "6"
-description: "Read Revelation 6 Online | And I saw when the Lamb undid one of the stamps, and the voice of one of the four beasts came to my ears, saying as with a voice of thunder, Come and see..."
+description: >
+  Read Revelation 6 Online | And I saw when the Lamb undid one of the stamps, and the voice of one of the four beasts came to my ears, saying as with a voice of thunder, Come and see...
 weight: 6
 ---
 

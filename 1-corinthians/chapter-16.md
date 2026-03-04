@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 16 BBE | Read the Bible Online"
 linkTitle: "16"
-description: "Read 1 Corinthians 16 Online | Now about the giving of money for the saints, as I gave orders to the churches of Galatia, so do you..."
+description: >
+  Read 1 Corinthians 16 Online | Now about the giving of money for the saints, as I gave orders to the churches of Galatia, so do you...
 weight: 16
 ---
 

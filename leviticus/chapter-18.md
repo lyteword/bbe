@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 18 BBE | Read the Bible Online"
 linkTitle: "18"
-description: "Read Leviticus 18 Online | And the Lord said to Moses..."
+description: >
+  Read Leviticus 18 Online | And the Lord said to Moses...
 weight: 18
 ---
 

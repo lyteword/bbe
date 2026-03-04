@@ -1,7 +1,8 @@
 ---
 title: "Psalm 51 BBE | Read the Bible Online"
 linkTitle: "51"
-description: "Read Psalm 51 Online | Have pity on me, O God, in your mercy; out of a full heart, take away my sin..."
+description: >
+  Read Psalm 51 Online | Have pity on me, O God, in your mercy; out of a full heart, take away my sin...
 weight: 51
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 52 BBE | Read the Bible Online"
 linkTitle: "52"
-description: "Read Isaiah 52 Online | Awake! awake! put on your strength, O Zion; put on your beautiful robes, O Jerusalem, the holy town: for from now there will never again come into you the unclean and those without circumcision..."
+description: >
+  Read Isaiah 52 Online | Awake! awake! put on your strength, O Zion; put on your beautiful robes, O Jerusalem, the holy town: for from now there will never again come into you the unclean and those without circumcision...
 weight: 52
 ---
 

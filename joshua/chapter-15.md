@@ -1,7 +1,8 @@
 ---
 title: "Joshua 15 BBE | Read the Bible Online"
 linkTitle: "15"
-description: "Read Joshua 15 Online | Now the part of the land marked out for the children of Judah by families, went up to the edge of Edom, as far as the waste land of Zin to the south, to the farthest point of it on the south..."
+description: >
+  Read Joshua 15 Online | Now the part of the land marked out for the children of Judah by families, went up to the edge of Edom, as far as the waste land of Zin to the south, to the farthest point of it on the south...
 weight: 15
 ---
 

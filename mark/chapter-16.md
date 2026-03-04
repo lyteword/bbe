@@ -1,7 +1,8 @@
 ---
 title: "Mark 16 BBE | Read the Bible Online"
 linkTitle: "16"
-description: "Read Mark 16 Online | And when the Sabbath was past, Mary Magdalene and Mary, the mother of James, and Salome, got spices, so that they might come and put them on him..."
+description: >
+  Read Mark 16 Online | And when the Sabbath was past, Mary Magdalene and Mary, the mother of James, and Salome, got spices, so that they might come and put them on him...
 weight: 16
 ---
 

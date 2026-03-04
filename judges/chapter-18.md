@@ -1,7 +1,8 @@
 ---
 title: "Judges 18 BBE | Read the Bible Online"
 linkTitle: "18"
-description: "Read Judges 18 Online | In those days there was no king in Israel, and in those days the Danites were looking for a heritage for themselves, to be their living-place; for up to that time no distribution of land had been made to them among the tribes of Israel..."
+description: >
+  Read Judges 18 Online | In those days there was no king in Israel, and in those days the Danites were looking for a heritage for themselves, to be their living-place; for up to that time no distribution of land had been made to them among the tribes of Israel...
 weight: 18
 ---
 

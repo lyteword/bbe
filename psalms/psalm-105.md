@@ -1,7 +1,8 @@
 ---
 title: "Psalm 105 BBE | Read the Bible Online"
 linkTitle: "105"
-description: "Read Psalm 105 Online | O give praise to the Lord; give honour to his name, talking of his doings among the peoples..."
+description: >
+  Read Psalm 105 Online | O give praise to the Lord; give honour to his name, talking of his doings among the peoples...
 weight: 105
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 80 BBE | Read the Bible Online"
 linkTitle: "80"
-description: "Read Psalm 80 Online | Give ear, O Keeper of Israel, guiding Joseph like a flock; you who have your seat on the winged ones, let your glory be seen..."
+description: >
+  Read Psalm 80 Online | Give ear, O Keeper of Israel, guiding Joseph like a flock; you who have your seat on the winged ones, let your glory be seen...
 weight: 80
 ---
 

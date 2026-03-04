@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 43 BBE | Read the Bible Online"
 linkTitle: "43"
-description: "Read Isaiah 43 Online | But now, says the Lord your Maker, O Jacob, and your life-giver, O Israel: have no fear, for I have taken up your cause; naming you by your name, I have made you mine..."
+description: >
+  Read Isaiah 43 Online | But now, says the Lord your Maker, O Jacob, and your life-giver, O Israel: have no fear, for I have taken up your cause; naming you by your name, I have made you mine...
 weight: 43
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 97 BBE | Read the Bible Online"
 linkTitle: "97"
-description: "Read Psalm 97 Online | The Lord is King, let the earth have joy; let all the sea-lands be glad..."
+description: >
+  Read Psalm 97 Online | The Lord is King, let the earth have joy; let all the sea-lands be glad...
 weight: 97
 ---
 

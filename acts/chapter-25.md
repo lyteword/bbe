@@ -1,7 +1,8 @@
 ---
 title: "Acts 25 BBE | Read the Bible Online"
 linkTitle: "25"
-description: "Read Acts 25 Online | So Festus, having come into that part of the country which was under his rule, after three days went up to Jerusalem from Caesarea..."
+description: >
+  Read Acts 25 Online | So Festus, having come into that part of the country which was under his rule, after three days went up to Jerusalem from Caesarea...
 weight: 25
 ---
 

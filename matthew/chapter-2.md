@@ -1,7 +1,8 @@
 ---
 title: "Matthew 2 BBE | Read the Bible Online"
 linkTitle: "2"
-description: "Read Matthew 2 Online | Now when the birth of Jesus took place in Beth-lehem of Judaea, in the days of Herod the king, there came wise men from the east to Jerusalem..."
+description: >
+  Read Matthew 2 Online | Now when the birth of Jesus took place in Beth-lehem of Judaea, in the days of Herod the king, there came wise men from the east to Jerusalem...
 weight: 2
 ---
 

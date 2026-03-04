@@ -1,7 +1,8 @@
 ---
 title: "Psalm 90 BBE | Read the Bible Online"
 linkTitle: "90"
-description: "Read Psalm 90 Online | Lord, you have been our resting-place in all generations..."
+description: >
+  Read Psalm 90 Online | Lord, you have been our resting-place in all generations...
 weight: 90
 ---
 

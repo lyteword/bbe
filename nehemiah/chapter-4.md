@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 4 BBE | Read the Bible Online"
 linkTitle: "4"
-description: "Read Nehemiah 4 Online | Now, Sanballat, hearing that we were building the wall, was very angry, and in his wrath made sport of the Jews..."
+description: >
+  Read Nehemiah 4 Online | Now, Sanballat, hearing that we were building the wall, was very angry, and in his wrath made sport of the Jews...
 weight: 4
 ---
 

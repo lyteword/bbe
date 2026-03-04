@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 32 BBE | Read the Bible Online"
 linkTitle: "32"
-description: "Read Deuteronomy 32 Online | Give ear, O heavens, to my voice; let the earth take note of the words of my mouth..."
+description: >
+  Read Deuteronomy 32 Online | Give ear, O heavens, to my voice; let the earth take note of the words of my mouth...
 weight: 32
 ---
 

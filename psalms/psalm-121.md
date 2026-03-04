@@ -1,7 +1,8 @@
 ---
 title: "Psalm 121 BBE | Read the Bible Online"
 linkTitle: "121"
-description: "Read Psalm 121 Online | My eyes are lifted up to the hills: O where will my help come from..."
+description: >
+  Read Psalm 121 Online | My eyes are lifted up to the hills: O where will my help come from...
 weight: 121
 ---
 

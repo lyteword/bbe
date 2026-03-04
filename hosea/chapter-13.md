@@ -1,7 +1,8 @@
 ---
 title: "Hosea 13 BBE | Read the Bible Online"
 linkTitle: "13"
-description: "Read Hosea 13 Online | When the words of my law came from Ephraim, he was lifted up in Israel; but when he did evil through the Baal, death overtook him..."
+description: >
+  Read Hosea 13 Online | When the words of my law came from Ephraim, he was lifted up in Israel; but when he did evil through the Baal, death overtook him...
 weight: 13
 ---
 

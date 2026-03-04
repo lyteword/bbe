@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 25 BBE | Read the Bible Online"
 linkTitle: "25"
-description: "Read 1 Chronicles 25 Online | Further, David and the chiefs of the servants of the holy place made selection of certain of the sons of Asaph and of Heman and of Jeduthun for the work of prophets, to make melody with corded instruments and brass; and the number of the men for the work they had to do was..."
+description: >
+  Read 1 Chronicles 25 Online | Further, David and the chiefs of the servants of the holy place made selection of certain of the sons of Asaph and of Heman and of Jeduthun for the work of prophets, to make melody with corded instruments and brass; and the number of the men for the work they had to do was...
 weight: 25
 ---
 

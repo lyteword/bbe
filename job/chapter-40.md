@@ -1,7 +1,8 @@
 ---
 title: "Job 40 BBE | Read the Bible Online"
 linkTitle: "40"
-description: "Read Job 40 Online | ....."
+description: >
+  Read Job 40 Online | .....
 weight: 40
 ---
 

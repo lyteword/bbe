@@ -1,7 +1,8 @@
 ---
 title: "Matthew 21 BBE | Read the Bible Online"
 linkTitle: "21"
-description: "Read Matthew 21 Online | And when they were near Jerusalem, and had come to Beth-phage, to the Mountain of Olives, Jesus sent two disciples..."
+description: >
+  Read Matthew 21 Online | And when they were near Jerusalem, and had come to Beth-phage, to the Mountain of Olives, Jesus sent two disciples...
 weight: 21
 ---
 

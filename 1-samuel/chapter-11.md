@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 11 BBE | Read the Bible Online"
 linkTitle: "11"
-description: "Read 1 Samuel 11 Online | Then about a month after this, Nahash the Ammonite came up and put his forces in position for attacking Jabesh-gilead: and all the men of Jabesh said to Nahash, Make an agreement with us and we will be your servants..."
+description: >
+  Read 1 Samuel 11 Online | Then about a month after this, Nahash the Ammonite came up and put his forces in position for attacking Jabesh-gilead: and all the men of Jabesh said to Nahash, Make an agreement with us and we will be your servants...
 weight: 11
 ---
 

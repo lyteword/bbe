@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 23 BBE | Read the Bible Online"
 linkTitle: "23"
-description: "Read Jeremiah 23 Online | A curse is on the keepers who are causing the destruction and loss of the sheep of my field, says the Lord..."
+description: >
+  Read Jeremiah 23 Online | A curse is on the keepers who are causing the destruction and loss of the sheep of my field, says the Lord...
 weight: 23
 ---
 

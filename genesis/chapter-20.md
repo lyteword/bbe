@@ -1,7 +1,8 @@
 ---
 title: "Genesis 20 BBE | Read the Bible Online"
 linkTitle: "20"
-description: "Read Genesis 20 Online | And Abraham went on his way from there to the land of the South, and was living between Kadesh and Shur, in Gerar..."
+description: >
+  Read Genesis 20 Online | And Abraham went on his way from there to the land of the South, and was living between Kadesh and Shur, in Gerar...
 weight: 20
 ---
 

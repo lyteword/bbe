@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 22 BBE | Read the Bible Online"
 linkTitle: "22"
-description: "Read Ezekiel 22 Online | And the word of the Lord came to me, saying..."
+description: >
+  Read Ezekiel 22 Online | And the word of the Lord came to me, saying...
 weight: 22
 ---
 

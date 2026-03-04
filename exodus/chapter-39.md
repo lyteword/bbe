@@ -1,7 +1,8 @@
 ---
 title: "Exodus 39 BBE | Read the Bible Online"
 linkTitle: "39"
-description: "Read Exodus 39 Online | And from the needlework of blue and purple and red they made the robes used for the work of the holy place, and the holy robes for Aaron, as the Lord had given orders to Moses..."
+description: >
+  Read Exodus 39 Online | And from the needlework of blue and purple and red they made the robes used for the work of the holy place, and the holy robes for Aaron, as the Lord had given orders to Moses...
 weight: 39
 ---
 

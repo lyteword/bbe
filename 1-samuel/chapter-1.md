@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read 1 Samuel 1 Online | Now there was a certain man of Ramathaim, a Zuphite of the hill-country of Ephraim, named Elkanah; he was the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite..."
+description: >
+  Read 1 Samuel 1 Online | Now there was a certain man of Ramathaim, a Zuphite of the hill-country of Ephraim, named Elkanah; he was the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite...
 weight: 1
 ---
 

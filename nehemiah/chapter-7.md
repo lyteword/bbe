@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 7 BBE | Read the Bible Online"
 linkTitle: "7"
-description: "Read Nehemiah 7 Online | Now when the building of the wall was complete and I had put up the doors, and the door-keepers and the music-makers and the Levites had been given their places..."
+description: >
+  Read Nehemiah 7 Online | Now when the building of the wall was complete and I had put up the doors, and the door-keepers and the music-makers and the Levites had been given their places...
 weight: 7
 ---
 

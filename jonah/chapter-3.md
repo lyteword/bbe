@@ -1,7 +1,8 @@
 ---
 title: "Jonah 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read Jonah 3 Online | And the word of the Lord came to Jonah a second time, saying..."
+description: >
+  Read Jonah 3 Online | And the word of the Lord came to Jonah a second time, saying...
 weight: 3
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Song Of Solomon 6 BBE | Read the Bible Online"
 linkTitle: "6"
-description: "Read Song Of Solomon 6 Online | Where is your loved one gone, O most fair among women? Where is your loved one turned away, that we may go looking for him with you..."
+description: >
+  Read Song Of Solomon 6 Online | Where is your loved one gone, O most fair among women? Where is your loved one turned away, that we may go looking for him with you...
 weight: 6
 ---
 

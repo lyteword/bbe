@@ -1,7 +1,8 @@
 ---
 title: "Acts 5 BBE | Read the Bible Online"
 linkTitle: "5"
-description: "Read Acts 5 Online | But a certain man named Ananias, with Sapphira his wife, got money for his property..."
+description: >
+  Read Acts 5 Online | But a certain man named Ananias, with Sapphira his wife, got money for his property...
 weight: 5
 ---
 

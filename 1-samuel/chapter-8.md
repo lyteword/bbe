@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 8 BBE | Read the Bible Online"
 linkTitle: "8"
-description: "Read 1 Samuel 8 Online | Now when Samuel was old, he made his sons judges over Israel..."
+description: >
+  Read 1 Samuel 8 Online | Now when Samuel was old, he made his sons judges over Israel...
 weight: 8
 ---
 

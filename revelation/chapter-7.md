@@ -1,7 +1,8 @@
 ---
 title: "Revelation 7 BBE | Read the Bible Online"
 linkTitle: "7"
-description: "Read Revelation 7 Online | After this I saw four angels in their places at the four points of the earth, keeping back the four winds in their hands, so that there might be no moving of the wind on the earth, or on the sea, or on any tree..."
+description: >
+  Read Revelation 7 Online | After this I saw four angels in their places at the four points of the earth, keeping back the four winds in their hands, so that there might be no moving of the wind on the earth, or on the sea, or on any tree...
 weight: 7
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 18 BBE | Read the Bible Online"
 linkTitle: "18"
-description: "Read Deuteronomy 18 Online | The priests, the Levites, that is, all the tribe of Levi, will have no part or heritage with Israel: their food and their heritage will be the offerings of the Lord made by fire..."
+description: >
+  Read Deuteronomy 18 Online | The priests, the Levites, that is, all the tribe of Levi, will have no part or heritage with Israel: their food and their heritage will be the offerings of the Lord made by fire...
 weight: 18
 ---
 

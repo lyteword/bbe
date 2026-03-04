@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 12 BBE | Read the Bible Online"
 linkTitle: "12"
-description: "Read Jeremiah 12 Online | You are in the right, O Lord, when I put my cause before you: still let me take up with you the question of your decisions: why does the evil-doer do well? why are the workers of deceit living in comfort..."
+description: >
+  Read Jeremiah 12 Online | You are in the right, O Lord, when I put my cause before you: still let me take up with you the question of your decisions: why does the evil-doer do well? why are the workers of deceit living in comfort...
 weight: 12
 ---
 

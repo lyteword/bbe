@@ -1,7 +1,8 @@
 ---
 title: "Genesis 13 BBE | Read the Bible Online"
 linkTitle: "13"
-description: "Read Genesis 13 Online | And Abram went up out of Egypt with his wife and all he had, and Lot with him, and they came in to the South..."
+description: >
+  Read Genesis 13 Online | And Abram went up out of Egypt with his wife and all he had, and Lot with him, and they came in to the South...
 weight: 13
 ---
 

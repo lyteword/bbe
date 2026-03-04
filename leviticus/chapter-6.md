@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 6 BBE | Read the Bible Online"
 linkTitle: "6"
-description: "Read Leviticus 6 Online | And the Lord said to Moses..."
+description: >
+  Read Leviticus 6 Online | And the Lord said to Moses...
 weight: 6
 ---
 

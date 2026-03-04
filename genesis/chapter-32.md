@@ -1,7 +1,8 @@
 ---
 title: "Genesis 32 BBE | Read the Bible Online"
 linkTitle: "32"
-description: "Read Genesis 32 Online | And on his way Jacob came face to face with the angels of God..."
+description: >
+  Read Genesis 32 Online | And on his way Jacob came face to face with the angels of God...
 weight: 32
 ---
 

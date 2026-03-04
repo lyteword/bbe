@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 31 BBE | Read the Bible Online"
 linkTitle: "31"
-description: "Read Proverbs 31 Online | The words of Lemuel, king of Massa: the teaching which he had from his mother..."
+description: >
+  Read Proverbs 31 Online | The words of Lemuel, king of Massa: the teaching which he had from his mother...
 weight: 31
 ---
 

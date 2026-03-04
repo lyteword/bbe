@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 15 BBE | Read the Bible Online"
 linkTitle: "15"
-description: "Read 2 Chronicles 15 Online | And the spirit of God came on Azariah, the son of Oded..."
+description: >
+  Read 2 Chronicles 15 Online | And the spirit of God came on Azariah, the son of Oded...
 weight: 15
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 55 BBE | Read the Bible Online"
 linkTitle: "55"
-description: "Read Psalm 55 Online | Give hearing to my prayer, O God; and let not your ear be shut against my request..."
+description: >
+  Read Psalm 55 Online | Give hearing to my prayer, O God; and let not your ear be shut against my request...
 weight: 55
 ---
 

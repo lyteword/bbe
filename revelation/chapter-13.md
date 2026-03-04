@@ -1,7 +1,8 @@
 ---
 title: "Revelation 13 BBE | Read the Bible Online"
 linkTitle: "13"
-description: "Read Revelation 13 Online | And he took his place on the sand of the sea. And I saw a beast coming up out of the sea, having ten horns and seven heads, and on his horns ten crowns, and on his heads unholy names..."
+description: >
+  Read Revelation 13 Online | And he took his place on the sand of the sea. And I saw a beast coming up out of the sea, having ten horns and seven heads, and on his horns ten crowns, and on his heads unholy names...
 weight: 13
 ---
 

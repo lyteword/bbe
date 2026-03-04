@@ -1,7 +1,8 @@
 ---
 title: "Psalm 88 BBE | Read the Bible Online"
 linkTitle: "88"
-description: "Read Psalm 88 Online | O Lord, God of my salvation, I have been crying to you for help by day and by night..."
+description: >
+  Read Psalm 88 Online | O Lord, God of my salvation, I have been crying to you for help by day and by night...
 weight: 88
 ---
 

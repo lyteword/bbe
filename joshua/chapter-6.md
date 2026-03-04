@@ -1,7 +1,8 @@
 ---
 title: "Joshua 6 BBE | Read the Bible Online"
 linkTitle: "6"
-description: "Read Joshua 6 Online | (Now Jericho was all shut up because of the children of Israel: there was no going out or coming in...."
+description: >
+  Read Joshua 6 Online | (Now Jericho was all shut up because of the children of Israel: there was no going out or coming in....
 weight: 6
 ---
 

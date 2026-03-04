@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 3 BBE | Read the Bible Online"
 linkTitle: "3"
-description: "Read 2 Samuel 3 Online | Now there was a long war between Saul's people and David's people; and David became stronger and stronger, but those on Saul's side became more and more feeble..."
+description: >
+  Read 2 Samuel 3 Online | Now there was a long war between Saul's people and David's people; and David became stronger and stronger, but those on Saul's side became more and more feeble...
 weight: 3
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 93 BBE | Read the Bible Online"
 linkTitle: "93"
-description: "Read Psalm 93 Online | The Lord is King; he is clothed with glory; the Lord is clothed with strength; power is the cord of his robe; the world is fixed, so that it may not be moved..."
+description: >
+  Read Psalm 93 Online | The Lord is King; he is clothed with glory; the Lord is clothed with strength; power is the cord of his robe; the world is fixed, so that it may not be moved...
 weight: 93
 ---
 

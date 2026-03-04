@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 17 BBE | Read the Bible Online"
 linkTitle: "17"
-description: "Read Deuteronomy 17 Online | No ox or sheep which has a mark on it or is damaged in any way may be offered to the Lord your God: for that is disgusting to the Lord your God..."
+description: >
+  Read Deuteronomy 17 Online | No ox or sheep which has a mark on it or is damaged in any way may be offered to the Lord your God: for that is disgusting to the Lord your God...
 weight: 17
 ---
 

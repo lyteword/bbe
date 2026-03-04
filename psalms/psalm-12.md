@@ -1,7 +1,8 @@
 ---
 title: "Psalm 12 BBE | Read the Bible Online"
 linkTitle: "12"
-description: "Read Psalm 12 Online | Send help, Lord, for mercy has come to an end; there is no more faith among the children of men..."
+description: >
+  Read Psalm 12 Online | Send help, Lord, for mercy has come to an end; there is no more faith among the children of men...
 weight: 12
 ---
 

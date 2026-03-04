@@ -1,7 +1,8 @@
 ---
 title: "Exodus 11 BBE | Read the Bible Online"
 linkTitle: "11"
-description: "Read Exodus 11 Online | And the Lord said to Moses, I will send one more punishment on Pharaoh and on Egypt; after that he will let you go; and when he does let you go, he will not keep one of you back, but will send you out by force..."
+description: >
+  Read Exodus 11 Online | And the Lord said to Moses, I will send one more punishment on Pharaoh and on Egypt; after that he will let you go; and when he does let you go, he will not keep one of you back, but will send you out by force...
 weight: 11
 ---
 

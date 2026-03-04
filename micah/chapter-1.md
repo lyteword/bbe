@@ -1,7 +1,8 @@
 ---
 title: "Micah 1 BBE | Read the Bible Online"
 linkTitle: "1"
-description: "Read Micah 1 Online | The word of the Lord which came to Micah the Morashtite, in the days of Jotham, Ahaz, and Hezekiah, kings of Judah: his vision about Samaria and Jerusalem..."
+description: >
+  Read Micah 1 Online | The word of the Lord which came to Micah the Morashtite, in the days of Jotham, Ahaz, and Hezekiah, kings of Judah: his vision about Samaria and Jerusalem...
 weight: 1
 ---
 

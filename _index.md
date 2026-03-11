@@ -1,11 +1,20 @@
 ---
-title: Bible in Basic English
-linkTitle: BBE
+title: "Bible in Basic English (BBE) | Read the Bible Online"
+linkTitle: "BBE"
+description: >
+  A simplified English translation that uses a limited vocabulary to make the Bible easier for learners and readers with basic English.
 sidebar:
   exclude: true
 cascade:
   toc: true
+layout: single-section
 ---
+
+# Bible in Basic English
+
+The Bible in Basic English (BBE) is a translation of the Bible created to make the scriptures accessible to readers with limited knowledge of English. It was translated by Samuel Henry Hooke and published in 1949. The translation is based on the idea of using a restricted vocabulary&mdash;about 1,000 commonly understood words&mdash;to express the meaning of the original Hebrew and Greek texts. By limiting the vocabulary and simplifying sentence structures, it aims to present biblical teachings in a form that is approachable for a wide audience.
+
+A simplified English translation that uses a limited vocabulary to make the Bible easier for learners and readers with basic English. This guiding principle shaped the translation process, ensuring that difficult theological terms and complex phrasing were replaced with clearer, more common expressions whenever possible. Because of this approach, the BBE is often used by people who are learning English, as well as by readers who prefer straightforward language when studying the Bible.
 
 ## The Old Testament
 

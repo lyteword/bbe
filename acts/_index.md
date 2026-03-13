@@ -1,7 +1,13 @@
 ---
-title: Acts
+title: "Acts BBE | Read the Bible Online"
+linkTitle: "Acts"
 weight: 44
+description: >
+  Read Acts from the Bible in Basic English (BBE) Online
+layout: single-section
 ---
+
+# Acts
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

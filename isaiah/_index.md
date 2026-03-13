@@ -1,7 +1,13 @@
 ---
-title: Isaiah
+title: "Isaiah BBE | Read the Bible Online"
+linkTitle: "Isaiah"
 weight: 23
+description: >
+  Read Isaiah from the Bible in Basic English (BBE) Online
+layout: single-section
 ---
+
+# Isaiah
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

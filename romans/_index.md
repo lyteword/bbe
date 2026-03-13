@@ -1,7 +1,13 @@
 ---
-title: Romans
+title: "Romans BBE | Read the Bible Online"
+linkTitle: "Romans"
 weight: 45
+description: >
+  Read Romans from the Bible in Basic English (BBE) Online
+layout: single-section
 ---
+
+# Romans
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

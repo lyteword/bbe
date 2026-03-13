@@ -1,5 +1,5 @@
 ---
-title: "Bible in Basic English (BBE) | Read the Bible Online"
+title: "Bible in Basic English (BBE) | Read the Bible Online BBE | Read the Bible Online"
 linkTitle: "BBE"
 description: >
   A simplified English translation that uses a limited vocabulary to make the Bible easier for learners and readers with basic English.

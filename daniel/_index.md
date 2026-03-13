@@ -1,7 +1,13 @@
 ---
-title: Daniel
+title: "Daniel BBE | Read the Bible Online"
+linkTitle: "Daniel"
 weight: 27
+description: >
+  Read Daniel from the Bible in Basic English (BBE) Online
+layout: single-section
 ---
+
+# Daniel
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

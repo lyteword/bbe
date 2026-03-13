@@ -1,7 +1,13 @@
 ---
-title: Jeremiah
+title: "Jeremiah BBE | Read the Bible Online"
+linkTitle: "Jeremiah"
 weight: 24
+description: >
+  Read Jeremiah from the Bible in Basic English (BBE) Online
+layout: single-section
 ---
+
+# Jeremiah
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

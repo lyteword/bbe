@@ -1,7 +1,13 @@
 ---
-title: Malachi
+title: "Malachi BBE | Read the Bible Online"
+linkTitle: "Malachi"
 weight: 39
+description: >
+  Read Malachi from the Bible in Basic English (BBE) Online
+layout: single-section
 ---
+
+# Malachi
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

@@ -1,7 +1,13 @@
 ---
-title: Nahum
+title: "Nahum BBE | Read the Bible Online"
+linkTitle: "Nahum"
 weight: 34
+description: >
+  Read Nahum from the Bible in Basic English (BBE) Online
+layout: single-section
 ---
+
+# Nahum
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

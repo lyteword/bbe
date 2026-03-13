@@ -1,7 +1,13 @@
 ---
-title: Zechariah
+title: "Zechariah BBE | Read the Bible Online"
+linkTitle: "Zechariah"
 weight: 38
+description: >
+  Read Zechariah from the Bible in Basic English (BBE) Online
+layout: single-section
 ---
+
+# Zechariah
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

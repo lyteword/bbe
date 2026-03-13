@@ -1,7 +1,13 @@
 ---
-title: Lamentations
+title: "Lamentations BBE | Read the Bible Online"
+linkTitle: "Lamentations"
 weight: 25
+description: >
+  Read Lamentations from the Bible in Basic English (BBE) Online
+layout: single-section
 ---
+
+# Lamentations
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

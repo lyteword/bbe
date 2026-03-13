@@ -1,7 +1,13 @@
 ---
-title: Mark
+title: "Mark BBE | Read the Bible Online"
+linkTitle: "Mark"
 weight: 41
+description: >
+  Read Mark from the Bible in Basic English (BBE) Online
+layout: single-section
 ---
+
+# Mark
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}
